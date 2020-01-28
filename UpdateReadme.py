@@ -5,9 +5,12 @@ import json
 allFiles = glob.glob('*.py')
 
 allFiles.remove('UpdateReadme.py')
+allFiles.remove('UpdateTagList.py')
+allFiles.remove('UpdateProblemTags.py')
 
 problemsDict = {}
 for entry in allFiles:
+	# print(entry)
 	entry = entry[:-3]
 	entrySplit = entry.split('--')
 	problemsDict[int(entrySplit[0])] = entrySplit[1]

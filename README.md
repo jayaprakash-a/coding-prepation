@@ -14,6 +14,9 @@
 | 66              | Plus One      | ----   | Finished   |
 | 67              | Add Binary      | ----   | Finished   |
 | 70              | Climbing Stairs      | ----   | Finished   |
+| 94              | Binary Tree Inorder Traversal      | ----   | Finished   |
+| 100              | Same Tree      | ----   | Finished   |
+| 101              | Symmetric Tree      | ----   | Finished   |
 | 104              | Maximum Depth of Binary Tree      | ----   | Finished   |
 | 121              | Best Time to Buy and Sell Stock      | ----   | Finished   |
 | 122              | Best Time to Buy and Sell Stock II      | ----   | Finished   |
@@ -21,11 +24,13 @@
 | 136              | Single Number      | ----   | Finished   |
 | 151              | Reverse Words in a String      | ----   | Finished   |
 | 167              | Two Sum II Input array is sorted      | ----   | Finished   |
+| 169              | Majority Element      | ----   | Finished   |
 | 171              | Excel Sheet Column Number      | ----   | Finished   |
 | 172              | Factorial Trailing Zeroes      | ----   | Finished   |
 | 190              | Reverse Bits      | ----   | Finished   |
 | 191              | Number of 1 Bits      | ----   | Finished   |
 | 231              | Power of Two      | ----   | Finished   |
+| 242              | Valid Anagram      | ----   | Finished   |
 | 258              | Add Digits      | ----   | Finished   |
 | 268              | Missing Number      | ----   | Finished   |
 | 283              | Move Zeroes      | ----   | Finished   |
@@ -34,6 +39,11 @@
 | 344              | Reverse String      | ----   | Finished   |
 | 345              | Reverse Vowels of a String      | ----   | Finished   |
 | 349              | Intersection of Two Arrays      | ----   | Finished   |
+| 350              | Intersection of Two Arrays II      | ----   | Finished   |
+| 852              | Peak Index in a Mountain Array      | ----   | Finished   |
+| 922              | Sort Array By Parity II      | ----   | Finished   |
+| 976              | Largest Perimeter Triangle      | ----   | Finished   |
+| 1030              | Matrix Cells in Distance Order      | ----   | Finished   |
 | 1309              | Decrypt String from Alphabet to Integer Mapping      | ----   | Finished   |
 | 1310              | XOR Queries of a Subarray      | ----   | Finished   |
 | 1312              | Minimum Insertion Steps to Make a String Palindrome      | ----   | Finished   |

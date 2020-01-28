@@ -1,0 +1,351 @@
+Problem number,Problem Name,Tag
+1,Two Sum,arrays
+7,Reverse Integer,arrays
+9,Palindrome Number,arrays
+14,Longest Common Prefix,arrays
+20,Valid Parentheses,arrays
+26,Remove Duplicates from Sorted Array,arrays
+27,Remove Element,arrays
+50,Pow(x; n),arrays
+53,Maximum Subarray,arrays
+66,Plus One,arrays
+67,Add Binary,arrays
+70,Climbing Stairs,arrays
+94,Binary Tree Inorder Traversal,arrays
+100,Same Tree,arrays
+101,Symmetric Tree,arrays
+104,Maximum Depth of Binary Tree,arrays
+121,Best Time to Buy and Sell Stock,arrays
+122,Best Time to Buy and Sell Stock II,arrays
+125,Valid Palindrome,arrays
+136,Single Number,arrays
+151,Reverse Words in a String,arrays
+167,Two Sum II Input array is sorted,arrays
+169,Majority Element,arrays
+171,Excel Sheet Column Number,arrays
+172,Factorial Trailing Zeroes,arrays
+190,Reverse Bits,arrays
+191,Number of 1 Bits,arrays
+231,Power of Two,arrays
+242,Valid Anagram,arrays
+258,Add Digits,arrays
+268,Missing Number,arrays
+283,Move Zeroes,arrays
+290,Word Pattern,arrays
+303,Range Sum Query Immutable,arrays
+344,Reverse String,arrays
+345,Reverse Vowels of a String,arrays
+349,Intersection of Two Arrays,arrays
+350,Intersection of Two Arrays II,arrays
+852,Peak Index in a Mountain Array,arrays
+922,Sort Array By Parity II,arrays
+976,Largest Perimeter Triangle,arrays
+1030,Matrix Cells in Distance Order,arrays
+1309,Decrypt String from Alphabet to Integer Mapping,arrays
+1310,XOR Queries of a Subarray,arrays
+1312,Minimum Insertion Steps to Make a String Palindrome,arrays
+1317,Convert Integer to the Sum of Two No Zero Integers,arrays
+1318,Minimum Flips to Make a OR b Equal to c,arrays
+1323,Maximum 69 Number,arrays
+1324,Print Words Vertically,arrays
+1325,Delete Leaves With a Given Value,arrays
+1,Two Sum,maths
+7,Reverse Integer,maths
+9,Palindrome Number,maths
+14,Longest Common Prefix,maths
+20,Valid Parentheses,maths
+26,Remove Duplicates from Sorted Array,maths
+27,Remove Element,maths
+50,Pow(x; n),maths
+53,Maximum Subarray,maths
+66,Plus One,maths
+67,Add Binary,maths
+70,Climbing Stairs,maths
+94,Binary Tree Inorder Traversal,maths
+100,Same Tree,maths
+101,Symmetric Tree,maths
+104,Maximum Depth of Binary Tree,maths
+121,Best Time to Buy and Sell Stock,maths
+122,Best Time to Buy and Sell Stock II,maths
+125,Valid Palindrome,maths
+136,Single Number,maths
+151,Reverse Words in a String,maths
+167,Two Sum II Input array is sorted,maths
+169,Majority Element,maths
+171,Excel Sheet Column Number,maths
+172,Factorial Trailing Zeroes,maths
+190,Reverse Bits,maths
+191,Number of 1 Bits,maths
+231,Power of Two,maths
+242,Valid Anagram,maths
+258,Add Digits,maths
+268,Missing Number,maths
+283,Move Zeroes,maths
+290,Word Pattern,maths
+303,Range Sum Query Immutable,maths
+344,Reverse String,maths
+345,Reverse Vowels of a String,maths
+349,Intersection of Two Arrays,maths
+350,Intersection of Two Arrays II,maths
+852,Peak Index in a Mountain Array,maths
+922,Sort Array By Parity II,maths
+976,Largest Perimeter Triangle,maths
+1030,Matrix Cells in Distance Order,maths
+1309,Decrypt String from Alphabet to Integer Mapping,maths
+1310,XOR Queries of a Subarray,maths
+1312,Minimum Insertion Steps to Make a String Palindrome,maths
+1317,Convert Integer to the Sum of Two No Zero Integers,maths
+1318,Minimum Flips to Make a OR b Equal to c,maths
+1323,Maximum 69 Number,maths
+1324,Print Words Vertically,maths
+1325,Delete Leaves With a Given Value,maths
+1,Two Sum,two-pointers
+7,Reverse Integer,two-pointers
+9,Palindrome Number,two-pointers
+14,Longest Common Prefix,two-pointers
+20,Valid Parentheses,two-pointers
+26,Remove Duplicates from Sorted Array,two-pointers
+27,Remove Element,two-pointers
+50,Pow(x; n),two-pointers
+53,Maximum Subarray,two-pointers
+66,Plus One,two-pointers
+67,Add Binary,two-pointers
+70,Climbing Stairs,two-pointers
+94,Binary Tree Inorder Traversal,two-pointers
+100,Same Tree,two-pointers
+101,Symmetric Tree,two-pointers
+104,Maximum Depth of Binary Tree,two-pointers
+121,Best Time to Buy and Sell Stock,two-pointers
+122,Best Time to Buy and Sell Stock II,two-pointers
+125,Valid Palindrome,two-pointers
+136,Single Number,two-pointers
+151,Reverse Words in a String,two-pointers
+167,Two Sum II Input array is sorted,two-pointers
+169,Majority Element,two-pointers
+171,Excel Sheet Column Number,two-pointers
+172,Factorial Trailing Zeroes,two-pointers
+190,Reverse Bits,two-pointers
+191,Number of 1 Bits,two-pointers
+231,Power of Two,two-pointers
+242,Valid Anagram,two-pointers
+258,Add Digits,two-pointers
+268,Missing Number,two-pointers
+283,Move Zeroes,two-pointers
+290,Word Pattern,two-pointers
+303,Range Sum Query Immutable,two-pointers
+344,Reverse String,two-pointers
+345,Reverse Vowels of a String,two-pointers
+349,Intersection of Two Arrays,two-pointers
+350,Intersection of Two Arrays II,two-pointers
+852,Peak Index in a Mountain Array,two-pointers
+922,Sort Array By Parity II,two-pointers
+976,Largest Perimeter Triangle,two-pointers
+1030,Matrix Cells in Distance Order,two-pointers
+1309,Decrypt String from Alphabet to Integer Mapping,two-pointers
+1310,XOR Queries of a Subarray,two-pointers
+1312,Minimum Insertion Steps to Make a String Palindrome,two-pointers
+1317,Convert Integer to the Sum of Two No Zero Integers,two-pointers
+1318,Minimum Flips to Make a OR b Equal to c,two-pointers
+1323,Maximum 69 Number,two-pointers
+1324,Print Words Vertically,two-pointers
+1325,Delete Leaves With a Given Value,two-pointers
+1,Two Sum,strings
+7,Reverse Integer,strings
+9,Palindrome Number,strings
+14,Longest Common Prefix,strings
+20,Valid Parentheses,strings
+26,Remove Duplicates from Sorted Array,strings
+27,Remove Element,strings
+50,Pow(x; n),strings
+53,Maximum Subarray,strings
+66,Plus One,strings
+67,Add Binary,strings
+70,Climbing Stairs,strings
+94,Binary Tree Inorder Traversal,strings
+100,Same Tree,strings
+101,Symmetric Tree,strings
+104,Maximum Depth of Binary Tree,strings
+121,Best Time to Buy and Sell Stock,strings
+122,Best Time to Buy and Sell Stock II,strings
+125,Valid Palindrome,strings
+136,Single Number,strings
+151,Reverse Words in a String,strings
+167,Two Sum II Input array is sorted,strings
+169,Majority Element,strings
+171,Excel Sheet Column Number,strings
+172,Factorial Trailing Zeroes,strings
+190,Reverse Bits,strings
+191,Number of 1 Bits,strings
+231,Power of Two,strings
+242,Valid Anagram,strings
+258,Add Digits,strings
+268,Missing Number,strings
+283,Move Zeroes,strings
+290,Word Pattern,strings
+303,Range Sum Query Immutable,strings
+344,Reverse String,strings
+345,Reverse Vowels of a String,strings
+349,Intersection of Two Arrays,strings
+350,Intersection of Two Arrays II,strings
+852,Peak Index in a Mountain Array,strings
+922,Sort Array By Parity II,strings
+976,Largest Perimeter Triangle,strings
+1030,Matrix Cells in Distance Order,strings
+1309,Decrypt String from Alphabet to Integer Mapping,strings
+1310,XOR Queries of a Subarray,strings
+1312,Minimum Insertion Steps to Make a String Palindrome,strings
+1317,Convert Integer to the Sum of Two No Zero Integers,strings
+1318,Minimum Flips to Make a OR b Equal to c,strings
+1323,Maximum 69 Number,strings
+1324,Print Words Vertically,strings
+1325,Delete Leaves With a Given Value,strings
+1,Two Sum,hash-table
+7,Reverse Integer,hash-table
+9,Palindrome Number,hash-table
+14,Longest Common Prefix,hash-table
+20,Valid Parentheses,hash-table
+26,Remove Duplicates from Sorted Array,hash-table
+27,Remove Element,hash-table
+50,Pow(x; n),hash-table
+53,Maximum Subarray,hash-table
+66,Plus One,hash-table
+67,Add Binary,hash-table
+70,Climbing Stairs,hash-table
+94,Binary Tree Inorder Traversal,hash-table
+100,Same Tree,hash-table
+101,Symmetric Tree,hash-table
+104,Maximum Depth of Binary Tree,hash-table
+121,Best Time to Buy and Sell Stock,hash-table
+122,Best Time to Buy and Sell Stock II,hash-table
+125,Valid Palindrome,hash-table
+136,Single Number,hash-table
+151,Reverse Words in a String,hash-table
+167,Two Sum II Input array is sorted,hash-table
+169,Majority Element,hash-table
+171,Excel Sheet Column Number,hash-table
+172,Factorial Trailing Zeroes,hash-table
+190,Reverse Bits,hash-table
+191,Number of 1 Bits,hash-table
+231,Power of Two,hash-table
+242,Valid Anagram,hash-table
+258,Add Digits,hash-table
+268,Missing Number,hash-table
+283,Move Zeroes,hash-table
+290,Word Pattern,hash-table
+303,Range Sum Query Immutable,hash-table
+344,Reverse String,hash-table
+345,Reverse Vowels of a String,hash-table
+349,Intersection of Two Arrays,hash-table
+350,Intersection of Two Arrays II,hash-table
+852,Peak Index in a Mountain Array,hash-table
+922,Sort Array By Parity II,hash-table
+976,Largest Perimeter Triangle,hash-table
+1030,Matrix Cells in Distance Order,hash-table
+1309,Decrypt String from Alphabet to Integer Mapping,hash-table
+1310,XOR Queries of a Subarray,hash-table
+1312,Minimum Insertion Steps to Make a String Palindrome,hash-table
+1317,Convert Integer to the Sum of Two No Zero Integers,hash-table
+1318,Minimum Flips to Make a OR b Equal to c,hash-table
+1323,Maximum 69 Number,hash-table
+1324,Print Words Vertically,hash-table
+1325,Delete Leaves With a Given Value,hash-table
+1,Two Sum,linked-list
+7,Reverse Integer,linked-list
+9,Palindrome Number,linked-list
+14,Longest Common Prefix,linked-list
+20,Valid Parentheses,linked-list
+26,Remove Duplicates from Sorted Array,linked-list
+27,Remove Element,linked-list
+50,Pow(x; n),linked-list
+53,Maximum Subarray,linked-list
+66,Plus One,linked-list
+67,Add Binary,linked-list
+70,Climbing Stairs,linked-list
+94,Binary Tree Inorder Traversal,linked-list
+100,Same Tree,linked-list
+101,Symmetric Tree,linked-list
+104,Maximum Depth of Binary Tree,linked-list
+121,Best Time to Buy and Sell Stock,linked-list
+122,Best Time to Buy and Sell Stock II,linked-list
+125,Valid Palindrome,linked-list
+136,Single Number,linked-list
+151,Reverse Words in a String,linked-list
+167,Two Sum II Input array is sorted,linked-list
+169,Majority Element,linked-list
+171,Excel Sheet Column Number,linked-list
+172,Factorial Trailing Zeroes,linked-list
+190,Reverse Bits,linked-list
+191,Number of 1 Bits,linked-list
+231,Power of Two,linked-list
+242,Valid Anagram,linked-list
+258,Add Digits,linked-list
+268,Missing Number,linked-list
+283,Move Zeroes,linked-list
+290,Word Pattern,linked-list
+303,Range Sum Query Immutable,linked-list
+344,Reverse String,linked-list
+345,Reverse Vowels of a String,linked-list
+349,Intersection of Two Arrays,linked-list
+350,Intersection of Two Arrays II,linked-list
+852,Peak Index in a Mountain Array,linked-list
+922,Sort Array By Parity II,linked-list
+976,Largest Perimeter Triangle,linked-list
+1030,Matrix Cells in Distance Order,linked-list
+1309,Decrypt String from Alphabet to Integer Mapping,linked-list
+1310,XOR Queries of a Subarray,linked-list
+1312,Minimum Insertion Steps to Make a String Palindrome,linked-list
+1317,Convert Integer to the Sum of Two No Zero Integers,linked-list
+1318,Minimum Flips to Make a OR b Equal to c,linked-list
+1323,Maximum 69 Number,linked-list
+1324,Print Words Vertically,linked-list
+1325,Delete Leaves With a Given Value,linked-list
+1,Two Sum,sort
+7,Reverse Integer,sort
+9,Palindrome Number,sort
+14,Longest Common Prefix,sort
+20,Valid Parentheses,sort
+26,Remove Duplicates from Sorted Array,sort
+27,Remove Element,sort
+50,Pow(x; n),sort
+53,Maximum Subarray,sort
+66,Plus One,sort
+67,Add Binary,sort
+70,Climbing Stairs,sort
+94,Binary Tree Inorder Traversal,sort
+100,Same Tree,sort
+101,Symmetric Tree,sort
+104,Maximum Depth of Binary Tree,sort
+121,Best Time to Buy and Sell Stock,sort
+122,Best Time to Buy and Sell Stock II,sort
+125,Valid Palindrome,sort
+136,Single Number,sort
+151,Reverse Words in a String,sort
+167,Two Sum II Input array is sorted,sort
+169,Majority Element,sort
+171,Excel Sheet Column Number,sort
+172,Factorial Trailing Zeroes,sort
+190,Reverse Bits,sort
+191,Number of 1 Bits,sort
+231,Power of Two,sort
+242,Valid Anagram,sort
+258,Add Digits,sort
+268,Missing Number,sort
+283,Move Zeroes,sort
+290,Word Pattern,sort
+303,Range Sum Query Immutable,sort
+344,Reverse String,sort
+345,Reverse Vowels of a String,sort
+349,Intersection of Two Arrays,sort
+350,Intersection of Two Arrays II,sort
+852,Peak Index in a Mountain Array,sort
+922,Sort Array By Parity II,sort
+976,Largest Perimeter Triangle,sort
+1030,Matrix Cells in Distance Order,sort
+1309,Decrypt String from Alphabet to Integer Mapping,sort
+1310,XOR Queries of a Subarray,sort
+1312,Minimum Insertion Steps to Make a String Palindrome,sort
+1317,Convert Integer to the Sum of Two No Zero Integers,sort
+1318,Minimum Flips to Make a OR b Equal to c,sort
+1323,Maximum 69 Number,sort
+1324,Print Words Vertically,sort
+1325,Delete Leaves With a Given Value,sort
