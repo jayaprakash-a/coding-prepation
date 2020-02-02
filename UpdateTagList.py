@@ -2,7 +2,7 @@ import glob
 import os
 import json
 
-allTagFiles = glob.glob('*.txt')
+allTagFiles = glob.glob('ProblemTags/*.txt')
 tagDict = {}
 for entry in allTagFiles:
 	tempFile = open(entry, 'r')
@@ -11,8 +11,8 @@ for entry in allTagFiles:
 	for line in contents:
 		line = line.rstrip()
 		problems.append(int(line))
-
-	tagDict[entry.split('.')[0]] = problems
+	tagName = entry.split('.')[0]
+	tagDict[tagName.split('/')[1]] = problems
 	tempFile.close()
 
 allFiles = glob.glob('*.py')
@@ -29,7 +29,7 @@ for entry in allFiles:
 
 tagFile = open('TaggedList.csv', 'w')
 
-fileHeaders = "Problem number,Problem Name,Tag"
+fileHeaders = "Problem number,Problem Name,Tags"
 print(fileHeaders, file=tagFile)
 
 # for key in sorted(problemsDict.keys()):
@@ -37,12 +37,16 @@ print(fileHeaders, file=tagFile)
 # 	questionName = ' '.join(question)
 # 	print("| %d              | %s      | %s   | %s   |" % (key, questionName, '----', 'Finished'), file=tagFile)
 # print("%s is %d years old." % (name, age))
-
-for tag in tagDict.keys():
-	for key in sorted(problemsDict.keys()):
-		question = problemsDict[key].split('-')
-		questionName = ' '.join(question)
-		print("%d,%s,%s" % (key, questionName.replace(',', ';'), tag), file=tagFile)
+for key in sorted(problemsDict.keys()):
+	question = problemsDict[key].split('-')
+	questionName = ' '.join(question)
+	print("%d,%s" % (key, questionName.replace(',', ';')), file=tagFile, end='')
+	for tag in tagDict.keys():
+		
+		if key in tagDict[tag]:
+			print(",%s" % (tag), file=tagFile, end='')
+	print(file=tagFile)
+			
 
 
 tagFile.close()
