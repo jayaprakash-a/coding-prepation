@@ -45,17 +45,40 @@ Problem number,Problem Name,Tags
 345,Reverse Vowels of a String,two-pointers,strings
 349,Intersection of Two Arrays,two-pointers,hash-table,sort
 350,Intersection of Two Arrays II,two-pointers,hash-table,sort
+701,Insert into a Binary Search Tree,trees
+709,To Lower Case,strings
+763,Partition Labels,two-pointers
+771,Jewels and Stones,hash-table
+804,Unique Morse Code Words,strings
+807,Max Increase to Keep City Skyline
 852,Peak Index in a Mountain Array
+905,Sort Array By Parity,arrays
 922,Sort Array By Parity II,arrays,sort
 976,Largest Perimeter Triangle,maths,sort
+997,Find the Town Judge
+1021,Remove Outermost Parentheses
 1030,Matrix Cells in Distance Order,sort
+1038,Binary Search Tree to Greater Sum Tree
 1046,Last Stone Weight
+1123,Lowest Common Ancestor of Deepest Leaves,trees
 1137,N th Tribonacci Number
+1221,Split a String in Balanced Strings,strings
+1247,Minimum Swaps to Make Strings Equal,strings
+1252,Cells with Odd Values in a Matrix,arrays
+1261,Find Elements in a Contaminated Binary Tree,hash-table,trees
+1266,Minimum Time Visiting All Points,arrays
+1267,Count Servers that Communicate,arrays
+1281,Subtract the Product and Sum of Digits of an Integer,maths
 1282,Group the People Given the Group Size They Belong To
+1290,Convert Binary Number in a Linked List to Integer,bit-manipulation,linked-list
+1295,Find Numbers with Even Number of Digits,arrays
+1299,Replace Elements with Greatest Element on Right Side,arrays
 1302,Deepest Leaves Sum,trees
+1304,Find N Unique Integers Sum up to Zero,arrays
 1309,Decrypt String from Alphabet to Integer Mapping,strings
 1310,XOR Queries of a Subarray,bit-manipulation
 1312,Minimum Insertion Steps to Make a String Palindrome,dynamic-programming
+1313,Decompress Run Length Encoded List,arrays
 1315,Sum of Nodes with Even Valued Grandparent,trees
 1317,Convert Integer to the Sum of Two No Zero Integers,maths
 1318,Minimum Flips to Make a OR b Equal to c,bit-manipulation

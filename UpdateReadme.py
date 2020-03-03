@@ -24,7 +24,7 @@ print(fileHeaders, file=readmeFile)
 for key in sorted(problemsDict.keys()):
 	question = problemsDict[key].split('-')
 	questionName = ' '.join(question)
-	print("| %d              | %s      | %s   | %s   |" % (key, questionName, '----', 'Finished'), file=readmeFile)
+	print("| %d              | %s      | %s   | %s   |" % (key, questionName, 'Finished', '----'), file=readmeFile)
 # print("%s is %d years old." % (name, age))
 
 readmeFile.close()
