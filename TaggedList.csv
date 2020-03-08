@@ -1,95 +1,137 @@
-Problem number,Problem Name,Tags
-1,Two Sum,arrays,hash-table
-2,Add Two Numbers,maths,linked-list
-7,Reverse Integer,maths
-9,Palindrome Number,maths
-14,Longest Common Prefix,strings
-19,Remove Nth Node From End of List,two-pointers,linked-list
-20,Valid Parentheses,strings
-21,Merge Two Sorted Lists,linked-list
-26,Remove Duplicates from Sorted Array,arrays,two-pointers
-27,Remove Element,arrays,two-pointers
-50,Pow(x; n),maths
-53,Maximum Subarray,arrays,dynamic-programming
-66,Plus One,arrays
-67,Add Binary,maths,strings
-70,Climbing Stairs,dynamic-programming
-83,Remove Duplicates from Sorted List,linked-list
-94,Binary Tree Inorder Traversal,hash-table,trees
-100,Same Tree,trees
-101,Symmetric Tree,trees
-104,Maximum Depth of Binary Tree,trees
-121,Best Time to Buy and Sell Stock,arrays,dynamic-programming
-122,Best Time to Buy and Sell Stock II,arrays
-125,Valid Palindrome,two-pointers,strings
-136,Single Number,bit-manipulation,hash-table
-141,Linked List Cycle,two-pointers,linked-list
-151,Reverse Words in a String,strings
-167,Two Sum II Input array is sorted,arrays,two-pointers
-169,Majority Element,bit-manipulation,arrays
-171,Excel Sheet Column Number,maths
-172,Factorial Trailing Zeroes,maths
-190,Reverse Bits,bit-manipulation
-191,Number of 1 Bits,bit-manipulation
-198,House Robber,dynamic-programming
-202,Happy Number,maths,hash-table
-231,Power of Two,bit-manipulation,maths
-242,Valid Anagram,hash-table,sort
-258,Add Digits,maths
-263,Ugly Number,maths
-268,Missing Number,bit-manipulation,arrays,maths
-283,Move Zeroes,arrays,two-pointers
-290,Word Pattern,hash-table
-303,Range Sum Query Immutable,dynamic-programming
-344,Reverse String,two-pointers,strings
-345,Reverse Vowels of a String,two-pointers,strings
-349,Intersection of Two Arrays,two-pointers,hash-table,sort
-350,Intersection of Two Arrays II,two-pointers,hash-table,sort
-701,Insert into a Binary Search Tree,trees
-709,To Lower Case,strings
-763,Partition Labels,two-pointers
-771,Jewels and Stones,hash-table
-804,Unique Morse Code Words,strings
-807,Max Increase to Keep City Skyline
-852,Peak Index in a Mountain Array
-905,Sort Array By Parity,arrays
-922,Sort Array By Parity II,arrays,sort
-976,Largest Perimeter Triangle,maths,sort
-997,Find the Town Judge
-1021,Remove Outermost Parentheses
-1030,Matrix Cells in Distance Order,sort
-1038,Binary Search Tree to Greater Sum Tree
-1046,Last Stone Weight
-1123,Lowest Common Ancestor of Deepest Leaves,trees
-1137,N th Tribonacci Number
-1221,Split a String in Balanced Strings,strings
-1247,Minimum Swaps to Make Strings Equal,strings
-1252,Cells with Odd Values in a Matrix,arrays
-1261,Find Elements in a Contaminated Binary Tree,hash-table,trees
-1266,Minimum Time Visiting All Points,arrays
-1267,Count Servers that Communicate,arrays
-1281,Subtract the Product and Sum of Digits of an Integer,maths
-1282,Group the People Given the Group Size They Belong To
-1290,Convert Binary Number in a Linked List to Integer,bit-manipulation,linked-list
-1295,Find Numbers with Even Number of Digits,arrays
-1299,Replace Elements with Greatest Element on Right Side,arrays
-1302,Deepest Leaves Sum,trees
-1304,Find N Unique Integers Sum up to Zero,arrays
-1309,Decrypt String from Alphabet to Integer Mapping,strings
-1310,XOR Queries of a Subarray,bit-manipulation
-1312,Minimum Insertion Steps to Make a String Palindrome,dynamic-programming
-1313,Decompress Run Length Encoded List,arrays
-1315,Sum of Nodes with Even Valued Grandparent,trees
-1317,Convert Integer to the Sum of Two No Zero Integers,maths
-1318,Minimum Flips to Make a OR b Equal to c,bit-manipulation
-1323,Maximum 69 Number,maths
-1324,Print Words Vertically,strings
-1325,Delete Leaves With a Given Value,trees
-1328,Break a Palindrome,strings
-1329,Sort the Matrix Diagonally,arrays,sort
-1331,Rank Transform of an Array,arrays
-1337,Remove Palindromic Subsequences
-1338,Filter Restaurants by Vegan Friendly; Price and Distance
-1341,The K Weakest Rows in a Matrix
-1342,Reduce Array Size to The Half
-1343,Maximum Product of Splitted Binary Tree,trees,dynamic-programming
+Problem number,Problem Name,Difficulty,Tags
+1,Two Sum,Easy,arrays,hash-table
+2,Add Two Numbers,Easy,maths,linked-list
+7,Reverse Integer,Easy,maths
+9,Palindrome Number,Easy,maths
+14,Longest Common Prefix,Easy,strings
+19,Remove Nth Node From End of List,Easy,two-pointers,linked-list
+20,Valid Parentheses,Easy,strings
+21,Merge Two Sorted Lists,Easy,linked-list
+26,Remove Duplicates from Sorted Array,Easy,arrays,two-pointers
+27,Remove Element,Easy,arrays,two-pointers
+33,Search in Rotated Sorted Array,Easy,arrays
+50,Pow(x; n),Easy,maths
+53,Maximum Subarray,Easy,arrays,dynamic-programming
+66,Plus One,Easy,arrays
+67,Add Binary,Easy,maths,strings
+70,Climbing Stairs,Easy,dynamic-programming
+83,Remove Duplicates from Sorted List,Easy,linked-list
+94,Binary Tree Inorder Traversal,Easy,hash-table,trees
+100,Same Tree,Easy,trees
+101,Symmetric Tree,Easy,trees
+104,Maximum Depth of Binary Tree,Easy,trees
+121,Best Time to Buy and Sell Stock,Easy,arrays,dynamic-programming
+122,Best Time to Buy and Sell Stock II,Easy,arrays
+125,Valid Palindrome,Easy,two-pointers,strings
+136,Single Number,Easy,bit-manipulation,hash-table
+141,Linked List Cycle,Easy,two-pointers,linked-list
+151,Reverse Words in a String,Easy,strings
+167,Two Sum II Input array is sorted,Easy,arrays,two-pointers
+169,Majority Element,Easy,bit-manipulation,arrays
+171,Excel Sheet Column Number,Easy,maths
+172,Factorial Trailing Zeroes,Easy,maths
+190,Reverse Bits,Easy,bit-manipulation
+191,Number of 1 Bits,Easy,bit-manipulation
+198,House Robber,Easy,dynamic-programming
+202,Happy Number,Easy,maths,hash-table
+231,Power of Two,Easy,bit-manipulation,maths
+242,Valid Anagram,Easy,hash-table,sort
+258,Add Digits,Easy,maths
+263,Ugly Number,Easy,maths
+268,Missing Number,Easy,bit-manipulation,arrays,maths
+283,Move Zeroes,Easy,arrays,two-pointers
+290,Word Pattern,Easy,hash-table
+303,Range Sum Query Immutable,Easy,dynamic-programming
+344,Reverse String,Easy,two-pointers,strings
+345,Reverse Vowels of a String,Easy,two-pointers,strings
+349,Intersection of Two Arrays,Easy,two-pointers,hash-table,sort
+350,Intersection of Two Arrays II,Easy,two-pointers,hash-table,sort
+461,Hamming Distance,Easy,bit-manipulation
+500,Keyboard Row,Easy,hash-table
+509,Fibonacci Number,Easy,arrays
+537,Complex Number Multiplication,Easy,maths,strings
+657,Robot Return to Origin,Easy,strings
+701,Insert into a Binary Search Tree,Easy,trees
+709,To Lower Case,Easy,strings
+728,Self Dividing Numbers,Easy,maths
+763,Partition Labels,Easy,two-pointers
+771,Jewels and Stones,Easy,hash-table
+804,Unique Morse Code Words,Easy,strings
+807,Max Increase to Keep City Skyline,Easy
+814,Binary Tree Pruning,Easy,trees
+832,Flipping an Image,Easy,arrays
+852,Peak Index in a Mountain Array,Easy
+890,Find and Replace Pattern,Easy,strings
+893,Groups of Special Equivalent Strings,Easy,strings
+905,Sort Array By Parity,Easy,arrays
+921,Minimum Add to Make Parentheses Valid,Easy
+922,Sort Array By Parity II,Easy,arrays,sort
+938,Range Sum of BST,Easy,trees
+942,DI String Match,Easy,maths
+950,Reveal Cards In Increasing Order,Easy,arrays
+961,N Repeated Element in Size 2N Array,Easy,hash-table
+976,Largest Perimeter Triangle,Easy,maths,sort
+977,Squares of a Sorted Array,Easy,arrays,two-pointers
+997,Find the Town Judge,Easy
+1016,Binary String With Substrings Representing 1 To N,Easy,strings
+1021,Remove Outermost Parentheses,Easy
+1030,Matrix Cells in Distance Order,Easy,sort
+1038,Binary Search Tree to Greater Sum Tree,Easy
+1046,Last Stone Weight,Easy
+1051,Height Checker,Easy,arrays
+1078,Occurrences After Bigram,Easy,hash-table
+1104,Path In Zigzag Labelled Binary Tree,Easy,maths,trees
+1122,Relative Sort Array,Easy,arrays,sort
+1123,Lowest Common Ancestor of Deepest Leaves,Easy,trees
+1137,N th Tribonacci Number,Easy
+1207,Unique Number of Occurrences,Easy,hash-table
+1221,Split a String in Balanced Strings,Easy,strings
+1247,Minimum Swaps to Make Strings Equal,Easy,strings
+1252,Cells with Odd Values in a Matrix,Easy,arrays
+1261,Find Elements in a Contaminated Binary Tree,Easy,hash-table,trees
+1266,Minimum Time Visiting All Points,Easy,arrays
+1267,Count Servers that Communicate,Easy,arrays
+1281,Subtract the Product and Sum of Digits of an Integer,Easy,maths
+1282,Group the People Given the Group Size They Belong To,Easy
+1290,Convert Binary Number in a Linked List to Integer,Easy,bit-manipulation,linked-list
+1295,Find Numbers with Even Number of Digits,Easy,arrays
+1299,Replace Elements with Greatest Element on Right Side,Easy,arrays
+1302,Deepest Leaves Sum,Easy,trees
+1304,Find N Unique Integers Sum up to Zero,Easy,arrays
+1309,Decrypt String from Alphabet to Integer Mapping,Easy,strings
+1310,XOR Queries of a Subarray,Easy,bit-manipulation
+1312,Minimum Insertion Steps to Make a String Palindrome,Easy,dynamic-programming
+1313,Decompress Run Length Encoded List,Easy,arrays
+1315,Sum of Nodes with Even Valued Grandparent,Easy,trees
+1317,Convert Integer to the Sum of Two No Zero Integers,Easy,maths
+1318,Minimum Flips to Make a OR b Equal to c,Easy,bit-manipulation
+1323,Maximum 69 Number,Easy,maths
+1324,Print Words Vertically,Easy,strings
+1325,Delete Leaves With a Given Value,Easy,trees
+1328,Break a Palindrome,Easy,strings
+1329,Sort the Matrix Diagonally,Easy,arrays,sort
+1331,Rank Transform of an Array,Easy,arrays
+1332,Remove Palindromic Subsequences,Easy,strings
+1333,Filter Restaurants by Vegan Friendly; Price and Distance,Easy,arrays,sort
+1337,The K Weakest Rows in a Matrix,Easy
+1338,Reduce Array Size to The Half,Easy
+1339,Maximum Product of Splitted Binary Tree,Easy
+1342,Number of Steps to Reduce a Number to Zero,Easy
+1343,Number of Sub arrays of Size K and Average Greater than or Equal to Threshold,Easy,trees,dynamic-programming
+1344,Angle Between Hands of a Clock,Easy,dynamic-programming
+1346,Check If N and Its Double Exist,Easy
+1347,Minimum Number of Steps to Make Two Strings Anagram,Easy
+1351,Count Negative Numbers in a Sorted Matrix,Easy
+1352,Product of the Last K Numbers,Easy
+1353,Maximum Number of Events That Can Be Attended,Easy
+1356,Sort Integers by The Number of 1 Bits,Easy
+1357,Apply Discount Every n Orders,Easy
+1358,Number of Substrings Containing All Three Characters,Easy
+1361,Validate Binary Tree Nodes,Easy
+1362,Closest Divisors,Easy
+1365,How Many  Numbers Are Smaller Than the Current Number,Easy
+1370,Increasing Decreasing String,Easy
+1374,Generate a String With Characters That Have Odd Counts,Easy
+1375,Bulb Switcher III,Easy
+1376,Time Needed to Inform All Employees,Easy
+1377,Frog Position After T Seconds,Easy

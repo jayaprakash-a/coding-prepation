@@ -12,6 +12,7 @@
 | 21              | Merge Two Sorted Lists      | Finished   | ----   |
 | 26              | Remove Duplicates from Sorted Array      | Finished   | ----   |
 | 27              | Remove Element      | Finished   | ----   |
+| 33              | Search in Rotated Sorted Array      | Finished   | ----   |
 | 50              | Pow(x, n)      | Finished   | ----   |
 | 53              | Maximum Subarray      | Finished   | ----   |
 | 66              | Plus One      | Finished   | ----   |
@@ -48,23 +49,45 @@
 | 345              | Reverse Vowels of a String      | Finished   | ----   |
 | 349              | Intersection of Two Arrays      | Finished   | ----   |
 | 350              | Intersection of Two Arrays II      | Finished   | ----   |
+| 461              | Hamming Distance      | Finished   | ----   |
+| 500              | Keyboard Row      | Finished   | ----   |
+| 509              | Fibonacci Number      | Finished   | ----   |
+| 537              | Complex Number Multiplication      | Finished   | ----   |
+| 657              | Robot Return to Origin      | Finished   | ----   |
 | 701              | Insert into a Binary Search Tree      | Finished   | ----   |
 | 709              | To Lower Case      | Finished   | ----   |
+| 728              | Self Dividing Numbers      | Finished   | ----   |
 | 763              | Partition Labels      | Finished   | ----   |
 | 771              | Jewels and Stones      | Finished   | ----   |
 | 804              | Unique Morse Code Words      | Finished   | ----   |
 | 807              | Max Increase to Keep City Skyline      | Finished   | ----   |
+| 814              | Binary Tree Pruning      | Finished   | ----   |
+| 832              | Flipping an Image      | Finished   | ----   |
 | 852              | Peak Index in a Mountain Array      | Finished   | ----   |
+| 890              | Find and Replace Pattern      | Finished   | ----   |
+| 893              | Groups of Special Equivalent Strings      | Finished   | ----   |
 | 905              | Sort Array By Parity      | Finished   | ----   |
+| 921              | Minimum Add to Make Parentheses Valid      | Finished   | ----   |
 | 922              | Sort Array By Parity II      | Finished   | ----   |
+| 938              | Range Sum of BST      | Finished   | ----   |
+| 942              | DI String Match      | Finished   | ----   |
+| 950              | Reveal Cards In Increasing Order      | Finished   | ----   |
+| 961              | N Repeated Element in Size 2N Array      | Finished   | ----   |
 | 976              | Largest Perimeter Triangle      | Finished   | ----   |
+| 977              | Squares of a Sorted Array      | Finished   | ----   |
 | 997              | Find the Town Judge      | Finished   | ----   |
+| 1016              | Binary String With Substrings Representing 1 To N      | Finished   | ----   |
 | 1021              | Remove Outermost Parentheses      | Finished   | ----   |
 | 1030              | Matrix Cells in Distance Order      | Finished   | ----   |
 | 1038              | Binary Search Tree to Greater Sum Tree      | Finished   | ----   |
 | 1046              | Last Stone Weight      | Finished   | ----   |
+| 1051              | Height Checker      | Finished   | ----   |
+| 1078              | Occurrences After Bigram      | Finished   | ----   |
+| 1104              | Path In Zigzag Labelled Binary Tree      | Finished   | ----   |
+| 1122              | Relative Sort Array      | Finished   | ----   |
 | 1123              | Lowest Common Ancestor of Deepest Leaves      | Finished   | ----   |
 | 1137              | N th Tribonacci Number      | Finished   | ----   |
+| 1207              | Unique Number of Occurrences      | Finished   | ----   |
 | 1221              | Split a String in Balanced Strings      | Finished   | ----   |
 | 1247              | Minimum Swaps to Make Strings Equal      | Finished   | ----   |
 | 1252              | Cells with Odd Values in a Matrix      | Finished   | ----   |
@@ -91,8 +114,27 @@
 | 1328              | Break a Palindrome      | Finished   | ----   |
 | 1329              | Sort the Matrix Diagonally      | Finished   | ----   |
 | 1331              | Rank Transform of an Array      | Finished   | ----   |
-| 1337              | Remove Palindromic Subsequences      | Finished   | ----   |
-| 1338              | Filter Restaurants by Vegan Friendly, Price and Distance      | Finished   | ----   |
-| 1341              | The K Weakest Rows in a Matrix      | Finished   | ----   |
-| 1342              | Reduce Array Size to The Half      | Finished   | ----   |
-| 1343              | Maximum Product of Splitted Binary Tree      | Finished   | ----   |
+| 1332              | Remove Palindromic Subsequences      | Finished   | ----   |
+| 1333              | Filter Restaurants by Vegan Friendly, Price and Distance      | Finished   | ----   |
+| 1337              | The K Weakest Rows in a Matrix      | Finished   | ----   |
+| 1338              | Reduce Array Size to The Half      | Finished   | ----   |
+| 1339              | Maximum Product of Splitted Binary Tree      | Finished   | ----   |
+| 1342              | Number of Steps to Reduce a Number to Zero      | Finished   | ----   |
+| 1343              | Number of Sub arrays of Size K and Average Greater than or Equal to Threshold      | Finished   | ----   |
+| 1344              | Angle Between Hands of a Clock      | Finished   | ----   |
+| 1346              | Check If N and Its Double Exist      | Finished   | ----   |
+| 1347              | Minimum Number of Steps to Make Two Strings Anagram      | Finished   | ----   |
+| 1351              | Count Negative Numbers in a Sorted Matrix      | Finished   | ----   |
+| 1352              | Product of the Last K Numbers      | Finished   | ----   |
+| 1353              | Maximum Number of Events That Can Be Attended      | Finished   | ----   |
+| 1356              | Sort Integers by The Number of 1 Bits      | Finished   | ----   |
+| 1357              | Apply Discount Every n Orders      | Finished   | ----   |
+| 1358              | Number of Substrings Containing All Three Characters      | Finished   | ----   |
+| 1361              | Validate Binary Tree Nodes      | Finished   | ----   |
+| 1362              | Closest Divisors      | Finished   | ----   |
+| 1365              | How Many  Numbers Are Smaller Than the Current Number      | Finished   | ----   |
+| 1370              | Increasing Decreasing String      | Finished   | ----   |
+| 1374              | Generate a String With Characters That Have Odd Counts      | Finished   | ----   |
+| 1375              | Bulb Switcher III      | Finished   | ----   |
+| 1376              | Time Needed to Inform All Employees      | Finished   | ----   |
+| 1377              | Frog Position After T Seconds      | Finished   | ----   |

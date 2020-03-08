@@ -29,7 +29,7 @@ for entry in allFiles:
 
 tagFile = open('TaggedList.csv', 'w')
 
-fileHeaders = "Problem number,Problem Name,Tags"
+fileHeaders = "Problem number,Problem Name,Difficulty,Tags"
 print(fileHeaders, file=tagFile)
 
 # for key in sorted(problemsDict.keys()):
@@ -40,7 +40,7 @@ print(fileHeaders, file=tagFile)
 for key in sorted(problemsDict.keys()):
 	question = problemsDict[key].split('-')
 	questionName = ' '.join(question)
-	print("%d,%s" % (key, questionName.replace(',', ';')), file=tagFile, end='')
+	print("%d,%s,Easy" % (key, questionName.replace(',', ';')), file=tagFile, end='')
 	for tag in tagDict.keys():
 		
 		if key in tagDict[tag]:
