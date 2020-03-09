@@ -12,6 +12,7 @@ Problem number,Problem Name,Difficulty,Tags
 33,Search in Rotated Sorted Array,Easy,arrays
 50,Pow(x; n),Easy,maths
 53,Maximum Subarray,Easy,arrays,dynamic-programming
+64,Minimum Path Sum,Easy,arrays,dynamic-programming
 66,Plus One,Easy,arrays
 67,Add Binary,Easy,maths,strings
 70,Climbing Stairs,Easy,dynamic-programming
@@ -60,16 +61,19 @@ Problem number,Problem Name,Difficulty,Tags
 807,Max Increase to Keep City Skyline,Easy
 814,Binary Tree Pruning,Easy,trees
 832,Flipping an Image,Easy,arrays
+841,Keys and Rooms,Easy
 852,Peak Index in a Mountain Array,Easy
 890,Find and Replace Pattern,Easy,strings
 893,Groups of Special Equivalent Strings,Easy,strings
 905,Sort Array By Parity,Easy,arrays
+912,Sort an Array,Easy
 921,Minimum Add to Make Parentheses Valid,Easy
 922,Sort Array By Parity II,Easy,arrays,sort
 938,Range Sum of BST,Easy,trees
 942,DI String Match,Easy,maths
 950,Reveal Cards In Increasing Order,Easy,arrays
 961,N Repeated Element in Size 2N Array,Easy,hash-table
+973,K Closest Points to Origin,Easy,sort
 976,Largest Perimeter Triangle,Easy,maths,sort
 977,Squares of a Sorted Array,Easy,arrays,two-pointers
 997,Find the Town Judge,Easy

@@ -15,6 +15,7 @@
 | 33              | Search in Rotated Sorted Array      | Finished   | ----   |
 | 50              | Pow(x, n)      | Finished   | ----   |
 | 53              | Maximum Subarray      | Finished   | ----   |
+| 64              | Minimum Path Sum      | Finished   | ----   |
 | 66              | Plus One      | Finished   | ----   |
 | 67              | Add Binary      | Finished   | ----   |
 | 70              | Climbing Stairs      | Finished   | ----   |
@@ -63,16 +64,19 @@
 | 807              | Max Increase to Keep City Skyline      | Finished   | ----   |
 | 814              | Binary Tree Pruning      | Finished   | ----   |
 | 832              | Flipping an Image      | Finished   | ----   |
+| 841              | Keys and Rooms      | Finished   | ----   |
 | 852              | Peak Index in a Mountain Array      | Finished   | ----   |
 | 890              | Find and Replace Pattern      | Finished   | ----   |
 | 893              | Groups of Special Equivalent Strings      | Finished   | ----   |
 | 905              | Sort Array By Parity      | Finished   | ----   |
+| 912              | Sort an Array      | Finished   | ----   |
 | 921              | Minimum Add to Make Parentheses Valid      | Finished   | ----   |
 | 922              | Sort Array By Parity II      | Finished   | ----   |
 | 938              | Range Sum of BST      | Finished   | ----   |
 | 942              | DI String Match      | Finished   | ----   |
 | 950              | Reveal Cards In Increasing Order      | Finished   | ----   |
 | 961              | N Repeated Element in Size 2N Array      | Finished   | ----   |
+| 973              | K Closest Points to Origin      | Finished   | ----   |
 | 976              | Largest Perimeter Triangle      | Finished   | ----   |
 | 977              | Squares of a Sorted Array      | Finished   | ----   |
 | 997              | Find the Town Judge      | Finished   | ----   |
