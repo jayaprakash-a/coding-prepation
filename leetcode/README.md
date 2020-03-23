@@ -19,6 +19,7 @@
 | 66              | Plus One      | Finished   | ----   |
 | 67              | Add Binary      | Finished   | ----   |
 | 70              | Climbing Stairs      | Finished   | ----   |
+| 74              | Search a 2D Matrix      | Finished   | ----   |
 | 83              | Remove Duplicates from Sorted List      | Finished   | ----   |
 | 94              | Binary Tree Inorder Traversal      | Finished   | ----   |
 | 100              | Same Tree      | Finished   | ----   |
@@ -44,25 +45,33 @@
 | 263              | Ugly Number      | Finished   | ----   |
 | 268              | Missing Number      | Finished   | ----   |
 | 283              | Move Zeroes      | Finished   | ----   |
+| 287              | Find the Duplicate Number      | Finished   | ----   |
 | 290              | Word Pattern      | Finished   | ----   |
 | 303              | Range Sum Query Immutable      | Finished   | ----   |
 | 344              | Reverse String      | Finished   | ----   |
 | 345              | Reverse Vowels of a String      | Finished   | ----   |
+| 347              | Top K Frequent Elements      | Finished   | ----   |
 | 349              | Intersection of Two Arrays      | Finished   | ----   |
 | 350              | Intersection of Two Arrays II      | Finished   | ----   |
+| 406              | Queue Reconstruction by Height      | Finished   | ----   |
 | 461              | Hamming Distance      | Finished   | ----   |
+| 485              | Max Consecutive Ones      | Finished   | ----   |
+| 498              | Diagonal Traverse      | Finished   | ----   |
 | 500              | Keyboard Row      | Finished   | ----   |
 | 509              | Fibonacci Number      | Finished   | ----   |
 | 537              | Complex Number Multiplication      | Finished   | ----   |
 | 657              | Robot Return to Origin      | Finished   | ----   |
+| 684              | Redundant Connection      | Finished   | ----   |
 | 701              | Insert into a Binary Search Tree      | Finished   | ----   |
 | 709              | To Lower Case      | Finished   | ----   |
 | 728              | Self Dividing Numbers      | Finished   | ----   |
 | 763              | Partition Labels      | Finished   | ----   |
 | 771              | Jewels and Stones      | Finished   | ----   |
+| 791              | Custom Sort String      | Finished   | ----   |
 | 804              | Unique Morse Code Words      | Finished   | ----   |
 | 807              | Max Increase to Keep City Skyline      | Finished   | ----   |
 | 814              | Binary Tree Pruning      | Finished   | ----   |
+| 819              | Most Common Word      | Finished   | ----   |
 | 832              | Flipping an Image      | Finished   | ----   |
 | 841              | Keys and Rooms      | Finished   | ----   |
 | 852              | Peak Index in a Mountain Array      | Finished   | ----   |
@@ -70,24 +79,32 @@
 | 893              | Groups of Special Equivalent Strings      | Finished   | ----   |
 | 905              | Sort Array By Parity      | Finished   | ----   |
 | 912              | Sort an Array      | Finished   | ----   |
+| 917              | Reverse Only Letters      | Finished   | ----   |
 | 921              | Minimum Add to Make Parentheses Valid      | Finished   | ----   |
 | 922              | Sort Array By Parity II      | Finished   | ----   |
+| 929              | Unique Email Addresses      | Finished   | ----   |
 | 938              | Range Sum of BST      | Finished   | ----   |
 | 942              | DI String Match      | Finished   | ----   |
 | 950              | Reveal Cards In Increasing Order      | Finished   | ----   |
 | 961              | N Repeated Element in Size 2N Array      | Finished   | ----   |
+| 965              | Univalued Binary Tree      | Finished   | ----   |
 | 973              | K Closest Points to Origin      | Finished   | ----   |
 | 976              | Largest Perimeter Triangle      | Finished   | ----   |
 | 977              | Squares of a Sorted Array      | Finished   | ----   |
+| 986              | Interval List Intersections      | Finished   | ----   |
 | 997              | Find the Town Judge      | Finished   | ----   |
+| 1013              | Partition Array Into Three Parts With Equal Sum      | Finished   | ----   |
 | 1016              | Binary String With Substrings Representing 1 To N      | Finished   | ----   |
 | 1021              | Remove Outermost Parentheses      | Finished   | ----   |
+| 1023              | Camelcase Matching      | Finished   | ----   |
 | 1030              | Matrix Cells in Distance Order      | Finished   | ----   |
 | 1038              | Binary Search Tree to Greater Sum Tree      | Finished   | ----   |
 | 1046              | Last Stone Weight      | Finished   | ----   |
 | 1051              | Height Checker      | Finished   | ----   |
+| 1052              | Grumpy Bookstore Owner      | Finished   | ----   |
 | 1078              | Occurrences After Bigram      | Finished   | ----   |
 | 1104              | Path In Zigzag Labelled Binary Tree      | Finished   | ----   |
+| 1108              | Defanging an IP Address      | Finished   | ----   |
 | 1122              | Relative Sort Array      | Finished   | ----   |
 | 1123              | Lowest Common Ancestor of Deepest Leaves      | Finished   | ----   |
 | 1137              | N th Tribonacci Number      | Finished   | ----   |
@@ -100,6 +117,7 @@
 | 1267              | Count Servers that Communicate      | Finished   | ----   |
 | 1281              | Subtract the Product and Sum of Digits of an Integer      | Finished   | ----   |
 | 1282              | Group the People Given the Group Size They Belong To      | Finished   | ----   |
+| 1287              | Element Appearing More Than 25% In Sorted Array      | Finished   | ----   |
 | 1290              | Convert Binary Number in a Linked List to Integer      | Finished   | ----   |
 | 1295              | Find Numbers with Even Number of Digits      | Finished   | ----   |
 | 1299              | Replace Elements with Greatest Element on Right Side      | Finished   | ----   |
@@ -142,3 +160,14 @@
 | 1375              | Bulb Switcher III      | Finished   | ----   |
 | 1376              | Time Needed to Inform All Employees      | Finished   | ----   |
 | 1377              | Frog Position After T Seconds      | Finished   | ----   |
+| 1379              | Find a Corresponding Node of a Binary Tree in a Clone of That Tree      | Finished   | ----   |
+| 1380              | Lucky Numbers in a Matrix      | Finished   | ----   |
+| 1381              | Design a Stack With Increment Operation      | Finished   | ----   |
+| 1382              | Balance a Binary Search Tree      | Finished   | ----   |
+| 1385              | Find the Distance Value Between Two Arrays      | Finished   | ----   |
+| 1386              | Cinema Seat Allocation      | Finished   | ----   |
+| 1387              | Sort Integers by The Power Value      | Finished   | ----   |
+| 1389              | Create Target Array in the Given Order      | Finished   | ----   |
+| 1390              | Four Divisors      | Finished   | ----   |
+| 1391              | Check if There is a Valid Path in a Grid      | Finished   | ----   |
+| 1392              | Longest Happy Prefix      | Finished   | ----   |

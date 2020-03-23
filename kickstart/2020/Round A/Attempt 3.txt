@@ -1,0 +1,25 @@
+def knapSack(budget, cost, n): 	  
+
+	dp = [0]*(budget+1); 
+  
+	for i in range(n): 
+		  
+		for j in range(budget,cost[i],-1): 
+			dp[j] = max(dp[j] , 1 + dp[j-cost[i]]); 
+			  
+
+	return dp[budget]; 
+
+
+def main():
+	T = int(input())
+
+	for i in range(T):
+
+		N, budget = [int(x) for x in input().split()]
+		cost = [int(x) for x in input().split()]
+		print(('Case #%d: %d')%(i+1,knapSack(budget, cost, N)))
+
+
+if __name__ == '__main__':
+	main()

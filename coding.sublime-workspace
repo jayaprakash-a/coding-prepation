@@ -1,0 +1,693 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"minJumps"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"pr",
+				"problemsDict"
+			],
+			[
+				"read",
+				"readmeFile"
+			],
+			[
+				"re",
+				"readmeFile"
+			],
+			[
+				"db",
+				"dbContent"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"enr",
+				"entrySplit"
+			],
+			[
+				"spo",
+				"sports"
+			],
+			[
+				"mana",
+				"manager_object"
+			],
+			[
+				"ma",
+				"manager_object"
+			],
+			[
+				"man",
+				"ManagerPurse"
+			],
+			[
+				"strt",
+				"start_auction"
+			],
+			[
+				"pu",
+				"purse_money"
+			],
+			[
+				"Ma",
+				"ManagerPurse"
+			],
+			[
+				"purs",
+				"purse_amount"
+			],
+			[
+				"player",
+				"player_details"
+			],
+			[
+				"c",
+				"create"
+			],
+			[
+				"s",
+				"sports_list"
+			],
+			[
+				"inse",
+				"insert_purse"
+			],
+			[
+				"pla",
+				"player_sport"
+			],
+			[
+				"pl",
+				"player_sports_list"
+			],
+			[
+				"PL",
+				"PlayerSport"
+			],
+			[
+				"up",
+				"update_timer"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"time",
+				"time_left"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"p",
+				"player_name"
+			],
+			[
+				"my",
+				"my_var_parsed"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"is",
+				"is_sold"
+			],
+			[
+				"playe",
+				"player_details"
+			],
+			[
+				"au",
+				"auction"
+			],
+			[
+				"auction",
+				"auction-test"
+			],
+			[
+				"Au",
+				"AUTOBIO_LIST"
+			],
+			[
+				"sv",
+				"svd_val"
+			],
+			[
+				"eig_",
+				"eig_val"
+			],
+			[
+				"eig",
+				"eig_vec"
+			],
+			[
+				"eV",
+				"eVal_at_a"
+			],
+			[
+				"uni",
+				"unique_set"
+			],
+			[
+				"in",
+				"index_set"
+			],
+			[
+				"id",
+				"idx_sort"
+			],
+			[
+				"com",
+				"compareEig"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"hi",
+				"hist"
+			],
+			[
+				"n",
+				"n_range"
+			],
+			[
+				"week",
+				"weeks_one_hot"
+			],
+			[
+				"wee",
+				"week_list"
+			],
+			[
+				"col",
+				"column_index"
+			],
+			[
+				"gr",
+				"grad"
+			],
+			[
+				"ind",
+				"indices_to_one_hot"
+			],
+			[
+				"mse",
+				"mseloss"
+			],
+			[
+				"mean",
+				"mean_squared_loss"
+			],
+			[
+				"valu",
+				"value_max"
+			],
+			[
+				"va",
+				"value_min"
+			],
+			[
+				"y",
+				"ytrain"
+			],
+			[
+				"x",
+				"xtrain"
+			],
+			[
+				"plot",
+				"plotxy"
+			],
+			[
+				"xt",
+				"xtest"
+			],
+			[
+				"d",
+				"dJdW_jp"
+			],
+			[
+				"W_",
+				"W_jp_all"
+			],
+			[
+				"w",
+				"weights"
+			],
+			[
+				"yea",
+				"year_list"
+			],
+			[
+				"date",
+				"dates_list"
+			],
+			[
+				"dates",
+				"dates_column"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"N",
+				"name"
+			],
+			[
+				"i",
+				"isaddress"
+			],
+			[
+				"temp",
+				"temp3"
+			],
+			[
+				"para",
+				"paragraphs"
+			],
+			[
+				"cha",
+				"charcount"
+			],
+			[
+				"prnt",
+				"printf"
+			],
+			[
+				"l",
+				"line"
+			],
+			[
+				"C",
+				"CHAR_LIST"
+			],
+			[
+				"get",
+				"get_char_count"
+			],
+			[
+				"li",
+				"lines_argument"
+			],
+			[
+				"pa",
+				"param"
+			],
+			[
+				"A",
+				"AUTOBIO_LIST"
+			],
+			[
+				"LY",
+				"LYRIC_WORD_LIST"
+			],
+			[
+				"LYRI",
+				"LYRIC_WORD_LIST"
+			],
+			[
+				"LYR",
+				"LYRIC"
+			],
+			[
+				"B",
+				"BIRTHDAY"
+			],
+			[
+				"FIl",
+				"FileWithTimeStamp"
+			],
+			[
+				"for",
+				"forward"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "leetcode/1052--Grumpy-Bookstore-Owner.py",
+			"settings":
+			{
+				"buffer_size": 650,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Solution:"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jayaprakash/Documents/coding-prepation",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode"
+	],
+	"file_history":
+	[
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/toys_from_trash/make_dict.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/libri_all_tr.lst",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/librispeech/LibriSpeech/train-clean-100/39/121916/39-121916.trans.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/librispeech/LibriSpeech/README.TXT",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/example_librispeech_tr.scp",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/example_librispeech_te.scp",
+		"/home/jayaprakash/Documents/leetcode/929--Unique-Email-Addresses.py",
+		"/home/jayaprakash/Documents/leetcode/README.md",
+		"/home/jayaprakash/Documents/leetcode/UpdateTagList.py",
+		"/home/jayaprakash/Documents/leetcode/841--Keys-and-Rooms.py",
+		"/home/jayaprakash/Documents/leetcode/912--Sort-an-Array.py",
+		"/home/jayaprakash/Documents/leetcode/973--K-Closest-Points-to-Origin.py",
+		"/home/jayaprakash/Documents/leetcode/64--Minimum-Path-Sum.py",
+		"/home/jayaprakash/Documents/leetcode/485--Max-Consecutive-Ones.py",
+		"/home/jayaprakash/Documents/leetcode/1377--Frog-Position-After-T-Seconds.py",
+		"/home/jayaprakash/Documents/leetcode/1342--Number-of-Steps-to-Reduce-a-Number-to-Zero.py",
+		"/home/jayaprakash/Documents/leetcode/1343--Number-of-Sub-arrays-of-Size-K-and-Average-Greater-than-or-Equal-to-Threshold.py",
+		"/home/jayaprakash/Documents/leetcode/1344--Angle-Between-Hands-of-a-Clock.py",
+		"/home/jayaprakash/Documents/leetcode/1346--Check-If-N-and-Its-Double-Exist.py",
+		"/home/jayaprakash/Documents/leetcode/1347--Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram.py",
+		"/home/jayaprakash/Documents/leetcode/1351--Count-Negative-Numbers-in-a-Sorted-Matrix.py",
+		"/home/jayaprakash/Documents/leetcode/1352--Product-of-the-Last-K-Numbers.py",
+		"/home/jayaprakash/Documents/leetcode/1353--Maximum-Number-of-Events-That-Can-Be-Attended.py",
+		"/home/jayaprakash/Documents/leetcode/1356--Sort-Integers-by-The-Number-of-1-Bits.py",
+		"/home/jayaprakash/Documents/leetcode/1357--Apply-Discount-Every-n-Orders.py",
+		"/home/jayaprakash/Documents/leetcode/1358--Number-of-Substrings-Containing-All-Three-Characters.py",
+		"/home/jayaprakash/Documents/leetcode/1361--Validate-Binary-Tree-Nodes.py",
+		"/home/jayaprakash/Documents/leetcode/1362--Closest-Divisors.py",
+		"/home/jayaprakash/Documents/leetcode/1365--How-Many- Numbers-Are-Smaller-Than-the-Current-Number.py",
+		"/home/jayaprakash/Documents/leetcode/1370--Increasing-Decreasing-String.py",
+		"/home/jayaprakash/Documents/leetcode/1374--Generate-a-String-With-Characters-That-Have-Odd-Counts.py",
+		"/home/jayaprakash/Documents/leetcode/1375--Bulb-Switcher-III.py",
+		"/home/jayaprakash/Documents/leetcode/1376--Time-Needed-to-Inform-All-Employees.py",
+		"/home/jayaprakash/Documents/leetcode/1122--Relative-Sort-Array.py",
+		"/home/jayaprakash/Documents/leetcode/33--Search-in-Rotated-Sorted-Array.py",
+		"/home/jayaprakash/Documents/leetcode/500--Keyboard-Row.py",
+		"/home/jayaprakash/Documents/leetcode/509--Fibonacci-Number.py",
+		"/home/jayaprakash/Documents/leetcode/832--Flipping-an-Image.py",
+		"/home/jayaprakash/Documents/leetcode/938--Range-Sum-of-BST.py",
+		"/home/jayaprakash/Documents/leetcode/1051--Height-Checker.py",
+		"/home/jayaprakash/Documents/leetcode/1078--Occurrences-After-Bigram.py",
+		"/home/jayaprakash/Documents/leetcode/1016--Binary-String-With-Substrings-Representing-1-To-N.py",
+		"/home/jayaprakash/Documents/leetcode/893--Groups-of-Special-Equivalent-Strings.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/ASR/kaldi_decoding_scripts/local/score.sh",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/ASR/kaldi_decoding_scripts/path.sh",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/ASR/kaldi_decoding_scripts/decode_dnn.sh",
+		"/home/jayaprakash/Documents/leetcode/890--Find-and-Replace-Pattern.py",
+		"/home/jayaprakash/Documents/leetcode/657--Robot-Return-to-Origin.py",
+		"/home/jayaprakash/Documents/leetcode/977--Squares-of-a-Sorted-Array.py",
+		"/home/jayaprakash/Documents/leetcode/921--Minimum-Add-to-Make-Parentheses-Valid.py",
+		"/home/jayaprakash/Documents/leetcode/1207--Unique-Number-of-Occurrences.py",
+		"/home/jayaprakash/Documents/leetcode/461--Hamming-Distance.py",
+		"/home/jayaprakash/Documents/leetcode/1299--Replace-Elements-with-Greatest-Element-on-Right-Side.py",
+		"/home/jayaprakash/Documents/leetcode/905--Sort-Array-By-Parity.py",
+		"/home/jayaprakash/Documents/leetcode/763--Partition-Labels.py",
+		"/home/jayaprakash/Documents/leetcode/UpdateReadme.py",
+		"/home/jayaprakash/Documents/leetcode/950--Reveal-Cards-In-Increasing-Order.py",
+		"/home/jayaprakash/Documents/leetcode/TaggedList.csv",
+		"/home/jayaprakash/Documents/leetcode/814--Binary-Tree-Pruning.py",
+		"/home/jayaprakash/Documents/leetcode/961--N-Repeated-Element-in-Size-2N-Array.py",
+		"/home/jayaprakash/Documents/leetcode/728--Self-Dividing-Numbers.py",
+		"/home/jayaprakash/Documents/leetcode/1295--Find-Numbers-with-Even-Number-of-Digits.py",
+		"/home/jayaprakash/Documents/leetcode/1313--Decompress-Run-Length-Encoded-List.py",
+		"/home/jayaprakash/Documents/leetcode/771--Jewels-and-Stones.py",
+		"/home/jayaprakash/Documents/leetcode/1221--Split-a-String-in-Balanced-Strings.py",
+		"/home/jayaprakash/Documents/leetcode/1290--Convert-Binary-Number-in-a-Linked-List-to-Integer.py",
+		"/home/jayaprakash/Documents/leetcode/1266--Minimum-Time-Visiting-All-Points.py",
+		"/home/jayaprakash/Documents/leetcode/709--To-Lower-Case.py",
+		"/home/jayaprakash/Documents/leetcode/1252--Cells-with-Odd-Values-in-a-Matrix.py",
+		"/home/jayaprakash/Documents/leetcode/1021--Remove-Outermost-Parentheses.py",
+		"/home/jayaprakash/Documents/leetcode/1304--Find-N-Unique-Integers-Sum-up-to-Zero.py",
+		"/home/jayaprakash/Documents/leetcode/804--Unique-Morse-Code-Words.py",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/PASE.egg-info/dependency_links.txt",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/PASE.egg-info/top_level.txt",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/PASE.egg-info/SOURCES.txt",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/PASE.egg-info/PKG-INFO",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/cfg/frontend/PASE+.cfg",
+		"/home/jayaprakash/Documents/leetcode/1281--Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.py",
+		"/home/jayaprakash/Documents/leetcode/1123--Lowest-Common-Ancestor-of-Deepest-Leaves.py",
+		"/home/jayaprakash/Documents/leetcode/1261--Find-Elements-in-a-Contaminated-Binary-Tree.py",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/Data-Models/bert-base-multilingual-cased/bert_config.json",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_beta/config/bert_large_6layer_6conect.json",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_beta/config/bert_base_6layer_6conect.json",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/Data-Models/VCR-20200212T092759Z-001/VCR/VCR_gt_ImagePath2Id.json",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_beta/requirements.txt",
+		"/home/jayaprakash/Documents/test.py",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/Temporally-language-grounding/dataloader_charades_RL.py",
+		"/home/jayaprakash/Documents/temp.cpp",
+		"/home/jayaprakash/Documents/leetcode/997--Find-the-Town-Judge.py",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/Temporally-language-grounding/README.md",
+		"/home/jayaprakash/Documents/leetcode/141--Linked-List-Cycle.py",
+		"/home/jayaprakash/Documents/leetcode/UpdateProblemTags.py",
+		"/home/jayaprakash/Documents/leetcode/2--Add-Two-Numbers.py",
+		"/home/jayaprakash/Documents/leetcode/19--Remove-Nth-Node-From-End-of-List.py",
+		"/home/jayaprakash/Documents/leetcode/21--Merge-Two-Sorted-Lists.py.",
+		"/home/jayaprakash/Documents/leetcode/maths.txt",
+		"/home/jayaprakash/Documents/leetcode/hash-table.txt",
+		"/home/jayaprakash/Documents/leetcode/linked-list.txt",
+		"/home/jayaprakash/Documents/leetcode/two-pointers.txt",
+		"/home/jayaprakash/Documents/leetcode/strings.txt",
+		"/home/jayaprakash/Documents/leetcode/TODO.md",
+		"/home/jayaprakash/Documents/leetcode/sort.txt",
+		"/home/jayaprakash/Documents/leetcode/arrays.txt",
+		"/home/jayaprakash/Documents/leetcode/922--Sort-Array-By-Parity-II.py",
+		"/home/jayaprakash/Documents/leetcode/350--Intersection-of-Two-Arrays-II.py",
+		"/home/jayaprakash/Documents/leetcode/242--Valid-Anagram.py",
+		"/home/jayaprakash/Documents/leetcode/1030--Matrix-Cells-in-Distance-Order.py",
+		"/home/jayaprakash/Documents/leetcode/976--Largest-Perimeter-Triangle.py",
+		"/home/jayaprakash/Documents/leetcode/169--Majority-Element.py",
+		"/home/jayaprakash/Documents/leetcode/852--Peak-Index-in-a-Mountain-Array.py",
+		"/home/jayaprakash/Documents/leetcode/94--Binary-Tree-Inorder-Traversal.py",
+		"/home/jayaprakash/Documents/leetcode/100--Same-Tree.py",
+		"/home/jayaprakash/Documents/leetcode/101--Symmetric-Tree.py",
+		"/home/jayaprakash/Documents/leetcode/index.html",
+		"/home/jayaprakash/Documents/leetcode/rdme.md",
+		"/home/jayaprakash/Documents/leetcode/index.html.1",
+		"/home/jayaprakash/Documents/leetcode/104--Maximum-Depth-of-Binary-Tree.py",
+		"/home/jayaprakash/Documents/leetcode/1325--Delete-Leaves-With-a-Given-Value.py",
+		"/home/jayaprakash/Documents/leetcode/151--Reverse-Words-in-a-String.py",
+		"/home/jayaprakash/Documents/leetcode/167--Two-Sum-II-Input-array-is-sorted.py",
+		"/home/jayaprakash/Documents/leetcode/1317--Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers.py",
+		"/home/jayaprakash/Documents/leetcode/1318--Minimum-Flips-to-Make-a-OR-b-Equal-to-c.py",
+		"/home/jayaprakash/Documents/leetcode/1323--Maximum-69-Number.py",
+		"/home/jayaprakash/Documents/leetcode/1324--Print-Words-Vertically.py",
+		"/home/jayaprakash/Documents/leetcode/50--Pow(x, n).py",
+		"/home/jayaprakash/Documents/leetcode/283--Move-Zeroes.py",
+		"/home/jayaprakash/Documents/leetcode/27--Remove-Element.py",
+		"/home/jayaprakash/Documents/leetcode/67--Add-Binary.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "/home/jayaprakash/Documents/coding-prepation"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "leetcode/1052--Grumpy-Bookstore-Owner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								650,
+								650
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
