@@ -347,16 +347,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "leetcode/1052--Grumpy-Bookstore-Owner.py",
-			"settings":
-			{
-				"buffer_size": 650,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -398,11 +388,11 @@
 	},
 	"expanded_folders":
 	[
-		"/home/jayaprakash/Documents/coding-prepation",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode"
+		"/home/jayaprakash/Documents/coding-prepation"
 	],
 	"file_history":
 	[
+		"/home/nagendra/Jayaprakash/coding-prepation/leetcode/1052--Grumpy-Bookstore-Owner.py",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/toys_from_trash/make_dict.py",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/libri_all_tr.lst",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/librispeech/LibriSpeech/train-clean-100/39/121916/39-121916.trans.txt",
@@ -529,12 +519,11 @@
 		"/home/jayaprakash/Documents/leetcode/1324--Print-Words-Vertically.py",
 		"/home/jayaprakash/Documents/leetcode/50--Pow(x, n).py",
 		"/home/jayaprakash/Documents/leetcode/283--Move-Zeroes.py",
-		"/home/jayaprakash/Documents/leetcode/27--Remove-Element.py",
-		"/home/jayaprakash/Documents/leetcode/67--Add-Binary.py"
+		"/home/jayaprakash/Documents/leetcode/27--Remove-Element.py"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -571,46 +560,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "leetcode/1052--Grumpy-Bookstore-Owner.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 650,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								650,
-								650
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -647,7 +604,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 64.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
