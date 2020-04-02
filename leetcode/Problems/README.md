@@ -1,6 +1,6 @@
 # LEETCODE PROBLEMS
 
-| Problem number | Problem Name | Status | Difficulty |
+| Problem Number | Problem Name | Status | Difficulty |
 | -------------- | ------------ | ------ | ---------- |
 | 1              | Two Sum      | Finished   | Easy   |
 | 2              | Add Two Numbers      | Finished   | Medium   |
