@@ -46,8 +46,11 @@
 | 94              | Binary Tree Inorder Traversal      | Finished   | Medium   |
 | 100              | Same Tree      | Finished   | Easy   |
 | 101              | Symmetric Tree      | Finished   | Easy   |
+| 102              | Binary Tree Level Order Traversal      | Finished   | Medium   |
+| 103              | Binary Tree Zigzag Level Order Traversal      | Finished   | Medium   |
 | 104              | Maximum Depth of Binary Tree      | Finished   | Easy   |
 | 105              | Construct Binary Tree from Preorder and Inorder Traversal      | Finished   | Medium   |
+| 107              | Binary Tree Level Order Traversal II      | Finished   | Medium   |
 | 108              | Convert Sorted Array to Binary Search Tree      | Finished   | Easy   |
 | 111              | Minimum Depth of Binary Tree      | Finished   | Easy   |
 | 112              | Path Sum      | Finished   | Easy   |
@@ -58,6 +61,8 @@
 | 125              | Valid Palindrome      | Finished   | Easy   |
 | 136              | Single Number      | Finished   | Easy   |
 | 141              | Linked List Cycle      | Finished   | Easy   |
+| 144              | Binary Tree Preorder      | Finished   | Traversal   |
+| 145              | Binary Tree Postorder      | Finished   | Traversal   |
 | 151              | Reverse Words in a String      | Finished   | Medium   |
 | 155              | Min Stack      | Finished   | Easy   |
 | 162              | Find Peak Element      | Finished   | Medium   |
@@ -73,6 +78,7 @@
 | 202              | Happy Number      | Finished   | Easy   |
 | 204              | Count Primes      | Finished   | Easy   |
 | 205              | Isomorphic Strings      | Finished   | Easy   |
+| 215              | Kth Largest Element in an      | Finished   | Array   |
 | 217              | Contains Duplicate      | Finished   | Easy   |
 | 219              | Contains Duplicate II      | Finished   | Easy   |
 | 231              | Power of Two      | Finished   | Easy   |
@@ -101,6 +107,7 @@
 | 412              | Fizz Buzz      | Finished   | Easy   |
 | 413              | Arithmetic Slices      | Finished   | Medium   |
 | 415              | Add Strings      | Finished   | Easy   |
+| 429              | N ary Tree Level Order Traversal      | Finished   | Medium   |
 | 461              | Hamming Distance      | Finished   | Easy   |
 | 468              | Validate IP Address      | Finished   | Medium   |
 | 482              | License Key Formatting      | Finished   | Easy   |
@@ -114,12 +121,16 @@
 | 530              | Minimum Absolute Difference in BST      | Finished   | Easy   |
 | 537              | Complex Number Multiplication      | Finished   | Medium   |
 | 540              | Single Element in a Sorted Array      | Finished   | Medium   |
+| 541              | Reverse String II      | Finished   | Easy   |
+| 557              | Reverse Words in a String III      | Finished   | Easy   |
 | 575              | Distribute Candies      | Finished   | Easy   |
 | 605              | Can Place Flowers      | Finished   | Easy   |
 | 617              | Merge Two Binary Trees      | Finished   | Easy   |
 | 628              | Maximum Product of Three Numbers      | Finished   | Easy   |
 | 633              | Sum of Square Numbers      | Finished   | Easy   |
+| 637              | Average of Levels in Binary Tree      | Finished   | Easy   |
 | 643              | Maximum Average Subarray I      | Finished   | Easy   |
+| 645              | Set      | Finished   | Mismatch   |
 | 654              | Maximum Binary Tree      | Finished   | Medium   |
 | 657              | Robot Return to Origin      | Finished   | Easy   |
 | 674              | Longest Continuous Increasing Subsequence      | Finished   | Easy   |
@@ -169,6 +180,7 @@
 | 1016              | Binary String With Substrings Representing 1 To N      | Finished   | Medium   |
 | 1018              | Binary Prefix Divisible By 5      | Finished   | Easy   |
 | 1021              | Remove Outermost Parentheses      | Finished   | Easy   |
+| 1022              | Sum of Root To Leaf Binary      | Finished   | Numbers   |
 | 1023              | Camelcase Matching      | Finished   | Medium   |
 | 1030              | Matrix Cells in Distance Order      | Finished   | Easy   |
 | 1038              | Binary Search Tree to Greater Sum Tree      | Finished   | Medium   |
@@ -182,6 +194,7 @@
 | 1123              | Lowest Common Ancestor of Deepest Leaves      | Finished   | Medium   |
 | 1128              | Number of Equivalent Domino Pairs      | Finished   | Easy   |
 | 1137              | N th Tribonacci Number      | Finished   | Easy   |
+| 1161              | Maximum Level Sum of a Binary Tree      | Finished   | Medium   |
 | 1170              | Compare Strings by Frequency of the Smallest Character      | Finished   | Easy   |
 | 1175              | Prime Arrangements      | Finished   | Easy   |
 | 1189              | Maximum Number of Balloons      | Finished   | Easy   |

@@ -43,8 +43,11 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 94;Binary Tree Inorder Traversal;Finished;Medium,hash-table,trees
 100;Same Tree;Finished;Easy,trees
 101;Symmetric Tree;Finished;Easy,trees
+102;Binary Tree Level Order Traversal;Finished;Medium,trees
+103;Binary Tree Zigzag Level Order Traversal;Finished;Medium,trees
 104;Maximum Depth of Binary Tree;Finished;Easy,trees
 105;Construct Binary Tree from Preorder and Inorder Traversal;Finished;Medium,arrays,trees
+107;Binary Tree Level Order Traversal II;Finished;Medium,trees
 108;Convert Sorted Array to Binary Search Tree;Finished;Easy,trees
 111;Minimum Depth of Binary Tree;Finished;Easy,trees
 112;Path Sum;Finished;Easy,trees
@@ -55,6 +58,8 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 125;Valid Palindrome;Finished;Easy,two-pointers,string
 136;Single Number;Finished;Easy,hash-table,bit-manipulation
 141;Linked List Cycle;Finished;Easy,two-pointers,linked-list
+144;Binary Tree Preorder;Finished;Traversal,trees
+145;Binary Tree Postorder;Finished;Traversal,trees
 151;Reverse Words in a String;Finished;Medium,string
 155;Min Stack;Finished;Easy
 162;Find Peak Element;Finished;Medium,arrays,binary-search
@@ -70,6 +75,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 202;Happy Number;Finished;Easy,hash-table,math
 204;Count Primes;Finished;Easy,hash-table,math
 205;Isomorphic Strings;Finished;Easy,hash-table
+215;Kth Largest Element in an;Finished;Array,divide-and-conquer
 217;Contains Duplicate;Finished;Easy,hash-table,arrays
 219;Contains Duplicate II;Finished;Easy,hash-table,arrays
 231;Power of Two;Finished;Easy,bit-manipulation,math
@@ -98,6 +104,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 412;Fizz Buzz;Finished;Easy
 413;Arithmetic Slices;Finished;Medium,dynamic-programming,math
 415;Add Strings;Finished;Easy,string
+429;N ary Tree Level Order Traversal;Finished;Medium,trees
 461;Hamming Distance;Finished;Easy,bit-manipulation
 468;Validate IP Address;Finished;Medium,string
 482;License Key Formatting;Finished;Easy
@@ -111,12 +118,16 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 530;Minimum Absolute Difference in BST;Finished;Easy,trees
 537;Complex Number Multiplication;Finished;Medium,string,math
 540;Single Element in a Sorted Array;Finished;Medium
+541;Reverse String II;Finished;Easy,string
+557;Reverse Words in a String III;Finished;Easy,string
 575;Distribute Candies;Finished;Easy,hash-table
 605;Can Place Flowers;Finished;Easy,arrays
 617;Merge Two Binary Trees;Finished;Easy,trees
 628;Maximum Product of Three Numbers;Finished;Easy,math,arrays
 633;Sum of Square Numbers;Finished;Easy,math
+637;Average of Levels in Binary Tree;Finished;Easy,trees
 643;Maximum Average Subarray I;Finished;Easy,arrays
+645;Set;Finished;Mismatch,hash-table,math
 654;Maximum Binary Tree;Finished;Medium,trees
 657;Robot Return to Origin;Finished;Easy,string
 674;Longest Continuous Increasing Subsequence;Finished;Easy,arrays
@@ -166,6 +177,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1016;Binary String With Substrings Representing 1 To N;Finished;Medium,string
 1018;Binary Prefix Divisible By 5;Finished;Easy,arrays
 1021;Remove Outermost Parentheses;Finished;Easy
+1022;Sum of Root To Leaf Binary;Finished;Numbers,trees
 1023;Camelcase Matching;Finished;Medium,string
 1030;Matrix Cells in Distance Order;Finished;Easy,sort
 1038;Binary Search Tree to Greater Sum Tree;Finished;Medium
@@ -179,6 +191,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1123;Lowest Common Ancestor of Deepest Leaves;Finished;Medium,trees
 1128;Number of Equivalent Domino Pairs;Finished;Easy,arrays
 1137;N th Tribonacci Number;Finished;Easy
+1161;Maximum Level Sum of a Binary Tree;Finished;Medium
 1170;Compare Strings by Frequency of the Smallest Character;Finished;Easy,string,arrays
 1175;Prime Arrangements;Finished;Easy,math
 1189;Maximum Number of Balloons;Finished;Easy,hash-table,string
