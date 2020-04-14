@@ -24,16 +24,16 @@ def processPythonFiles():
 def updateReadme(problemsDict):
 	readmeFile = open('README.md', 'w')
 
-	fileHeaders = "# LEETCODE PROBLEMS\n\n| Problem Number | Problem Name | Status | Difficulty |\n| -------------- | ------------ | ------ | ---------- |"
+	fileHeaders = "# LEETCODE PROBLEMS\n\n| S. no | Problem Number | Problem Name | Status | Difficulty |\n| -------------- | ------------ | ------ | ---------- |"
 	print(fileHeaders, file=readmeFile)
 		# | 1              | Two Sum      | Easy   | Finished   |
-
+	i = 1
 	for key in sorted(problemsDict.keys()):
 		# print(problemsDict[key][0])
 		question = problemsDict[key][0]
 		questionName = ' '.join(question)
-		print("| %d              | %s      | %s   | %s   |" % (key, questionName, 'Finished', problemsDict[key][1]), file=readmeFile)
-
+		print("| %d              | %d              | %s      | %s   | %s   |" % (i,key, questionName, 'Finished', problemsDict[key][1]), file=readmeFile)
+		i += 1
 	readmeFile.close()
 
 def processTagFiles():
