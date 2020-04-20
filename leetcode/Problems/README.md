@@ -1,7 +1,7 @@
 # LEETCODE PROBLEMS
 
 | S. no | Problem Number | Problem Name | Status | Difficulty |
-| -------------- | ------------ | ------ | ---------- |
+| -------------- | ------------ | ------ | ---------- | ---------- |
 | 1              | 1              | Two Sum      | Finished   | Easy   |
 | 2              | 2              | Add Two Numbers      | Finished   | Medium   |
 | 3              | 3              | Longest Substring Without Repeating Characters      | Finished   | Medium   |

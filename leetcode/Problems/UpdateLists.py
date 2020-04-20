@@ -24,7 +24,7 @@ def processPythonFiles():
 def updateReadme(problemsDict):
 	readmeFile = open('README.md', 'w')
 
-	fileHeaders = "# LEETCODE PROBLEMS\n\n| S. no | Problem Number | Problem Name | Status | Difficulty |\n| -------------- | ------------ | ------ | ---------- |"
+	fileHeaders = "# LEETCODE PROBLEMS\n\n| S. no | Problem Number | Problem Name | Status | Difficulty |\n| -------------- | ------------ | ------ | ---------- | ---------- |"
 	print(fileHeaders, file=readmeFile)
 		# | 1              | Two Sum      | Easy   | Finished   |
 	i = 1
