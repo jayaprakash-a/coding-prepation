@@ -8,11 +8,11 @@
 class Solution:
     def __init__(self):
         self.maxSum = 0
-    def bstToGst(self, root: TreeNode) -> TreeNode:
+    def convertBST(self, root: TreeNode) -> TreeNode:
         if not root:
             return None
-        root.right = self.bstToGst(root.right)
+        root.right = self.convertBST(root.right)
         self.maxSum += root.val
         root.val = self.maxSum
-        root.left = self.bstToGst(root.left)
+        root.left = self.convertBST(root.left)
         return root
