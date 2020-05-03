@@ -77,8 +77,8 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 129;Sum Root to Leaf Numbers;Finished;Medium,trees
 136;Single Number;Finished;Easy,hash-table,bit-manipulation
 141;Linked List Cycle;Finished;Easy,two-pointers,linked-list
-144;Binary Tree Preorder;Finished;Traversal,trees
-145;Binary Tree Postorder;Finished;Traversal,trees
+144;Binary Tree Preorder Traversal;Finished;Medium,trees
+145;Binary Tree Postorder Traversal;Finished;Hard,trees
 146;LRU Cache;Finished;Medium
 150;Evaluate Reverse Polish Notation;Finished;Medium
 151;Reverse Words in a String;Finished;Medium,string
@@ -105,7 +105,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 206;Reverse Linked List;Finished;Easy,linked-list
 208;Implement Trie (Prefix Tree);Finished;Medium
 211;Add and Search Word Data structure design;Finished;Medium
-215;Kth Largest Element in an;Finished;Array,divide-and-conquer
+215;Kth Largest Element in an Array;Finished;Medium,divide-and-conquer
 217;Contains Duplicate;Finished;Easy,hash-table,arrays
 219;Contains Duplicate II;Finished;Easy,hash-table,arrays
 221;Maximal Square;Finished;Medium,dynamic-programming
@@ -202,7 +202,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 633;Sum of Square Numbers;Finished;Easy,math
 637;Average of Levels in Binary Tree;Finished;Easy,trees
 643;Maximum Average Subarray I;Finished;Easy,arrays
-645;Set;Finished;Mismatch,hash-table,math
+645;Set Mismatch;Finished;Easy,hash-table,math
 647;Palindromic Substrings;Finished;Medium,dynamic-programming,string
 648;Replace Words;Finished;Medium,hash-table
 653;Two Sum IV Input is a BST;Finished;Easy,trees
