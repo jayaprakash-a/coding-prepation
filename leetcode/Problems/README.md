@@ -21,7 +21,7 @@
 | 17              | 20              | Valid Parentheses      | Finished   | Easy   |
 | 18              | 21              | Merge Two Sorted Lists      | Finished   | Easy   |
 | 19              | 23              | Merge k Sorted Lists      | Finished   | Hard   |
-| 20              | 24              | Swap Nodes in      | Finished   | Pairs   |
+| 20              | 24              | Swap Nodes in Pairs      | Finished   | Medium   |
 | 21              | 26              | Remove Duplicates from Sorted Array      | Finished   | Easy   |
 | 22              | 27              | Remove Element      | Finished   | Easy   |
 | 23              | 28              | Implement strStr()      | Finished   | Easy   |
@@ -57,7 +57,7 @@
 | 53              | 78              | Subsets      | Finished   | Medium   |
 | 54              | 80              | Remove Duplicates from Sorted Array II      | Finished   | Medium   |
 | 55              | 83              | Remove Duplicates from Sorted List      | Finished   | Easy   |
-| 56              | 88              | Merge Sorted      | Finished   | Array   |
+| 56              | 88              | Merge Sorted Array      | Finished   | Easy   |
 | 57              | 89              | Gray Code      | Finished   | Medium   |
 | 58              | 94              | Binary Tree Inorder Traversal      | Finished   | Medium   |
 | 59              | 100              | Same Tree      | Finished   | Easy   |
@@ -86,8 +86,8 @@
 | 82              | 150              | Evaluate Reverse Polish Notation      | Finished   | Medium   |
 | 83              | 151              | Reverse Words in a String      | Finished   | Medium   |
 | 84              | 152              | Maximum Product Subarray      | Finished   | Medium   |
-| 85              | 153              | Find Minimum in Rotated Sorted      | Finished   | Array   |
-| 86              | 154              | Find Minimum in Rotated Sorted Array      | Finished   | II   |
+| 85              | 153              | Find Minimum in Rotated Sorted Array      | Finished   | Medium   |
+| 86              | 154              | Find Minimum in Rotated Sorted Array II      | Finished   | Hard   |
 | 87              | 155              | Min Stack      | Finished   | Easy   |
 | 88              | 162              | Find Peak Element      | Finished   | Medium   |
 | 89              | 165              | Compare Version Numbers      | Finished   | Medium   |
@@ -146,8 +146,8 @@
 | 142              | 349              | Intersection of Two Arrays      | Finished   | Easy   |
 | 143              | 350              | Intersection of Two Arrays II      | Finished   | Easy   |
 | 144              | 357              | Count Numbers with Unique Digits      | Finished   | Medium   |
-| 145              | 367              | Valid Perfect      | Finished   | Square   |
-| 146              | 374              | Guess Number Higher or      | Finished   | Lower   |
+| 145              | 367              | Valid Perfect Square      | Finished   | Easy   |
+| 146              | 374              | Guess Number Higher or Lower      | Finished   | Easy   |
 | 147              | 383              | Ransom Note      | Finished   | Easy   |
 | 148              | 389              | Find the Difference      | Finished   | Easy   |
 | 149              | 397              | Integer Replacement      | Finished   | Medium   |
@@ -156,7 +156,7 @@
 | 152              | 409              | Longest Palindrome      | Finished   | Easy   |
 | 153              | 412              | Fizz Buzz      | Finished   | Easy   |
 | 154              | 413              | Arithmetic Slices      | Finished   | Medium   |
-| 155              | 414              | Third Maximum      | Finished   | Number   |
+| 155              | 414              | Third Maximum Number      | Finished   | Easy   |
 | 156              | 415              | Add Strings      | Finished   | Easy   |
 | 157              | 429              | N ary Tree Level Order Traversal      | Finished   | Medium   |
 | 158              | 438              | Find All Anagrams in a String      | Finished   | Medium   |
@@ -206,7 +206,7 @@
 | 202              | 637              | Average of Levels in Binary Tree      | Finished   | Easy   |
 | 203              | 643              | Maximum Average Subarray I      | Finished   | Easy   |
 | 204              | 645              | Set      | Finished   | Mismatch   |
-| 205              | 647              | Palindromic      | Finished   | Substrings   |
+| 205              | 647              | Palindromic Substrings      | Finished   | Medium   |
 | 206              | 648              | Replace Words      | Finished   | Medium   |
 | 207              | 653              | Two Sum IV Input is a BST      | Finished   | Easy   |
 | 208              | 654              | Maximum Binary Tree      | Finished   | Medium   |
@@ -222,7 +222,7 @@
 | 218              | 693              | Binary Number with Alternating Bits      | Finished   | Easy   |
 | 219              | 700              | Search in a Binary Search Tree      | Finished   | Easy   |
 | 220              | 701              | Insert into a Binary Search Tree      | Finished   | Medium   |
-| 221              | 704              | Binary      | Finished   | Search   |
+| 221              | 704              | Binary Search      | Finished   | Easy   |
 | 222              | 707              | Design Linked List      | Finished   | Medium   |
 | 223              | 709              | To Lower Case      | Finished   | Easy   |
 | 224              | 728              | Self Dividing Numbers      | Finished   | Easy   |
@@ -254,7 +254,7 @@
 | 250              | 856              | Score of Parentheses      | Finished   | Medium   |
 | 251              | 866              | Prime Palindrome      | Finished   | Medium   |
 | 252              | 867              | Transpose Matrix      | Finished   | Easy   |
-| 253              | 876              | Middle of the Linked      | Finished   | List   |
+| 253              | 876              | Middle of the Linked List      | Finished   | Easy   |
 | 254              | 889              | Construct Binary Tree from Preorder and Postorder Traversal      | Finished   | Medium   |
 | 255              | 890              | Find and Replace Pattern      | Finished   | Medium   |
 | 256              | 893              | Groups of Special Equivalent Strings      | Finished   | Easy   |
@@ -274,7 +274,7 @@
 | 270              | 946              | Validate Stack Sequences      | Finished   | Medium   |
 | 271              | 950              | Reveal Cards In Increasing Order      | Finished   | Medium   |
 | 272              | 961              | N Repeated Element in Size 2N Array      | Finished   | Easy   |
-| 273              | 965              | Univalued Binary      | Finished   | Tree   |
+| 273              | 965              | Univalued Binary Tree      | Finished   | Easy   |
 | 274              | 973              | K Closest Points to Origin      | Finished   | Medium   |
 | 275              | 976              | Largest Perimeter Triangle      | Finished   | Easy   |
 | 276              | 977              | Squares of a Sorted Array      | Finished   | Easy   |
@@ -285,7 +285,7 @@
 | 281              | 994              | Rotting Oranges      | Finished   | Medium   |
 | 282              | 997              | Find the Town Judge      | Finished   | Easy   |
 | 283              | 998              | Maximum Binary Tree II      | Finished   | Medium   |
-| 284              | 999              | Available Captures for      | Finished   | Rook   |
+| 284              | 999              | Available Captures for Rook      | Finished   | Easy   |
 | 285              | 1002              | Find Common Characters      | Finished   | Easy   |
 | 286              | 1003              | Check If Word Is Valid After Substitutions      | Finished   | Medium   |
 | 287              | 1005              | Maximize Sum Of Array After K Negations      | Finished   | Easy   |
@@ -402,18 +402,18 @@
 | 398              | 1394              | Find Lucky Integer in an Array      | Finished   | Easy   |
 | 399              | 1395              | Count Number of Teams      | Finished   | Medium   |
 | 400              | 1396              | Design Underground System      | Finished   | Medium   |
-| 401              | 1399              | Count Largest      | Finished   | Group   |
-| 402              | 1400              | Construct K Palindrome      | Finished   | Strings   |
-| 403              | 1402              | Reducing      | Finished   | Dishes   |
-| 404              | 1403              | Minimum Subsequence in Non Increasing      | Finished   | Order   |
-| 405              | 1404              | Number of Steps to Reduce a Number in Binary Representation to      | Finished   | One   |
+| 401              | 1399              | Count Largest Group      | Finished   | Easy   |
+| 402              | 1400              | Construct K Palindrome Strings      | Finished   | Medium   |
+| 403              | 1402              | Reducing Dishes      | Finished   | Hard   |
+| 404              | 1403              | Minimum Subsequence in Non Increasing Order      | Finished   | Easy   |
+| 405              | 1404              | Number of Steps to Reduce a Number in Binary Representation to One      | Finished   | Medium   |
 | 406              | 1408              | String Matching in an Array      | Finished   | Easy   |
 | 407              | 1409              | Queries on a Permutation With Key      | Finished   | Medium   |
 | 408              | 1410              | HTML Entity Parser      | Finished   | Medium   |
 | 409              | 1411              | Number of Ways to Paint N × 3 Grid      | Finished   | Hard   |
-| 410              | 1413              | Minimum Value to Get Positive Step by Step      | Finished   | Sum   |
-| 411              | 1414              | Find the Minimum Number  of Fibonacci Numbers Whose Sum Is      | Finished   | K   |
-| 412              | 1415              | The k th Lexicographical String of All Happy Strings of Length      | Finished   | n   |
+| 410              | 1413              | Minimum Value to Get Positive Step by Step Sum      | Finished   | Easy   |
+| 411              | 1414              | Find the Minimum Number  of Fibonacci Numbers Whose Sum Is K      | Finished   | Medium   |
+| 412              | 1415              | The k th Lexicographical String of All Happy Strings of Length n      | Finished   | Medium   |
 | 413              | 1417              | Reformat The String      | Finished   | Easy   |
 | 414              | 1418              | Display Table of Food Orders in a Restaurant      | Finished   | Medium   |
 | 415              | 1419              | Minimum Number of Frogs Croaking      | Finished   | Medium   |
