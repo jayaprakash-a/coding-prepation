@@ -151,6 +151,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 349;Intersection of Two Arrays;Finished;Easy,two-pointers,hash-table,sort,binary-search
 350;Intersection of Two Arrays II;Finished;Easy,two-pointers,hash-table,sort,binary-search
 357;Count Numbers with Unique Digits;Finished;Medium,dynamic-programming,math
+365;Water and Jug Problem;Finished;Medium,math
 367;Valid Perfect Square;Finished;Easy,math,binary-search
 374;Guess Number Higher or Lower;Finished;Easy,binary-search
 383;Ransom Note;Finished;Easy,string
@@ -182,6 +183,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 462;Minimum Moves to Equal Array Elements II;Finished;Medium,math
 468;Validate IP Address;Finished;Medium,string
 476;Number Complement;Finished;Easy,bit-manipulation
+477;Total Hamming Distance;Finished;Medium,bit-manipulation
 482;License Key Formatting;Finished;Easy
 485;Max Consecutive Ones;Finished;Easy,arrays
 495;Teemo Attacking;Finished;Medium,arrays
