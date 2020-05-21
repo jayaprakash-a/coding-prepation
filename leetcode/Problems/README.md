@@ -210,267 +210,276 @@
 | 206              | 557              | Reverse Words in a String III      | Finished   | Easy   |
 | 207              | 559              | Maximum Depth of N ary Tree      | Finished   | Easy   |
 | 208              | 560              | Subarray Sum Equals K      | Finished   | Medium   |
-| 209              | 567              | Permutation in String      | Finished   | Medium   |
-| 210              | 575              | Distribute Candies      | Finished   | Easy   |
-| 211              | 581              | Shortest Unsorted Continuous Subarray      | Finished   | Easy   |
-| 212              | 583              | Delete Operation for Two Strings      | Finished   | Medium   |
-| 213              | 589              | N ary Tree Preorder Traversal      | Finished   | Easy   |
-| 214              | 590              | N ary Tree Postorder Traversal      | Finished   | Easy   |
-| 215              | 593              | Valid Square      | Finished   | Medium   |
-| 216              | 599              | Minimum Index Sum of Two Lists      | Finished   | Easy   |
-| 217              | 605              | Can Place Flowers      | Finished   | Easy   |
-| 218              | 617              | Merge Two Binary Trees      | Finished   | Easy   |
-| 219              | 628              | Maximum Product of Three Numbers      | Finished   | Easy   |
-| 220              | 633              | Sum of Square Numbers      | Finished   | Easy   |
-| 221              | 637              | Average of Levels in Binary Tree      | Finished   | Easy   |
-| 222              | 643              | Maximum Average Subarray I      | Finished   | Easy   |
-| 223              | 645              | Set Mismatch      | Finished   | Easy   |
-| 224              | 647              | Palindromic Substrings      | Finished   | Medium   |
-| 225              | 648              | Replace Words      | Finished   | Medium   |
-| 226              | 653              | Two Sum IV Input is a BST      | Finished   | Easy   |
-| 227              | 654              | Maximum Binary Tree      | Finished   | Medium   |
-| 228              | 657              | Robot Return to Origin      | Finished   | Easy   |
-| 229              | 658              | Find K Closest Elements      | Finished   | Medium   |
-| 230              | 661              | Image Smoother      | Finished   | Easy   |
-| 231              | 670              | Maximum Swap      | Finished   | Medium   |
-| 232              | 674              | Longest Continuous Increasing Subsequence      | Finished   | Easy   |
-| 233              | 676              | Implement Magic Dictionary      | Finished   | Medium   |
-| 234              | 677              | Map Sum Pairs      | Finished   | Medium   |
-| 235              | 678              | Valid Parenthesis String      | Finished   | Medium   |
-| 236              | 684              | Redundant Connection      | Finished   | Medium   |
-| 237              | 686              | Repeated String Match      | Finished   | Easy   |
-| 238              | 692              | Top K Frequent Words      | Finished   | Medium   |
-| 239              | 693              | Binary Number with Alternating Bits      | Finished   | Easy   |
-| 240              | 700              | Search in a Binary Search Tree      | Finished   | Easy   |
-| 241              | 701              | Insert into a Binary Search Tree      | Finished   | Medium   |
-| 242              | 703              | Kth Largest Element in a Stream      | Finished   | Easy   |
-| 243              | 704              | Binary Search      | Finished   | Easy   |
-| 244              | 705              | Design HashSet      | Finished   | Easy   |
-| 245              | 707              | Design Linked List      | Finished   | Medium   |
-| 246              | 709              | To Lower Case      | Finished   | Easy   |
-| 247              | 724              | Find Pivot Index      | Finished   | Easy   |
-| 248              | 725              | Split Linked List in Parts      | Finished   | Medium   |
-| 249              | 728              | Self Dividing Numbers      | Finished   | Easy   |
-| 250              | 733              | Flood Fill      | Finished   | Easy   |
-| 251              | 740              | Delete and Earn      | Finished   | Medium   |
-| 252              | 744              | Find Smallest Letter Greater Than Target      | Finished   | Easy   |
-| 253              | 747              | Largest Number At Least Twice of Others      | Finished   | Easy   |
-| 254              | 754              | Reach a Number      | Finished   | Medium   |
-| 255              | 762              | Prime Number of Set Bits in Binary Representation      | Finished   | Easy   |
-| 256              | 763              | Partition Labels      | Finished   | Medium   |
-| 257              | 771              | Jewels and Stones      | Finished   | Easy   |
-| 258              | 779              | K th Symbol in Grammar      | Finished   | Medium   |
-| 259              | 783              | Minimum Distance Between BST Nodes      | Finished   | Easy   |
-| 260              | 791              | Custom Sort String      | Finished   | Medium   |
-| 261              | 796              | Rotate String      | Finished   | Easy   |
-| 262              | 804              | Unique Morse Code Words      | Finished   | Easy   |
-| 263              | 807              | Max Increase to Keep City Skyline      | Finished   | Medium   |
-| 264              | 814              | Binary Tree Pruning      | Finished   | Medium   |
-| 265              | 817              | Linked List Components      | Finished   | Medium   |
-| 266              | 819              | Most Common Word      | Finished   | Easy   |
-| 267              | 824              | Goat Latin      | Finished   | Easy   |
-| 268              | 826              | Most Profit Assigning Work      | Finished   | Medium   |
-| 269              | 832              | Flipping an Image      | Finished   | Easy   |
-| 270              | 841              | Keys and Rooms      | Finished   | Medium   |
-| 271              | 842              | Split Array into Fibonacci Sequence      | Finished   | Medium   |
-| 272              | 844              | Backspace String Compare      | Finished   | Easy   |
-| 273              | 848              | Shifting Letters      | Finished   | Medium   |
-| 274              | 852              | Peak Index in a Mountain Array      | Finished   | Easy   |
-| 275              | 853              | Car Fleet      | Finished   | Medium   |
-| 276              | 856              | Score of Parentheses      | Finished   | Medium   |
-| 277              | 866              | Prime Palindrome      | Finished   | Medium   |
-| 278              | 867              | Transpose Matrix      | Finished   | Easy   |
-| 279              | 876              | Middle of the Linked List      | Finished   | Easy   |
-| 280              | 889              | Construct Binary Tree from Preorder and Postorder Traversal      | Finished   | Medium   |
-| 281              | 890              | Find and Replace Pattern      | Finished   | Medium   |
-| 282              | 893              | Groups of Special Equivalent Strings      | Finished   | Easy   |
-| 283              | 897              | Increasing Order Search Tree      | Finished   | Easy   |
-| 284              | 904              | Fruit Into Baskets      | Finished   | Medium   |
-| 285              | 905              | Sort Array By Parity      | Finished   | Easy   |
-| 286              | 912              | Sort an Array      | Finished   | Medium   |
-| 287              | 914              | X of a Kind in a Deck of Cards      | Finished   | Easy   |
-| 288              | 915              | Partition Array into Disjoint Intervals      | Finished   | Medium   |
-| 289              | 917              | Reverse Only Letters      | Finished   | Easy   |
-| 290              | 918              | Maximum Sum Circular Subarray      | Finished   | Medium   |
-| 291              | 921              | Minimum Add to Make Parentheses Valid      | Finished   | Medium   |
-| 292              | 922              | Sort Array By Parity II      | Finished   | Easy   |
-| 293              | 929              | Unique Email Addresses      | Finished   | Easy   |
-| 294              | 935              | Knight Dialer      | Finished   | Medium   |
-| 295              | 938              | Range Sum of BST      | Finished   | Easy   |
-| 296              | 941              | Valid Mountain Array      | Finished   | Easy   |
-| 297              | 942              | DI String Match      | Finished   | Easy   |
-| 298              | 946              | Validate Stack Sequences      | Finished   | Medium   |
-| 299              | 950              | Reveal Cards In Increasing Order      | Finished   | Medium   |
-| 300              | 961              | N Repeated Element in Size 2N Array      | Finished   | Easy   |
-| 301              | 965              | Univalued Binary Tree      | Finished   | Easy   |
-| 302              | 973              | K Closest Points to Origin      | Finished   | Medium   |
-| 303              | 974              | Subarray Sums Divisible by K      | Finished   | Medium   |
-| 304              | 976              | Largest Perimeter Triangle      | Finished   | Easy   |
-| 305              | 977              | Squares of a Sorted Array      | Finished   | Easy   |
-| 306              | 978              | Longest Turbulent Subarray      | Finished   | Medium   |
-| 307              | 984              | String Without A A or BBB      | Finished   | Medium   |
-| 308              | 986              | Interval List Intersections      | Finished   | Medium   |
-| 309              | 990              | Satisfiability of Equality Equations      | Finished   | Medium   |
-| 310              | 991              | Broken Calculator      | Finished   | Medium   |
-| 311              | 993              | Cousins in Binary Tree      | Finished   | Easy   |
-| 312              | 994              | Rotting Oranges      | Finished   | Medium   |
-| 313              | 997              | Find the Town Judge      | Finished   | Easy   |
-| 314              | 998              | Maximum Binary Tree II      | Finished   | Medium   |
-| 315              | 999              | Available Captures for Rook      | Finished   | Easy   |
-| 316              | 1002              | Find Common Characters      | Finished   | Easy   |
-| 317              | 1003              | Check If Word Is Valid After Substitutions      | Finished   | Medium   |
-| 318              | 1005              | Maximize Sum Of Array After K Negations      | Finished   | Easy   |
-| 319              | 1008              | Construct Binary Search Tree from Preorder Traversal      | Finished   | Medium   |
-| 320              | 1009              | Complement of Base 10 Integer      | Finished   | Easy   |
-| 321              | 1013              | Partition Array Into Three Parts With Equal Sum      | Finished   | Easy   |
-| 322              | 1015              | Smallest Integer Divisible by K      | Finished   | Medium   |
-| 323              | 1016              | Binary String With Substrings Representing 1 To N      | Finished   | Medium   |
-| 324              | 1018              | Binary Prefix Divisible By 5      | Finished   | Easy   |
-| 325              | 1021              | Remove Outermost Parentheses      | Finished   | Easy   |
-| 326              | 1022              | Sum of Root To Leaf Binary      | Finished   | Numbers   |
-| 327              | 1023              | Camelcase Matching      | Finished   | Medium   |
-| 328              | 1030              | Matrix Cells in Distance Order      | Finished   | Easy   |
-| 329              | 1038              | Binary Search Tree to Greater Sum Tree      | Finished   | Medium   |
-| 330              | 1046              | Last Stone Weight      | Finished   | Easy   |
-| 331              | 1051              | Height Checker      | Finished   | Easy   |
-| 332              | 1052              | Grumpy Bookstore Owner      | Finished   | Medium   |
-| 333              | 1054              | Distant Barcodes      | Finished   | Medium   |
-| 334              | 1078              | Occurrences After Bigram      | Finished   | Easy   |
-| 335              | 1081              | Smallest Subsequence of Distinct Characters      | Finished   | Medium   |
-| 336              | 1089              | Duplicate Zeros      | Finished   | Easy   |
-| 337              | 1090              | Largest Values From Labels      | Finished   | Medium   |
-| 338              | 1093              | Statistics from a Large Sample      | Finished   | Medium   |
-| 339              | 1104              | Path In Zigzag Labelled Binary Tree      | Finished   | Medium   |
-| 340              | 1106              | Parsing A Boolean Expression      | Finished   | Hard   |
-| 341              | 1108              | Defanging an IP Address      | Finished   | Easy   |
-| 342              | 1122              | Relative Sort Array      | Finished   | Easy   |
-| 343              | 1123              | Lowest Common Ancestor of Deepest Leaves      | Finished   | Medium   |
-| 344              | 1128              | Number of Equivalent Domino Pairs      | Finished   | Easy   |
-| 345              | 1131              | Maximum of Absolute Value Expression      | Finished   | Medium   |
-| 346              | 1137              | N th Tribonacci Number      | Finished   | Easy   |
-| 347              | 1138              | Alphabet Board Path      | Finished   | Medium   |
-| 348              | 1143              | Longest Common Subsequence      | Finished   | Medium   |
-| 349              | 1144              | Decrease Elements To Make Array Zigzag      | Finished   | Medium   |
-| 350              | 1161              | Maximum Level Sum of a Binary Tree      | Finished   | Medium   |
-| 351              | 1170              | Compare Strings by Frequency of the Smallest Character      | Finished   | Easy   |
-| 352              | 1175              | Prime Arrangements      | Finished   | Easy   |
-| 353              | 1186              | Maximum Subarray Sum with One Deletion      | Finished   | Medium   |
-| 354              | 1189              | Maximum Number of Balloons      | Finished   | Easy   |
-| 355              | 1190              | Reverse Substrings Between Each Pair of Parentheses      | Finished   | Medium   |
-| 356              | 1191              | K Concatenation Maximum Sum      | Finished   | Medium   |
-| 357              | 1200              | Minimum Absolute Difference      | Finished   | Easy   |
-| 358              | 1207              | Unique Number of Occurrences      | Finished   | Easy   |
-| 359              | 1208              | Get Equal Substrings Within Budget      | Finished   | Medium   |
-| 360              | 1209              | Remove All Adjacent Duplicates in String II      | Finished   | Medium   |
-| 361              | 1217              | Play with Chips      | Finished   | Easy   |
-| 362              | 1221              | Split a String in Balanced Strings      | Finished   | Easy   |
-| 363              | 1232              | Check If It Is a Straight Line      | Finished   | Easy   |
-| 364              | 1233              | Remove Sub Folders from the Filesystem      | Finished   | Medium   |
-| 365              | 1238              | Circular Permutation in Binary Representation      | Finished   | Medium   |
-| 366              | 1247              | Minimum Swaps to Make Strings Equal      | Finished   | Medium   |
-| 367              | 1248              | Count Number of Nice Subarrays      | Finished   | Medium   |
-| 368              | 1252              | Cells with Odd Values in a Matrix      | Finished   | Easy   |
-| 369              | 1260              | Shift 2D Grid      | Finished   | Easy   |
-| 370              | 1261              | Find Elements in a Contaminated Binary Tree      | Finished   | Medium   |
-| 371              | 1266              | Minimum Time Visiting All Points      | Finished   | Easy   |
-| 372              | 1267              | Count Servers that Communicate      | Finished   | Medium   |
-| 373              | 1268              | Search Suggestions System      | Finished   | Medium   |
-| 374              | 1275              | Find Winner on a Tic Tac Toe Game      | Finished   | Easy   |
-| 375              | 1276              | Number of Burgers with No Waste of Ingredients      | Finished   | Medium   |
-| 376              | 1281              | Subtract the Product and Sum of Digits of an Integer      | Finished   | Easy   |
-| 377              | 1282              | Group the People Given the Group Size They Belong To      | Finished   | Medium   |
-| 378              | 1283              | Find the Smallest Divisor Given a Threshold      | Finished   | Medium   |
-| 379              | 1287              | Element Appearing More Than 25% In Sorted Array      | Finished   | Easy   |
-| 380              | 1290              | Convert Binary Number in a Linked List to Integer      | Finished   | Easy   |
-| 381              | 1295              | Find Numbers with Even Number of Digits      | Finished   | Easy   |
-| 382              | 1299              | Replace Elements with Greatest Element on Right Side      | Finished   | Easy   |
-| 383              | 1302              | Deepest Leaves Sum      | Finished   | Medium   |
-| 384              | 1304              | Find N Unique Integers Sum up to Zero      | Finished   | Easy   |
-| 385              | 1305              | All Elements in Two Binary Search Trees      | Finished   | Medium   |
-| 386              | 1309              | Decrypt String from Alphabet to Integer Mapping      | Finished   | Easy   |
-| 387              | 1310              | XOR Queries of a Subarray      | Finished   | Medium   |
-| 388              | 1312              | Minimum Insertion Steps to Make a String Palindrome      | Finished   | Hard   |
-| 389              | 1313              | Decompress Run Length Encoded List      | Finished   | Easy   |
-| 390              | 1315              | Sum of Nodes with Even Valued Grandparent      | Finished   | Medium   |
-| 391              | 1317              | Convert Integer to the Sum of Two No Zero Integers      | Finished   | Easy   |
-| 392              | 1318              | Minimum Flips to Make a OR b Equal to c      | Finished   | Medium   |
-| 393              | 1323              | Maximum 69 Number      | Finished   | Easy   |
-| 394              | 1324              | Print Words Vertically      | Finished   | Medium   |
-| 395              | 1325              | Delete Leaves With a Given Value      | Finished   | Medium   |
-| 396              | 1328              | Break a Palindrome      | Finished   | Medium   |
-| 397              | 1329              | Sort the Matrix Diagonally      | Finished   | Medium   |
-| 398              | 1331              | Rank Transform of an Array      | Finished   | Easy   |
-| 399              | 1332              | Remove Palindromic Subsequences      | Finished   | Easy   |
-| 400              | 1333              | Filter Restaurants by Vegan Friendly, Price and Distance      | Finished   | Medium   |
-| 401              | 1337              | The K Weakest Rows in a Matrix      | Finished   | Easy   |
-| 402              | 1338              | Reduce Array Size to The Half      | Finished   | Medium   |
-| 403              | 1339              | Maximum Product of Splitted Binary Tree      | Finished   | Medium   |
-| 404              | 1342              | Number of Steps to Reduce a Number to Zero      | Finished   | Easy   |
-| 405              | 1343              | Number of Sub arrays of Size K and Average Greater than or Equal to Threshold      | Finished   | Medium   |
-| 406              | 1344              | Angle Between Hands of a Clock      | Finished   | Medium   |
-| 407              | 1346              | Check If N and Its Double Exist      | Finished   | Easy   |
-| 408              | 1347              | Minimum Number of Steps to Make Two Strings Anagram      | Finished   | Medium   |
-| 409              | 1351              | Count Negative Numbers in a Sorted Matrix      | Finished   | Easy   |
-| 410              | 1352              | Product of the Last K Numbers      | Finished   | Medium   |
-| 411              | 1353              | Maximum Number of Events That Can Be Attended      | Finished   | Medium   |
-| 412              | 1356              | Sort Integers by The Number of 1 Bits      | Finished   | Easy   |
-| 413              | 1357              | Apply Discount Every n Orders      | Finished   | Medium   |
-| 414              | 1358              | Number of Substrings Containing All Three Characters      | Finished   | Medium   |
-| 415              | 1361              | Validate Binary Tree Nodes      | Finished   | Medium   |
-| 416              | 1362              | Closest Divisors      | Finished   | Medium   |
-| 417              | 1365              | How Many  Numbers Are Smaller Than the Current Number      | Finished   | Easy   |
-| 418              | 1367              | Linked List in Binary Tree      | Finished   | Medium   |
-| 419              | 1370              | Increasing Decreasing String      | Finished   | Easy   |
-| 420              | 1372              | Longest ZigZag Path in a Binary Tree      | Finished   | Medium   |
-| 421              | 1374              | Generate a String With Characters That Have Odd Counts      | Finished   | Easy   |
-| 422              | 1375              | Bulb Switcher III      | Finished   | Medium   |
-| 423              | 1376              | Time Needed to Inform All Employees      | Finished   | Medium   |
-| 424              | 1377              | Frog Position After T Seconds      | Finished   | Hard   |
-| 425              | 1379              | Find a Corresponding Node of a Binary Tree in a Clone of That Tree      | Finished   | Medium   |
-| 426              | 1380              | Lucky Numbers in a Matrix      | Finished   | Easy   |
-| 427              | 1381              | Design a Stack With Increment Operation      | Finished   | Medium   |
-| 428              | 1382              | Balance a Binary Search Tree      | Finished   | Medium   |
-| 429              | 1385              | Find the Distance Value Between Two Arrays      | Finished   | Easy   |
-| 430              | 1386              | Cinema Seat Allocation      | Finished   | Medium   |
-| 431              | 1387              | Sort Integers by The Power Value      | Finished   | Medium   |
-| 432              | 1389              | Create Target Array in the Given Order      | Finished   | Easy   |
-| 433              | 1390              | Four Divisors      | Finished   | Medium   |
-| 434              | 1391              | Check if There is a Valid Path in a Grid      | Finished   | Medium   |
-| 435              | 1392              | Longest Happy Prefix      | Finished   | Hard   |
-| 436              | 1394              | Find Lucky Integer in an Array      | Finished   | Easy   |
-| 437              | 1395              | Count Number of Teams      | Finished   | Medium   |
-| 438              | 1396              | Design Underground System      | Finished   | Medium   |
-| 439              | 1399              | Count Largest Group      | Finished   | Easy   |
-| 440              | 1400              | Construct K Palindrome Strings      | Finished   | Medium   |
-| 441              | 1402              | Reducing Dishes      | Finished   | Hard   |
-| 442              | 1403              | Minimum Subsequence in Non Increasing Order      | Finished   | Easy   |
-| 443              | 1404              | Number of Steps to Reduce a Number in Binary Representation to One      | Finished   | Medium   |
-| 444              | 1408              | String Matching in an Array      | Finished   | Easy   |
-| 445              | 1409              | Queries on a Permutation With Key      | Finished   | Medium   |
-| 446              | 1410              | HTML Entity Parser      | Finished   | Medium   |
-| 447              | 1411              | Number of Ways to Paint N × 3 Grid      | Finished   | Hard   |
-| 448              | 1413              | Minimum Value to Get Positive Step by Step Sum      | Finished   | Easy   |
-| 449              | 1414              | Find the Minimum Number  of Fibonacci Numbers Whose Sum Is K      | Finished   | Medium   |
-| 450              | 1415              | The k th Lexicographical String of All Happy Strings of Length n      | Finished   | Medium   |
-| 451              | 1417              | Reformat The String      | Finished   | Easy   |
-| 452              | 1418              | Display Table of Food Orders in a Restaurant      | Finished   | Medium   |
-| 453              | 1419              | Minimum Number of Frogs Croaking      | Finished   | Medium   |
-| 454              | 1422              | Maximum Score After Splitting a String      | Finished   | Easy   |
-| 455              | 1423              | Maximum Points You Can Obtain from Cards      | Finished   | Medium   |
-| 456              | 1424              | Diagonal Traverse II      | Finished   | Medium   |
-| 457              | 1431              | Kids With the Greatest Number of Candies      | Finished   | Easy   |
-| 458              | 1432              | Max Difference You Can Get From Changing an Integer      | Finished   | Medium   |
-| 459              | 1433              | Check If a String Can Break Another String      | Finished   | Medium   |
-| 460              | 1436              | Destination City      | Finished   | Easy   |
-| 461              | 1437              | Check If All 1's Are at Least Length K Places Away      | Finished   | Medium   |
-| 462              | 1438              | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit      | Finished   | Medium   |
-| 463              | 1441              | Build an Array With Stack Operations      | Finished   | Easy   |
-| 464              | 1442              | Count Triplets That Can Form Two Arrays of Equal XOR      | Finished   | Medium   |
-| 465              | 1443              | Minimum Time to Collect All Apples in a Tree      | Finished   | Medium   |
-| 466              | 1444              | Number of Ways of Cutting a Pizza      | Finished   | Hard   |
-| 467              | 1446              | Consecutive Characters      | Finished   | Easy   |
-| 468              | 1447              | Simplified Fractions      | Finished   | Medium   |
-| 469              | 1448              | Count Good Nodes in Binary Tree      | Finished   | Medium   |
-| 470              | 1450              | Number of Students Doing Homework at a Given Time      | Finished   | Easy   |
-| 471              | 1451              | Rearrange Words in a Sentence      | Finished   | Easy   |
-| 472              | 1452              | People Whose List of Favorite Companies Is Not a Subset of Another List      | Finished   | Medium   |
+| 209              | 565              | Array Nesting      | Finished   | Medium   |
+| 210              | 567              | Permutation in String      | Finished   | Medium   |
+| 211              | 575              | Distribute Candies      | Finished   | Easy   |
+| 212              | 581              | Shortest Unsorted Continuous Subarray      | Finished   | Easy   |
+| 213              | 583              | Delete Operation for Two Strings      | Finished   | Medium   |
+| 214              | 589              | N ary Tree Preorder Traversal      | Finished   | Easy   |
+| 215              | 590              | N ary Tree Postorder Traversal      | Finished   | Easy   |
+| 216              | 593              | Valid Square      | Finished   | Medium   |
+| 217              | 599              | Minimum Index Sum of Two Lists      | Finished   | Easy   |
+| 218              | 605              | Can Place Flowers      | Finished   | Easy   |
+| 219              | 609              | Find Duplicate File in System      | Finished   | Medium   |
+| 220              | 617              | Merge Two Binary Trees      | Finished   | Easy   |
+| 221              | 628              | Maximum Product of Three Numbers      | Finished   | Easy   |
+| 222              | 633              | Sum of Square Numbers      | Finished   | Easy   |
+| 223              | 637              | Average of Levels in Binary Tree      | Finished   | Easy   |
+| 224              | 643              | Maximum Average Subarray I      | Finished   | Easy   |
+| 225              | 645              | Set Mismatch      | Finished   | Easy   |
+| 226              | 647              | Palindromic Substrings      | Finished   | Medium   |
+| 227              | 648              | Replace Words      | Finished   | Medium   |
+| 228              | 653              | Two Sum IV Input is a BST      | Finished   | Easy   |
+| 229              | 654              | Maximum Binary Tree      | Finished   | Medium   |
+| 230              | 657              | Robot Return to Origin      | Finished   | Easy   |
+| 231              | 658              | Find K Closest Elements      | Finished   | Medium   |
+| 232              | 661              | Image Smoother      | Finished   | Easy   |
+| 233              | 670              | Maximum Swap      | Finished   | Medium   |
+| 234              | 674              | Longest Continuous Increasing Subsequence      | Finished   | Easy   |
+| 235              | 676              | Implement Magic Dictionary      | Finished   | Medium   |
+| 236              | 677              | Map Sum Pairs      | Finished   | Medium   |
+| 237              | 678              | Valid Parenthesis String      | Finished   | Medium   |
+| 238              | 684              | Redundant Connection      | Finished   | Medium   |
+| 239              | 686              | Repeated String Match      | Finished   | Easy   |
+| 240              | 692              | Top K Frequent Words      | Finished   | Medium   |
+| 241              | 693              | Binary Number with Alternating Bits      | Finished   | Easy   |
+| 242              | 700              | Search in a Binary Search Tree      | Finished   | Easy   |
+| 243              | 701              | Insert into a Binary Search Tree      | Finished   | Medium   |
+| 244              | 703              | Kth Largest Element in a Stream      | Finished   | Easy   |
+| 245              | 704              | Binary Search      | Finished   | Easy   |
+| 246              | 705              | Design HashSet      | Finished   | Easy   |
+| 247              | 707              | Design Linked List      | Finished   | Medium   |
+| 248              | 709              | To Lower Case      | Finished   | Easy   |
+| 249              | 724              | Find Pivot Index      | Finished   | Easy   |
+| 250              | 725              | Split Linked List in Parts      | Finished   | Medium   |
+| 251              | 728              | Self Dividing Numbers      | Finished   | Easy   |
+| 252              | 733              | Flood Fill      | Finished   | Easy   |
+| 253              | 740              | Delete and Earn      | Finished   | Medium   |
+| 254              | 744              | Find Smallest Letter Greater Than Target      | Finished   | Easy   |
+| 255              | 747              | Largest Number At Least Twice of Others      | Finished   | Easy   |
+| 256              | 754              | Reach a Number      | Finished   | Medium   |
+| 257              | 762              | Prime Number of Set Bits in Binary Representation      | Finished   | Easy   |
+| 258              | 763              | Partition Labels      | Finished   | Medium   |
+| 259              | 771              | Jewels and Stones      | Finished   | Easy   |
+| 260              | 779              | K th Symbol in Grammar      | Finished   | Medium   |
+| 261              | 783              | Minimum Distance Between BST Nodes      | Finished   | Easy   |
+| 262              | 791              | Custom Sort String      | Finished   | Medium   |
+| 263              | 796              | Rotate String      | Finished   | Easy   |
+| 264              | 804              | Unique Morse Code Words      | Finished   | Easy   |
+| 265              | 807              | Max Increase to Keep City Skyline      | Finished   | Medium   |
+| 266              | 814              | Binary Tree Pruning      | Finished   | Medium   |
+| 267              | 817              | Linked List Components      | Finished   | Medium   |
+| 268              | 819              | Most Common Word      | Finished   | Easy   |
+| 269              | 824              | Goat Latin      | Finished   | Easy   |
+| 270              | 826              | Most Profit Assigning Work      | Finished   | Medium   |
+| 271              | 832              | Flipping an Image      | Finished   | Easy   |
+| 272              | 841              | Keys and Rooms      | Finished   | Medium   |
+| 273              | 842              | Split Array into Fibonacci Sequence      | Finished   | Medium   |
+| 274              | 844              | Backspace String Compare      | Finished   | Easy   |
+| 275              | 848              | Shifting Letters      | Finished   | Medium   |
+| 276              | 852              | Peak Index in a Mountain Array      | Finished   | Easy   |
+| 277              | 853              | Car Fleet      | Finished   | Medium   |
+| 278              | 856              | Score of Parentheses      | Finished   | Medium   |
+| 279              | 866              | Prime Palindrome      | Finished   | Medium   |
+| 280              | 867              | Transpose Matrix      | Finished   | Easy   |
+| 281              | 876              | Middle of the Linked List      | Finished   | Easy   |
+| 282              | 878              | Nth Magical Number      | Finished   | Hard   |
+| 283              | 889              | Construct Binary Tree from Preorder and Postorder Traversal      | Finished   | Medium   |
+| 284              | 890              | Find and Replace Pattern      | Finished   | Medium   |
+| 285              | 892              | Surface Area of 3D Shapes      | Finished   | Easy   |
+| 286              | 893              | Groups of Special Equivalent Strings      | Finished   | Easy   |
+| 287              | 897              | Increasing Order Search Tree      | Finished   | Easy   |
+| 288              | 904              | Fruit Into Baskets      | Finished   | Medium   |
+| 289              | 905              | Sort Array By Parity      | Finished   | Easy   |
+| 290              | 912              | Sort an Array      | Finished   | Medium   |
+| 291              | 914              | X of a Kind in a Deck of Cards      | Finished   | Easy   |
+| 292              | 915              | Partition Array into Disjoint Intervals      | Finished   | Medium   |
+| 293              | 917              | Reverse Only Letters      | Finished   | Easy   |
+| 294              | 918              | Maximum Sum Circular Subarray      | Finished   | Medium   |
+| 295              | 921              | Minimum Add to Make Parentheses Valid      | Finished   | Medium   |
+| 296              | 922              | Sort Array By Parity II      | Finished   | Easy   |
+| 297              | 929              | Unique Email Addresses      | Finished   | Easy   |
+| 298              | 935              | Knight Dialer      | Finished   | Medium   |
+| 299              | 938              | Range Sum of BST      | Finished   | Easy   |
+| 300              | 941              | Valid Mountain Array      | Finished   | Easy   |
+| 301              | 942              | DI String Match      | Finished   | Easy   |
+| 302              | 946              | Validate Stack Sequences      | Finished   | Medium   |
+| 303              | 950              | Reveal Cards In Increasing Order      | Finished   | Medium   |
+| 304              | 961              | N Repeated Element in Size 2N Array      | Finished   | Easy   |
+| 305              | 965              | Univalued Binary Tree      | Finished   | Easy   |
+| 306              | 972              | Equal Rational Numbers      | Finished   | Hard   |
+| 307              | 973              | K Closest Points to Origin      | Finished   | Medium   |
+| 308              | 974              | Subarray Sums Divisible by K      | Finished   | Medium   |
+| 309              | 976              | Largest Perimeter Triangle      | Finished   | Easy   |
+| 310              | 977              | Squares of a Sorted Array      | Finished   | Easy   |
+| 311              | 978              | Longest Turbulent Subarray      | Finished   | Medium   |
+| 312              | 984              | String Without A A or BBB      | Finished   | Medium   |
+| 313              | 986              | Interval List Intersections      | Finished   | Medium   |
+| 314              | 990              | Satisfiability of Equality Equations      | Finished   | Medium   |
+| 315              | 991              | Broken Calculator      | Finished   | Medium   |
+| 316              | 993              | Cousins in Binary Tree      | Finished   | Easy   |
+| 317              | 994              | Rotting Oranges      | Finished   | Medium   |
+| 318              | 997              | Find the Town Judge      | Finished   | Easy   |
+| 319              | 998              | Maximum Binary Tree II      | Finished   | Medium   |
+| 320              | 999              | Available Captures for Rook      | Finished   | Easy   |
+| 321              | 1002              | Find Common Characters      | Finished   | Easy   |
+| 322              | 1003              | Check If Word Is Valid After Substitutions      | Finished   | Medium   |
+| 323              | 1005              | Maximize Sum Of Array After K Negations      | Finished   | Easy   |
+| 324              | 1008              | Construct Binary Search Tree from Preorder Traversal      | Finished   | Medium   |
+| 325              | 1009              | Complement of Base 10 Integer      | Finished   | Easy   |
+| 326              | 1010              | Pairs of Songs With Total Durations Divisible by 60      | Finished   | Easy   |
+| 327              | 1013              | Partition Array Into Three Parts With Equal Sum      | Finished   | Easy   |
+| 328              | 1015              | Smallest Integer Divisible by K      | Finished   | Medium   |
+| 329              | 1016              | Binary String With Substrings Representing 1 To N      | Finished   | Medium   |
+| 330              | 1018              | Binary Prefix Divisible By 5      | Finished   | Easy   |
+| 331              | 1021              | Remove Outermost Parentheses      | Finished   | Easy   |
+| 332              | 1022              | Sum of Root To Leaf Binary      | Finished   | Numbers   |
+| 333              | 1023              | Camelcase Matching      | Finished   | Medium   |
+| 334              | 1026              | Maximum Difference Between Node and Ancestor      | Finished   | Medium   |
+| 335              | 1030              | Matrix Cells in Distance Order      | Finished   | Easy   |
+| 336              | 1038              | Binary Search Tree to Greater Sum Tree      | Finished   | Medium   |
+| 337              | 1046              | Last Stone Weight      | Finished   | Easy   |
+| 338              | 1051              | Height Checker      | Finished   | Easy   |
+| 339              | 1052              | Grumpy Bookstore Owner      | Finished   | Medium   |
+| 340              | 1054              | Distant Barcodes      | Finished   | Medium   |
+| 341              | 1071              | Greatest Common Divisor of Strings      | Finished   | Easy   |
+| 342              | 1078              | Occurrences After Bigram      | Finished   | Easy   |
+| 343              | 1081              | Smallest Subsequence of Distinct Characters      | Finished   | Medium   |
+| 344              | 1089              | Duplicate Zeros      | Finished   | Easy   |
+| 345              | 1090              | Largest Values From Labels      | Finished   | Medium   |
+| 346              | 1093              | Statistics from a Large Sample      | Finished   | Medium   |
+| 347              | 1104              | Path In Zigzag Labelled Binary Tree      | Finished   | Medium   |
+| 348              | 1106              | Parsing A Boolean Expression      | Finished   | Hard   |
+| 349              | 1108              | Defanging an IP Address      | Finished   | Easy   |
+| 350              | 1122              | Relative Sort Array      | Finished   | Easy   |
+| 351              | 1123              | Lowest Common Ancestor of Deepest Leaves      | Finished   | Medium   |
+| 352              | 1128              | Number of Equivalent Domino Pairs      | Finished   | Easy   |
+| 353              | 1131              | Maximum of Absolute Value Expression      | Finished   | Medium   |
+| 354              | 1137              | N th Tribonacci Number      | Finished   | Easy   |
+| 355              | 1138              | Alphabet Board Path      | Finished   | Medium   |
+| 356              | 1143              | Longest Common Subsequence      | Finished   | Medium   |
+| 357              | 1144              | Decrease Elements To Make Array Zigzag      | Finished   | Medium   |
+| 358              | 1161              | Maximum Level Sum of a Binary Tree      | Finished   | Medium   |
+| 359              | 1170              | Compare Strings by Frequency of the Smallest Character      | Finished   | Easy   |
+| 360              | 1175              | Prime Arrangements      | Finished   | Easy   |
+| 361              | 1186              | Maximum Subarray Sum with One Deletion      | Finished   | Medium   |
+| 362              | 1189              | Maximum Number of Balloons      | Finished   | Easy   |
+| 363              | 1190              | Reverse Substrings Between Each Pair of Parentheses      | Finished   | Medium   |
+| 364              | 1191              | K Concatenation Maximum Sum      | Finished   | Medium   |
+| 365              | 1200              | Minimum Absolute Difference      | Finished   | Easy   |
+| 366              | 1207              | Unique Number of Occurrences      | Finished   | Easy   |
+| 367              | 1208              | Get Equal Substrings Within Budget      | Finished   | Medium   |
+| 368              | 1209              | Remove All Adjacent Duplicates in String II      | Finished   | Medium   |
+| 369              | 1217              | Play with Chips      | Finished   | Easy   |
+| 370              | 1221              | Split a String in Balanced Strings      | Finished   | Easy   |
+| 371              | 1232              | Check If It Is a Straight Line      | Finished   | Easy   |
+| 372              | 1233              | Remove Sub Folders from the Filesystem      | Finished   | Medium   |
+| 373              | 1238              | Circular Permutation in Binary Representation      | Finished   | Medium   |
+| 374              | 1247              | Minimum Swaps to Make Strings Equal      | Finished   | Medium   |
+| 375              | 1248              | Count Number of Nice Subarrays      | Finished   | Medium   |
+| 376              | 1249              | Minimum Remove to Make Valid Parentheses      | Finished   | Medium   |
+| 377              | 1252              | Cells with Odd Values in a Matrix      | Finished   | Easy   |
+| 378              | 1260              | Shift 2D Grid      | Finished   | Easy   |
+| 379              | 1261              | Find Elements in a Contaminated Binary Tree      | Finished   | Medium   |
+| 380              | 1266              | Minimum Time Visiting All Points      | Finished   | Easy   |
+| 381              | 1267              | Count Servers that Communicate      | Finished   | Medium   |
+| 382              | 1268              | Search Suggestions System      | Finished   | Medium   |
+| 383              | 1275              | Find Winner on a Tic Tac Toe Game      | Finished   | Easy   |
+| 384              | 1276              | Number of Burgers with No Waste of Ingredients      | Finished   | Medium   |
+| 385              | 1281              | Subtract the Product and Sum of Digits of an Integer      | Finished   | Easy   |
+| 386              | 1282              | Group the People Given the Group Size They Belong To      | Finished   | Medium   |
+| 387              | 1283              | Find the Smallest Divisor Given a Threshold      | Finished   | Medium   |
+| 388              | 1287              | Element Appearing More Than 25% In Sorted Array      | Finished   | Easy   |
+| 389              | 1290              | Convert Binary Number in a Linked List to Integer      | Finished   | Easy   |
+| 390              | 1295              | Find Numbers with Even Number of Digits      | Finished   | Easy   |
+| 391              | 1299              | Replace Elements with Greatest Element on Right Side      | Finished   | Easy   |
+| 392              | 1302              | Deepest Leaves Sum      | Finished   | Medium   |
+| 393              | 1304              | Find N Unique Integers Sum up to Zero      | Finished   | Easy   |
+| 394              | 1305              | All Elements in Two Binary Search Trees      | Finished   | Medium   |
+| 395              | 1309              | Decrypt String from Alphabet to Integer Mapping      | Finished   | Easy   |
+| 396              | 1310              | XOR Queries of a Subarray      | Finished   | Medium   |
+| 397              | 1312              | Minimum Insertion Steps to Make a String Palindrome      | Finished   | Hard   |
+| 398              | 1313              | Decompress Run Length Encoded List      | Finished   | Easy   |
+| 399              | 1315              | Sum of Nodes with Even Valued Grandparent      | Finished   | Medium   |
+| 400              | 1317              | Convert Integer to the Sum of Two No Zero Integers      | Finished   | Easy   |
+| 401              | 1318              | Minimum Flips to Make a OR b Equal to c      | Finished   | Medium   |
+| 402              | 1323              | Maximum 69 Number      | Finished   | Easy   |
+| 403              | 1324              | Print Words Vertically      | Finished   | Medium   |
+| 404              | 1325              | Delete Leaves With a Given Value      | Finished   | Medium   |
+| 405              | 1328              | Break a Palindrome      | Finished   | Medium   |
+| 406              | 1329              | Sort the Matrix Diagonally      | Finished   | Medium   |
+| 407              | 1331              | Rank Transform of an Array      | Finished   | Easy   |
+| 408              | 1332              | Remove Palindromic Subsequences      | Finished   | Easy   |
+| 409              | 1333              | Filter Restaurants by Vegan Friendly, Price and Distance      | Finished   | Medium   |
+| 410              | 1337              | The K Weakest Rows in a Matrix      | Finished   | Easy   |
+| 411              | 1338              | Reduce Array Size to The Half      | Finished   | Medium   |
+| 412              | 1339              | Maximum Product of Splitted Binary Tree      | Finished   | Medium   |
+| 413              | 1342              | Number of Steps to Reduce a Number to Zero      | Finished   | Easy   |
+| 414              | 1343              | Number of Sub arrays of Size K and Average Greater than or Equal to Threshold      | Finished   | Medium   |
+| 415              | 1344              | Angle Between Hands of a Clock      | Finished   | Medium   |
+| 416              | 1346              | Check If N and Its Double Exist      | Finished   | Easy   |
+| 417              | 1347              | Minimum Number of Steps to Make Two Strings Anagram      | Finished   | Medium   |
+| 418              | 1351              | Count Negative Numbers in a Sorted Matrix      | Finished   | Easy   |
+| 419              | 1352              | Product of the Last K Numbers      | Finished   | Medium   |
+| 420              | 1353              | Maximum Number of Events That Can Be Attended      | Finished   | Medium   |
+| 421              | 1356              | Sort Integers by The Number of 1 Bits      | Finished   | Easy   |
+| 422              | 1357              | Apply Discount Every n Orders      | Finished   | Medium   |
+| 423              | 1358              | Number of Substrings Containing All Three Characters      | Finished   | Medium   |
+| 424              | 1361              | Validate Binary Tree Nodes      | Finished   | Medium   |
+| 425              | 1362              | Closest Divisors      | Finished   | Medium   |
+| 426              | 1365              | How Many  Numbers Are Smaller Than the Current Number      | Finished   | Easy   |
+| 427              | 1367              | Linked List in Binary Tree      | Finished   | Medium   |
+| 428              | 1370              | Increasing Decreasing String      | Finished   | Easy   |
+| 429              | 1372              | Longest ZigZag Path in a Binary Tree      | Finished   | Medium   |
+| 430              | 1374              | Generate a String With Characters That Have Odd Counts      | Finished   | Easy   |
+| 431              | 1375              | Bulb Switcher III      | Finished   | Medium   |
+| 432              | 1376              | Time Needed to Inform All Employees      | Finished   | Medium   |
+| 433              | 1377              | Frog Position After T Seconds      | Finished   | Hard   |
+| 434              | 1379              | Find a Corresponding Node of a Binary Tree in a Clone of That Tree      | Finished   | Medium   |
+| 435              | 1380              | Lucky Numbers in a Matrix      | Finished   | Easy   |
+| 436              | 1381              | Design a Stack With Increment Operation      | Finished   | Medium   |
+| 437              | 1382              | Balance a Binary Search Tree      | Finished   | Medium   |
+| 438              | 1385              | Find the Distance Value Between Two Arrays      | Finished   | Easy   |
+| 439              | 1386              | Cinema Seat Allocation      | Finished   | Medium   |
+| 440              | 1387              | Sort Integers by The Power Value      | Finished   | Medium   |
+| 441              | 1389              | Create Target Array in the Given Order      | Finished   | Easy   |
+| 442              | 1390              | Four Divisors      | Finished   | Medium   |
+| 443              | 1391              | Check if There is a Valid Path in a Grid      | Finished   | Medium   |
+| 444              | 1392              | Longest Happy Prefix      | Finished   | Hard   |
+| 445              | 1394              | Find Lucky Integer in an Array      | Finished   | Easy   |
+| 446              | 1395              | Count Number of Teams      | Finished   | Medium   |
+| 447              | 1396              | Design Underground System      | Finished   | Medium   |
+| 448              | 1399              | Count Largest Group      | Finished   | Easy   |
+| 449              | 1400              | Construct K Palindrome Strings      | Finished   | Medium   |
+| 450              | 1402              | Reducing Dishes      | Finished   | Hard   |
+| 451              | 1403              | Minimum Subsequence in Non Increasing Order      | Finished   | Easy   |
+| 452              | 1404              | Number of Steps to Reduce a Number in Binary Representation to One      | Finished   | Medium   |
+| 453              | 1408              | String Matching in an Array      | Finished   | Easy   |
+| 454              | 1409              | Queries on a Permutation With Key      | Finished   | Medium   |
+| 455              | 1410              | HTML Entity Parser      | Finished   | Medium   |
+| 456              | 1411              | Number of Ways to Paint N × 3 Grid      | Finished   | Hard   |
+| 457              | 1413              | Minimum Value to Get Positive Step by Step Sum      | Finished   | Easy   |
+| 458              | 1414              | Find the Minimum Number  of Fibonacci Numbers Whose Sum Is K      | Finished   | Medium   |
+| 459              | 1415              | The k th Lexicographical String of All Happy Strings of Length n      | Finished   | Medium   |
+| 460              | 1417              | Reformat The String      | Finished   | Easy   |
+| 461              | 1418              | Display Table of Food Orders in a Restaurant      | Finished   | Medium   |
+| 462              | 1419              | Minimum Number of Frogs Croaking      | Finished   | Medium   |
+| 463              | 1422              | Maximum Score After Splitting a String      | Finished   | Easy   |
+| 464              | 1423              | Maximum Points You Can Obtain from Cards      | Finished   | Medium   |
+| 465              | 1424              | Diagonal Traverse II      | Finished   | Medium   |
+| 466              | 1431              | Kids With the Greatest Number of Candies      | Finished   | Easy   |
+| 467              | 1432              | Max Difference You Can Get From Changing an Integer      | Finished   | Medium   |
+| 468              | 1433              | Check If a String Can Break Another String      | Finished   | Medium   |
+| 469              | 1436              | Destination City      | Finished   | Easy   |
+| 470              | 1437              | Check If All 1's Are at Least Length K Places Away      | Finished   | Medium   |
+| 471              | 1438              | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit      | Finished   | Medium   |
+| 472              | 1441              | Build an Array With Stack Operations      | Finished   | Easy   |
+| 473              | 1442              | Count Triplets That Can Form Two Arrays of Equal XOR      | Finished   | Medium   |
+| 474              | 1443              | Minimum Time to Collect All Apples in a Tree      | Finished   | Medium   |
+| 475              | 1444              | Number of Ways of Cutting a Pizza      | Finished   | Hard   |
+| 476              | 1446              | Consecutive Characters      | Finished   | Easy   |
+| 477              | 1447              | Simplified Fractions      | Finished   | Medium   |
+| 478              | 1448              | Count Good Nodes in Binary Tree      | Finished   | Medium   |
+| 479              | 1450              | Number of Students Doing Homework at a Given Time      | Finished   | Easy   |
+| 480              | 1451              | Rearrange Words in a Sentence      | Finished   | Easy   |
+| 481              | 1452              | People Whose List of Favorite Companies Is Not a Subset of Another List      | Finished   | Medium   |
