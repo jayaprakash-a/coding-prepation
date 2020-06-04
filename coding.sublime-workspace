@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"cls",
+				"close"
+			],
+			[
+				"line",
+				"lineContent"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"lin",
+				"lineContent"
+			],
+			[
+				"fie",
+				"fileContent"
+			],
+			[
+				"file",
+				"filePtr"
+			],
+			[
 				"min",
 				"minJumps"
 			],
@@ -347,6 +371,76 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "leetcode/Problems/38--Count-and-Say.py",
+			"settings":
+			{
+				"buffer_size": 622,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Solution:"
+			}
+		},
+		{
+			"file": "leetcode/Problems/41--First-Missing-Positive.py",
+			"settings":
+			{
+				"buffer_size": 252,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Solution:"
+			}
+		},
+		{
+			"file": "leetcode/Problems/58--Length-of-Last-Word.py",
+			"settings":
+			{
+				"buffer_size": 200,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Solution:"
+			}
+		},
+		{
+			"file": "leetcode/Problems/69--Sqrt(x).py",
+			"settings":
+			{
+				"buffer_size": 181,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Solution:"
+			}
+		},
+		{
+			"file": "leetcode/Problems/168--Excel-Sheet-Column-Title.py",
+			"settings":
+			{
+				"buffer_size": 392,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Solution:"
+			}
+		},
+		{
+			"file": "leetcode/Problems/482--License-Key-Formatting.py",
+			"settings":
+			{
+				"buffer_size": 428,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Solution:"
+			}
+		},
+		{
+			"file": "leetcode/Problems/520--Detect-Capital.py",
+			"settings":
+			{
+				"buffer_size": 279,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Solution:"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -388,11 +482,115 @@
 	},
 	"expanded_folders":
 	[
-		"/home/jayaprakash/Documents/coding-prepation"
+		"/home/jayaprakash/Documents/coding-prepation",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode"
 	],
 	"file_history":
 	[
-		"/home/nagendra/Jayaprakash/coding-prepation/leetcode/1052--Grumpy-Bookstore-Owner.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1276--Number-of-Burgers-with-No-Waste-of-Ingredients.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/575--Distribute-Candies.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/744--Find-Smallest-Letter-Greater-Than-Target.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/654--Maximum-Binary-Tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/783--Minimum-Distance-Between-BST-Nodes.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/530--Minimum-Absolute-Difference-in-BST.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/357--Count-Numbers-with-Unique-Digits.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/236--Lowest-Common-Ancestor-of-a-Binary-Tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/867--Transpose-Matrix.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/523--Continuous-Subarray-Sum.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/71--Simplify-Path.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1128--Number-of-Equivalent-Domino-Pairs.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/525--Contiguous-Array.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/817--Linked-List-Components.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/700--Search-in-a-Binary-Search-Tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1190--Reverse-Substrings-Between-Each-Pair-of-Parentheses.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1175--Prime-Arrangements.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1170--Compare-Strings-by-Frequency-of-the-Smallest-Character.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/README.md",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/205--Isomorphic-Strings.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/217--Contains-Duplicate.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/219--Contains-Duplicate-II.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1233--Remove-Sub-Folders-from-the-Filesystem.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/35--Search-Insert-Position.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/111--Minimum-Depth-of-Binary-Tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/633--Sum-of-Square-Numbers.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/643--Maximum-Average-Subarray-I.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/676--Implement-Magic-Dictionary.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/677--Map-Sum-Pairs.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1305--All-Elements-in-Two-Binary-Search-Trees.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1396--Design-Underground-System.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1395--Count-Number-of-Teams.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1394--Find-Lucky-Integer-in-an-Array.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1275--Find-Winner-on-a-Tic-Tac-Toe-Game.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1260--Shift-2D-Grid.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1232--Check-If-It-Is-a-Straight-Line.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1217--Play-with-Chips.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1189--Maximum-Number-of-Balloons.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/404--Sum-of-Left-Leaves.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/617--Merge-Two-Binary-Trees.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/204--Count-Primes.py",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/pase/__init__.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/415--Add-Strings.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/algorithms/Jumping-on-the-Clouds.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/48--Rotate-Image.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/62--Unique-Paths.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/292--Nim-Game.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/299--Bulls-and-Cows.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/300--Longest-Increasing-Subsequence.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/338--Counting-Bits.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/412--Fizz-Buzz.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/413--Arithmetic-Slices.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/80--Remove-Duplicates-from-Sorted-Array-II.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/6--ZigZag-Conversion.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/4--Median-of-Two-Sorted-Arrays.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/3--Longest-Substring-Without-Repeating-Characters.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/5--Longest-Palindromic-Substring.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/8--String-to-Integer-(atoi).py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/23--Merge-k-Sorted-Lists.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/43--Multiply-Strings.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/49--Group-Anagrams.py",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/table.csv",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/process.py",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/content.txt",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/tableSorted.csv",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/films.html",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1200--Minimum-Absolute-Difference.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/383--Ransom-Note.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/29--Divide-Two-Integers.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/73--Set-Matrix-Zeroes.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/28--Implement-strStr().py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/108--Convert-Sorted-Array-to-Binary-Search-Tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/118--Pascal's-Triangle.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/119--Pascal's-Triangle-II.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/112--Path-Sum.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/155--Min-Stack.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1108--Defanging-an-IP-Address.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1385--Find-the-Distance-Value-Between-Two-Arrays.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1386--Cinema-Seat-Allocation.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1387--Sort-Integers-by-The-Power-Value.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1389--Create-Target-Array-in-the-Given-Order.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1390--Four-Divisors.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1391--Check-if-There-is-a-Valid-Path-in-a-Grid.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1392--Longest-Happy-Prefix.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1379--Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1379--Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py.",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1380--Lucky-Numbers-in-a-Matrix.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1381--Design-a-Stack-With-Increment-Operation.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1382--Balance-a-Binary-Search-Tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/175--Combine-Two-Tables.sql",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/287--Find-the-Duplicate-Number.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/347--Top-K-Frequent-Elements.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/406--Queue-Reconstruction-by-Height.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/498--Diagonal-Traverse.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/684--Redundant-Connection.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/791--Custom-Sort-String.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/819--Most-Common-Word.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/917--Reverse-Only-Letters.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/986--Interval-List-Intersections.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1013--Partition-Array-Into-Three-Parts-With-Equal-Sum.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1023--Camelcase-Matching.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/74--Search-a-2D-Matrix.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1052--Grumpy-Bookstore-Owner.py",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/toys_from_trash/make_dict.py",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/libri_all_tr.lst",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/librispeech/LibriSpeech/train-clean-100/39/121916/39-121916.trans.txt",
@@ -417,113 +615,11 @@
 		"/home/jayaprakash/Documents/leetcode/1352--Product-of-the-Last-K-Numbers.py",
 		"/home/jayaprakash/Documents/leetcode/1353--Maximum-Number-of-Events-That-Can-Be-Attended.py",
 		"/home/jayaprakash/Documents/leetcode/1356--Sort-Integers-by-The-Number-of-1-Bits.py",
-		"/home/jayaprakash/Documents/leetcode/1357--Apply-Discount-Every-n-Orders.py",
-		"/home/jayaprakash/Documents/leetcode/1358--Number-of-Substrings-Containing-All-Three-Characters.py",
-		"/home/jayaprakash/Documents/leetcode/1361--Validate-Binary-Tree-Nodes.py",
-		"/home/jayaprakash/Documents/leetcode/1362--Closest-Divisors.py",
-		"/home/jayaprakash/Documents/leetcode/1365--How-Many- Numbers-Are-Smaller-Than-the-Current-Number.py",
-		"/home/jayaprakash/Documents/leetcode/1370--Increasing-Decreasing-String.py",
-		"/home/jayaprakash/Documents/leetcode/1374--Generate-a-String-With-Characters-That-Have-Odd-Counts.py",
-		"/home/jayaprakash/Documents/leetcode/1375--Bulb-Switcher-III.py",
-		"/home/jayaprakash/Documents/leetcode/1376--Time-Needed-to-Inform-All-Employees.py",
-		"/home/jayaprakash/Documents/leetcode/1122--Relative-Sort-Array.py",
-		"/home/jayaprakash/Documents/leetcode/33--Search-in-Rotated-Sorted-Array.py",
-		"/home/jayaprakash/Documents/leetcode/500--Keyboard-Row.py",
-		"/home/jayaprakash/Documents/leetcode/509--Fibonacci-Number.py",
-		"/home/jayaprakash/Documents/leetcode/832--Flipping-an-Image.py",
-		"/home/jayaprakash/Documents/leetcode/938--Range-Sum-of-BST.py",
-		"/home/jayaprakash/Documents/leetcode/1051--Height-Checker.py",
-		"/home/jayaprakash/Documents/leetcode/1078--Occurrences-After-Bigram.py",
-		"/home/jayaprakash/Documents/leetcode/1016--Binary-String-With-Substrings-Representing-1-To-N.py",
-		"/home/jayaprakash/Documents/leetcode/893--Groups-of-Special-Equivalent-Strings.py",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/ASR/kaldi_decoding_scripts/local/score.sh",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/ASR/kaldi_decoding_scripts/path.sh",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/ASR/kaldi_decoding_scripts/decode_dnn.sh",
-		"/home/jayaprakash/Documents/leetcode/890--Find-and-Replace-Pattern.py",
-		"/home/jayaprakash/Documents/leetcode/657--Robot-Return-to-Origin.py",
-		"/home/jayaprakash/Documents/leetcode/977--Squares-of-a-Sorted-Array.py",
-		"/home/jayaprakash/Documents/leetcode/921--Minimum-Add-to-Make-Parentheses-Valid.py",
-		"/home/jayaprakash/Documents/leetcode/1207--Unique-Number-of-Occurrences.py",
-		"/home/jayaprakash/Documents/leetcode/461--Hamming-Distance.py",
-		"/home/jayaprakash/Documents/leetcode/1299--Replace-Elements-with-Greatest-Element-on-Right-Side.py",
-		"/home/jayaprakash/Documents/leetcode/905--Sort-Array-By-Parity.py",
-		"/home/jayaprakash/Documents/leetcode/763--Partition-Labels.py",
-		"/home/jayaprakash/Documents/leetcode/UpdateReadme.py",
-		"/home/jayaprakash/Documents/leetcode/950--Reveal-Cards-In-Increasing-Order.py",
-		"/home/jayaprakash/Documents/leetcode/TaggedList.csv",
-		"/home/jayaprakash/Documents/leetcode/814--Binary-Tree-Pruning.py",
-		"/home/jayaprakash/Documents/leetcode/961--N-Repeated-Element-in-Size-2N-Array.py",
-		"/home/jayaprakash/Documents/leetcode/728--Self-Dividing-Numbers.py",
-		"/home/jayaprakash/Documents/leetcode/1295--Find-Numbers-with-Even-Number-of-Digits.py",
-		"/home/jayaprakash/Documents/leetcode/1313--Decompress-Run-Length-Encoded-List.py",
-		"/home/jayaprakash/Documents/leetcode/771--Jewels-and-Stones.py",
-		"/home/jayaprakash/Documents/leetcode/1221--Split-a-String-in-Balanced-Strings.py",
-		"/home/jayaprakash/Documents/leetcode/1290--Convert-Binary-Number-in-a-Linked-List-to-Integer.py",
-		"/home/jayaprakash/Documents/leetcode/1266--Minimum-Time-Visiting-All-Points.py",
-		"/home/jayaprakash/Documents/leetcode/709--To-Lower-Case.py",
-		"/home/jayaprakash/Documents/leetcode/1252--Cells-with-Odd-Values-in-a-Matrix.py",
-		"/home/jayaprakash/Documents/leetcode/1021--Remove-Outermost-Parentheses.py",
-		"/home/jayaprakash/Documents/leetcode/1304--Find-N-Unique-Integers-Sum-up-to-Zero.py",
-		"/home/jayaprakash/Documents/leetcode/804--Unique-Morse-Code-Words.py",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/PASE.egg-info/dependency_links.txt",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/PASE.egg-info/top_level.txt",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/PASE.egg-info/SOURCES.txt",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/PASE.egg-info/PKG-INFO",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/cfg/frontend/PASE+.cfg",
-		"/home/jayaprakash/Documents/leetcode/1281--Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.py",
-		"/home/jayaprakash/Documents/leetcode/1123--Lowest-Common-Ancestor-of-Deepest-Leaves.py",
-		"/home/jayaprakash/Documents/leetcode/1261--Find-Elements-in-a-Contaminated-Binary-Tree.py",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/Data-Models/bert-base-multilingual-cased/bert_config.json",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_beta/config/bert_large_6layer_6conect.json",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_beta/config/bert_base_6layer_6conect.json",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/Data-Models/VCR-20200212T092759Z-001/VCR/VCR_gt_ImagePath2Id.json",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_beta/requirements.txt",
-		"/home/jayaprakash/Documents/test.py",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/Temporally-language-grounding/dataloader_charades_RL.py",
-		"/home/jayaprakash/Documents/temp.cpp",
-		"/home/jayaprakash/Documents/leetcode/997--Find-the-Town-Judge.py",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/Temporally-language-grounding/README.md",
-		"/home/jayaprakash/Documents/leetcode/141--Linked-List-Cycle.py",
-		"/home/jayaprakash/Documents/leetcode/UpdateProblemTags.py",
-		"/home/jayaprakash/Documents/leetcode/2--Add-Two-Numbers.py",
-		"/home/jayaprakash/Documents/leetcode/19--Remove-Nth-Node-From-End-of-List.py",
-		"/home/jayaprakash/Documents/leetcode/21--Merge-Two-Sorted-Lists.py.",
-		"/home/jayaprakash/Documents/leetcode/maths.txt",
-		"/home/jayaprakash/Documents/leetcode/hash-table.txt",
-		"/home/jayaprakash/Documents/leetcode/linked-list.txt",
-		"/home/jayaprakash/Documents/leetcode/two-pointers.txt",
-		"/home/jayaprakash/Documents/leetcode/strings.txt",
-		"/home/jayaprakash/Documents/leetcode/TODO.md",
-		"/home/jayaprakash/Documents/leetcode/sort.txt",
-		"/home/jayaprakash/Documents/leetcode/arrays.txt",
-		"/home/jayaprakash/Documents/leetcode/922--Sort-Array-By-Parity-II.py",
-		"/home/jayaprakash/Documents/leetcode/350--Intersection-of-Two-Arrays-II.py",
-		"/home/jayaprakash/Documents/leetcode/242--Valid-Anagram.py",
-		"/home/jayaprakash/Documents/leetcode/1030--Matrix-Cells-in-Distance-Order.py",
-		"/home/jayaprakash/Documents/leetcode/976--Largest-Perimeter-Triangle.py",
-		"/home/jayaprakash/Documents/leetcode/169--Majority-Element.py",
-		"/home/jayaprakash/Documents/leetcode/852--Peak-Index-in-a-Mountain-Array.py",
-		"/home/jayaprakash/Documents/leetcode/94--Binary-Tree-Inorder-Traversal.py",
-		"/home/jayaprakash/Documents/leetcode/100--Same-Tree.py",
-		"/home/jayaprakash/Documents/leetcode/101--Symmetric-Tree.py",
-		"/home/jayaprakash/Documents/leetcode/index.html",
-		"/home/jayaprakash/Documents/leetcode/rdme.md",
-		"/home/jayaprakash/Documents/leetcode/index.html.1",
-		"/home/jayaprakash/Documents/leetcode/104--Maximum-Depth-of-Binary-Tree.py",
-		"/home/jayaprakash/Documents/leetcode/1325--Delete-Leaves-With-a-Given-Value.py",
-		"/home/jayaprakash/Documents/leetcode/151--Reverse-Words-in-a-String.py",
-		"/home/jayaprakash/Documents/leetcode/167--Two-Sum-II-Input-array-is-sorted.py",
-		"/home/jayaprakash/Documents/leetcode/1317--Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers.py",
-		"/home/jayaprakash/Documents/leetcode/1318--Minimum-Flips-to-Make-a-OR-b-Equal-to-c.py",
-		"/home/jayaprakash/Documents/leetcode/1323--Maximum-69-Number.py",
-		"/home/jayaprakash/Documents/leetcode/1324--Print-Words-Vertically.py",
-		"/home/jayaprakash/Documents/leetcode/50--Pow(x, n).py",
-		"/home/jayaprakash/Documents/leetcode/283--Move-Zeroes.py",
-		"/home/jayaprakash/Documents/leetcode/27--Remove-Element.py"
+		"/home/jayaprakash/Documents/leetcode/1357--Apply-Discount-Every-n-Orders.py"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 50.0
 	},
 	"find_in_files":
 	{
@@ -537,6 +633,32 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"prime",
+			"multiply",
+			" https:",
+			"08 04 2013",
+			"DECEMBER",
+			"NOVEMBER",
+			"OCTOBER",
+			"SEPTEMBER",
+			"AUGUST",
+			"JULY",
+			"JUNE",
+			"APRIL",
+			"MARCH",
+			"FEBRUARY",
+			"JANUARY",
+			"JAN",
+			";",
+			"http://www.youtube.com/watch?v=49q5qDELPEs",
+			"http://www.youtube.com/watch?v=U1VzxNYNmpw",
+			",",
+			"<",
+			"<span> </span></a>",
+			"</li>",
+			"<span> </span></a> ",
+			"\"> MARATHI",
+			"<li><a href=\""
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -544,6 +666,19 @@
 		"regex": false,
 		"replace_history":
 		[
+			"https:",
+			"DEC",
+			"NOV",
+			"OCT",
+			"SEP",
+			"AUG",
+			"JUL",
+			"JUN",
+			"APR",
+			"MAR",
+			"FEB",
+			"JAN",
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -560,14 +695,222 @@
 	"groups":
 	[
 		{
+			"selected": 6,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "leetcode/Problems/38--Count-and-Say.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								622,
+								622
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "leetcode/Problems/41--First-Missing-Positive.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "leetcode/Problems/58--Length-of-Last-Word.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "leetcode/Problems/69--Sqrt(x).py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "leetcode/Problems/168--Excel-Sheet-Column-Title.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "leetcode/Problems/482--License-Key-Formatting.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "leetcode/Problems/520--Detect-Capital.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -604,7 +947,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 48.0
+		"height": 90.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -642,7 +985,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 314.0,
+	"side_bar_width": 333.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
