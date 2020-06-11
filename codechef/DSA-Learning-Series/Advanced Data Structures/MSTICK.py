@@ -23,7 +23,7 @@ class SegmentTree(object):
 
 	def construct(self):
 		self.constructHelper(0, self.n-1, 0)
-		return self.st
+		# return self.st
 
 	def queryHelper(self, st_start, st_end, q_start, q_end, st_index):
 		if q_start <= st_start and q_end >= st_end:
@@ -38,16 +38,24 @@ class SegmentTree(object):
 
 	def query(self, q_start, q_end):
 		if q_start > q_end or q_start < 0 or q_end >= self.n:
-			return 'Error'
+			return float('inf')
 		return self.queryHelper(0, self.n-1, q_start, q_end, 0)
 
 
-
-
-
-arr = [1, 3, 2, 7, 9, 11]  
-st_obj = SegmentTree(arr)
-st_obj.construct()
-queries = [[0, 3], [2, 9], [2, 5]]
-for [x, y] in queries:
-	print(st_obj.query(x, y))
+def main():
+	N = int(input())
+	arr = [int(i) for i in input().strip().split()]
+	st_pos = SegmentTree(arr)
+	st_pos.construct()
+	st_neg = SegmentTree([-1*num for num in arr])
+	st_neg.construct()
+	T = int(input())
+	for _ in range(T):
+		[x, y] = [int(i) for i in input().strip().split()]
+		range_pos_min = st_pos.query(x, y)
+		range_neg_max = -1*st_neg.query(x, y)
+		bef_range_neg_max = -1*st_neg.query(0, x-1)
+		aft_range_neg_max = -1*st_neg.query(y+1, N-1)
+		answer = range_pos_min + max(bef_range_neg_max, aft_range_neg_max, (range_neg_max-range_pos_min)/2)
+		print(answer*1.0)
+main()

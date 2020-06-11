@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"ra",
+				"range_neg_max"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"q",
+				"queries"
+			],
+			[
+				"st",
+				"st_obj"
+			],
+			[
+				"s_",
+				"st_index"
+			],
+			[
+				"quer",
+				"queryHelper"
+			],
+			[
+				"con",
+				"constructHelper"
+			],
+			[
 				"cls",
 				"close"
 			],
@@ -192,10 +220,6 @@
 				"unique_set"
 			],
 			[
-				"in",
-				"index_set"
-			],
-			[
 				"id",
 				"idx_sort"
 			],
@@ -372,70 +396,48 @@
 	"buffers":
 	[
 		{
-			"file": "leetcode/Problems/38--Count-and-Say.py",
+			"file": "codechef/DSA-Learning-Series/Advanced Data Structures/MSTICK.py",
 			"settings":
 			{
-				"buffer_size": 622,
+				"buffer_size": 1808,
 				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "leetcode/Problems/41--First-Missing-Positive.py",
+			"file": "/home/jayaprakash/.zshrc",
 			"settings":
 			{
-				"buffer_size": 252,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
+				"buffer_size": 3571,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "leetcode/Problems/58--Length-of-Last-Word.py",
+			"contents": "import bisect\nclass Solution:\n    def searchInsert(self, nums: List[int], target: int) -> int:\n        return bisect.bisect_left(nums, target)",
+			"file": "leetcode/30-day-challenge/June_2020/10-Search-Insert-Position.py",
+			"file_size": 142,
+			"file_write_time": 132362461841714139,
 			"settings":
 			{
-				"buffer_size": 200,
+				"buffer_size": 142,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "class Solution:"
+				"name": "import bisect"
 			}
 		},
 		{
-			"file": "leetcode/Problems/69--Sqrt(x).py",
+			"contents": "",
 			"settings":
 			{
-				"buffer_size": 181,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
+				"buffer_size": 0,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "leetcode/Problems/168--Excel-Sheet-Column-Title.py",
+			"file": "leetcode/Problems/63--Unique-Paths-II-Medium.py",
 			"settings":
 			{
-				"buffer_size": 392,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/482--License-Key-Formatting.py",
-			"settings":
-			{
-				"buffer_size": 428,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/520--Detect-Capital.py",
-			"settings":
-			{
-				"buffer_size": 279,
+				"buffer_size": 751,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "class Solution:"
@@ -483,11 +485,37 @@
 	"expanded_folders":
 	[
 		"/home/jayaprakash/Documents/coding-prepation",
+		"/home/jayaprakash/Documents/coding-prepation/codechef",
+		"/home/jayaprakash/Documents/coding-prepation/codechef/DSA-Learning-Series",
+		"/home/jayaprakash/Documents/coding-prepation/codechef/DSA-Learning-Series/Linear Data Structures",
+		"/home/jayaprakash/Documents/coding-prepation/codechef/DSA-Learning-Series/Mathematics in Competitive Programming",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode"
+		"/home/jayaprakash/Documents/coding-prepation/leetcode",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems"
 	],
 	"file_history":
 	[
+		"/home/jayaprakash/.sudo_as_admin_successful",
+		"/home/jayaprakash/.profile",
+		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/segment-tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/9-Is-Subsequence.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/134--Gas-Station-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/376--Wiggle-Subsequence-Medium.py",
+		"/home/jayaprakash/.bashrc",
+		"/home/jayaprakash/Documents/MSTICK-logN.cpp",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/68--Text-Justification-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/679--24-Game-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/segment-tree-other.py",
+		"/home/jayaprakash/Downloads/MSTICK-logN.cpp",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/482--License-Key-Formatting.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/168--Excel-Sheet-Column-Title.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/38--Count-and-Say.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/58--Length-of-Last-Word.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/69--Sqrt(x).py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/520--Detect-Capital.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/41--First-Missing-Positive.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/1276--Number-of-Burgers-with-No-Waste-of-Ingredients.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/575--Distribute-Candies.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/744--Find-Smallest-Letter-Greater-Than-Target.py",
@@ -596,30 +624,11 @@
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/librispeech/LibriSpeech/train-clean-100/39/121916/39-121916.trans.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/librispeech/LibriSpeech/README.TXT",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/example_librispeech_tr.scp",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/example_librispeech_te.scp",
-		"/home/jayaprakash/Documents/leetcode/929--Unique-Email-Addresses.py",
-		"/home/jayaprakash/Documents/leetcode/README.md",
-		"/home/jayaprakash/Documents/leetcode/UpdateTagList.py",
-		"/home/jayaprakash/Documents/leetcode/841--Keys-and-Rooms.py",
-		"/home/jayaprakash/Documents/leetcode/912--Sort-an-Array.py",
-		"/home/jayaprakash/Documents/leetcode/973--K-Closest-Points-to-Origin.py",
-		"/home/jayaprakash/Documents/leetcode/64--Minimum-Path-Sum.py",
-		"/home/jayaprakash/Documents/leetcode/485--Max-Consecutive-Ones.py",
-		"/home/jayaprakash/Documents/leetcode/1377--Frog-Position-After-T-Seconds.py",
-		"/home/jayaprakash/Documents/leetcode/1342--Number-of-Steps-to-Reduce-a-Number-to-Zero.py",
-		"/home/jayaprakash/Documents/leetcode/1343--Number-of-Sub-arrays-of-Size-K-and-Average-Greater-than-or-Equal-to-Threshold.py",
-		"/home/jayaprakash/Documents/leetcode/1344--Angle-Between-Hands-of-a-Clock.py",
-		"/home/jayaprakash/Documents/leetcode/1346--Check-If-N-and-Its-Double-Exist.py",
-		"/home/jayaprakash/Documents/leetcode/1347--Minimum-Number-of-Steps-to-Make-Two-Strings-Anagram.py",
-		"/home/jayaprakash/Documents/leetcode/1351--Count-Negative-Numbers-in-a-Sorted-Matrix.py",
-		"/home/jayaprakash/Documents/leetcode/1352--Product-of-the-Last-K-Numbers.py",
-		"/home/jayaprakash/Documents/leetcode/1353--Maximum-Number-of-Events-That-Can-Be-Attended.py",
-		"/home/jayaprakash/Documents/leetcode/1356--Sort-Integers-by-The-Number-of-1-Bits.py",
-		"/home/jayaprakash/Documents/leetcode/1357--Apply-Discount-Every-n-Orders.py"
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/example_librispeech_te.scp"
 	],
 	"find":
 	{
-		"height": 50.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -633,6 +642,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"s(",
+			"s",
+			"sl",
+			"st_height",
+			"qe",
+			"qs",
+			";",
 			"prime",
 			"multiply",
 			" https:",
@@ -666,6 +682,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"q_end",
+			"q_start",
+			"",
 			"https:",
 			"DEC",
 			"NOV",
@@ -695,150 +714,87 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "leetcode/Problems/38--Count-and-Say.py",
+					"file": "codechef/DSA-Learning-Series/Advanced Data Structures/MSTICK.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 622,
+						"buffer_size": 1808,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								622,
-								622
+								1808,
+								1808
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
 							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "leetcode/Problems/41--First-Missing-Positive.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 252,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								252,
-								252
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "leetcode/Problems/58--Length-of-Last-Word.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 200,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								200,
-								200
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.x": 4.0,
+						"translation.y": 463.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "leetcode/Problems/69--Sqrt(x).py",
+					"buffer": 1,
+					"file": "/home/jayaprakash/.zshrc",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 181,
+						"buffer_size": 3571,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								181,
-								181
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1620.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "leetcode/Problems/168--Excel-Sheet-Column-Title.py",
+					"buffer": 2,
+					"file": "leetcode/30-day-challenge/June_2020/10-Search-Insert-Position.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 392,
+						"buffer_size": 142,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								392,
-								392
+								142,
+								142
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "import bisect",
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -848,26 +804,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "leetcode/Problems/482--License-Key-Formatting.py",
+					"buffer": 3,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 428,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								428,
-								428
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -877,26 +832,28 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "leetcode/Problems/520--Detect-Capital.py",
+					"buffer": 4,
+					"file": "leetcode/Problems/63--Unique-Paths-II-Medium.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 279,
+						"buffer_size": 751,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								279,
-								279
+								751,
+								751
 							]
 						],
 						"settings":
 						{
 							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -947,7 +904,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 90.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
