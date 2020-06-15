@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"le",
+				"lengths"
+			],
+			[
+				"max",
+				"maxVal"
+			],
+			[
 				"ra",
 				"range_neg_max"
 			],
@@ -396,48 +404,50 @@
 	"buffers":
 	[
 		{
-			"file": "codechef/DSA-Learning-Series/Advanced Data Structures/MSTICK.py",
+			"file": "leetcode/Problems/1476--Subrectangle-Queries-Medium.py",
 			"settings":
 			{
-				"buffer_size": 1808,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/jayaprakash/.zshrc",
-			"settings":
-			{
-				"buffer_size": 3571,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "import bisect\nclass Solution:\n    def searchInsert(self, nums: List[int], target: int) -> int:\n        return bisect.bisect_left(nums, target)",
-			"file": "leetcode/30-day-challenge/June_2020/10-Search-Insert-Position.py",
-			"file_size": 142,
-			"file_write_time": 132362461841714139,
-			"settings":
-			{
-				"buffer_size": 142,
+				"buffer_size": 623,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "import bisect"
+				"name": "class SubrectangleQueries:"
 			}
 		},
 		{
-			"contents": "",
+			"file": "leetcode/Problems/1475--Final-Prices-With-a-Special-Discount-in-a-Shop-Easy.py",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
+				"buffer_size": 300,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Solution:"
 			}
 		},
 		{
-			"file": "leetcode/Problems/63--Unique-Paths-II-Medium.py",
+			"file": "leetcode/Problems/787--Cheapest-Flights-Within-K-Stops-Medium.py",
 			"settings":
 			{
-				"buffer_size": 751,
+				"buffer_size": 867,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import sys"
+			}
+		},
+		{
+			"file": "leetcode/Problems/884--Uncommon-Words-from-Two-Sentences-Easy.py",
+			"settings":
+			{
+				"buffer_size": 294,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Solution:"
+			}
+		},
+		{
+			"file": "leetcode/Problems/891--Sum-of-Subsequence-Widths-Hard.py",
+			"settings":
+			{
+				"buffer_size": 422,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "class Solution:"
@@ -485,18 +495,35 @@
 	"expanded_folders":
 	[
 		"/home/jayaprakash/Documents/coding-prepation",
-		"/home/jayaprakash/Documents/coding-prepation/codechef",
-		"/home/jayaprakash/Documents/coding-prepation/codechef/DSA-Learning-Series",
-		"/home/jayaprakash/Documents/coding-prepation/codechef/DSA-Learning-Series/Linear Data Structures",
-		"/home/jayaprakash/Documents/coding-prepation/codechef/DSA-Learning-Series/Mathematics in Competitive Programming",
+		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems"
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Test"
 	],
 	"file_history":
 	[
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/14-Cheapest-Flights-Within-K-Stops.py",
+		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/radix-sort.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/41--First-Missing-Positive-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/13-Largest-Divisible-Subset.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/139--Word-Break-Medium.py",
+		"/home/jayaprakash/Documents/test.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/164--Maximum-Gap-Hard.py",
+		"/home/jayaprakash/Documents/leetcodesolved/hard.txt",
+		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/bucket-sort.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/63--Unique-Paths-II-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/154--Find-Minimum-in-Rotated-Sorted-Array-II-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/153--Find-Minimum-in-Rotated-Sorted-Array-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1345--Jump-Game-IV-Hard.py",
+		"/home/jayaprakash/Documents/leetcodesolved/1320--Minimum-Distance-to-Type-a-Word-Using-Two-Fingers-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/381--Insert-Delete-GetRandom-O(1)-Duplicates-allowed-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/12-Insert-Delete-GetRandom-O(1).py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/967--Numbers-With-Same-Consecutive-Differences-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/380--Insert-Delete-GetRandom-O(1)-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/10-Search-Insert-Position.py",
+		"/home/jayaprakash/Documents/coding-prepation/codechef/DSA-Learning-Series/Advanced Data Structures/MSTICK.py",
+		"/home/jayaprakash/.zshrc",
 		"/home/jayaprakash/.sudo_as_admin_successful",
 		"/home/jayaprakash/.profile",
 		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/segment-tree.py",
@@ -603,32 +630,11 @@
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/1379--Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/1379--Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py.",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/1380--Lucky-Numbers-in-a-Matrix.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1381--Design-a-Stack-With-Increment-Operation.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1382--Balance-a-Binary-Search-Tree.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/175--Combine-Two-Tables.sql",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/287--Find-the-Duplicate-Number.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/347--Top-K-Frequent-Elements.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/406--Queue-Reconstruction-by-Height.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/498--Diagonal-Traverse.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/684--Redundant-Connection.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/791--Custom-Sort-String.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/819--Most-Common-Word.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/917--Reverse-Only-Letters.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/986--Interval-List-Intersections.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1013--Partition-Array-Into-Three-Parts-With-Equal-Sum.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1023--Camelcase-Matching.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/74--Search-a-2D-Matrix.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1052--Grumpy-Bookstore-Owner.py",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/toys_from_trash/make_dict.py",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/libri_all_tr.lst",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/librispeech/LibriSpeech/train-clean-100/39/121916/39-121916.trans.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/librispeech/LibriSpeech/README.TXT",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/example_librispeech_tr.scp",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/pase/data/example_librispeech_te.scp"
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1381--Design-a-Stack-With-Increment-Operation.py"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -642,6 +648,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			",1,",
+			"1,",
 			"s(",
 			"s",
 			"sl",
@@ -719,28 +727,28 @@
 			[
 				{
 					"buffer": 0,
-					"file": "codechef/DSA-Learning-Series/Advanced Data Structures/MSTICK.py",
+					"file": "leetcode/Problems/1476--Subrectangle-Queries-Medium.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1808,
+						"buffer_size": 623,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1808,
-								1808
+								623,
+								623
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"auto_name": "class SubrectangleQueries:",
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
-						"translation.x": 4.0,
-						"translation.y": 463.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
@@ -748,27 +756,28 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/home/jayaprakash/.zshrc",
+					"file": "leetcode/Problems/1475--Final-Prices-With-a-Special-Discount-in-a-Shop-Easy.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3571,
+						"buffer_size": 300,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								300,
+								300
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1620.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -776,25 +785,27 @@
 				},
 				{
 					"buffer": 2,
-					"file": "leetcode/30-day-challenge/June_2020/10-Search-Insert-Position.py",
+					"file": "leetcode/Problems/787--Cheapest-Flights-Within-K-Stops-Medium.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 142,
+						"buffer_size": 867,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								142,
-								142
+								867,
+								867
 							]
 						],
 						"settings":
 						{
-							"auto_name": "import bisect",
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"auto_name": "import sys",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -805,24 +816,25 @@
 				},
 				{
 					"buffer": 3,
+					"file": "leetcode/Problems/884--Uncommon-Words-from-Two-Sentences-Easy.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								243,
+								243
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"auto_name": "class Solution:",
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -833,19 +845,19 @@
 				},
 				{
 					"buffer": 4,
-					"file": "leetcode/Problems/63--Unique-Paths-II-Medium.py",
+					"file": "leetcode/Problems/891--Sum-of-Subsequence-Widths-Hard.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 751,
+						"buffer_size": 422,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								751,
-								751
+								422,
+								422
 							]
 						],
 						"settings":
@@ -867,7 +879,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -904,7 +916,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 70.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -942,7 +954,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 333.0,
+	"side_bar_width": 226.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
