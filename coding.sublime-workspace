@@ -404,47 +404,6 @@
 	"buffers":
 	[
 		{
-			"contents": "#\tTitle\tSolution\tAcceptance\tDifficulty\tFrequency  \n775\t\tGlobal and Local Inversions\t41.7%\tMedium\t\n152\t\tMaximum Product Subarray\t31.4%\tMedium\t\n1465\tMaximum Area of a Piece of Cake After Horizontal and Vertical Cuts\t30.6%\tMedium\t\n1462\tCourse Schedule IV\t40.0%\tMedium\t\n1461\tCheck If a String Contains All Binary Codes of Size K\t43.1%\tMedium\t\n1443\tMinimum Time to Collect All Apples in a Tree\t56.4%\tMedium\t\n1442\tCount Triplets That Can Form Two Arrays of Equal XOR\t68.0%\tMedium\t\n1424\tDiagonal Traverse II\t40.4%\tMedium\t\n1423\tMaximum Points You Can Obtain from Cards\t39.5%\tMedium\t\n1418\tDisplay Table of Food Orders in a Restaurant\t64.4%\tMedium\t\n1410\tHTML Entity Parser\t54.0%\tMedium\t\n1409\tQueries on a Permutation With Key\t81.9%\tMedium\t\n1404\tNumber of Steps to Reduce a Number in Binary Representation to One\t49.8%\tMedium\t\n1414\tFind the Minimum Number of Fibonacci Numbers Whose Sum Is K\t60.2%\tMedium\t\n1396\tDesign Underground System\t62.1%\tMedium\t\n1395\tCount Number of Teams\t81.2%\tMedium\t\n1391\tCheck if There is a Valid Path in a Grid\t44.7%\tMedium\t\n1400\tConstruct K Palindrome Strings\t59.2%\tMedium\t\n1401\tCircle and Rectangle Overlapping\t41.2%\tMedium\t\n1379\tFind a Corresponding Node of a Binary Tree in a Clone of That Tree\t83.4%\tMedium\t\n1381\tDesign a Stack With Increment Operation\t73.9%\tMedium\t\n1376\tTime Needed to Inform All Employees\t54.0%\tMedium\t\n1375\tBulb Switcher III\t61.4%\tMedium\t\n1387\tSort Integers by The Power Value\t70.2%\tMedium\t\n1367\tLinked List in Binary Tree\t39.2%\tMedium\t\n1353\tMaximum Number of Events That Can Be Attended\t31.2%\tMedium\t\n1352\tProduct of the Last K Numbers\t42.5%\tMedium\t\n1372\tLongest ZigZag Path in a Binary Tree\t53.2%\tMedium\t\n1347\tMinimum Number of Steps to Make Two Strings Anagram\t74.8%\tMedium\t\n1339\tMaximum Product of Splitted Binary Tree\t36.7%\tMedium\t\n1338\tReduce Array Size to The Half\t65.9%\tMedium\t\n1358\tNumber of Substrings Containing All Three Characters\t56.7%\tMedium\t\n1357\tApply Discount Every n Orders\t65.3%\tMedium\t\n1334\tFind the City With the Smallest Number of Neighbors at a Threshold Distance\t43.4%\tMedium\t\n1333\tFilter Restaurants by Vegan-Friendly, Price and Distance\t54.2%\tMedium\t\n1325\tDelete Leaves With a Given Value\t72.6%\tMedium\t\n1324\tPrint Words Vertically\t57.9%\tMedium\t\n1344\tAngle Between Hands of a Clock\t60.5%\tMedium\t\n1343\tNumber of Sub-arrays of Size K and Average Greater than or Equal to Threshold\t64.2%\tMedium\t\n1319\tNumber of Operations to Make Network Connected\t52.1%\tMedium\t\n1430\tCheck If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree\t44.6%\tMedium\t\n1277\tCount Square Submatrices with All Ones\t73.0%\tMedium\t\n1428\tLeftmost Column with at Least a One\t45.8%\tMedium\t\n1429\tFirst Unique Number\t46.4%\tMedium\t\n1382\tBalance a Binary Search Tree\t74.2%\tMedium\t\n1390\tFour Divisors\t37.7%\tMedium\t\n1362\tClosest Divisors\t56.1%\tMedium\t\n1361\tValidate Binary Tree Nodes\t52.8%\tMedium\t\n1329\tSort the Matrix Diagonally\t77.8%\tMedium\t\n1328\tBreak a Palindrome\t42.5%\tMedium\t\n1143\tLongest Common Subsequence\t58.3%\tMedium\t\n1090\tLargest Values From Labels\t58.5%\tMedium\t\n1035\tUncrossed Lines\t56.0%\tMedium\t\n1024\tVideo Stitching\t48.8%\tMedium\t\n1008\tConstruct Binary Search Tree from Preorder Traversal\t78.3%\tMedium\t\n1003\tCheck If Word Is Valid After Substitutions\t54.7%\tMedium\t\n986\t\tInterval List Intersections\t67.0%\tMedium\t\n973\t\tK Closest Points to Origin\t63.4%\tMedium\t\n918\t\tMaximum Sum Circular Subarray\t33.4%\tMedium\t\n901\t\tOnline Stock Span\t59.7%\tMedium\t\n886\t\tPossible Bipartition\t43.6%\tMedium\t\n528\t\tRandom Pick with Weight\t43.9%\tMedium\t\n707\t\tDesign Linked List\t23.7%\tMedium\t\n701\t\tInsert into a Binary Search Tree\t78.6%\tMedium\t\n429\t\tN-ary Tree Level Order Traversal\t64.1%\tMedium\t\n698\t\tPartition to K Equal Sum Subsets\t44.9%\tMedium\t\n678\t\tValid Parenthesis String\t30.8%\tMedium\t\n567\t\tPermutation in String\t44.3%\tMedium\t\n560\t\tSubarray Sum Equals K\t43.8%\tMedium\t\n540\t\tSingle Element in a Sorted Array\t57.9%\tMedium\t\n525\t\tContiguous Array\t42.5%\tMedium\t\n518\t\tCoin Change 2\t49.7%\tMedium\t\n451\t\tSort Characters By Frequency\t62.5%\tMedium\t\n438\t\tFind All Anagrams in a String\t42.6%\tMedium\t\n416\t\tPartition Equal Subset Sum\t43.2%\tMedium\t\n406\t\tQueue Reconstruction by Height\t66.3%\tMedium\t\n402\t\tRemove K Digits\t28.3%\tMedium\t\n380\t\tInsert Delete GetRandom O(1)\t46.3%\tMedium\t\n328\t\tOdd Even Linked List\t55.1%\tMedium\t\n322\t\tCoin Change\t34.8%\tMedium\t\n319\t\tBulb Switcher \t45.3%\tMedium\t\n238\t\tProduct of Array Except Self\t59.6%\tMedium\t\n230\t\tKth Smallest Element in a BST\t59.3%\tMedium\t\n221\t\tMaximal Square\t37.3%\tMedium\t\n207\t\tCourse Schedule\t42.5%\tMedium\t\n201\t\tBitwise AND of Numbers Range\t39.2%\tMedium\t\n200\t\tNumber of Islands \t46.2%\tMedium\t\n153\t\tFind Minimum in Rotated Sorted Array \t44.7%\tMedium\t\n151\t\tReverse Words in a String\t20.4%\tMedium\t\n146\t\tLRU Cache\t32.3%\tMedium\t\n144\t\tBinary Tree Preorder Traversal\t55.0%\tMedium\t\n142\t\tLinked List Cycle II\t36.5%\tMedium\t\n102\t\tBinary Tree Level Order Traversal\t53.7%\tMedium\t\n94\t\tBinary Tree Inorder Traversal\t62.4%\tMedium\t\n81\t\tSearch in Rotated Sorted Array II\t33.0%\tMedium\t\n75\t\tSort Colors \t46.0%\tMedium\t\n64\t\tMinimum Path Sum\t53.7%\tMedium\t\n55\t\tJump Game\t34.3%\tMedium\t\n50\t\tPow(x, n)\t29.5%\tMedium\t\n49\t\tGroup Anagrams\t55.9%\tMedium\t\n34\t\tFind First and Last Position of Element in Sorted Array\t35.8%\tMedium\t\n33\t\tSearch in Rotated Sorted Array\t34.3%\tMedium\t\n2\t\tAdd Two Numbers\t33.4%\tMedium\t\n",
-			"file": "/home/jayaprakash/Documents/leetcodesolved/medium.txt",
-			"file_size": 5501,
-			"file_write_time": 132363522955171510,
-			"settings":
-			{
-				"buffer_size": 5241,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "leetcode/Problems/931--Minimum-Falling-Path-Sum-Medium.py",
-			"settings":
-			{
-				"buffer_size": 380,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/532--K-diff-Pairs-in-an-Array-Easy.py",
-			"settings":
-			{
-				"buffer_size": 593,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/563--Binary-Tree-Tilt-Easy.py",
-			"settings":
-			{
-				"buffer_size": 538,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "# Definition for a binary tree node."
-			}
-		},
-		{
 			"contents": "",
 			"settings":
 			{
@@ -502,6 +461,17 @@
 	],
 	"file_history":
 	[
+		"/home/jayaprakash/Downloads/Softwares/tth_linux/INSTALL",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/16-Validate-IP-Address.py",
+		"/home/jayaprakash/Documents/leetcodesolved/medium.txt",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/17-Surrounded-Regions.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/668--Kth-Smallest-Number-in-Multiplication-Table-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/563--Binary-Tree-Tilt-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/532--K-diff-Pairs-in-an-Array-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/931--Minimum-Falling-Path-Sum-Medium.py",
+		"/run/user/1000/gvfs/sftp",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/623--Add-One-Row-to-Tree-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1109--Corporate-Flight-Bookings-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/211--Add-and-Search-Word-Data-structure-design-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/34--Find-First-and-Last-Position-of-Element-in-Sorted-Array-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1483--Kth-Ancestor-of-a-Tree-Node-Hard.py",
@@ -618,18 +588,7 @@
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/43--Multiply-Strings.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/49--Group-Anagrams.py",
 		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/table.csv",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/process.py",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/content.txt",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/tableSorted.csv",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/films.html",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1200--Minimum-Absolute-Difference.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/383--Ransom-Note.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/29--Divide-Two-Integers.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/73--Set-Matrix-Zeroes.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/28--Implement-strStr().py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/108--Convert-Sorted-Array-to-Binary-Search-Tree.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/118--Pascal's-Triangle.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/119--Pascal's-Triangle-II.py"
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/toys_from_trash/process.py"
 	],
 	"find":
 	{
@@ -721,128 +680,11 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/jayaprakash/Documents/leetcodesolved/medium.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5241,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3205,
-								3205
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1042.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "leetcode/Problems/931--Minimum-Falling-Path-Sum-Medium.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 380,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								380,
-								380
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "leetcode/Problems/532--K-diff-Pairs-in-an-Array-Easy.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 593,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								593,
-								593
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "leetcode/Problems/563--Binary-Tree-Tilt-Easy.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 538,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								538,
-								538
-							]
-						],
-						"settings":
-						{
-							"auto_name": "# Definition for a binary tree node.",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"semi_transient": false,
 					"settings":
 					{
@@ -864,10 +706,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
