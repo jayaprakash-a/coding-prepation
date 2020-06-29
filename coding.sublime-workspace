@@ -404,19 +404,18 @@
 	"buffers":
 	[
 		{
-			"contents": "",
+			"file": "/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_out/charades_sta_test.txt",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 186686,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "leetcode/scripts/leetcode-output-bunny.json",
+			"file": "/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_out/charades_sta_train.txt",
 			"settings":
 			{
-				"buffer_size": 829637,
-				"encoding": "UTF-8",
+				"buffer_size": 622491,
 				"line_ending": "Unix"
 			}
 		}
@@ -465,12 +464,33 @@
 		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/scripts",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Test"
 	],
 	"file_history":
 	[
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_out/charades_movie_length_info.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_segmented/train_data.csv",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1491--Average-Salary-Excluding-the-Minimum-and-Maximum-Salary-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1492--The-kth-Factor-of-n-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1493--Longest-Subarray-of-1's-After-Deleting-One-Element-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1496--Path-Crossing-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1497--Check-If-Array-Pairs-Are-Divisible-by-k-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1498--Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition-Medium.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades/ref_info/charades_movie_length_info.txt",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/22-Single-Number-II.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/697--Degree-of-an-Array-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/474--Ones-and-Zeroes-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/26-Sum-Root-to-Leaf-Numbers.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/23-Count-Complete-Tree-Nodes.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/24-Unique-Binary-Search-Trees.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/25-Find-the-Duplicate-Number.py",
+		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar--Self_supervised_learning_multi_modal_representation/result.csv",
+		"/home/jayaprakash/.cache/.fr-2JSfu1/Ashes_Cricket/How to install/How to run setup.txt",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/scripts/leetcode-output-bunny.json",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/ps_out.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/train_small.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/train_out_new.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/save/20-Jun-20-11:56:32-Sat_7452518/command.txt",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/20-Permutation-Sequence.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/60--Permutation-Sequence-Medium.py",
@@ -480,7 +500,6 @@
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/275--H-Index-II-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/19-Longest-Duplicate-Substring.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1044--Longest-Duplicate-Substring-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/scripts/leetcode-output-bunny.json",
 		"/home/jayaprakash/Downloads/Softwares/tth_linux/INSTALL",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/16-Validate-IP-Address.py",
 		"/home/jayaprakash/Documents/leetcodesolved/medium.txt",
@@ -577,32 +596,11 @@
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/677--Map-Sum-Pairs.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/1305--All-Elements-in-Two-Binary-Search-Trees.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/1396--Design-Underground-System.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1395--Count-Number-of-Teams.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1394--Find-Lucky-Integer-in-an-Array.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1275--Find-Winner-on-a-Tic-Tac-Toe-Game.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1260--Shift-2D-Grid.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1232--Check-If-It-Is-a-Straight-Line.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1217--Play-with-Chips.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/1189--Maximum-Number-of-Balloons.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/404--Sum-of-Left-Leaves.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/617--Merge-Two-Binary-Trees.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/204--Count-Primes.py",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar&RnD/RnD/pase/pase/__init__.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/415--Add-Strings.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/algorithms/Jumping-on-the-Clouds.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/48--Rotate-Image.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/62--Unique-Paths.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/292--Nim-Game.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/299--Bulls-and-Cows.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/300--Longest-Increasing-Subsequence.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/338--Counting-Bits.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/412--Fizz-Buzz.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/413--Arithmetic-Slices.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/80--Remove-Duplicates-from-Sorted-Array-II.py"
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/1395--Count-Number-of-Teams.py"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -616,6 +614,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"92QGQ 0.0 12.6##a person takes a blanket out of the dryer.",
+			"30JQT 27.7 37.0##person pours a glass of water on the table.",
 			",1,",
 			"1,",
 			"s(",
@@ -690,15 +690,16 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_out/charades_sta_test.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 186686,
 						"regions":
 						{
 						},
@@ -711,44 +712,41 @@
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "leetcode/scripts/leetcode-output-bunny.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 829637,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								829637,
-								829637
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_out/charades_sta_train.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 622491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106546,
+								106546
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 37800.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -831,7 +829,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 226.0,
+	"side_bar_width": 222.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
