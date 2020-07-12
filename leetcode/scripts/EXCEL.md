@@ -4,6 +4,51 @@
 
 | **Attempted?** | **Is Premium?** | ID | Title | Level | Algo Tags | DS Tags | Problem Link | Solution Link | Solution File | Time complexity | Space complexity | Additional Notes |
 |----|----|----|----|----|----|----|----|----|----|----|
+| na |  | 1505 | Minimum Possible Integer After at Most K Adjacent Swaps On Digits | Hard |  |  | https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/ |  |  |  |  |  |
+| ac |  | 1504 | Count Submatrices With All Ones | Medium |  |  | https://leetcode.com/problems/count-submatrices-with-all-ones/ |  |  |  |  |  |
+| ac |  | 1503 | Last Moment Before All Ants Fall Out of a Plank | Medium |  |  | https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/ |  |  |  |  |  |
+| ac |  | 1502 | Can Make Arithmetic Progression From Sequence | Easy |  |  | https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/ |  |  |  |  |  |
+| na | Yes | 1500 | Design a File Sharing System | Medium |  |  | https://leetcode.com/problems/design-a-file-sharing-system/ |  |  |  |  |  |
+| notac |  | 1499 | Max Value of Equation | Hard |  |  | https://leetcode.com/problems/max-value-of-equation/ |  |  |  |  |  |
+| ac |  | 1498 | Number of Subsequences That Satisfy the Given Sum Condition | Medium |  |  | https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/ |  |  |  |  |  |
+| ac |  | 1497 | Check If Array Pairs Are Divisible by k | Medium |  |  | https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/ |  |  |  |  |  |
+| ac |  | 1496 | Path Crossing | Easy |  |  | https://leetcode.com/problems/path-crossing/ |  |  |  |  |  |
+| ac |  | 1494 | Parallel Courses II | Hard |  |  | https://leetcode.com/problems/parallel-courses-ii/ |  |  |  |  |  |
+| ac |  | 1493 | Longest Subarray of 1's After Deleting One Element | Medium |  |  | https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/ |  |  |  |  |  |
+| ac |  | 1492 | The kth Factor of n | Medium |  |  | https://leetcode.com/problems/the-kth-factor-of-n/ |  |  |  |  |  |
+| ac |  | 1491 | Average Salary Excluding the Minimum and Maximum Salary | Easy |  |  | https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/ |  |  |  |  |  |
+| na | Yes | 1490 | Clone N-ary Tree | Medium |  |  | https://leetcode.com/problems/clone-n-ary-tree/ |  |  |  |  |  |
+| na |  | 1489 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | Hard |  |  | https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/ |  |  |  |  |  |
+| ac |  | 1488 | Avoid Flood in The City | Medium |  |  | https://leetcode.com/problems/avoid-flood-in-the-city/ |  |  |  |  |  |
+| ac |  | 1487 | Making File Names Unique | Medium |  |  | https://leetcode.com/problems/making-file-names-unique/ |  |  |  |  |  |
+| ac |  | 1486 | XOR Operation in an Array | Easy |  |  | https://leetcode.com/problems/xor-operation-in-an-array/ |  |  |  |  |  |
+| na | Yes | 1485 | Clone Binary Tree With Random Pointer | Medium |  |  | https://leetcode.com/problems/clone-binary-tree-with-random-pointer/ |  |  |  |  |  |
+| ac |  | 1483 | Kth Ancestor of a Tree Node | Hard |  |  | https://leetcode.com/problems/kth-ancestor-of-a-tree-node/ |  |  |  |  |  |
+| ac |  | 1482 | Minimum Number of Days to Make m Bouquets | Medium |  |  | https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/ |  |  |  |  |  |
+| ac |  | 1481 | Least Number of Unique Integers after K Removals | Medium |  |  | https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/ |  |  |  |  |  |
+| ac |  | 1480 | Running Sum of 1d Array | Easy |  |  | https://leetcode.com/problems/running-sum-of-1d-array/ |  |  |  |  |  |
+| na |  | 1478 | Allocate Mailboxes | Hard |  |  | https://leetcode.com/problems/allocate-mailboxes/ |  |  |  |  |  |
+| ac |  | 1477 | Find Two Non-overlapping Sub-arrays Each With Target Sum | Medium |  |  | https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/ |  |  |  |  |  |
+| ac |  | 1476 | Subrectangle Queries | Medium |  |  | https://leetcode.com/problems/subrectangle-queries/ |  |  |  |  |  |
+| ac |  | 1475 | Final Prices With a Special Discount in a Shop | Easy |  |  | https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/ |  |  |  |  |  |
+| na | Yes | 1474 | Delete N Nodes After M Nodes of a Linked List | Easy |  |  | https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/ |  |  |  |  |  |
+| na |  | 1473 | Paint House III | Hard |  |  | https://leetcode.com/problems/paint-house-iii/ |  |  |  |  |  |
+| ac |  | 1472 | Design Browser History | Medium |  |  | https://leetcode.com/problems/design-browser-history/ |  |  |  |  |  |
+| ac |  | 1471 | The k Strongest Values in an Array | Medium |  |  | https://leetcode.com/problems/the-k-strongest-values-in-an-array/ |  |  |  |  |  |
+| ac |  | 1470 | Shuffle the Array | Easy |  |  | https://leetcode.com/problems/shuffle-the-array/ |  |  |  |  |  |
+| na | Yes | 1469 | Find All The Lonely Nodes | Easy |  |  | https://leetcode.com/problems/find-all-the-lonely-nodes/ |  |  |  |  |  |
+| notac |  | 1467 | Probability of a Two Boxes Having The Same Number of Distinct Balls | Hard |  |  | https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/ |  |  |  |  |  |
+| ac |  | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | Medium |  |  | https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/ |  |  |  |  |  |
+| ac |  | 1465 | Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts | Medium |  |  | https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/ |  |  |  |  |  |
+| ac |  | 1464 | Maximum Product of Two Elements in an Array | Easy |  |  | https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/ |  |  |  |  |  |
+| na |  | 1463 | Cherry Pickup II | Hard |  |  | https://leetcode.com/problems/cherry-pickup-ii/ |  |  |  |  |  |
+| ac |  | 1462 | Course Schedule IV | Medium |  |  | https://leetcode.com/problems/course-schedule-iv/ |  |  |  |  |  |
+| ac |  | 1461 | Check If a String Contains All Binary Codes of Size K | Medium |  |  | https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/ |  |  |  |  |  |
+| ac |  | 1460 | Make Two Arrays Equal by Reversing Sub-arrays | Easy |  |  | https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/ |  |  |  |  |  |
+| ac |  | 1458 | Max Dot Product of Two Subsequences | Hard |  |  | https://leetcode.com/problems/max-dot-product-of-two-subsequences/ |  |  |  |  |  |
+| ac |  | 1457 | Pseudo-Palindromic Paths in a Binary Tree | Medium |  |  | https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/ |  |  |  |  |  |
+| ac |  | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium |  |  | https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/ |  |  |  |  |  |
+| ac |  | 1455 | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Easy |  |  | https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/ |  |  |  |  |  |
 | na |  | 1453 | Maximum Number of Darts Inside of a Circular Dartboard | Hard |  |  | https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/ |  |  |  |  |  |
 | ac |  | 1452 | People Whose List of Favorite Companies Is Not a Subset of Another List | Medium |  |  | https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/ |  |  |  |  |  |
 | ac |  | 1451 | Rearrange Words in a Sentence | Medium |  |  | https://leetcode.com/problems/rearrange-words-in-a-sentence/ |  |  |  |  |  |
@@ -24,11 +69,11 @@
 | ac |  | 1433 | Check If a String Can Break Another String | Medium |  |  | https://leetcode.com/problems/check-if-a-string-can-break-another-string/ |  |  |  |  |  |
 | ac |  | 1432 | Max Difference You Can Get From Changing an Integer | Medium |  |  | https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/ |  |  |  |  |  |
 | ac |  | 1431 | Kids With the Greatest Number of Candies | Easy |  |  | https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ |  |  |  |  |  |
-| notac | Yes | 1430 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Medium |  |  | https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/ |  |  |  |  |  |
-| notac | Yes | 1429 | First Unique Number | Medium |  |  | https://leetcode.com/problems/first-unique-number/ | https://leetcode.com/problems/first-unique-number/solution/ |  |  |  |  |
-| na | Yes | 1428 | Leftmost Column with at Least a One | Medium |  |  | https://leetcode.com/problems/leftmost-column-with-at-least-a-one/ | https://leetcode.com/problems/leftmost-column-with-a-at-least-a-one/solution/ |  |  |  |  |
+| ac | Yes | 1430 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Medium |  |  | https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/ |  |  |  |  |  |
+| ac | Yes | 1429 | First Unique Number | Medium |  |  | https://leetcode.com/problems/first-unique-number/ | https://leetcode.com/problems/first-unique-number/solution/ |  |  |  |  |
+| ac | Yes | 1428 | Leftmost Column with at Least a One | Medium |  |  | https://leetcode.com/problems/leftmost-column-with-at-least-a-one/ | https://leetcode.com/problems/leftmost-column-with-a-at-least-a-one/solution/ |  |  |  |  |
 | ac | Yes | 1427 | Perform String Shifts | Easy |  |  | https://leetcode.com/problems/perform-string-shifts/ | https://leetcode.com/problems/performing-string-shifts/solution/ |  |  |  |  |
-| na | Yes | 1426 | Counting Elements | Easy |  |  | https://leetcode.com/problems/counting-elements/ | https://leetcode.com/problems/counting-elements/solution/ |  |  |  |  |
+| ac | Yes | 1426 | Counting Elements | Easy |  |  | https://leetcode.com/problems/counting-elements/ | https://leetcode.com/problems/counting-elements/solution/ |  |  |  |  |
 | notac |  | 1425 | Constrained Subsequence Sum | Hard |  |  | https://leetcode.com/problems/constrained-subsequence-sum/ |  |  |  |  |  |
 | ac |  | 1424 | Diagonal Traverse II | Medium |  |  | https://leetcode.com/problems/diagonal-traverse-ii/ |  |  |  |  |  |
 | ac |  | 1423 | Maximum Points You Can Obtain from Cards | Medium |  |  | https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/ |  |  |  |  |  |
@@ -74,19 +119,19 @@
 | ac |  | 1376 | Time Needed to Inform All Employees | Medium |  |  | https://leetcode.com/problems/time-needed-to-inform-all-employees/ |  |  |  |  |  |
 | ac |  | 1375 | Bulb Switcher III | Medium |  |  | https://leetcode.com/problems/bulb-switcher-iii/ |  |  |  |  |  |
 | ac |  | 1374 | Generate a String With Characters That Have Odd Counts | Easy |  |  | https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/ |  |  |  |  |  |
-| na |  | 1373 | Maximum Sum BST in Binary Tree | Hard |  |  | https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/ |  |  |  |  |  |
+| ac |  | 1373 | Maximum Sum BST in Binary Tree | Hard |  |  | https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/ |  |  |  |  |  |
 | ac |  | 1372 | Longest ZigZag Path in a Binary Tree | Medium |  |  | https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/ |  |  |  |  |  |
 | notac |  | 1371 | Find the Longest Substring Containing Vowels in Even Counts | Medium |  |  | https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/ |  |  |  |  |  |
 | ac |  | 1370 | Increasing Decreasing String | Easy |  |  | https://leetcode.com/problems/increasing-decreasing-string/ |  |  |  |  |  |
 | na |  | 1368 | Minimum Cost to Make at Least One Valid Path in a Grid | Hard |  |  | https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/ |  |  |  |  |  |
 | ac |  | 1367 | Linked List in Binary Tree | Medium |  |  | https://leetcode.com/problems/linked-list-in-binary-tree/ |  |  |  |  |  |
-| na |  | 1366 | Rank Teams by Votes | Medium |  |  | https://leetcode.com/problems/rank-teams-by-votes/ |  |  |  |  |  |
+| ac |  | 1366 | Rank Teams by Votes | Medium |  |  | https://leetcode.com/problems/rank-teams-by-votes/ |  |  |  |  |  |
 | ac |  | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy |  |  | https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/ |  |  |  |  |  |
-| na |  | 1363 | Largest Multiple of Three | Hard |  |  | https://leetcode.com/problems/largest-multiple-of-three/ |  |  |  |  |  |
+| ac |  | 1363 | Largest Multiple of Three | Hard |  |  | https://leetcode.com/problems/largest-multiple-of-three/ |  |  |  |  |  |
 | ac |  | 1362 | Closest Divisors | Medium |  |  | https://leetcode.com/problems/closest-divisors/ |  |  |  |  |  |
 | ac |  | 1361 | Validate Binary Tree Nodes | Medium |  |  | https://leetcode.com/problems/validate-binary-tree-nodes/ |  |  |  |  |  |
 | notac |  | 1360 | Number of Days Between Two Dates | Easy |  |  | https://leetcode.com/problems/number-of-days-between-two-dates/ |  |  |  |  |  |
-| na |  | 1359 | Count All Valid Pickup and Delivery Options | Hard |  |  | https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/ |  |  |  |  |  |
+| ac |  | 1359 | Count All Valid Pickup and Delivery Options | Hard |  |  | https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/ |  |  |  |  |  |
 | ac |  | 1358 | Number of Substrings Containing All Three Characters | Medium |  |  | https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/ |  |  |  |  |  |
 | ac |  | 1357 | Apply Discount Every n Orders | Medium |  |  | https://leetcode.com/problems/apply-discount-every-n-orders/ |  |  |  |  |  |
 | ac |  | 1356 | Sort Integers by The Number of 1 Bits | Easy |  |  | https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/ |  |  |  |  |  |
@@ -98,7 +143,7 @@
 | notac |  | 1348 | Tweet Counts Per Frequency | Medium |  |  | https://leetcode.com/problems/tweet-counts-per-frequency/ |  |  |  |  |  |
 | ac |  | 1347 | Minimum Number of Steps to Make Two Strings Anagram | Medium |  |  | https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/ |  |  |  |  |  |
 | ac |  | 1346 | Check If N and Its Double Exist | Easy |  |  | https://leetcode.com/problems/check-if-n-and-its-double-exist/ |  |  |  |  |  |
-| notac |  | 1345 | Jump Game IV | Hard |  |  | https://leetcode.com/problems/jump-game-iv/ |  |  |  |  |  |
+| ac |  | 1345 | Jump Game IV | Hard |  |  | https://leetcode.com/problems/jump-game-iv/ |  |  |  |  |  |
 | ac |  | 1344 | Angle Between Hands of a Clock | Medium |  |  | https://leetcode.com/problems/angle-between-hands-of-a-clock/ | https://leetcode.com/problems/angle-between-hands-of-a-clock/solution/ |  |  |  |  |
 | ac |  | 1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Medium |  |  | https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/ |  |  |  |  |  |
 | ac |  | 1342 | Number of Steps to Reduce a Number to Zero | Easy |  |  | https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ | https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/solution/ |  |  |  |  |
@@ -118,8 +163,8 @@
 | ac |  | 1325 | Delete Leaves With a Given Value | Medium |  |  | https://leetcode.com/problems/delete-leaves-with-a-given-value/ |  |  |  |  |  |
 | ac |  | 1324 | Print Words Vertically | Medium |  |  | https://leetcode.com/problems/print-words-vertically/ |  |  |  |  |  |
 | ac |  | 1323 | Maximum 69 Number | Easy |  |  | https://leetcode.com/problems/maximum-69-number/ |  |  |  |  |  |
-| na |  | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard |  |  | https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/ |  |  |  |  |  |
-| notac |  | 1319 | Number of Operations to Make Network Connected | Medium |  |  | https://leetcode.com/problems/number-of-operations-to-make-network-connected/ |  |  |  |  |  |
+| ac |  | 1320 | Minimum Distance to Type a Word Using Two Fingers | Hard |  |  | https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/ |  |  |  |  |  |
+| ac |  | 1319 | Number of Operations to Make Network Connected | Medium |  |  | https://leetcode.com/problems/number-of-operations-to-make-network-connected/ |  |  |  |  |  |
 | ac |  | 1318 | Minimum Flips to Make a OR b Equal to c | Medium |  |  | https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/ |  |  |  |  |  |
 | ac |  | 1317 | Convert Integer to the Sum of Two No-Zero Integers | Easy |  |  | https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/ |  |  |  |  |  |
 | na |  | 1316 | Distinct Echo Substrings | Hard |  |  | https://leetcode.com/problems/distinct-echo-substrings/ |  |  |  |  |  |
@@ -136,7 +181,7 @@
 | ac |  | 1304 | Find N Unique Integers Sum up to Zero | Easy |  |  | https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/ |  |  |  |  |  |
 | ac |  | 1302 | Deepest Leaves Sum | Medium |  |  | https://leetcode.com/problems/deepest-leaves-sum/ | https://leetcode.com/problems/deepest-leaves-sum/solution/ |  |  |  |  |
 | na |  | 1301 | Number of Paths with Max Score | Hard |  |  | https://leetcode.com/problems/number-of-paths-with-max-score/ |  |  |  |  |  |
-| na |  | 1300 | Sum of Mutated Array Closest to Target | Medium |  |  | https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/ |  |  |  |  |  |
+| ac |  | 1300 | Sum of Mutated Array Closest to Target | Medium |  |  | https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/ |  |  |  |  |  |
 | ac |  | 1299 | Replace Elements with Greatest Element on Right Side | Easy |  |  | https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/ |  |  |  |  |  |
 | na |  | 1298 | Maximum Candies You Can Get from Boxes | Hard |  |  | https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/ |  |  |  |  |  |
 | na |  | 1297 | Maximum Number of Occurrences of a Substring | Medium |  |  | https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/ |  |  |  |  |  |
@@ -155,7 +200,7 @@
 | ac |  | 1282 | Group the People Given the Group Size They Belong To | Medium |  |  | https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/ |  |  |  |  |  |
 | ac |  | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy |  |  | https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ |  |  |  |  |  |
 | na |  | 1278 | Palindrome Partitioning III | Hard |  |  | https://leetcode.com/problems/palindrome-partitioning-iii/ |  |  |  |  |  |
-| na |  | 1277 | Count Square Submatrices with All Ones | Medium |  |  | https://leetcode.com/problems/count-square-submatrices-with-all-ones/ |  |  |  |  |  |
+| ac |  | 1277 | Count Square Submatrices with All Ones | Medium |  |  | https://leetcode.com/problems/count-square-submatrices-with-all-ones/ |  |  |  |  |  |
 | ac |  | 1276 | Number of Burgers with No Waste of Ingredients | Medium |  |  | https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/ |  |  |  |  |  |
 | ac |  | 1275 | Find Winner on a Tic Tac Toe Game | Easy |  |  | https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/ |  |  |  |  |  |
 | na | Yes | 1274 | Number of Ships in a Rectangle | Hard |  |  | https://leetcode.com/problems/number-of-ships-in-a-rectangle/ |  |  |  |  |  |
@@ -168,7 +213,7 @@
 | ac |  | 1266 | Minimum Time Visiting All Points | Easy |  |  | https://leetcode.com/problems/minimum-time-visiting-all-points/ |  |  |  |  |  |
 | na | Yes | 1265 | Print Immutable Linked List in Reverse | Medium |  |  | https://leetcode.com/problems/print-immutable-linked-list-in-reverse/ |  |  |  |  |  |
 | na |  | 1263 | Minimum Moves to Move a Box to Their Target Location | Hard |  |  | https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/ |  |  |  |  |  |
-| na |  | 1262 | Greatest Sum Divisible by Three | Medium |  |  | https://leetcode.com/problems/greatest-sum-divisible-by-three/ |  |  |  |  |  |
+| notac |  | 1262 | Greatest Sum Divisible by Three | Medium |  |  | https://leetcode.com/problems/greatest-sum-divisible-by-three/ |  |  |  |  |  |
 | ac |  | 1261 | Find Elements in a Contaminated Binary Tree | Medium |  |  | https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/ |  |  |  |  |  |
 | ac |  | 1260 | Shift 2D Grid | Easy |  |  | https://leetcode.com/problems/shift-2d-grid/ | https://leetcode.com/problems/shift-2d-grid/solution/ |  |  |  |  |
 | na | Yes | 1259 | Handshakes That Don't Cross | Hard |  |  | https://leetcode.com/problems/handshakes-that-dont-cross/ |  |  |  |  |  |
@@ -177,10 +222,10 @@
 | na | Yes | 1256 | Encode Number | Medium |  |  | https://leetcode.com/problems/encode-number/ |  |  |  |  |  |
 | na |  | 1255 | Maximum Score Words Formed by Letters | Hard |  |  | https://leetcode.com/problems/maximum-score-words-formed-by-letters/ |  |  |  |  |  |
 | na |  | 1254 | Number of Closed Islands | Medium |  |  | https://leetcode.com/problems/number-of-closed-islands/ |  |  |  |  |  |
-| na |  | 1253 | Reconstruct a 2-Row Binary Matrix | Medium |  |  | https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/ |  |  |  |  |  |
+| ac |  | 1253 | Reconstruct a 2-Row Binary Matrix | Medium |  |  | https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/ |  |  |  |  |  |
 | ac |  | 1252 | Cells with Odd Values in a Matrix | Easy |  |  | https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/ |  |  |  |  |  |
 | na |  | 1250 | Check If It Is a Good Array | Hard |  |  | https://leetcode.com/problems/check-if-it-is-a-good-array/ |  |  |  |  |  |
-| na |  | 1249 | Minimum Remove to Make Valid Parentheses | Medium |  |  | https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ | https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solution/ |  |  |  |  |
+| ac |  | 1249 | Minimum Remove to Make Valid Parentheses | Medium |  |  | https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ | https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/solution/ |  |  |  |  |
 | ac |  | 1248 | Count Number of Nice Subarrays | Medium |  |  | https://leetcode.com/problems/count-number-of-nice-subarrays/ |  |  |  |  |  |
 | ac |  | 1247 | Minimum Swaps to Make Strings Equal | Medium |  |  | https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/ |  |  |  |  |  |
 | na | Yes | 1246 | Palindrome Removal | Hard |  |  | https://leetcode.com/problems/palindrome-removal/ |  |  |  |  |  |
@@ -207,7 +252,7 @@
 | ac |  | 1221 | Split a String in Balanced Strings | Easy |  |  | https://leetcode.com/problems/split-a-string-in-balanced-strings/ |  |  |  |  |  |
 | na |  | 1220 | Count Vowels Permutation | Hard |  |  | https://leetcode.com/problems/count-vowels-permutation/ |  |  |  |  |  |
 | na |  | 1219 | Path with Maximum Gold | Medium |  |  | https://leetcode.com/problems/path-with-maximum-gold/ |  |  |  |  |  |
-| na |  | 1218 | Longest Arithmetic Subsequence of Given Difference | Medium |  |  | https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/ |  |  |  |  |  |
+| ac |  | 1218 | Longest Arithmetic Subsequence of Given Difference | Medium |  |  | https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/ |  |  |  |  |  |
 | ac |  | 1217 | Play with Chips | Easy |  |  | https://leetcode.com/problems/play-with-chips/ |  |  |  |  |  |
 | na | Yes | 1216 | Valid Palindrome III | Hard |  |  | https://leetcode.com/problems/valid-palindrome-iii/ |  |  |  |  |  |
 | na | Yes | 1215 | Stepping Numbers | Medium |  |  | https://leetcode.com/problems/stepping-numbers/ |  |  |  |  |  |
@@ -233,7 +278,7 @@
 | na |  | 1187 | Make Array Strictly Increasing | Hard |  |  | https://leetcode.com/problems/make-array-strictly-increasing/ |  |  |  |  |  |
 | ac |  | 1186 | Maximum Subarray Sum with One Deletion | Medium |  |  | https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/ |  |  |  |  |  |
 | na |  | 1185 | Day of the Week | Easy |  |  | https://leetcode.com/problems/day-of-the-week/ |  |  |  |  |  |
-| na |  | 1184 | Distance Between Bus Stops | Easy |  |  | https://leetcode.com/problems/distance-between-bus-stops/ |  |  |  |  |  |
+| ac |  | 1184 | Distance Between Bus Stops | Easy |  |  | https://leetcode.com/problems/distance-between-bus-stops/ |  |  |  |  |  |
 | na | Yes | 1183 | Maximum Number of Ones | Hard |  |  | https://leetcode.com/problems/maximum-number-of-ones/ |  |  |  |  |  |
 | na | Yes | 1182 | Shortest Distance to Target Color | Medium |  |  | https://leetcode.com/problems/shortest-distance-to-target-color/ |  |  |  |  |  |
 | na | Yes | 1181 | Before and After Puzzle | Medium |  |  | https://leetcode.com/problems/before-and-after-puzzle/ |  |  |  |  |  |
@@ -289,7 +334,7 @@
 | na | Yes | 1118 | Number of Days in a Month | Easy |  |  | https://leetcode.com/problems/number-of-days-in-a-month/ |  |  |  |  |  |
 | na |  | 1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | Medium |  |  | https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/ |  |  |  |  |  |
 | na |  | 1110 | Delete Nodes And Return Forest | Medium |  |  | https://leetcode.com/problems/delete-nodes-and-return-forest/ |  |  |  |  |  |
-| notac |  | 1109 | Corporate Flight Bookings | Medium |  |  | https://leetcode.com/problems/corporate-flight-bookings/ |  |  |  |  |  |
+| ac |  | 1109 | Corporate Flight Bookings | Medium |  |  | https://leetcode.com/problems/corporate-flight-bookings/ |  |  |  |  |  |
 | ac |  | 1108 | Defanging an IP Address | Easy |  |  | https://leetcode.com/problems/defanging-an-ip-address/ |  |  |  |  |  |
 | ac |  | 1106 | Parsing A Boolean Expression | Hard |  |  | https://leetcode.com/problems/parsing-a-boolean-expression/ |  |  |  |  |  |
 | na |  | 1105 | Filling Bookcase Shelves | Medium |  |  | https://leetcode.com/problems/filling-bookcase-shelves/ |  |  |  |  |  |
@@ -298,7 +343,7 @@
 | na | Yes | 1102 | Path With Maximum Minimum Value | Medium |  |  | https://leetcode.com/problems/path-with-maximum-minimum-value/ |  |  |  |  |  |
 | na | Yes | 1101 | The Earliest Moment When Everyone Become Friends | Medium |  |  | https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/ |  |  |  |  |  |
 | na | Yes | 1100 | Find K-Length Substrings With No Repeated Characters | Medium |  |  | https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/ |  |  |  |  |  |
-| na | Yes | 1099 | Two Sum Less Than K | Easy |  |  | https://leetcode.com/problems/two-sum-less-than-k/ |  |  |  |  |  |
+| na | Yes | 1099 | Two Sum Less Than K | Easy |  |  | https://leetcode.com/problems/two-sum-less-than-k/ | https://leetcode.com/problems/two-sum-less-than-k/solution/ |  |  |  |  |
 | na |  | 1096 | Brace Expansion II | Hard |  |  | https://leetcode.com/problems/brace-expansion-ii/ |  |  |  |  |  |
 | na |  | 1095 | Find in Mountain Array | Hard |  |  | https://leetcode.com/problems/find-in-mountain-array/ |  |  |  |  |  |
 | na |  | 1094 | Car Pooling | Medium |  |  | https://leetcode.com/problems/car-pooling/ |  |  |  |  |  |
@@ -318,7 +363,7 @@
 | na |  | 1074 | Number of Submatrices That Sum to Target | Hard |  |  | https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/ | https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/solution/ |  |  |  |  |
 | na |  | 1073 | Adding Two Negabinary Numbers | Medium |  |  | https://leetcode.com/problems/adding-two-negabinary-numbers/ |  |  |  |  |  |
 | na |  | 1072 | Flip Columns For Maximum Number of Equal Rows | Medium |  |  | https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/ |  |  |  |  |  |
-| na |  | 1071 | Greatest Common Divisor of Strings | Easy |  |  | https://leetcode.com/problems/greatest-common-divisor-of-strings/ |  |  |  |  |  |
+| ac |  | 1071 | Greatest Common Divisor of Strings | Easy |  |  | https://leetcode.com/problems/greatest-common-divisor-of-strings/ |  |  |  |  |  |
 | na | Yes | 1067 | Digit Count in Range | Hard |  |  | https://leetcode.com/problems/digit-count-in-range/ |  |  |  |  |  |
 | na | Yes | 1066 | Campus Bikes II | Medium |  |  | https://leetcode.com/problems/campus-bikes-ii/ |  |  |  |  |  |
 | na | Yes | 1065 | Index Pairs of a String | Easy |  |  | https://leetcode.com/problems/index-pairs-of-a-string/ |  |  |  |  |  |
@@ -340,25 +385,25 @@
 | na |  | 1048 | Longest String Chain | Medium |  |  | https://leetcode.com/problems/longest-string-chain/ |  |  |  |  |  |
 | na |  | 1047 | Remove All Adjacent Duplicates In String | Easy |  |  | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/solution/ |  |  |  |  |
 | ac |  | 1046 | Last Stone Weight | Easy |  |  | https://leetcode.com/problems/last-stone-weight/ | https://leetcode.com/problems/last-stone-weight/solution/ |  |  |  |  |
-| na |  | 1044 | Longest Duplicate Substring | Hard |  |  | https://leetcode.com/problems/longest-duplicate-substring/ | https://leetcode.com/problems/longest-duplicate-substring/solution/ |  |  |  |  |
+| ac |  | 1044 | Longest Duplicate Substring | Hard |  |  | https://leetcode.com/problems/longest-duplicate-substring/ | https://leetcode.com/problems/longest-duplicate-substring/solution/ |  |  |  |  |
 | na |  | 1043 | Partition Array for Maximum Sum | Medium |  |  | https://leetcode.com/problems/partition-array-for-maximum-sum/ |  |  |  |  |  |
 | na |  | 1042 | Flower Planting With No Adjacent | Easy |  |  | https://leetcode.com/problems/flower-planting-with-no-adjacent/ |  |  |  |  |  |
-| na |  | 1041 | Robot Bounded In Circle | Medium |  |  | https://leetcode.com/problems/robot-bounded-in-circle/ |  |  |  |  |  |
+| ac |  | 1041 | Robot Bounded In Circle | Medium |  |  | https://leetcode.com/problems/robot-bounded-in-circle/ |  |  |  |  |  |
 | na |  | 1040 | Moving Stones Until Consecutive II | Medium |  |  | https://leetcode.com/problems/moving-stones-until-consecutive-ii/ |  |  |  |  |  |
 | na |  | 1039 | Minimum Score Triangulation of Polygon | Medium |  |  | https://leetcode.com/problems/minimum-score-triangulation-of-polygon/ |  |  |  |  |  |
 | ac |  | 1038 | Binary Search Tree to Greater Sum Tree | Medium |  |  | https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/ |  |  |  |  |  |
 | na |  | 1037 | Valid Boomerang | Easy |  |  | https://leetcode.com/problems/valid-boomerang/ |  |  |  |  |  |
 | na |  | 1036 | Escape a Large Maze | Hard |  |  | https://leetcode.com/problems/escape-a-large-maze/ |  |  |  |  |  |
-| na |  | 1035 | Uncrossed Lines | Medium |  |  | https://leetcode.com/problems/uncrossed-lines/ |  |  |  |  |  |
+| ac |  | 1035 | Uncrossed Lines | Medium |  |  | https://leetcode.com/problems/uncrossed-lines/ |  |  |  |  |  |
 | na |  | 1034 | Coloring A Border | Medium |  |  | https://leetcode.com/problems/coloring-a-border/ |  |  |  |  |  |
 | na |  | 1033 | Moving Stones Until Consecutive | Easy |  |  | https://leetcode.com/problems/moving-stones-until-consecutive/ |  |  |  |  |  |
-| na |  | 1032 | Stream of Characters | Hard |  |  | https://leetcode.com/problems/stream-of-characters/ |  |  |  |  |  |
+| ac |  | 1032 | Stream of Characters | Hard |  |  | https://leetcode.com/problems/stream-of-characters/ |  |  |  |  |  |
 | na |  | 1031 | Maximum Sum of Two Non-Overlapping Subarrays | Medium |  |  | https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/ |  |  |  |  |  |
 | ac |  | 1030 | Matrix Cells in Distance Order | Easy |  |  | https://leetcode.com/problems/matrix-cells-in-distance-order/ |  |  |  |  |  |
-| na |  | 1029 | Two City Scheduling | Easy |  |  | https://leetcode.com/problems/two-city-scheduling/ | https://leetcode.com/problems/two-city-scheduling/solution/ |  |  |  |  |
+| ac |  | 1029 | Two City Scheduling | Easy |  |  | https://leetcode.com/problems/two-city-scheduling/ | https://leetcode.com/problems/two-city-scheduling/solution/ |  |  |  |  |
 | na |  | 1028 | Recover a Tree From Preorder Traversal | Hard |  |  | https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/ |  |  |  |  |  |
 | na |  | 1027 | Longest Arithmetic Sequence | Medium |  |  | https://leetcode.com/problems/longest-arithmetic-sequence/ |  |  |  |  |  |
-| na |  | 1026 | Maximum Difference Between Node and Ancestor | Medium |  |  | https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/ |  |  |  |  |  |
+| ac |  | 1026 | Maximum Difference Between Node and Ancestor | Medium |  |  | https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/ |  |  |  |  |  |
 | na |  | 1025 | Divisor Game | Easy |  |  | https://leetcode.com/problems/divisor-game/ |  |  |  |  |  |
 | na |  | 1024 | Video Stitching | Medium |  |  | https://leetcode.com/problems/video-stitching/ |  |  |  |  |  |
 | ac |  | 1023 | Camelcase Matching | Medium |  |  | https://leetcode.com/problems/camelcase-matching/ |  |  |  |  |  |
@@ -374,7 +419,7 @@
 | ac |  | 1013 | Partition Array Into Three Parts With Equal Sum | Easy |  |  | https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/ |  |  |  |  |  |
 | na |  | 1012 | Numbers With Repeated Digits | Hard |  |  | https://leetcode.com/problems/numbers-with-repeated-digits/ |  |  |  |  |  |
 | na |  | 1011 | Capacity To Ship Packages Within D Days | Medium |  |  | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/ |  |  |  |  |  |
-| na |  | 1010 | Pairs of Songs With Total Durations Divisible by 60 | Easy |  |  | https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/ |  |  |  |  |  |
+| ac |  | 1010 | Pairs of Songs With Total Durations Divisible by 60 | Easy |  |  | https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/ |  |  |  |  |  |
 | ac |  | 1009 | Complement of Base 10 Integer | Easy |  |  | https://leetcode.com/problems/complement-of-base-10-integer/ | https://leetcode.com/problems/complement-of-base-10-integer/solution/ |  |  |  |  |
 | ac |  | 1008 | Construct Binary Search Tree from Preorder Traversal | Medium |  |  | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/ | https://leetcode.com/problems/construct-bst-from-preorder-traversal/solution/ |  |  |  |  |
 | na |  | 1007 | Minimum Domino Rotations For Equal Row | Medium |  |  | https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/ | https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/solution/ |  |  |  |  |
@@ -405,19 +450,19 @@
 | notac |  | 982 | Triples with Bitwise AND Equal To Zero | Hard |  |  | https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/ |  |  |  |  |  |
 | na |  | 981 | Time Based Key-Value Store | Medium |  |  | https://leetcode.com/problems/time-based-key-value-store/ | https://leetcode.com/problems/time-based-key-value-store/solution/ |  |  |  |  |
 | na |  | 980 | Unique Paths III | Hard |  |  | https://leetcode.com/problems/unique-paths-iii/ | https://leetcode.com/problems/unique-paths-iii/solution/ |  |  |  |  |
-| na |  | 979 | Distribute Coins in Binary Tree | Medium |  |  | https://leetcode.com/problems/distribute-coins-in-binary-tree/ | https://leetcode.com/problems/distribute-coins-in-binary-tree/solution/ |  |  |  |  |
+| ac |  | 979 | Distribute Coins in Binary Tree | Medium |  |  | https://leetcode.com/problems/distribute-coins-in-binary-tree/ | https://leetcode.com/problems/distribute-coins-in-binary-tree/solution/ |  |  |  |  |
 | ac |  | 978 | Longest Turbulent Subarray | Medium |  |  | https://leetcode.com/problems/longest-turbulent-subarray/ | https://leetcode.com/problems/longest-turbulent-subarray/solution/ |  |  |  |  |
 | ac |  | 977 | Squares of a Sorted Array | Easy |  |  | https://leetcode.com/problems/squares-of-a-sorted-array/ | https://leetcode.com/problems/squares-of-a-sorted-array/solution/ |  |  |  |  |
 | ac |  | 976 | Largest Perimeter Triangle | Easy |  |  | https://leetcode.com/problems/largest-perimeter-triangle/ | https://leetcode.com/problems/largest-perimeter-triangle/solution/ |  |  |  |  |
 | na |  | 975 | Odd Even Jump | Hard |  |  | https://leetcode.com/problems/odd-even-jump/ | https://leetcode.com/problems/odd-even-jump/solution/ |  |  |  |  |
 | ac |  | 974 | Subarray Sums Divisible by K | Medium |  |  | https://leetcode.com/problems/subarray-sums-divisible-by-k/ | https://leetcode.com/problems/subarray-sums-divisible-by-k/solution/ |  |  |  |  |
 | ac |  | 973 | K Closest Points to Origin | Medium |  |  | https://leetcode.com/problems/k-closest-points-to-origin/ | https://leetcode.com/problems/k-closest-points-to-origin/solution/ |  |  |  |  |
-| na |  | 972 | Equal Rational Numbers | Hard |  |  | https://leetcode.com/problems/equal-rational-numbers/ | https://leetcode.com/problems/equal-rational-numbers/solution/ |  |  |  |  |
-| na |  | 971 | Flip Binary Tree To Match Preorder Traversal | Medium |  |  | https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/ | https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/solution/ |  |  |  |  |
+| ac |  | 972 | Equal Rational Numbers | Hard |  |  | https://leetcode.com/problems/equal-rational-numbers/ | https://leetcode.com/problems/equal-rational-numbers/solution/ |  |  |  |  |
+| ac |  | 971 | Flip Binary Tree To Match Preorder Traversal | Medium |  |  | https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/ | https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/solution/ |  |  |  |  |
 | na |  | 970 | Powerful Integers | Easy |  |  | https://leetcode.com/problems/powerful-integers/ | https://leetcode.com/problems/powerful-integers/solution/ |  |  |  |  |
 | na |  | 969 | Pancake Sorting | Medium |  |  | https://leetcode.com/problems/pancake-sorting/ | https://leetcode.com/problems/pancake-sorting/solution/ |  |  |  |  |
 | na |  | 968 | Binary Tree Cameras | Hard |  |  | https://leetcode.com/problems/binary-tree-cameras/ | https://leetcode.com/problems/binary-tree-cameras/solution/ |  |  |  |  |
-| na |  | 967 | Numbers With Same Consecutive Differences | Medium |  |  | https://leetcode.com/problems/numbers-with-same-consecutive-differences/ | https://leetcode.com/problems/numbers-with-same-consecutive-differences/solution/ |  |  |  |  |
+| ac |  | 967 | Numbers With Same Consecutive Differences | Medium |  |  | https://leetcode.com/problems/numbers-with-same-consecutive-differences/ | https://leetcode.com/problems/numbers-with-same-consecutive-differences/solution/ |  |  |  |  |
 | na |  | 966 | Vowel Spellchecker | Medium |  |  | https://leetcode.com/problems/vowel-spellchecker/ | https://leetcode.com/problems/vowel-spellchecker/solution/ |  |  |  |  |
 | ac |  | 965 | Univalued Binary Tree | Easy |  |  | https://leetcode.com/problems/univalued-binary-tree/ | https://leetcode.com/problems/univalued-binary-tree/solution/ |  |  |  |  |
 | na |  | 964 | Least Operators to Express Number | Hard |  |  | https://leetcode.com/problems/least-operators-to-express-number/ | https://leetcode.com/problems/least-operators-to-express-number/solution/ |  |  |  |  |
@@ -427,7 +472,7 @@
 | na |  | 960 | Delete Columns to Make Sorted III | Hard |  |  | https://leetcode.com/problems/delete-columns-to-make-sorted-iii/ | https://leetcode.com/problems/delete-columns-to-make-sorted-iii/solution/ |  |  |  |  |
 | na |  | 959 | Regions Cut By Slashes | Medium |  |  | https://leetcode.com/problems/regions-cut-by-slashes/ | https://leetcode.com/problems/regions-cut-by-slashes/solution/ |  |  |  |  |
 | na |  | 958 | Check Completeness of a Binary Tree | Medium |  |  | https://leetcode.com/problems/check-completeness-of-a-binary-tree/ | https://leetcode.com/problems/check-completeness-of-a-binary-tree/solution/ |  |  |  |  |
-| na |  | 957 | Prison Cells After N Days | Medium |  |  | https://leetcode.com/problems/prison-cells-after-n-days/ | https://leetcode.com/problems/prison-cells-after-n-days/solution/ |  |  |  |  |
+| ac |  | 957 | Prison Cells After N Days | Medium |  |  | https://leetcode.com/problems/prison-cells-after-n-days/ | https://leetcode.com/problems/prison-cells-after-n-days/solution/ |  |  |  |  |
 | na |  | 956 | Tallest Billboard | Hard |  |  | https://leetcode.com/problems/tallest-billboard/ | https://leetcode.com/problems/tallest-billboard/solution/ |  |  |  |  |
 | na |  | 955 | Delete Columns to Make Sorted II | Medium |  |  | https://leetcode.com/problems/delete-columns-to-make-sorted-ii/ | https://leetcode.com/problems/delete-columns-to-make-sorted-ii/solution/ |  |  |  |  |
 | notac |  | 954 | Array of Doubled Pairs | Medium |  |  | https://leetcode.com/problems/array-of-doubled-pairs/ | https://leetcode.com/problems/array-of-doubled-pairs/solution/ |  |  |  |  |
@@ -453,12 +498,12 @@
 | na |  | 934 | Shortest Bridge | Medium |  |  | https://leetcode.com/problems/shortest-bridge/ | https://leetcode.com/problems/shortest-bridge/solution/ |  |  |  |  |
 | na |  | 933 | Number of Recent Calls | Easy |  |  | https://leetcode.com/problems/number-of-recent-calls/ | https://leetcode.com/problems/number-of-recent-calls/solution/ |  |  |  |  |
 | na |  | 932 | Beautiful Array | Medium |  |  | https://leetcode.com/problems/beautiful-array/ | https://leetcode.com/problems/beautiful-array/solution/ |  |  |  |  |
-| na |  | 931 | Minimum Falling Path Sum | Medium |  |  | https://leetcode.com/problems/minimum-falling-path-sum/ | https://leetcode.com/problems/minimum-path-falling-sum/solution/ |  |  |  |  |
+| ac |  | 931 | Minimum Falling Path Sum | Medium |  |  | https://leetcode.com/problems/minimum-falling-path-sum/ | https://leetcode.com/problems/minimum-path-falling-sum/solution/ |  |  |  |  |
 | na |  | 930 | Binary Subarrays With Sum | Medium |  |  | https://leetcode.com/problems/binary-subarrays-with-sum/ | https://leetcode.com/problems/binary-subarrays-with-sum/solution/ |  |  |  |  |
 | ac |  | 929 | Unique Email Addresses | Easy |  |  | https://leetcode.com/problems/unique-email-addresses/ | https://leetcode.com/problems/unique-email-addresses/solution/ |  |  |  |  |
 | na |  | 928 | Minimize Malware Spread II | Hard |  |  | https://leetcode.com/problems/minimize-malware-spread-ii/ | https://leetcode.com/problems/minimize-malware-spread-ii/solution/ |  |  |  |  |
 | na |  | 927 | Three Equal Parts | Hard |  |  | https://leetcode.com/problems/three-equal-parts/ | https://leetcode.com/problems/three-equal-parts/solution/ |  |  |  |  |
-| na |  | 926 | Flip String to Monotone Increasing | Medium |  |  | https://leetcode.com/problems/flip-string-to-monotone-increasing/ | https://leetcode.com/problems/flip-string-to-monotone-increasing/solution/ |  |  |  |  |
+| ac |  | 926 | Flip String to Monotone Increasing | Medium |  |  | https://leetcode.com/problems/flip-string-to-monotone-increasing/ | https://leetcode.com/problems/flip-string-to-monotone-increasing/solution/ |  |  |  |  |
 | na |  | 925 | Long Pressed Name | Easy |  |  | https://leetcode.com/problems/long-pressed-name/ | https://leetcode.com/problems/long-pressed-name/solution/ |  |  |  |  |
 | na |  | 924 | Minimize Malware Spread | Hard |  |  | https://leetcode.com/problems/minimize-malware-spread/ | https://leetcode.com/problems/minimize-malware-spread/solution/ |  |  |  |  |
 | na |  | 923 | 3Sum With Multiplicity | Medium |  |  | https://leetcode.com/problems/3sum-with-multiplicity/ | https://leetcode.com/problems/3sum-with-multiplicity/solution/ |  |  |  |  |
@@ -475,7 +520,7 @@
 | ac |  | 912 | Sort an Array | Medium |  |  | https://leetcode.com/problems/sort-an-array/ |  |  |  |  |  |
 | na |  | 911 | Online Election | Medium |  |  | https://leetcode.com/problems/online-election/ | https://leetcode.com/problems/online-election/solution/ |  |  |  |  |
 | na |  | 910 | Smallest Range II | Medium |  |  | https://leetcode.com/problems/smallest-range-ii/ | https://leetcode.com/problems/smallest-range-ii/solution/ |  |  |  |  |
-| na |  | 909 | Snakes and Ladders | Medium |  |  | https://leetcode.com/problems/snakes-and-ladders/ | https://leetcode.com/problems/snakes-and-ladders/solution/ |  |  |  |  |
+| notac |  | 909 | Snakes and Ladders | Medium |  |  | https://leetcode.com/problems/snakes-and-ladders/ | https://leetcode.com/problems/snakes-and-ladders/solution/ |  |  |  |  |
 | na |  | 908 | Smallest Range I | Easy |  |  | https://leetcode.com/problems/smallest-range-i/ | https://leetcode.com/problems/smallest-range-i/solution/ |  |  |  |  |
 | na |  | 907 | Sum of Subarray Minimums | Medium |  |  | https://leetcode.com/problems/sum-of-subarray-minimums/ | https://leetcode.com/problems/sum-of-subarray-minimums/solution/ |  |  |  |  |
 | na |  | 906 | Super Palindromes | Hard |  |  | https://leetcode.com/problems/super-palindromes/ | https://leetcode.com/problems/super-palindromes/solution/ |  |  |  |  |
@@ -483,7 +528,7 @@
 | ac |  | 904 | Fruit Into Baskets | Medium |  |  | https://leetcode.com/problems/fruit-into-baskets/ | https://leetcode.com/problems/fruit-into-baskets/solution/ |  |  |  |  |
 | na |  | 903 | Valid Permutations for DI Sequence | Hard |  |  | https://leetcode.com/problems/valid-permutations-for-di-sequence/ | https://leetcode.com/problems/valid-permutations-for-di-sequence/solution/ |  |  |  |  |
 | na |  | 902 | Numbers At Most N Given Digit Set | Hard |  |  | https://leetcode.com/problems/numbers-at-most-n-given-digit-set/ | https://leetcode.com/problems/numbers-at-most-n-given-digit-set/solution/ |  |  |  |  |
-| na |  | 901 | Online Stock Span | Medium |  |  | https://leetcode.com/problems/online-stock-span/ | https://leetcode.com/problems/online-stock-span/solution/ |  |  |  |  |
+| ac |  | 901 | Online Stock Span | Medium |  |  | https://leetcode.com/problems/online-stock-span/ | https://leetcode.com/problems/online-stock-span/solution/ |  |  |  |  |
 | na |  | 900 | RLE Iterator | Medium |  |  | https://leetcode.com/problems/rle-iterator/ | https://leetcode.com/problems/rle-iterator/solution/ |  |  |  |  |
 | na |  | 899 | Orderly Queue | Hard |  |  | https://leetcode.com/problems/orderly-queue/ | https://leetcode.com/problems/orderly-queue/solution/ |  |  |  |  |
 | na |  | 898 | Bitwise ORs of Subarrays | Medium |  |  | https://leetcode.com/problems/bitwise-ors-of-subarrays/ | https://leetcode.com/problems/bitwise-ors-of-subarrays/solution/ |  |  |  |  |
@@ -492,26 +537,26 @@
 | na |  | 895 | Maximum Frequency Stack | Hard |  |  | https://leetcode.com/problems/maximum-frequency-stack/ | https://leetcode.com/problems/maximum-frequency-stack/solution/ |  |  |  |  |
 | na |  | 894 | All Possible Full Binary Trees | Medium |  |  | https://leetcode.com/problems/all-possible-full-binary-trees/ | https://leetcode.com/problems/all-possible-full-binary-trees/solution/ |  |  |  |  |
 | ac |  | 893 | Groups of Special-Equivalent Strings | Easy |  |  | https://leetcode.com/problems/groups-of-special-equivalent-strings/ | https://leetcode.com/problems/groups-of-special-equivalent-strings/solution/ |  |  |  |  |
-| na |  | 892 | Surface Area of 3D Shapes | Easy |  |  | https://leetcode.com/problems/surface-area-of-3d-shapes/ | https://leetcode.com/problems/surface-area-of-3d-shapes/solution/ |  |  |  |  |
-| na |  | 891 | Sum of Subsequence Widths | Hard |  |  | https://leetcode.com/problems/sum-of-subsequence-widths/ | https://leetcode.com/problems/sum-of-subsequence-widths/solution/ |  |  |  |  |
+| ac |  | 892 | Surface Area of 3D Shapes | Easy |  |  | https://leetcode.com/problems/surface-area-of-3d-shapes/ | https://leetcode.com/problems/surface-area-of-3d-shapes/solution/ |  |  |  |  |
+| ac |  | 891 | Sum of Subsequence Widths | Hard |  |  | https://leetcode.com/problems/sum-of-subsequence-widths/ | https://leetcode.com/problems/sum-of-subsequence-widths/solution/ |  |  |  |  |
 | ac |  | 890 | Find and Replace Pattern | Medium |  |  | https://leetcode.com/problems/find-and-replace-pattern/ | https://leetcode.com/problems/find-and-replace-pattern/solution/ |  |  |  |  |
 | ac |  | 889 | Construct Binary Tree from Preorder and Postorder Traversal | Medium |  |  | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/ | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-/solution/ |  |  |  |  |
 | na |  | 888 | Fair Candy Swap | Easy |  |  | https://leetcode.com/problems/fair-candy-swap/ | https://leetcode.com/problems/fair-candy-swap/solution/ |  |  |  |  |
 | na |  | 887 | Super Egg Drop | Hard |  |  | https://leetcode.com/problems/super-egg-drop/ | https://leetcode.com/problems/super-egg-drop/solution/ |  |  |  |  |
-| na |  | 886 | Possible Bipartition | Medium |  |  | https://leetcode.com/problems/possible-bipartition/ | https://leetcode.com/problems/possible-bipartition/solution/ |  |  |  |  |
+| ac |  | 886 | Possible Bipartition | Medium |  |  | https://leetcode.com/problems/possible-bipartition/ | https://leetcode.com/problems/possible-bipartition/solution/ |  |  |  |  |
 | na |  | 885 | Spiral Matrix III | Medium |  |  | https://leetcode.com/problems/spiral-matrix-iii/ | https://leetcode.com/problems/spiral-matrix-iii/solution/ |  |  |  |  |
-| na |  | 884 | Uncommon Words from Two Sentences | Easy |  |  | https://leetcode.com/problems/uncommon-words-from-two-sentences/ | https://leetcode.com/problems/uncommon-words-from-two-sentences/solution/ |  |  |  |  |
+| ac |  | 884 | Uncommon Words from Two Sentences | Easy |  |  | https://leetcode.com/problems/uncommon-words-from-two-sentences/ | https://leetcode.com/problems/uncommon-words-from-two-sentences/solution/ |  |  |  |  |
 | na |  | 883 | Projection Area of 3D Shapes | Easy |  |  | https://leetcode.com/problems/projection-area-of-3d-shapes/ | https://leetcode.com/problems/projection-area-of-3d-shapes/solution/ |  |  |  |  |
 | na |  | 882 | Reachable Nodes In Subdivided Graph | Hard |  |  | https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/ | https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/solution/ |  |  |  |  |
 | na |  | 881 | Boats to Save People | Medium |  |  | https://leetcode.com/problems/boats-to-save-people/ | https://leetcode.com/problems/boats-to-save-people/solution/ |  |  |  |  |
 | na |  | 880 | Decoded String at Index | Medium |  |  | https://leetcode.com/problems/decoded-string-at-index/ | https://leetcode.com/problems/decoded-string-at-index/solution/ |  |  |  |  |
 | na |  | 879 | Profitable Schemes | Hard |  |  | https://leetcode.com/problems/profitable-schemes/ | https://leetcode.com/problems/profitable-schemes/solution/ |  |  |  |  |
-| na |  | 878 | Nth Magical Number | Hard |  |  | https://leetcode.com/problems/nth-magical-number/ | https://leetcode.com/problems/nth-magical-number/solution/ |  |  |  |  |
+| ac |  | 878 | Nth Magical Number | Hard |  |  | https://leetcode.com/problems/nth-magical-number/ | https://leetcode.com/problems/nth-magical-number/solution/ |  |  |  |  |
 | na |  | 877 | Stone Game | Medium |  |  | https://leetcode.com/problems/stone-game/ | https://leetcode.com/problems/stone-game/solution/ |  |  |  |  |
 | ac |  | 876 | Middle of the Linked List | Easy |  |  | https://leetcode.com/problems/middle-of-the-linked-list/ | https://leetcode.com/problems/middle-of-the-linked-list/solution/ |  |  |  |  |
-| na |  | 875 | Koko Eating Bananas | Medium |  |  | https://leetcode.com/problems/koko-eating-bananas/ | https://leetcode.com/problems/koko-eating-bananas/solution/ |  |  |  |  |
+| ac |  | 875 | Koko Eating Bananas | Medium |  |  | https://leetcode.com/problems/koko-eating-bananas/ | https://leetcode.com/problems/koko-eating-bananas/solution/ |  |  |  |  |
 | na |  | 874 | Walking Robot Simulation | Easy |  |  | https://leetcode.com/problems/walking-robot-simulation/ | https://leetcode.com/problems/walking-robot-simulation/solution/ |  |  |  |  |
-| na |  | 873 | Length of Longest Fibonacci Subsequence | Medium |  |  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/solution/ |  |  |  |  |
+| notac |  | 873 | Length of Longest Fibonacci Subsequence | Medium |  |  | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/ | https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/solution/ |  |  |  |  |
 | na |  | 872 | Leaf-Similar Trees | Easy |  |  | https://leetcode.com/problems/leaf-similar-trees/ | https://leetcode.com/problems/leaf-similar-trees/solution/ |  |  |  |  |
 | na |  | 871 | Minimum Number of Refueling Stops | Hard |  |  | https://leetcode.com/problems/minimum-number-of-refueling-stops/ | https://leetcode.com/problems/minimum-number-of-refueling-stops/solution/ |  |  |  |  |
 | na |  | 870 | Advantage Shuffle | Medium |  |  | https://leetcode.com/problems/advantage-shuffle/ | https://leetcode.com/problems/advantage-shuffle/solution/ |  |  |  |  |
@@ -519,7 +564,7 @@
 | na |  | 868 | Binary Gap | Easy |  |  | https://leetcode.com/problems/binary-gap/ | https://leetcode.com/problems/binary-gap/solution/ |  |  |  |  |
 | ac |  | 867 | Transpose Matrix | Easy |  |  | https://leetcode.com/problems/transpose-matrix/ | https://leetcode.com/problems/transpose-matrix/solution/ |  |  |  |  |
 | ac |  | 866 | Prime Palindrome | Medium |  |  | https://leetcode.com/problems/prime-palindrome/ | https://leetcode.com/problems/prime-palindrome/solution/ |  |  |  |  |
-| na |  | 865 | Smallest Subtree with all the Deepest Nodes | Medium |  |  | https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/ | https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/solution/ |  |  |  |  |
+| ac |  | 865 | Smallest Subtree with all the Deepest Nodes | Medium |  |  | https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/ | https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/solution/ |  |  |  |  |
 | na |  | 864 | Shortest Path to Get All Keys | Hard |  |  | https://leetcode.com/problems/shortest-path-to-get-all-keys/ | https://leetcode.com/problems/shortest-path-to-get-all-keys/solution/ |  |  |  |  |
 | na |  | 863 | All Nodes Distance K in Binary Tree | Medium |  |  | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/solution/ |  |  |  |  |
 | notac |  | 862 | Shortest Subarray with Sum at Least K | Hard |  |  | https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/ | https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/solution/ |  |  |  |  |
@@ -551,7 +596,7 @@
 | na |  | 836 | Rectangle Overlap | Easy |  |  | https://leetcode.com/problems/rectangle-overlap/ | https://leetcode.com/problems/rectangle-overlap/solution/ |  |  |  |  |
 | na |  | 835 | Image Overlap | Medium |  |  | https://leetcode.com/problems/image-overlap/ | https://leetcode.com/problems/image-overlap/solution/ |  |  |  |  |
 | na |  | 834 | Sum of Distances in Tree | Hard |  |  | https://leetcode.com/problems/sum-of-distances-in-tree/ | https://leetcode.com/problems/sum-of-distances-in-tree/solution/ |  |  |  |  |
-| na |  | 833 | Find And Replace in String | Medium |  |  | https://leetcode.com/problems/find-and-replace-in-string/ | https://leetcode.com/problems/find-and-replace-in-string/solution/ |  |  |  |  |
+| ac |  | 833 | Find And Replace in String | Medium |  |  | https://leetcode.com/problems/find-and-replace-in-string/ | https://leetcode.com/problems/find-and-replace-in-string/solution/ |  |  |  |  |
 | ac |  | 832 | Flipping an Image | Easy |  |  | https://leetcode.com/problems/flipping-an-image/ | https://leetcode.com/problems/flipping-an-image/solution/ |  |  |  |  |
 | na |  | 831 | Masking Personal Information | Medium |  |  | https://leetcode.com/problems/masking-personal-information/ | https://leetcode.com/problems/masking-personal-information/solution/ |  |  |  |  |
 | na |  | 830 | Positions of Large Groups | Easy |  |  | https://leetcode.com/problems/positions-of-large-groups/ | https://leetcode.com/problems/positions-of-large-groups/solution/ |  |  |  |  |
@@ -592,19 +637,19 @@
 | na |  | 795 | Number of Subarrays with Bounded Maximum | Medium |  |  | https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/ | https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/solution/ |  |  |  |  |
 | na |  | 794 | Valid Tic-Tac-Toe State | Medium |  |  | https://leetcode.com/problems/valid-tic-tac-toe-state/ | https://leetcode.com/problems/valid-tic-tac-toe-state/solution/ |  |  |  |  |
 | na |  | 793 | Preimage Size of Factorial Zeroes Function | Hard |  |  | https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/ | https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/solution/ |  |  |  |  |
-| na |  | 792 | Number of Matching Subsequences | Medium |  |  | https://leetcode.com/problems/number-of-matching-subsequences/ | https://leetcode.com/problems/number-of-matching-subsequences/solution/ |  |  |  |  |
+| ac |  | 792 | Number of Matching Subsequences | Medium |  |  | https://leetcode.com/problems/number-of-matching-subsequences/ | https://leetcode.com/problems/number-of-matching-subsequences/solution/ |  |  |  |  |
 | ac |  | 791 | Custom Sort String | Medium |  |  | https://leetcode.com/problems/custom-sort-string/ | https://leetcode.com/problems/custom-sort-string/solution/ |  |  |  |  |
 | na |  | 790 | Domino and Tromino Tiling | Medium |  |  | https://leetcode.com/problems/domino-and-tromino-tiling/ | https://leetcode.com/problems/domino-and-tromino-tiling/solution/ |  |  |  |  |
 | na |  | 789 | Escape The Ghosts | Medium |  |  | https://leetcode.com/problems/escape-the-ghosts/ | https://leetcode.com/problems/escape-the-ghosts/solution/ |  |  |  |  |
 | na |  | 788 | Rotated Digits | Easy |  |  | https://leetcode.com/problems/rotated-digits/ | https://leetcode.com/problems/rotated-digits/solution/ |  |  |  |  |
-| na |  | 787 | Cheapest Flights Within K Stops | Medium |  |  | https://leetcode.com/problems/cheapest-flights-within-k-stops/ | https://leetcode.com/problems/cheapest-flights-within-k-stops/solution/ |  |  |  |  |
+| ac |  | 787 | Cheapest Flights Within K Stops | Medium |  |  | https://leetcode.com/problems/cheapest-flights-within-k-stops/ | https://leetcode.com/problems/cheapest-flights-within-k-stops/solution/ |  |  |  |  |
 | na |  | 786 | K-th Smallest Prime Fraction | Hard |  |  | https://leetcode.com/problems/k-th-smallest-prime-fraction/ | https://leetcode.com/problems/k-th-smallest-prime-fraction/solution/ |  |  |  |  |
-| na |  | 785 | Is Graph Bipartite? | Medium |  |  | https://leetcode.com/problems/is-graph-bipartite/ | https://leetcode.com/problems/is-graph-bipartite/solution/ |  |  |  |  |
+| ac |  | 785 | Is Graph Bipartite? | Medium |  |  | https://leetcode.com/problems/is-graph-bipartite/ | https://leetcode.com/problems/is-graph-bipartite/solution/ |  |  |  |  |
 | na |  | 784 | Letter Case Permutation | Easy |  |  | https://leetcode.com/problems/letter-case-permutation/ | https://leetcode.com/problems/letter-case-permutation/solution/ |  |  |  |  |
 | ac |  | 783 | Minimum Distance Between BST Nodes | Easy |  |  | https://leetcode.com/problems/minimum-distance-between-bst-nodes/ | https://leetcode.com/problems/minimum-distance-between-bst-nodes/solution/ |  |  |  |  |
 | na |  | 782 | Transform to Chessboard | Hard |  |  | https://leetcode.com/problems/transform-to-chessboard/ | https://leetcode.com/problems/transform-to-chessboard/solution/ |  |  |  |  |
 | na |  | 781 | Rabbits in Forest | Medium |  |  | https://leetcode.com/problems/rabbits-in-forest/ | https://leetcode.com/problems/rabbits-in-forest/solution/ |  |  |  |  |
-| na |  | 780 | Reaching Points | Hard |  |  | https://leetcode.com/problems/reaching-points/ | https://leetcode.com/problems/reaching-points/solution/ |  |  |  |  |
+| ac |  | 780 | Reaching Points | Hard |  |  | https://leetcode.com/problems/reaching-points/ | https://leetcode.com/problems/reaching-points/solution/ |  |  |  |  |
 | ac |  | 779 | K-th Symbol in Grammar | Medium |  |  | https://leetcode.com/problems/k-th-symbol-in-grammar/ | https://leetcode.com/problems/k-th-symbol-in-grammar/solution/ |  |  |  |  |
 | na |  | 778 | Swim in Rising Water | Hard |  |  | https://leetcode.com/problems/swim-in-rising-water/ | https://leetcode.com/problems/swim-in-rising-water/solution/ |  |  |  |  |
 | na |  | 777 | Swap Adjacent in LR String | Medium |  |  | https://leetcode.com/problems/swap-adjacent-in-lr-string/ | https://leetcode.com/problems/swap-adjacent-in-lr-string/solution/ |  |  |  |  |
@@ -662,7 +707,7 @@
 | ac |  | 725 | Split Linked List in Parts | Medium |  |  | https://leetcode.com/problems/split-linked-list-in-parts/ | https://leetcode.com/problems/split-linked-list-in-parts/solution/ |  |  |  |  |
 | ac |  | 724 | Find Pivot Index | Easy |  |  | https://leetcode.com/problems/find-pivot-index/ | https://leetcode.com/problems/find-pivot-index/solution/ |  |  |  |  |
 | na | Yes | 723 | Candy Crush | Medium |  |  | https://leetcode.com/problems/candy-crush/ | https://leetcode.com/problems/candy-crush/solution/ |  |  |  |  |
-| na |  | 722 | Remove Comments | Medium |  |  | https://leetcode.com/problems/remove-comments/ | https://leetcode.com/problems/remove-comments/solution/ |  |  |  |  |
+| ac |  | 722 | Remove Comments | Medium |  |  | https://leetcode.com/problems/remove-comments/ | https://leetcode.com/problems/remove-comments/solution/ |  |  |  |  |
 | na |  | 721 | Accounts Merge | Medium |  |  | https://leetcode.com/problems/accounts-merge/ | https://leetcode.com/problems/accounts-merge/solution/ |  |  |  |  |
 | na |  | 720 | Longest Word in Dictionary | Easy |  |  | https://leetcode.com/problems/longest-word-in-dictionary/ | https://leetcode.com/problems/longest-word-in-dictionary/solution/ |  |  |  |  |
 | na |  | 719 | Find K-th Smallest Pair Distance | Hard |  |  | https://leetcode.com/problems/find-k-th-smallest-pair-distance/ | https://leetcode.com/problems/find-k-th-smallest-pair-distance/solution/ |  |  |  |  |
@@ -687,7 +732,7 @@
 | ac |  | 700 | Search in a Binary Search Tree | Easy |  |  | https://leetcode.com/problems/search-in-a-binary-search-tree/ | https://leetcode.com/problems/search-in-a-bst/solution/ |  |  |  |  |
 | na |  | 699 | Falling Squares | Hard |  |  | https://leetcode.com/problems/falling-squares/ | https://leetcode.com/problems/falling-squares/solution/ |  |  |  |  |
 | na |  | 698 | Partition to K Equal Sum Subsets | Medium |  |  | https://leetcode.com/problems/partition-to-k-equal-sum-subsets/ | https://leetcode.com/problems/partition-to-k-equal-sum-subsets/solution/ |  |  |  |  |
-| na |  | 697 | Degree of an Array | Easy |  |  | https://leetcode.com/problems/degree-of-an-array/ | https://leetcode.com/problems/degree-of-an-array/solution/ |  |  |  |  |
+| ac |  | 697 | Degree of an Array | Easy |  |  | https://leetcode.com/problems/degree-of-an-array/ | https://leetcode.com/problems/degree-of-an-array/solution/ |  |  |  |  |
 | na |  | 696 | Count Binary Substrings | Easy |  |  | https://leetcode.com/problems/count-binary-substrings/ | https://leetcode.com/problems/count-binary-substrings/solution/ |  |  |  |  |
 | na |  | 695 | Max Area of Island | Medium |  |  | https://leetcode.com/problems/max-area-of-island/ | https://leetcode.com/problems/max-area-of-island/solution/ |  |  |  |  |
 | na | Yes | 694 | Number of Distinct Islands | Medium |  |  | https://leetcode.com/problems/number-of-distinct-islands/ | https://leetcode.com/problems/number-of-distinct-islands/solution/ |  |  |  |  |
@@ -705,7 +750,7 @@
 | na |  | 682 | Baseball Game | Easy |  |  | https://leetcode.com/problems/baseball-game/ | https://leetcode.com/problems/baseball-game/solution/ |  |  |  |  |
 | na | Yes | 681 | Next Closest Time | Medium |  |  | https://leetcode.com/problems/next-closest-time/ | https://leetcode.com/problems/next-closest-time/solution/ |  |  |  |  |
 | na |  | 680 | Valid Palindrome II | Easy |  |  | https://leetcode.com/problems/valid-palindrome-ii/ | https://leetcode.com/problems/valid-palindrome-ii/solution/ |  |  |  |  |
-| na |  | 679 | 24 Game | Hard |  |  | https://leetcode.com/problems/24-game/ | https://leetcode.com/problems/24-game/solution/ |  |  |  |  |
+| ac |  | 679 | 24 Game | Hard |  |  | https://leetcode.com/problems/24-game/ | https://leetcode.com/problems/24-game/solution/ |  |  |  |  |
 | ac |  | 678 | Valid Parenthesis String | Medium |  |  | https://leetcode.com/problems/valid-parenthesis-string/ | https://leetcode.com/problems/valid-parenthesis-string/solution/ |  |  |  |  |
 | ac |  | 677 | Map Sum Pairs | Medium |  |  | https://leetcode.com/problems/map-sum-pairs/ | https://leetcode.com/problems/map-sum-pairs/solution/ |  |  |  |  |
 | ac |  | 676 | Implement Magic Dictionary | Medium |  |  | https://leetcode.com/problems/implement-magic-dictionary/ | https://leetcode.com/problems/implement-magic-dictionary/solution/ |  |  |  |  |
@@ -716,7 +761,7 @@
 | na |  | 671 | Second Minimum Node In a Binary Tree | Easy |  |  | https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/ | https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/solution/ |  |  |  |  |
 | ac |  | 670 | Maximum Swap | Medium |  |  | https://leetcode.com/problems/maximum-swap/ | https://leetcode.com/problems/maximum-swap/solution/ |  |  |  |  |
 | notac |  | 669 | Trim a Binary Search Tree | Easy |  |  | https://leetcode.com/problems/trim-a-binary-search-tree/ | https://leetcode.com/problems/trim-a-binary-search-tree/solution/ |  |  |  |  |
-| na |  | 668 | Kth Smallest Number in Multiplication Table | Hard |  |  | https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/ | https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/solution/ |  |  |  |  |
+| ac |  | 668 | Kth Smallest Number in Multiplication Table | Hard |  |  | https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/ | https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/solution/ |  |  |  |  |
 | na |  | 667 | Beautiful Arrangement II | Medium |  |  | https://leetcode.com/problems/beautiful-arrangement-ii/ | https://leetcode.com/problems/beautiful-arrangement-ii/solution/ |  |  |  |  |
 | na | Yes | 666 | Path Sum IV | Medium |  |  | https://leetcode.com/problems/path-sum-iv/ | https://leetcode.com/problems/path-sum-iv/solution/ |  |  |  |  |
 | na |  | 665 | Non-decreasing Array | Easy |  |  | https://leetcode.com/problems/non-decreasing-array/ | https://leetcode.com/problems/non-decreasing-array/solution/ |  |  |  |  |
@@ -759,13 +804,13 @@
 | ac |  | 628 | Maximum Product of Three Numbers | Easy |  |  | https://leetcode.com/problems/maximum-product-of-three-numbers/ | https://leetcode.com/problems/maximmum-product-of-three-numbers/solution/ |  |  |  |  |
 | na | Yes | 625 | Minimum Factorization | Medium |  |  | https://leetcode.com/problems/minimum-factorization/ | https://leetcode.com/problems/minimum-factorization/solution/ |  |  |  |  |
 | na | Yes | 624 | Maximum Distance in Arrays | Easy |  |  | https://leetcode.com/problems/maximum-distance-in-arrays/ | https://leetcode.com/problems/maximum-distance-in-array/solution/ |  |  |  |  |
-| notac |  | 623 | Add One Row to Tree | Medium |  |  | https://leetcode.com/problems/add-one-row-to-tree/ | https://leetcode.com/problems/add-one-row-in-a-tree/solution/ |  |  |  |  |
+| ac |  | 623 | Add One Row to Tree | Medium |  |  | https://leetcode.com/problems/add-one-row-to-tree/ | https://leetcode.com/problems/add-one-row-in-a-tree/solution/ |  |  |  |  |
 | na |  | 622 | Design Circular Queue | Medium |  |  | https://leetcode.com/problems/design-circular-queue/ | https://leetcode.com/problems/design-circular-queue/solution/ |  |  |  |  |
 | na |  | 621 | Task Scheduler | Medium |  |  | https://leetcode.com/problems/task-scheduler/ | https://leetcode.com/problems/task-scheduler/solution/ |  |  |  |  |
 | ac |  | 617 | Merge Two Binary Trees | Easy |  |  | https://leetcode.com/problems/merge-two-binary-trees/ | https://leetcode.com/problems/merge-two-binary-trees/solution/ |  |  |  |  |
 | na | Yes | 616 | Add Bold Tag in String | Medium |  |  | https://leetcode.com/problems/add-bold-tag-in-string/ | https://leetcode.com/problems/add-bold-tag-in-a-string/solution/ |  |  |  |  |
 | notac |  | 611 | Valid Triangle Number | Medium |  |  | https://leetcode.com/problems/valid-triangle-number/ | https://leetcode.com/problems/valid-triangle-number/solution/ |  |  |  |  |
-| na |  | 609 | Find Duplicate File in System | Medium |  |  | https://leetcode.com/problems/find-duplicate-file-in-system/ | https://leetcode.com/problems/find-duplicate-file-in-system/solution/ |  |  |  |  |
+| ac |  | 609 | Find Duplicate File in System | Medium |  |  | https://leetcode.com/problems/find-duplicate-file-in-system/ | https://leetcode.com/problems/find-duplicate-file-in-system/solution/ |  |  |  |  |
 | na |  | 606 | Construct String from Binary Tree | Easy |  |  | https://leetcode.com/problems/construct-string-from-binary-tree/ | https://leetcode.com/problems/construct-string-from-binary-tree/solution/ |  |  |  |  |
 | ac |  | 605 | Can Place Flowers | Easy |  |  | https://leetcode.com/problems/can-place-flowers/ | https://leetcode.com/problems/can-place-flowers/solution/ |  |  |  |  |
 | na | Yes | 604 | Design Compressed String Iterator | Easy |  |  | https://leetcode.com/problems/design-compressed-string-iterator/ | https://leetcode.com/problems/design-compressed-string-iterator/solution/ |  |  |  |  |
@@ -774,7 +819,7 @@
 | na |  | 598 | Range Addition II | Easy |  |  | https://leetcode.com/problems/range-addition-ii/ | https://leetcode.com/problems/range-addition-ii/solution/ |  |  |  |  |
 | na |  | 594 | Longest Harmonious Subsequence | Easy |  |  | https://leetcode.com/problems/longest-harmonious-subsequence/ | https://leetcode.com/problems/longest-harmonious-subsequence/solution/ |  |  |  |  |
 | ac |  | 593 | Valid Square | Medium |  |  | https://leetcode.com/problems/valid-square/ | https://leetcode.com/problems/valid-square/solution/ |  |  |  |  |
-| na |  | 592 | Fraction Addition and Subtraction | Medium |  |  | https://leetcode.com/problems/fraction-addition-and-subtraction/ | https://leetcode.com/problems/fraction-additon-and-subtraction/solution/ |  |  |  |  |
+| ac |  | 592 | Fraction Addition and Subtraction | Medium |  |  | https://leetcode.com/problems/fraction-addition-and-subtraction/ | https://leetcode.com/problems/fraction-additon-and-subtraction/solution/ |  |  |  |  |
 | na |  | 591 | Tag Validator | Hard |  |  | https://leetcode.com/problems/tag-validator/ | https://leetcode.com/problems/tag-validator/solution/ |  |  |  |  |
 | ac |  | 590 | N-ary Tree Postorder Traversal | Easy |  |  | https://leetcode.com/problems/n-ary-tree-postorder-traversal/ | https://leetcode.com/problems/n-ary-tree-postorder-traversal/solution/ |  |  |  |  |
 | ac |  | 589 | N-ary Tree Preorder Traversal | Easy |  |  | https://leetcode.com/problems/n-ary-tree-preorder-traversal/ | https://leetcode.com/problems/n-ary-tree-preorder-traversal/solution/ |  |  |  |  |
@@ -790,9 +835,9 @@
 | na | Yes | 568 | Maximum Vacation Days | Hard |  |  | https://leetcode.com/problems/maximum-vacation-days/ | https://leetcode.com/problems/maximum-vacation-days/solution/ |  |  |  |  |
 | ac |  | 567 | Permutation in String | Medium |  |  | https://leetcode.com/problems/permutation-in-string/ | https://leetcode.com/problems/short-permutation-in-a-long-string/solution/ |  |  |  |  |
 | na |  | 566 | Reshape the Matrix | Easy |  |  | https://leetcode.com/problems/reshape-the-matrix/ | https://leetcode.com/problems/reshape-the-matrix/solution/ |  |  |  |  |
-| na |  | 565 | Array Nesting | Medium |  |  | https://leetcode.com/problems/array-nesting/ | https://leetcode.com/problems/array-nesting/solution/ |  |  |  |  |
+| ac |  | 565 | Array Nesting | Medium |  |  | https://leetcode.com/problems/array-nesting/ | https://leetcode.com/problems/array-nesting/solution/ |  |  |  |  |
 | na |  | 564 | Find the Closest Palindrome | Hard |  |  | https://leetcode.com/problems/find-the-closest-palindrome/ | https://leetcode.com/problems/find-the-closest-palindrome/solution/ |  |  |  |  |
-| na |  | 563 | Binary Tree Tilt | Easy |  |  | https://leetcode.com/problems/binary-tree-tilt/ | https://leetcode.com/problems/binary-tree-tilt/solution/ |  |  |  |  |
+| ac |  | 563 | Binary Tree Tilt | Easy |  |  | https://leetcode.com/problems/binary-tree-tilt/ | https://leetcode.com/problems/binary-tree-tilt/solution/ |  |  |  |  |
 | na | Yes | 562 | Longest Line of Consecutive One in Matrix | Medium |  |  | https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/ | https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/solution/ |  |  |  |  |
 | na |  | 561 | Array Partition I | Easy |  |  | https://leetcode.com/problems/array-partition-i/ | https://leetcode.com/problems/array-partition-i/solution/ |  |  |  |  |
 | ac |  | 560 | Subarray Sum Equals K | Medium |  |  | https://leetcode.com/problems/subarray-sum-equals-k/ | https://leetcode.com/problems/subarray-sum-equals-k/solution/ |  |  |  |  |
@@ -821,11 +866,11 @@
 | na | Yes | 536 | Construct Binary Tree from String | Medium |  |  | https://leetcode.com/problems/construct-binary-tree-from-string/ |  |  |  |  |  |
 | ac |  | 535 | Encode and Decode TinyURL | Medium |  |  | https://leetcode.com/problems/encode-and-decode-tinyurl/ | https://leetcode.com/problems/encode-and-decode-tinyurl/solution/ |  |  |  |  |
 | na | Yes | 533 | Lonely Pixel II | Medium |  |  | https://leetcode.com/problems/lonely-pixel-ii/ |  |  |  |  |  |
-| na |  | 532 | K-diff Pairs in an Array | Easy |  |  | https://leetcode.com/problems/k-diff-pairs-in-an-array/ |  |  |  |  |  |
+| ac |  | 532 | K-diff Pairs in an Array | Easy |  |  | https://leetcode.com/problems/k-diff-pairs-in-an-array/ |  |  |  |  |  |
 | na | Yes | 531 | Lonely Pixel I | Medium |  |  | https://leetcode.com/problems/lonely-pixel-i/ |  |  |  |  |  |
 | ac |  | 530 | Minimum Absolute Difference in BST | Easy |  |  | https://leetcode.com/problems/minimum-absolute-difference-in-bst/ |  |  |  |  |  |
 | na |  | 529 | Minesweeper | Medium |  |  | https://leetcode.com/problems/minesweeper/ |  |  |  |  |  |
-| na |  | 528 | Random Pick with Weight | Medium |  |  | https://leetcode.com/problems/random-pick-with-weight/ | https://leetcode.com/problems/random-pick-with-weight/solution/ |  |  |  |  |
+| ac |  | 528 | Random Pick with Weight | Medium |  |  | https://leetcode.com/problems/random-pick-with-weight/ | https://leetcode.com/problems/random-pick-with-weight/solution/ |  |  |  |  |
 | na | Yes | 527 | Word Abbreviation | Hard |  |  | https://leetcode.com/problems/word-abbreviation/ | https://leetcode.com/problems/word-abbreviation/solution/ |  |  |  |  |
 | na |  | 526 | Beautiful Arrangement | Medium |  |  | https://leetcode.com/problems/beautiful-arrangement/ | https://leetcode.com/problems/beautiful-arrangement/solution/ |  |  |  |  |
 | ac |  | 525 | Contiguous Array | Medium |  |  | https://leetcode.com/problems/contiguous-array/ | https://leetcode.com/problems/contiguous-array/solution/ |  |  |  |  |
@@ -847,7 +892,7 @@
 | ac |  | 507 | Perfect Number | Easy |  |  | https://leetcode.com/problems/perfect-number/ | https://leetcode.com/problems/perfect-number/solution/ |  |  |  |  |
 | na |  | 506 | Relative Ranks | Easy |  |  | https://leetcode.com/problems/relative-ranks/ |  |  |  |  |  |
 | na | Yes | 505 | The Maze II | Medium |  |  | https://leetcode.com/problems/the-maze-ii/ | https://leetcode.com/problems/the-maze-ii/solution/ |  |  |  |  |
-| na |  | 504 | Base 7 | Easy |  |  | https://leetcode.com/problems/base-7/ |  |  |  |  |  |
+| ac |  | 504 | Base 7 | Easy |  |  | https://leetcode.com/problems/base-7/ |  |  |  |  |  |
 | na |  | 503 | Next Greater Element II | Medium |  |  | https://leetcode.com/problems/next-greater-element-ii/ | https://leetcode.com/problems/next-greater-element-ii/solution/ |  |  |  |  |
 | na |  | 502 | IPO | Hard |  |  | https://leetcode.com/problems/ipo/ | https://leetcode.com/problems/ipo/solution/ |  |  |  |  |
 | na |  | 501 | Find Mode in Binary Search Tree | Easy |  |  | https://leetcode.com/problems/find-mode-in-binary-search-tree/ |  |  |  |  |  |
@@ -860,7 +905,7 @@
 | na |  | 494 | Target Sum | Medium |  |  | https://leetcode.com/problems/target-sum/ | https://leetcode.com/problems/target-sum/solution/ |  |  |  |  |
 | na |  | 493 | Reverse Pairs | Hard |  |  | https://leetcode.com/problems/reverse-pairs/ | https://leetcode.com/problems/reverse-pairs/solution/ |  |  |  |  |
 | na |  | 492 | Construct the Rectangle | Easy |  |  | https://leetcode.com/problems/construct-the-rectangle/ |  |  |  |  |  |
-| na |  | 491 | Increasing Subsequences | Medium |  |  | https://leetcode.com/problems/increasing-subsequences/ |  |  |  |  |  |
+| ac |  | 491 | Increasing Subsequences | Medium |  |  | https://leetcode.com/problems/increasing-subsequences/ |  |  |  |  |  |
 | na | Yes | 490 | The Maze | Medium |  |  | https://leetcode.com/problems/the-maze/ | https://leetcode.com/problems/the-maze/solution/ |  |  |  |  |
 | na | Yes | 489 | Robot Room Cleaner | Hard |  |  | https://leetcode.com/problems/robot-room-cleaner/ | https://leetcode.com/problems/robot-room-cleaner/solution/ |  |  |  |  |
 | na |  | 488 | Zuma Game | Hard |  |  | https://leetcode.com/problems/zuma-game/ |  |  |  |  |  |
@@ -868,16 +913,16 @@
 | na |  | 486 | Predict the Winner | Medium |  |  | https://leetcode.com/problems/predict-the-winner/ | https://leetcode.com/problems/predict-the-winner/solution/ |  |  |  |  |
 | ac |  | 485 | Max Consecutive Ones | Easy |  |  | https://leetcode.com/problems/max-consecutive-ones/ | https://leetcode.com/problems/max-consecutive-ones/solution/ |  |  |  |  |
 | na | Yes | 484 | Find Permutation | Medium |  |  | https://leetcode.com/problems/find-permutation/ | https://leetcode.com/problems/find-permutation/solution/ |  |  |  |  |
-| na |  | 483 | Smallest Good Base | Hard |  |  | https://leetcode.com/problems/smallest-good-base/ |  |  |  |  |  |
+| notac |  | 483 | Smallest Good Base | Hard |  |  | https://leetcode.com/problems/smallest-good-base/ |  |  |  |  |  |
 | ac |  | 482 | License Key Formatting | Easy |  |  | https://leetcode.com/problems/license-key-formatting/ |  |  |  |  |  |
 | na |  | 481 | Magical String | Medium |  |  | https://leetcode.com/problems/magical-string/ |  |  |  |  |  |
 | na |  | 480 | Sliding Window Median | Hard |  |  | https://leetcode.com/problems/sliding-window-median/ | https://leetcode.com/problems/sliding-window-median/solution/ |  |  |  |  |
 | na |  | 479 | Largest Palindrome Product | Hard |  |  | https://leetcode.com/problems/largest-palindrome-product/ |  |  |  |  |  |
-| na |  | 478 | Generate Random Point in a Circle | Medium |  |  | https://leetcode.com/problems/generate-random-point-in-a-circle/ | https://leetcode.com/problems/generate-random-point-in-a-circle/solution/ |  |  |  |  |
-| notac |  | 477 | Total Hamming Distance | Medium |  |  | https://leetcode.com/problems/total-hamming-distance/ | https://leetcode.com/problems/total-hamming-distance/solution/ |  |  |  |  |
+| ac |  | 478 | Generate Random Point in a Circle | Medium |  |  | https://leetcode.com/problems/generate-random-point-in-a-circle/ | https://leetcode.com/problems/generate-random-point-in-a-circle/solution/ |  |  |  |  |
+| ac |  | 477 | Total Hamming Distance | Medium |  |  | https://leetcode.com/problems/total-hamming-distance/ | https://leetcode.com/problems/total-hamming-distance/solution/ |  |  |  |  |
 | ac |  | 476 | Number Complement | Easy |  |  | https://leetcode.com/problems/number-complement/ | https://leetcode.com/problems/number-complement/solution/ |  |  |  |  |
 | na |  | 475 | Heaters | Easy |  |  | https://leetcode.com/problems/heaters/ |  |  |  |  |  |
-| na |  | 474 | Ones and Zeroes | Medium |  |  | https://leetcode.com/problems/ones-and-zeroes/ | https://leetcode.com/problems/ones-and-zeroes/solution/ |  |  |  |  |
+| ac |  | 474 | Ones and Zeroes | Medium |  |  | https://leetcode.com/problems/ones-and-zeroes/ | https://leetcode.com/problems/ones-and-zeroes/solution/ |  |  |  |  |
 | na |  | 473 | Matchsticks to Square | Medium |  |  | https://leetcode.com/problems/matchsticks-to-square/ | https://leetcode.com/problems/matchsticks-to-square/solution/ |  |  |  |  |
 | na |  | 472 | Concatenated Words | Hard |  |  | https://leetcode.com/problems/concatenated-words/ |  |  |  |  |  |
 | na | Yes | 471 | Encode String with Shortest Length | Hard |  |  | https://leetcode.com/problems/encode-string-with-shortest-length/ |  |  |  |  |  |
@@ -888,7 +933,7 @@
 | na |  | 466 | Count The Repetitions | Hard |  |  | https://leetcode.com/problems/count-the-repetitions/ | https://leetcode.com/problems/count-the-repetitions/solution/ |  |  |  |  |
 | na | Yes | 465 | Optimal Account Balancing | Hard |  |  | https://leetcode.com/problems/optimal-account-balancing/ |  |  |  |  |  |
 | notac |  | 464 | Can I Win | Medium |  |  | https://leetcode.com/problems/can-i-win/ |  |  |  |  |  |
-| na |  | 463 | Island Perimeter | Easy |  |  | https://leetcode.com/problems/island-perimeter/ |  |  |  |  |  |
+| na |  | 463 | Island Perimeter | Easy |  |  | https://leetcode.com/problems/island-perimeter/ | https://leetcode.com/problems/island-perimeter/solution/ |  |  |  |  |
 | ac |  | 462 | Minimum Moves to Equal Array Elements II | Medium |  |  | https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/ | https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/solution/ |  |  |  |  |
 | ac |  | 461 | Hamming Distance | Easy |  |  | https://leetcode.com/problems/hamming-distance/ | https://leetcode.com/problems/hamming-distance/solution/ |  |  |  |  |
 | na |  | 460 | LFU Cache | Hard |  |  | https://leetcode.com/problems/lfu-cache/ |  |  |  |  |  |
@@ -897,7 +942,7 @@
 | na |  | 457 | Circular Array Loop | Medium |  |  | https://leetcode.com/problems/circular-array-loop/ |  |  |  |  |  |
 | na |  | 456 | 132 Pattern | Medium |  |  | https://leetcode.com/problems/132-pattern/ | https://leetcode.com/problems/132-pattern/solution/ |  |  |  |  |
 | na |  | 455 | Assign Cookies | Easy |  |  | https://leetcode.com/problems/assign-cookies/ |  |  |  |  |  |
-| ac |  | 454 | 4Sum II | Medium |  |  | https://leetcode.com/problems/4sum-ii/ |  |  |  |  |  |
+| ac |  | 454 | 4Sum II | Medium |  |  | https://leetcode.com/problems/4sum-ii/ | https://leetcode.com/problems/4sum-ii/solution/ |  |  |  |  |
 | ac |  | 453 | Minimum Moves to Equal Array Elements | Easy |  |  | https://leetcode.com/problems/minimum-moves-to-equal-array-elements/ | https://leetcode.com/problems/minimum-moves-to-equal-array-elements/solution/ |  |  |  |  |
 | na |  | 452 | Minimum Number of Arrows to Burst Balloons | Medium |  |  | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/ | https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solution/ |  |  |  |  |
 | ac |  | 451 | Sort Characters By Frequency | Medium |  |  | https://leetcode.com/problems/sort-characters-by-frequency/ | https://leetcode.com/problems/sort-characters-by-frequency/solution/ |  |  |  |  |
@@ -909,9 +954,9 @@
 | na |  | 445 | Add Two Numbers II | Medium |  |  | https://leetcode.com/problems/add-two-numbers-ii/ |  |  |  |  |  |
 | na | Yes | 444 | Sequence Reconstruction | Medium |  |  | https://leetcode.com/problems/sequence-reconstruction/ |  |  |  |  |  |
 | na |  | 443 | String Compression | Easy |  |  | https://leetcode.com/problems/string-compression/ | https://leetcode.com/problems/string-compression/solution/ |  |  |  |  |
-| ac |  | 442 | Find All Duplicates in an Array | Medium |  |  | https://leetcode.com/problems/find-all-duplicates-in-an-array/ |  |  |  |  |  |
+| ac |  | 442 | Find All Duplicates in an Array | Medium |  |  | https://leetcode.com/problems/find-all-duplicates-in-an-array/ | https://leetcode.com/problems/find-all-duplicates-in-an-array/solution/ |  |  |  |  |
 | ac |  | 441 | Arranging Coins | Easy |  |  | https://leetcode.com/problems/arranging-coins/ | https://leetcode.com/problems/arranging-coins/solution/ |  |  |  |  |
-| na |  | 440 | K-th Smallest in Lexicographical Order | Hard |  |  | https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/ |  |  |  |  |  |
+| notac |  | 440 | K-th Smallest in Lexicographical Order | Hard |  |  | https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/ |  |  |  |  |  |
 | na | Yes | 439 | Ternary Expression Parser | Medium |  |  | https://leetcode.com/problems/ternary-expression-parser/ |  |  |  |  |  |
 | ac |  | 438 | Find All Anagrams in a String | Medium |  |  | https://leetcode.com/problems/find-all-anagrams-in-a-string/ | https://leetcode.com/problems/find-all-anagrams-in-a-string/solution/ |  |  |  |  |
 | na |  | 437 | Path Sum III | Easy |  |  | https://leetcode.com/problems/path-sum-iii/ |  |  |  |  |  |
@@ -935,8 +980,8 @@
 | na |  | 419 | Battleships in a Board | Medium |  |  | https://leetcode.com/problems/battleships-in-a-board/ |  |  |  |  |  |
 | na | Yes | 418 | Sentence Screen Fitting | Medium |  |  | https://leetcode.com/problems/sentence-screen-fitting/ |  |  |  |  |  |
 | na |  | 417 | Pacific Atlantic Water Flow | Medium |  |  | https://leetcode.com/problems/pacific-atlantic-water-flow/ |  |  |  |  |  |
-| na |  | 416 | Partition Equal Subset Sum | Medium |  |  | https://leetcode.com/problems/partition-equal-subset-sum/ |  |  |  |  |  |
-| ac |  | 415 | Add Strings | Easy |  |  | https://leetcode.com/problems/add-strings/ |  |  |  |  |  |
+| ac |  | 416 | Partition Equal Subset Sum | Medium |  |  | https://leetcode.com/problems/partition-equal-subset-sum/ |  |  |  |  |  |
+| ac |  | 415 | Add Strings | Easy |  |  | https://leetcode.com/problems/add-strings/ | https://leetcode.com/problems/add-strings/solution/ |  |  |  |  |
 | ac |  | 414 | Third Maximum Number | Easy |  |  | https://leetcode.com/problems/third-maximum-number/ | https://leetcode.com/problems/third-maximum-number/solution/ |  |  |  |  |
 | ac |  | 413 | Arithmetic Slices | Medium |  |  | https://leetcode.com/problems/arithmetic-slices/ | https://leetcode.com/problems/arithmetic-slices/solution/ |  |  |  |  |
 | ac |  | 412 | Fizz Buzz | Easy |  |  | https://leetcode.com/problems/fizz-buzz/ | https://leetcode.com/problems/fizz-buzz/solution/ |  |  |  |  |
@@ -959,7 +1004,7 @@
 | na |  | 395 | Longest Substring with At Least K Repeating Characters | Medium |  |  | https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/ |  |  |  |  |  |
 | na |  | 394 | Decode String | Medium |  |  | https://leetcode.com/problems/decode-string/ |  |  |  |  |  |
 | na |  | 393 | UTF-8 Validation | Medium |  |  | https://leetcode.com/problems/utf-8-validation/ | https://leetcode.com/problems/utf-8-validation/solution/ |  |  |  |  |
-| notac |  | 392 | Is Subsequence | Easy |  |  | https://leetcode.com/problems/is-subsequence/ |  |  |  |  |  |
+| ac |  | 392 | Is Subsequence | Easy |  |  | https://leetcode.com/problems/is-subsequence/ | https://leetcode.com/problems/is-subsequence/solution/ |  |  |  |  |
 | na |  | 391 | Perfect Rectangle | Hard |  |  | https://leetcode.com/problems/perfect-rectangle/ |  |  |  |  |  |
 | na |  | 390 | Elimination Game | Medium |  |  | https://leetcode.com/problems/elimination-game/ |  |  |  |  |  |
 | ac |  | 389 | Find the Difference | Easy |  |  | https://leetcode.com/problems/find-the-difference/ | https://leetcode.com/problems/find-the-difference/solution/ |  |  |  |  |
@@ -967,26 +1012,26 @@
 | ac |  | 387 | First Unique Character in a String | Easy |  |  | https://leetcode.com/problems/first-unique-character-in-a-string/ | https://leetcode.com/problems/first-unique-character-in-a-string/solution/ |  |  |  |  |
 | notac |  | 386 | Lexicographical Numbers | Medium |  |  | https://leetcode.com/problems/lexicographical-numbers/ |  |  |  |  |  |
 | na |  | 385 | Mini Parser | Medium |  |  | https://leetcode.com/problems/mini-parser/ |  |  |  |  |  |
-| na |  | 384 | Shuffle an Array | Medium |  |  | https://leetcode.com/problems/shuffle-an-array/ | https://leetcode.com/problems/shuffle-an-array/solution/ |  |  |  |  |
+| notac |  | 384 | Shuffle an Array | Medium |  |  | https://leetcode.com/problems/shuffle-an-array/ | https://leetcode.com/problems/shuffle-an-array/solution/ |  |  |  |  |
 | ac |  | 383 | Ransom Note | Easy |  |  | https://leetcode.com/problems/ransom-note/ | https://leetcode.com/problems/ransom-note/solution/ |  |  |  |  |
 | na |  | 382 | Linked List Random Node | Medium |  |  | https://leetcode.com/problems/linked-list-random-node/ |  |  |  |  |  |
-| na |  | 381 | Insert Delete GetRandom O(1) - Duplicates allowed | Hard |  |  | https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/ | https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/solution/ |  |  |  |  |
-| na |  | 380 | Insert Delete GetRandom O(1) | Medium |  |  | https://leetcode.com/problems/insert-delete-getrandom-o1/ | https://leetcode.com/problems/insert-delete-getrandom-o1/solution/ |  |  |  |  |
+| ac |  | 381 | Insert Delete GetRandom O(1) - Duplicates allowed | Hard |  |  | https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/ | https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/solution/ |  |  |  |  |
+| ac |  | 380 | Insert Delete GetRandom O(1) | Medium |  |  | https://leetcode.com/problems/insert-delete-getrandom-o1/ | https://leetcode.com/problems/insert-delete-getrandom-o1/solution/ |  |  |  |  |
 | na | Yes | 379 | Design Phone Directory | Medium |  |  | https://leetcode.com/problems/design-phone-directory/ |  |  |  |  |  |
 | na |  | 378 | Kth Smallest Element in a Sorted Matrix | Medium |  |  | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/solution/ |  |  |  |  |
-| na |  | 377 | Combination Sum IV | Medium |  |  | https://leetcode.com/problems/combination-sum-iv/ |  |  |  |  |  |
-| na |  | 376 | Wiggle Subsequence | Medium |  |  | https://leetcode.com/problems/wiggle-subsequence/ | https://leetcode.com/problems/wiggle-subsequence/solution/ |  |  |  |  |
-| na |  | 375 | Guess Number Higher or Lower II | Medium |  |  | https://leetcode.com/problems/guess-number-higher-or-lower-ii/ | https://leetcode.com/problems/guess-higher-or-lower-number-ii/solution/ |  |  |  |  |
+| ac |  | 377 | Combination Sum IV | Medium |  |  | https://leetcode.com/problems/combination-sum-iv/ |  |  |  |  |  |
+| ac |  | 376 | Wiggle Subsequence | Medium |  |  | https://leetcode.com/problems/wiggle-subsequence/ | https://leetcode.com/problems/wiggle-subsequence/solution/ |  |  |  |  |
+| notac |  | 375 | Guess Number Higher or Lower II | Medium |  |  | https://leetcode.com/problems/guess-number-higher-or-lower-ii/ | https://leetcode.com/problems/guess-higher-or-lower-number-ii/solution/ |  |  |  |  |
 | ac |  | 374 | Guess Number Higher or Lower | Easy |  |  | https://leetcode.com/problems/guess-number-higher-or-lower/ | https://leetcode.com/problems/guess-number-higher-or-lower/solution/ |  |  |  |  |
 | na |  | 373 | Find K Pairs with Smallest Sums | Medium |  |  | https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ |  |  |  |  |  |
 | na |  | 372 | Super Pow | Medium |  |  | https://leetcode.com/problems/super-pow/ |  |  |  |  |  |
-| na |  | 371 | Sum of Two Integers | Easy |  |  | https://leetcode.com/problems/sum-of-two-integers/ |  |  |  |  |  |
+| ac |  | 371 | Sum of Two Integers | Easy |  |  | https://leetcode.com/problems/sum-of-two-integers/ | https://leetcode.com/problems/sum-of-two-integers/solution/ |  |  |  |  |
 | na | Yes | 370 | Range Addition | Medium |  |  | https://leetcode.com/problems/range-addition/ | https://leetcode.com/problems/range-addition/solution/ |  |  |  |  |
 | na | Yes | 369 | Plus One Linked List | Medium |  |  | https://leetcode.com/problems/plus-one-linked-list/ | https://leetcode.com/problems/plus-one-linked-list/solution/ |  |  |  |  |
-| na |  | 368 | Largest Divisible Subset | Medium |  |  | https://leetcode.com/problems/largest-divisible-subset/ | https://leetcode.com/problems/largest-divisible-subset/solution/ |  |  |  |  |
+| ac |  | 368 | Largest Divisible Subset | Medium |  |  | https://leetcode.com/problems/largest-divisible-subset/ | https://leetcode.com/problems/largest-divisible-subset/solution/ |  |  |  |  |
 | ac |  | 367 | Valid Perfect Square | Easy |  |  | https://leetcode.com/problems/valid-perfect-square/ | https://leetcode.com/problems/valid-perfect-square/solution/ |  |  |  |  |
 | na | Yes | 366 | Find Leaves of Binary Tree | Medium |  |  | https://leetcode.com/problems/find-leaves-of-binary-tree/ |  |  |  |  |  |
-| na |  | 365 | Water and Jug Problem | Medium |  |  | https://leetcode.com/problems/water-and-jug-problem/ |  |  |  |  |  |
+| ac |  | 365 | Water and Jug Problem | Medium |  |  | https://leetcode.com/problems/water-and-jug-problem/ |  |  |  |  |  |
 | na | Yes | 364 | Nested List Weight Sum II | Medium |  |  | https://leetcode.com/problems/nested-list-weight-sum-ii/ |  |  |  |  |  |
 | na |  | 363 | Max Sum of Rectangle No Larger Than K | Hard |  |  | https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/ |  |  |  |  |  |
 | na | Yes | 362 | Design Hit Counter | Medium |  |  | https://leetcode.com/problems/design-hit-counter/ |  |  |  |  |  |
@@ -1016,10 +1061,10 @@
 | ac |  | 338 | Counting Bits | Medium |  |  | https://leetcode.com/problems/counting-bits/ | https://leetcode.com/problems/counting-bits/solution/ |  |  |  |  |
 | na |  | 337 | House Robber III | Medium |  |  | https://leetcode.com/problems/house-robber-iii/ |  |  |  |  |  |
 | na |  | 336 | Palindrome Pairs | Hard |  |  | https://leetcode.com/problems/palindrome-pairs/ | https://leetcode.com/problems/palindrome-pairs/solution/ |  |  |  |  |
-| na |  | 335 | Self Crossing | Hard |  |  | https://leetcode.com/problems/self-crossing/ |  |  |  |  |  |
+| notac |  | 335 | Self Crossing | Hard |  |  | https://leetcode.com/problems/self-crossing/ |  |  |  |  |  |
 | na |  | 334 | Increasing Triplet Subsequence | Medium |  |  | https://leetcode.com/problems/increasing-triplet-subsequence/ |  |  |  |  |  |
 | na | Yes | 333 | Largest BST Subtree | Medium |  |  | https://leetcode.com/problems/largest-bst-subtree/ |  |  |  |  |  |
-| na |  | 332 | Reconstruct Itinerary | Medium |  |  | https://leetcode.com/problems/reconstruct-itinerary/ | https://leetcode.com/problems/reconstruct-itinerary/solution/ |  |  |  |  |
+| ac |  | 332 | Reconstruct Itinerary | Medium |  |  | https://leetcode.com/problems/reconstruct-itinerary/ | https://leetcode.com/problems/reconstruct-itinerary/solution/ |  |  |  |  |
 | na |  | 331 | Verify Preorder Serialization of a Binary Tree | Medium |  |  | https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/ | https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/solution/ |  |  |  |  |
 | na |  | 330 | Patching Array | Hard |  |  | https://leetcode.com/problems/patching-array/ | https://leetcode.com/problems/patching-array/solution/ |  |  |  |  |
 | na |  | 329 | Longest Increasing Path in a Matrix | Hard |  |  | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/ | https://leetcode.com/problems/longest-increasing-path-matrix/solution/ |  |  |  |  |
@@ -1033,7 +1078,7 @@
 | na |  | 321 | Create Maximum Number | Hard |  |  | https://leetcode.com/problems/create-maximum-number/ |  |  |  |  |  |
 | na | Yes | 320 | Generalized Abbreviation | Medium |  |  | https://leetcode.com/problems/generalized-abbreviation/ | https://leetcode.com/problems/generalized-abbreviation/solution/ |  |  |  |  |
 | ac |  | 319 | Bulb Switcher | Medium |  |  | https://leetcode.com/problems/bulb-switcher/ |  |  |  |  |  |
-| na |  | 318 | Maximum Product of Word Lengths | Medium |  |  | https://leetcode.com/problems/maximum-product-of-word-lengths/ | https://leetcode.com/problems/maximum-product-of-word-lengths/solution/ |  |  |  |  |
+| notac |  | 318 | Maximum Product of Word Lengths | Medium |  |  | https://leetcode.com/problems/maximum-product-of-word-lengths/ | https://leetcode.com/problems/maximum-product-of-word-lengths/solution/ |  |  |  |  |
 | na | Yes | 317 | Shortest Distance from All Buildings | Hard |  |  | https://leetcode.com/problems/shortest-distance-from-all-buildings/ |  |  |  |  |  |
 | ac |  | 316 | Remove Duplicate Letters | Hard |  |  | https://leetcode.com/problems/remove-duplicate-letters/ | https://leetcode.com/problems/remove-duplicate-letters/solution/ |  |  |  |  |
 | na |  | 315 | Count of Smaller Numbers After Self | Hard |  |  | https://leetcode.com/problems/count-of-smaller-numbers-after-self/ |  |  |  |  |  |
@@ -1061,7 +1106,7 @@
 | na | Yes | 293 | Flip Game | Easy |  |  | https://leetcode.com/problems/flip-game/ |  |  |  |  |  |
 | ac |  | 292 | Nim Game | Easy |  |  | https://leetcode.com/problems/nim-game/ | https://leetcode.com/problems/nim-game/solution/ |  |  |  |  |
 | na | Yes | 291 | Word Pattern II | Hard |  |  | https://leetcode.com/problems/word-pattern-ii/ |  |  |  |  |  |
-| ac |  | 290 | Word Pattern | Easy |  |  | https://leetcode.com/problems/word-pattern/ |  |  |  |  |  |
+| ac |  | 290 | Word Pattern | Easy |  |  | https://leetcode.com/problems/word-pattern/ | https://leetcode.com/problems/word-pattern/solution/ |  |  |  |  |
 | na |  | 289 | Game of Life | Medium |  |  | https://leetcode.com/problems/game-of-life/ | https://leetcode.com/problems/game-of-life/solution/ |  |  |  |  |
 | na | Yes | 288 | Unique Word Abbreviation | Medium |  |  | https://leetcode.com/problems/unique-word-abbreviation/ | https://leetcode.com/problems/unique-word-abbreviation/solution/ |  |  |  |  |
 | ac |  | 287 | Find the Duplicate Number | Medium |  |  | https://leetcode.com/problems/find-the-duplicate-number/ | https://leetcode.com/problems/find-the-duplicate-number/solution/ |  |  |  |  |
@@ -1076,9 +1121,9 @@
 | ac |  | 278 | First Bad Version | Easy |  |  | https://leetcode.com/problems/first-bad-version/ | https://leetcode.com/problems/first-bad-version/solution/ |  |  |  |  |
 | na | Yes | 277 | Find the Celebrity | Medium |  |  | https://leetcode.com/problems/find-the-celebrity/ | https://leetcode.com/problems/find-the-celebrity/solution/ |  |  |  |  |
 | na | Yes | 276 | Paint Fence | Easy |  |  | https://leetcode.com/problems/paint-fence/ |  |  |  |  |  |
-| na |  | 275 | H-Index II | Medium |  |  | https://leetcode.com/problems/h-index-ii/ | https://leetcode.com/problems/h-index-ii/solution/ |  |  |  |  |
+| ac |  | 275 | H-Index II | Medium |  |  | https://leetcode.com/problems/h-index-ii/ | https://leetcode.com/problems/h-index-ii/solution/ |  |  |  |  |
 | na |  | 274 | H-Index | Medium |  |  | https://leetcode.com/problems/h-index/ | https://leetcode.com/problems/h-index/solution/ |  |  |  |  |
-| na |  | 273 | Integer to English Words | Hard |  |  | https://leetcode.com/problems/integer-to-english-words/ | https://leetcode.com/problems/integer-to-english-words/solution/ |  |  |  |  |
+| ac |  | 273 | Integer to English Words | Hard |  |  | https://leetcode.com/problems/integer-to-english-words/ | https://leetcode.com/problems/integer-to-english-words/solution/ |  |  |  |  |
 | na | Yes | 272 | Closest Binary Search Tree Value II | Hard |  |  | https://leetcode.com/problems/closest-binary-search-tree-value-ii/ |  |  |  |  |  |
 | na | Yes | 271 | Encode and Decode Strings | Medium |  |  | https://leetcode.com/problems/encode-and-decode-strings/ | https://leetcode.com/problems/encode-and-decode-strings/solution/ |  |  |  |  |
 | na | Yes | 270 | Closest Binary Search Tree Value | Easy |  |  | https://leetcode.com/problems/closest-binary-search-tree-value/ | https://leetcode.com/problems/closest-bst-value/solution/ |  |  |  |  |
@@ -1087,12 +1132,12 @@
 | na | Yes | 267 | Palindrome Permutation II | Medium |  |  | https://leetcode.com/problems/palindrome-permutation-ii/ | https://leetcode.com/problems/palindrome-permutation-ii/solution/ |  |  |  |  |
 | na | Yes | 266 | Palindrome Permutation | Easy |  |  | https://leetcode.com/problems/palindrome-permutation/ | https://leetcode.com/problems/palindrome-permutation/solution/ |  |  |  |  |
 | na | Yes | 265 | Paint House II | Hard |  |  | https://leetcode.com/problems/paint-house-ii/ | https://leetcode.com/problems/paint-house-ii/solution/ |  |  |  |  |
-| na |  | 264 | Ugly Number II | Medium |  |  | https://leetcode.com/problems/ugly-number-ii/ | https://leetcode.com/problems/ugly-number-ii/solution/ |  |  |  |  |
+| ac |  | 264 | Ugly Number II | Medium |  |  | https://leetcode.com/problems/ugly-number-ii/ | https://leetcode.com/problems/ugly-number-ii/solution/ |  |  |  |  |
 | ac |  | 263 | Ugly Number | Easy |  |  | https://leetcode.com/problems/ugly-number/ |  |  |  |  |  |
 | na | Yes | 261 | Graph Valid Tree | Medium |  |  | https://leetcode.com/problems/graph-valid-tree/ | https://leetcode.com/problems/graph-valid-tree/solution/ |  |  |  |  |
 | na |  | 260 | Single Number III | Medium |  |  | https://leetcode.com/problems/single-number-iii/ | https://leetcode.com/problems/single-number-iii/solution/ |  |  |  |  |
 | na | Yes | 259 | 3Sum Smaller | Medium |  |  | https://leetcode.com/problems/3sum-smaller/ | https://leetcode.com/problems/3sum-smaller/solution/ |  |  |  |  |
-| ac |  | 258 | Add Digits | Easy |  |  | https://leetcode.com/problems/add-digits/ |  |  |  |  |  |
+| ac |  | 258 | Add Digits | Easy |  |  | https://leetcode.com/problems/add-digits/ | https://leetcode.com/problems/add-digits/solution/ |  |  |  |  |
 | na |  | 257 | Binary Tree Paths | Easy |  |  | https://leetcode.com/problems/binary-tree-paths/ | https://leetcode.com/problems/binary-tree-paths/solution/ |  |  |  |  |
 | na | Yes | 256 | Paint House | Easy |  |  | https://leetcode.com/problems/paint-house/ | https://leetcode.com/problems/paint-house/solution/ |  |  |  |  |
 | na | Yes | 255 | Verify Preorder Sequence in Binary Search Tree | Medium |  |  | https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/ |  |  |  |  |  |
@@ -1113,16 +1158,16 @@
 | na |  | 240 | Search a 2D Matrix II | Medium |  |  | https://leetcode.com/problems/search-a-2d-matrix-ii/ | https://leetcode.com/problems/search-a-2d-matrix-ii/solution/ |  |  |  |  |
 | na |  | 239 | Sliding Window Maximum | Hard |  |  | https://leetcode.com/problems/sliding-window-maximum/ | https://leetcode.com/problems/sliding-window-maximum/solution/ |  |  |  |  |
 | ac |  | 238 | Product of Array Except Self | Medium |  |  | https://leetcode.com/problems/product-of-array-except-self/ | https://leetcode.com/problems/product-of-array-except-self/solution/ |  |  |  |  |
-| na |  | 237 | Delete Node in a Linked List | Easy |  |  | https://leetcode.com/problems/delete-node-in-a-linked-list/ | https://leetcode.com/problems/delete-node-linked-list/solution/ |  |  |  |  |
+| ac |  | 237 | Delete Node in a Linked List | Easy |  |  | https://leetcode.com/problems/delete-node-in-a-linked-list/ | https://leetcode.com/problems/delete-node-linked-list/solution/ |  |  |  |  |
 | ac |  | 236 | Lowest Common Ancestor of a Binary Tree | Medium |  |  | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/ |  |  |  |  |
 | ac |  | 235 | Lowest Common Ancestor of a Binary Search Tree | Easy |  |  | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/ |  |  |  |  |
 | na |  | 234 | Palindrome Linked List | Easy |  |  | https://leetcode.com/problems/palindrome-linked-list/ | https://leetcode.com/problems/palindrome-linked-list/solution/ |  |  |  |  |
-| na |  | 233 | Number of Digit One | Hard |  |  | https://leetcode.com/problems/number-of-digit-one/ | https://leetcode.com/problems/number-of-digit-one/solution/ |  |  |  |  |
+| notac |  | 233 | Number of Digit One | Hard |  |  | https://leetcode.com/problems/number-of-digit-one/ | https://leetcode.com/problems/number-of-digit-one/solution/ |  |  |  |  |
 | na |  | 232 | Implement Queue using Stacks | Easy |  |  | https://leetcode.com/problems/implement-queue-using-stacks/ | https://leetcode.com/problems/implement-queue-using-stacks/solution/ |  |  |  |  |
 | ac |  | 231 | Power of Two | Easy |  |  | https://leetcode.com/problems/power-of-two/ | https://leetcode.com/problems/power-of-two/solution/ |  |  |  |  |
 | ac |  | 230 | Kth Smallest Element in a BST | Medium |  |  | https://leetcode.com/problems/kth-smallest-element-in-a-bst/ | https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/ |  |  |  |  |
 | ac |  | 229 | Majority Element II | Medium |  |  | https://leetcode.com/problems/majority-element-ii/ |  |  |  |  |  |
-| na |  | 228 | Summary Ranges | Medium |  |  | https://leetcode.com/problems/summary-ranges/ | https://leetcode.com/problems/summary-ranges/solution/ |  |  |  |  |
+| ac |  | 228 | Summary Ranges | Medium |  |  | https://leetcode.com/problems/summary-ranges/ | https://leetcode.com/problems/summary-ranges/solution/ |  |  |  |  |
 | ac |  | 227 | Basic Calculator II | Medium |  |  | https://leetcode.com/problems/basic-calculator-ii/ |  |  |  |  |  |
 | ac |  | 226 | Invert Binary Tree | Easy |  |  | https://leetcode.com/problems/invert-binary-tree/ | https://leetcode.com/problems/invert-binary-tree/solution/ |  |  |  |  |
 | na |  | 225 | Implement Stack using Queues | Easy |  |  | https://leetcode.com/problems/implement-stack-using-queues/ | https://leetcode.com/problems/implement-stack-using-queues/solution/ |  |  |  |  |
@@ -1138,12 +1183,12 @@
 | ac |  | 215 | Kth Largest Element in an Array | Medium |  |  | https://leetcode.com/problems/kth-largest-element-in-an-array/ | https://leetcode.com/problems/kth-largest-element-in-an-array/solution/ |  |  |  |  |
 | na |  | 214 | Shortest Palindrome | Hard |  |  | https://leetcode.com/problems/shortest-palindrome/ | https://leetcode.com/problems/shortest-palindrome/solution/ |  |  |  |  |
 | na |  | 213 | House Robber II | Medium |  |  | https://leetcode.com/problems/house-robber-ii/ |  |  |  |  |  |
-| na |  | 212 | Word Search II | Hard |  |  | https://leetcode.com/problems/word-search-ii/ | https://leetcode.com/problems/word-search-ii/solution/ |  |  |  |  |
+| ac |  | 212 | Word Search II | Hard |  |  | https://leetcode.com/problems/word-search-ii/ | https://leetcode.com/problems/word-search-ii/solution/ |  |  |  |  |
 | ac |  | 211 | Add and Search Word - Data structure design | Medium |  |  | https://leetcode.com/problems/add-and-search-word-data-structure-design/ |  |  |  |  |  |
 | na |  | 210 | Course Schedule II | Medium |  |  | https://leetcode.com/problems/course-schedule-ii/ | https://leetcode.com/problems/course-schedule-ii/solution/ |  |  |  |  |
 | na |  | 209 | Minimum Size Subarray Sum | Medium |  |  | https://leetcode.com/problems/minimum-size-subarray-sum/ | https://leetcode.com/problems/minimum-size-subarray-sum/solution/ |  |  |  |  |
 | ac |  | 208 | Implement Trie (Prefix Tree) | Medium |  |  | https://leetcode.com/problems/implement-trie-prefix-tree/ | https://leetcode.com/problems/implement-trie-prefix-tree/solution/ |  |  |  |  |
-| na |  | 207 | Course Schedule | Medium |  |  | https://leetcode.com/problems/course-schedule/ | https://leetcode.com/problems/course-schedule/solution/ |  |  |  |  |
+| ac |  | 207 | Course Schedule | Medium |  |  | https://leetcode.com/problems/course-schedule/ | https://leetcode.com/problems/course-schedule/solution/ |  |  |  |  |
 | ac |  | 206 | Reverse Linked List | Easy |  |  | https://leetcode.com/problems/reverse-linked-list/ | https://leetcode.com/problems/reverse-linked-list/solution/ |  |  |  |  |
 | ac |  | 205 | Isomorphic Strings | Easy |  |  | https://leetcode.com/problems/isomorphic-strings/ |  |  |  |  |  |
 | ac |  | 204 | Count Primes | Easy |  |  | https://leetcode.com/problems/count-primes/ |  |  |  |  |  |
@@ -1160,17 +1205,17 @@
 | na |  | 187 | Repeated DNA Sequences | Medium |  |  | https://leetcode.com/problems/repeated-dna-sequences/ | https://leetcode.com/problems/repeated-dna-sequences/solution/ |  |  |  |  |
 | na | Yes | 186 | Reverse Words in a String II | Medium |  |  | https://leetcode.com/problems/reverse-words-in-a-string-ii/ | https://leetcode.com/problems/reverse-words-in-a-string-ii/solution/ |  |  |  |  |
 | na |  | 179 | Largest Number | Medium |  |  | https://leetcode.com/problems/largest-number/ | https://leetcode.com/problems/largest-number/solution/ |  |  |  |  |
-| na |  | 174 | Dungeon Game | Hard |  |  | https://leetcode.com/problems/dungeon-game/ | https://leetcode.com/problems/dungeon-game/solution/ |  |  |  |  |
+| ac |  | 174 | Dungeon Game | Hard |  |  | https://leetcode.com/problems/dungeon-game/ | https://leetcode.com/problems/dungeon-game/solution/ |  |  |  |  |
 | ac |  | 173 | Binary Search Tree Iterator | Medium |  |  | https://leetcode.com/problems/binary-search-tree-iterator/ | https://leetcode.com/problems/binary-search-tree-iterator/solution/ |  |  |  |  |
 | ac |  | 172 | Factorial Trailing Zeroes | Easy |  |  | https://leetcode.com/problems/factorial-trailing-zeroes/ | https://leetcode.com/problems/factorial-trailing-zeroes/solution/ |  |  |  |  |
-| ac |  | 171 | Excel Sheet Column Number | Easy |  |  | https://leetcode.com/problems/excel-sheet-column-number/ |  |  |  |  |  |
+| ac |  | 171 | Excel Sheet Column Number | Easy |  |  | https://leetcode.com/problems/excel-sheet-column-number/ | https://leetcode.com/problems/excel-sheet-column-number/solution/ |  |  |  |  |
 | na | Yes | 170 | Two Sum III - Data structure design | Easy |  |  | https://leetcode.com/problems/two-sum-iii-data-structure-design/ | https://leetcode.com/problems/two-sum-iii-data-structure-design/solution/ |  |  |  |  |
 | ac |  | 169 | Majority Element | Easy |  |  | https://leetcode.com/problems/majority-element/ | https://leetcode.com/problems/majority-element/solution/ |  |  |  |  |
 | ac |  | 168 | Excel Sheet Column Title | Easy |  |  | https://leetcode.com/problems/excel-sheet-column-title/ |  |  |  |  |  |
 | ac |  | 167 | Two Sum II - Input array is sorted | Easy |  |  | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solution/ |  |  |  |  |
 | na |  | 166 | Fraction to Recurring Decimal | Medium |  |  | https://leetcode.com/problems/fraction-to-recurring-decimal/ | https://leetcode.com/problems/fraction-to-recurring-decimal/solution/ |  |  |  |  |
 | ac |  | 165 | Compare Version Numbers | Medium |  |  | https://leetcode.com/problems/compare-version-numbers/ | https://leetcode.com/problems/compare-version-numbers/solution/ |  |  |  |  |
-| na |  | 164 | Maximum Gap | Hard |  |  | https://leetcode.com/problems/maximum-gap/ | https://leetcode.com/problems/maximum-gap/solution/ |  |  |  |  |
+| ac |  | 164 | Maximum Gap | Hard |  |  | https://leetcode.com/problems/maximum-gap/ | https://leetcode.com/problems/maximum-gap/solution/ |  |  |  |  |
 | na | Yes | 163 | Missing Ranges | Medium |  |  | https://leetcode.com/problems/missing-ranges/ |  |  |  |  |  |
 | ac |  | 162 | Find Peak Element | Medium |  |  | https://leetcode.com/problems/find-peak-element/ | https://leetcode.com/problems/find-peak-element/solution/ |  |  |  |  |
 | na | Yes | 161 | One Edit Distance | Medium |  |  | https://leetcode.com/problems/one-edit-distance/ | https://leetcode.com/problems/one-edit-distance/solution/ |  |  |  |  |
@@ -1195,16 +1240,16 @@
 | na |  | 142 | Linked List Cycle II | Medium |  |  | https://leetcode.com/problems/linked-list-cycle-ii/ | https://leetcode.com/problems/linked-list-cycle-ii/solution/ |  |  |  |  |
 | ac |  | 141 | Linked List Cycle | Easy |  |  | https://leetcode.com/problems/linked-list-cycle/ | https://leetcode.com/problems/linked-list-cycle/solution/ |  |  |  |  |
 | na |  | 140 | Word Break II | Hard |  |  | https://leetcode.com/problems/word-break-ii/ | https://leetcode.com/problems/word-break-ii/solution/ |  |  |  |  |
-| notac |  | 139 | Word Break | Medium |  |  | https://leetcode.com/problems/word-break/ | https://leetcode.com/problems/word-break/solution/ |  |  |  |  |
+| ac |  | 139 | Word Break | Medium |  |  | https://leetcode.com/problems/word-break/ | https://leetcode.com/problems/word-break/solution/ |  |  |  |  |
 | na |  | 138 | Copy List with Random Pointer | Medium |  |  | https://leetcode.com/problems/copy-list-with-random-pointer/ | https://leetcode.com/problems/copy-list-with-random-pointer/solution/ |  |  |  |  |
-| na |  | 137 | Single Number II | Medium |  |  | https://leetcode.com/problems/single-number-ii/ | https://leetcode.com/problems/single-number-ii/solution/ |  |  |  |  |
+| ac |  | 137 | Single Number II | Medium |  |  | https://leetcode.com/problems/single-number-ii/ | https://leetcode.com/problems/single-number-ii/solution/ |  |  |  |  |
 | ac |  | 136 | Single Number | Easy |  |  | https://leetcode.com/problems/single-number/ | https://leetcode.com/problems/single-number/solution/ |  |  |  |  |
 | na |  | 135 | Candy | Hard |  |  | https://leetcode.com/problems/candy/ | https://leetcode.com/problems/candy/solution/ |  |  |  |  |
-| na |  | 134 | Gas Station | Medium |  |  | https://leetcode.com/problems/gas-station/ | https://leetcode.com/problems/gas-station/solution/ |  |  |  |  |
+| ac |  | 134 | Gas Station | Medium |  |  | https://leetcode.com/problems/gas-station/ | https://leetcode.com/problems/gas-station/solution/ |  |  |  |  |
 | na |  | 133 | Clone Graph | Medium |  |  | https://leetcode.com/problems/clone-graph/ | https://leetcode.com/problems/clone-graph/solution/ |  |  |  |  |
 | na |  | 132 | Palindrome Partitioning II | Hard |  |  | https://leetcode.com/problems/palindrome-partitioning-ii/ |  |  |  |  |  |
 | na |  | 131 | Palindrome Partitioning | Medium |  |  | https://leetcode.com/problems/palindrome-partitioning/ |  |  |  |  |  |
-| na |  | 130 | Surrounded Regions | Medium |  |  | https://leetcode.com/problems/surrounded-regions/ | https://leetcode.com/problems/surrounded-regions/solution/ |  |  |  |  |
+| ac |  | 130 | Surrounded Regions | Medium |  |  | https://leetcode.com/problems/surrounded-regions/ | https://leetcode.com/problems/surrounded-regions/solution/ |  |  |  |  |
 | ac |  | 129 | Sum Root to Leaf Numbers | Medium |  |  | https://leetcode.com/problems/sum-root-to-leaf-numbers/ | https://leetcode.com/problems/sum-root-to-leaf-numbers/solution/ |  |  |  |  |
 | na |  | 128 | Longest Consecutive Sequence | Hard |  |  | https://leetcode.com/problems/longest-consecutive-sequence/ | https://leetcode.com/problems/longest-consecutive-sequence/solution/ |  |  |  |  |
 | na |  | 127 | Word Ladder | Medium |  |  | https://leetcode.com/problems/word-ladder/ | https://leetcode.com/problems/word-ladder/solution/ |  |  |  |  |
@@ -1221,13 +1266,13 @@
 | ac |  | 116 | Populating Next Right Pointers in Each Node | Medium |  |  | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/solution/ |  |  |  |  |
 | na |  | 115 | Distinct Subsequences | Hard |  |  | https://leetcode.com/problems/distinct-subsequences/ | https://leetcode.com/problems/distinct-subsequences/solution/ |  |  |  |  |
 | ac |  | 114 | Flatten Binary Tree to Linked List | Medium |  |  | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/ | https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solution/ |  |  |  |  |
-| na |  | 113 | Path Sum II | Medium |  |  | https://leetcode.com/problems/path-sum-ii/ | https://leetcode.com/problems/path-sum-ii/solution/ |  |  |  |  |
+| ac |  | 113 | Path Sum II | Medium |  |  | https://leetcode.com/problems/path-sum-ii/ | https://leetcode.com/problems/path-sum-ii/solution/ |  |  |  |  |
 | ac |  | 112 | Path Sum | Easy |  |  | https://leetcode.com/problems/path-sum/ | https://leetcode.com/problems/path-sum/solution/ |  |  |  |  |
 | ac |  | 111 | Minimum Depth of Binary Tree | Easy |  |  | https://leetcode.com/problems/minimum-depth-of-binary-tree/ | https://leetcode.com/problems/minimum-depth-of-binary-tree/solution/ |  |  |  |  |
 | ac |  | 110 | Balanced Binary Tree | Easy |  |  | https://leetcode.com/problems/balanced-binary-tree/ | https://leetcode.com/problems/balanced-binary-tree/solution/ |  |  |  |  |
 | na |  | 109 | Convert Sorted List to Binary Search Tree | Medium |  |  | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/ | https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/solution/ |  |  |  |  |
 | ac |  | 108 | Convert Sorted Array to Binary Search Tree | Easy |  |  | https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/ | https://leetcode.com/problems/convert-sorted-array-to-bst/solution/ |  |  |  |  |
-| ac |  | 107 | Binary Tree Level Order Traversal II | Easy |  |  | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ |  |  |  |  |  |
+| ac |  | 107 | Binary Tree Level Order Traversal II | Easy |  |  | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ | https://leetcode.com/problems/binary-tree-level-order-traversal-ii/solution/ |  |  |  |  |
 | ac |  | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Medium |  |  | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/ | https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-t/solution/ |  |  |  |  |
 | ac |  | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Medium |  |  | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-tr/solution/ |  |  |  |  |
 | ac |  | 104 | Maximum Depth of Binary Tree | Easy |  |  | https://leetcode.com/problems/maximum-depth-of-binary-tree/ | https://leetcode.com/problems/maximum-depth-of-binary-tree/solution/ |  |  |  |  |
@@ -1237,8 +1282,8 @@
 | ac |  | 100 | Same Tree | Easy |  |  | https://leetcode.com/problems/same-tree/ | https://leetcode.com/problems/same-tree/solution/ |  |  |  |  |
 | na |  | 99 | Recover Binary Search Tree | Hard |  |  | https://leetcode.com/problems/recover-binary-search-tree/ | https://leetcode.com/problems/recover-binary-search-tree/solution/ |  |  |  |  |
 | ac |  | 98 | Validate Binary Search Tree | Medium |  |  | https://leetcode.com/problems/validate-binary-search-tree/ | https://leetcode.com/problems/validate-binary-search-tree/solution/ |  |  |  |  |
-| na |  | 97 | Interleaving String | Hard |  |  | https://leetcode.com/problems/interleaving-string/ | https://leetcode.com/problems/interleaving-strings/solution/ |  |  |  |  |
-| na |  | 96 | Unique Binary Search Trees | Medium |  |  | https://leetcode.com/problems/unique-binary-search-trees/ | https://leetcode.com/problems/unique-binary-search-trees/solution/ |  |  |  |  |
+| ac |  | 97 | Interleaving String | Hard |  |  | https://leetcode.com/problems/interleaving-string/ | https://leetcode.com/problems/interleaving-strings/solution/ |  |  |  |  |
+| ac |  | 96 | Unique Binary Search Trees | Medium |  |  | https://leetcode.com/problems/unique-binary-search-trees/ | https://leetcode.com/problems/unique-binary-search-trees/solution/ |  |  |  |  |
 | na |  | 95 | Unique Binary Search Trees II | Medium |  |  | https://leetcode.com/problems/unique-binary-search-trees-ii/ | https://leetcode.com/problems/unique-binary-search-trees-ii/solution/ |  |  |  |  |
 | ac |  | 94 | Binary Tree Inorder Traversal | Medium |  |  | https://leetcode.com/problems/binary-tree-inorder-traversal/ | https://leetcode.com/problems/binary-tree-inorder-traversal/solution/ |  |  |  |  |
 | na |  | 93 | Restore IP Addresses | Medium |  |  | https://leetcode.com/problems/restore-ip-addresses/ | https://leetcode.com/problems/restore-ip-addresses/solution/ |  |  |  |  |
@@ -1262,19 +1307,19 @@
 | ac |  | 75 | Sort Colors | Medium |  |  | https://leetcode.com/problems/sort-colors/ | https://leetcode.com/problems/sort-colors/solution/ |  |  |  |  |
 | ac |  | 74 | Search a 2D Matrix | Medium |  |  | https://leetcode.com/problems/search-a-2d-matrix/ | https://leetcode.com/problems/search-in-2d-matrix/solution/ |  |  |  |  |
 | ac |  | 73 | Set Matrix Zeroes | Medium |  |  | https://leetcode.com/problems/set-matrix-zeroes/ | https://leetcode.com/problems/set-matrix-zeroes/solution/ |  |  |  |  |
-| na |  | 72 | Edit Distance | Hard |  |  | https://leetcode.com/problems/edit-distance/ | https://leetcode.com/problems/edit-distance/solution/ |  |  |  |  |
+| ac |  | 72 | Edit Distance | Hard |  |  | https://leetcode.com/problems/edit-distance/ | https://leetcode.com/problems/edit-distance/solution/ |  |  |  |  |
 | ac |  | 71 | Simplify Path | Medium |  |  | https://leetcode.com/problems/simplify-path/ | https://leetcode.com/problems/simplify-path/solution/ |  |  |  |  |
 | ac |  | 70 | Climbing Stairs | Easy |  |  | https://leetcode.com/problems/climbing-stairs/ | https://leetcode.com/problems/climbing-stairs/solution/ |  |  |  |  |
 | ac |  | 69 | Sqrt(x) | Easy |  |  | https://leetcode.com/problems/sqrtx/ | https://leetcode.com/problems/sqrtx/solution/ |  |  |  |  |
-| na |  | 68 | Text Justification | Hard |  |  | https://leetcode.com/problems/text-justification/ |  |  |  |  |  |
+| ac |  | 68 | Text Justification | Hard |  |  | https://leetcode.com/problems/text-justification/ |  |  |  |  |  |
 | ac |  | 67 | Add Binary | Easy |  |  | https://leetcode.com/problems/add-binary/ | https://leetcode.com/problems/add-binary/solution/ |  |  |  |  |
 | ac |  | 66 | Plus One | Easy |  |  | https://leetcode.com/problems/plus-one/ | https://leetcode.com/problems/plus-one/solution/ |  |  |  |  |
-| na |  | 65 | Valid Number | Hard |  |  | https://leetcode.com/problems/valid-number/ |  |  |  |  |  |
+| ac |  | 65 | Valid Number | Hard |  |  | https://leetcode.com/problems/valid-number/ |  |  |  |  |  |
 | ac |  | 64 | Minimum Path Sum | Medium |  |  | https://leetcode.com/problems/minimum-path-sum/ | https://leetcode.com/problems/minimum-path-sum/solution/ |  |  |  |  |
-| na |  | 63 | Unique Paths II | Medium |  |  | https://leetcode.com/problems/unique-paths-ii/ | https://leetcode.com/problems/unique-paths-ii/solution/ |  |  |  |  |
+| ac |  | 63 | Unique Paths II | Medium |  |  | https://leetcode.com/problems/unique-paths-ii/ | https://leetcode.com/problems/unique-paths-ii/solution/ |  |  |  |  |
 | ac |  | 62 | Unique Paths | Medium |  |  | https://leetcode.com/problems/unique-paths/ | https://leetcode.com/problems/unique-paths/solution/ |  |  |  |  |
 | na |  | 61 | Rotate List | Medium |  |  | https://leetcode.com/problems/rotate-list/ | https://leetcode.com/problems/rotate-list/solution/ |  |  |  |  |
-| na |  | 60 | Permutation Sequence | Medium |  |  | https://leetcode.com/problems/permutation-sequence/ | https://leetcode.com/problems/permutation-sequence/solution/ |  |  |  |  |
+| ac |  | 60 | Permutation Sequence | Medium |  |  | https://leetcode.com/problems/permutation-sequence/ | https://leetcode.com/problems/permutation-sequence/solution/ |  |  |  |  |
 | ac |  | 59 | Spiral Matrix II | Medium |  |  | https://leetcode.com/problems/spiral-matrix-ii/ |  |  |  |  |  |
 | ac |  | 58 | Length of Last Word | Easy |  |  | https://leetcode.com/problems/length-of-last-word/ | https://leetcode.com/problems/length-of-last-word/solution/ |  |  |  |  |
 | na |  | 57 | Insert Interval | Hard |  |  | https://leetcode.com/problems/insert-interval/ | https://leetcode.com/problems/insert-interval/solution/ |  |  |  |  |
@@ -1298,9 +1343,9 @@
 | ac |  | 39 | Combination Sum | Medium |  |  | https://leetcode.com/problems/combination-sum/ |  |  |  |  |  |
 | ac |  | 38 | Count and Say | Easy |  |  | https://leetcode.com/problems/count-and-say/ | https://leetcode.com/problems/count-and-say/solution/ |  |  |  |  |
 | na |  | 37 | Sudoku Solver | Hard |  |  | https://leetcode.com/problems/sudoku-solver/ | https://leetcode.com/problems/sudoku-solver/solution/ |  |  |  |  |
-| na |  | 36 | Valid Sudoku | Medium |  |  | https://leetcode.com/problems/valid-sudoku/ | https://leetcode.com/problems/valid-sudoku/solution/ |  |  |  |  |
+| ac |  | 36 | Valid Sudoku | Medium |  |  | https://leetcode.com/problems/valid-sudoku/ | https://leetcode.com/problems/valid-sudoku/solution/ |  |  |  |  |
 | ac |  | 35 | Search Insert Position | Easy |  |  | https://leetcode.com/problems/search-insert-position/ | https://leetcode.com/problems/search-insert-position/solution/ |  |  |  |  |
-| na |  | 34 | Find First and Last Position of Element in Sorted Array | Medium |  |  | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ | https://leetcode.com/problems/find-first-and-last-position-element-sorted-array/solution/ |  |  |  |  |
+| ac |  | 34 | Find First and Last Position of Element in Sorted Array | Medium |  |  | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ | https://leetcode.com/problems/find-first-and-last-position-element-sorted-array/solution/ |  |  |  |  |
 | ac |  | 33 | Search in Rotated Sorted Array | Medium |  |  | https://leetcode.com/problems/search-in-rotated-sorted-array/ | https://leetcode.com/problems/search-in-rotated-sorted-array/solution/ |  |  |  |  |
 | na |  | 32 | Longest Valid Parentheses | Hard |  |  | https://leetcode.com/problems/longest-valid-parentheses/ | https://leetcode.com/problems/longest-valid-parentheses/solution/ |  |  |  |  |
 | na |  | 31 | Next Permutation | Medium |  |  | https://leetcode.com/problems/next-permutation/ | https://leetcode.com/problems/next-permutation/solution/ |  |  |  |  |
@@ -1316,7 +1361,7 @@
 | ac |  | 21 | Merge Two Sorted Lists | Easy |  |  | https://leetcode.com/problems/merge-two-sorted-lists/ | https://leetcode.com/problems/merged-two-sorted-lists/solution/ |  |  |  |  |
 | ac |  | 20 | Valid Parentheses | Easy |  |  | https://leetcode.com/problems/valid-parentheses/ | https://leetcode.com/problems/valid-parentheses/solution/ |  |  |  |  |
 | ac |  | 19 | Remove Nth Node From End of List | Medium |  |  | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ | https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/ |  |  |  |  |
-| notac |  | 18 | 4Sum | Medium |  |  | https://leetcode.com/problems/4sum/ |  |  |  |  |  |
+| notac |  | 18 | 4Sum | Medium |  |  | https://leetcode.com/problems/4sum/ | https://leetcode.com/problems/4sum/solution/ |  |  |  |  |
 | ac |  | 17 | Letter Combinations of a Phone Number | Medium |  |  | https://leetcode.com/problems/letter-combinations-of-a-phone-number/ | https://leetcode.com/problems/letter-combinations-of-a-phone-number/solution/ |  |  |  |  |
 | ac |  | 16 | 3Sum Closest | Medium |  |  | https://leetcode.com/problems/3sum-closest/ | https://leetcode.com/problems/3sum-closest/solution/ |  |  |  |  |
 | ac |  | 15 | 3Sum | Medium |  |  | https://leetcode.com/problems/3sum/ | https://leetcode.com/problems/3sum/solution/ |  |  |  |  |

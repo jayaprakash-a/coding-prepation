@@ -404,98 +404,69 @@
 	"buffers":
 	[
 		{
-			"file": "leetcode/Problems/96--Unique-Binary-Search-Trees-Medium.py",
+			"file": "hackerrank/placement-test/pt-test-2/Help-the-Nincompoops.py",
 			"settings":
 			{
-				"buffer_size": 130,
+				"buffer_size": 1167,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "class Solution:"
+				"name": "import collections"
 			}
 		},
 		{
-			"file": "leetcode/Problems/212--Word-Search-II-Hard.py",
+			"file": "hackerrank/placement-test/pt-test-2/Aneesh's-Fortune.py",
 			"settings":
 			{
-				"buffer_size": 1815,
+				"buffer_size": 1060,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "class TrieNode:"
+				"name": "import collections"
 			}
 		},
 		{
-			"file": "leetcode/Problems/264--Ugly-Number-II-Medium.py",
+			"file": "hackerrank/placement-test/pt-test-2/Maximum-Element.py",
 			"settings":
 			{
-				"buffer_size": 473,
+				"buffer_size": 529,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "class Solution:"
+				"name": "def main():"
 			}
 		},
 		{
-			"file": "leetcode/Problems/332--Reconstruct-Itinerary-Medium.py",
+			"file": "hackerrank/placement-test/pt-test-2/I-\"Really\"-Wanna-Be-the-Guy.py",
 			"settings":
 			{
-				"buffer_size": 385,
+				"buffer_size": 265,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "class Solution:"
+				"name": "def main():"
 			}
 		},
 		{
-			"file": "leetcode/Problems/792--Number-of-Matching-Subsequences-Medium.py",
+			"file": "hackerrank/placement-test/pt-test-2/Kangaroo.py",
 			"settings":
 			{
-				"buffer_size": 492,
+				"buffer_size": 550,
 				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/957--Prison-Cells-After-N-Days-Medium.py",
-			"settings":
-			{
-				"buffer_size": 352,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1253--Reconstruct-a-2-Row-Binary-Matrix-Medium.py",
-			"settings":
-			{
-				"buffer_size": 1099,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1366--Rank-Teams-by-Votes-Medium.py",
-			"settings":
-			{
-				"buffer_size": 502,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "leetcode/Problems/688--Knight-Probability-in-Chessboard-Medium.py",
+			"file": "hackerrank/placement-test/pt-test-2/Exact-Payment.py",
 			"settings":
 			{
-				"buffer_size": 728,
+				"buffer_size": 376,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "def getAns(a, b, n, S):"
+			}
+		},
+		{
+			"file": "leetcode/30-day-challenge/July_2020/11-Subsets.py",
+			"settings":
+			{
+				"buffer_size": 394,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "class Solution:"
@@ -556,6 +527,9 @@
 	[
 		"/home/jayaprakash/Documents/coding-prepation",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/algorithms",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020",
@@ -564,6 +538,35 @@
 	],
 	"file_history":
 	[
+		"/home/jayaprakash/a.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/data/charades/a.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/data/saved/log/charades-train-full-ce-only-audio-i3d/2020-07-07_12-46-43/info.log",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/7-Island-Perimeter.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/463--Island-Perimeter-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1160--Find-Words-That-Can-Be-Formed-by-Characters-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/869--Reordered-Power-of-2-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/8-3Sum.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/9-Maximum-Width-of-Binary-Tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/10-Flatten-a-Multilevel-Doubly-Linked-List.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/386--Lexicographical-Numbers-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/algorithms/Absolute-Permutation.py",
+		"/home/jayaprakash/Desktop/Dropped Text.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/new_changes.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/output_dump.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/errors.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/changes.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/requirements/pip-requirements.txt",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/688--Knight-Probability-in-Chessboard-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/96--Unique-Binary-Search-Trees-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/212--Word-Search-II-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/264--Ugly-Number-II-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/332--Reconstruct-Itinerary-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/792--Number-of-Matching-Subsequences-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/957--Prison-Cells-After-N-Days-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1253--Reconstruct-a-2-Row-Binary-Matrix-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1366--Rank-Teams-by-Votes-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/6-Plus-One.py",
+		"/home/jayaprakash/Documents/charades_process.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1503--Last-Moment-Before-All-Ants-Fall-Out-of-a-Plank-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1504--Count-Submatrices-With-All-Ones-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1502--Can-Make-Arithmetic-Progression-From-Sequence-Easy.py",
@@ -662,36 +665,7 @@
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/13-Largest-Divisible-Subset.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/139--Word-Break-Medium.py",
 		"/home/jayaprakash/Documents/test.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/164--Maximum-Gap-Hard.py",
-		"/home/jayaprakash/Documents/leetcodesolved/hard.txt",
-		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/bucket-sort.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/63--Unique-Paths-II-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/154--Find-Minimum-in-Rotated-Sorted-Array-II-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/153--Find-Minimum-in-Rotated-Sorted-Array-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1345--Jump-Game-IV-Hard.py",
-		"/home/jayaprakash/Documents/leetcodesolved/1320--Minimum-Distance-to-Type-a-Word-Using-Two-Fingers-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/381--Insert-Delete-GetRandom-O(1)-Duplicates-allowed-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/12-Insert-Delete-GetRandom-O(1).py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/967--Numbers-With-Same-Consecutive-Differences-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/380--Insert-Delete-GetRandom-O(1)-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/10-Search-Insert-Position.py",
-		"/home/jayaprakash/Documents/coding-prepation/codechef/DSA-Learning-Series/Advanced Data Structures/MSTICK.py",
-		"/home/jayaprakash/.zshrc",
-		"/home/jayaprakash/.sudo_as_admin_successful",
-		"/home/jayaprakash/.profile",
-		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/segment-tree.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/9-Is-Subsequence.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/134--Gas-Station-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/376--Wiggle-Subsequence-Medium.py",
-		"/home/jayaprakash/.bashrc",
-		"/home/jayaprakash/Documents/MSTICK-logN.cpp",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/68--Text-Justification-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/679--24-Game-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/segment-tree-other.py",
-		"/home/jayaprakash/Downloads/MSTICK-logN.cpp",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/482--License-Key-Formatting.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/168--Excel-Sheet-Column-Title.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/38--Count-and-Say.py"
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/164--Maximum-Gap-Hard.py"
 	],
 	"find":
 	{
@@ -801,151 +775,60 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "leetcode/Problems/96--Unique-Binary-Search-Trees-Medium.py",
+					"file": "hackerrank/placement-test/pt-test-2/Help-the-Nincompoops.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 130,
+						"buffer_size": 1167,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								130,
-								130
+								1167,
+								1167
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "leetcode/Problems/212--Word-Search-II-Hard.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1815,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1815,
-								1815
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class TrieNode:",
+							"auto_name": "import collections",
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 339.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "leetcode/Problems/264--Ugly-Number-II-Medium.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 473,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								473,
-								473
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "leetcode/Problems/332--Reconstruct-Itinerary-Medium.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 385,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								385,
-								385
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 15.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "leetcode/Problems/792--Number-of-Matching-Subsequences-Medium.py",
+					"buffer": 1,
+					"file": "hackerrank/placement-test/pt-test-2/Aneesh's-Fortune.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 492,
+						"buffer_size": 1060,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								492,
-								492
+								1060,
+								1060
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
+							"auto_name": "import collections",
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -958,26 +841,28 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "leetcode/Problems/957--Prison-Cells-After-N-Days-Medium.py",
+					"buffer": 2,
+					"file": "hackerrank/placement-test/pt-test-2/Maximum-Element.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 352,
+						"buffer_size": 529,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								352,
-								352
+								529,
+								529
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"auto_name": "def main():",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -987,28 +872,26 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "leetcode/Problems/1253--Reconstruct-a-2-Row-Binary-Matrix-Medium.py",
+					"buffer": 3,
+					"file": "hackerrank/placement-test/pt-test-2/I-\"Really\"-Wanna-Be-the-Guy.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1099,
+						"buffer_size": 265,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1099,
-								1099
+								265,
+								265
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "def main():",
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1018,25 +901,24 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "leetcode/Problems/1366--Rank-Teams-by-Votes-Medium.py",
+					"buffer": 4,
+					"file": "hackerrank/placement-test/pt-test-2/Kangaroo.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 502,
+						"buffer_size": 550,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								502,
-								502
+								550,
+								550
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -1049,25 +931,28 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 5,
+					"file": "hackerrank/placement-test/pt-test-2/Exact-Payment.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 376,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								376,
+								376
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"auto_name": "def getAns(a, b, n, S):",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1077,20 +962,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
-					"file": "leetcode/Problems/688--Knight-Probability-in-Chessboard-Medium.py",
+					"buffer": 6,
+					"file": "leetcode/30-day-challenge/July_2020/11-Subsets.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 728,
+						"buffer_size": 394,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								728,
-								728
+								394,
+								394
 							]
 						],
 						"settings":

@@ -24,6 +24,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 28;Implement strStr();Finished;Easy,string,two-pointers
 29;Divide Two Integers;Finished;Medium,binary-search,math
 33;Search in Rotated Sorted Array;Finished;Medium,binary-search,arrays
+34;Find First and Last Position of Element in Sorted Array;Finished;Medium,binary-search,arrays
 35;Search Insert Position;Finished;Easy,binary-search,arrays
 36;Valid Sudoku;Finished;Medium,hash-table
 38;Count and Say;Finished;Easy,string
@@ -42,6 +43,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 55;Jump Game;Finished;Medium,arrays
 58;Length of Last Word;Finished;Easy,string
 59;Spiral Matrix II;Finished;Medium,arrays
+60;Permutation Sequence;Finished;Medium,math
 62;Unique Paths;Finished;Medium,arrays,dynamic-programming
 63;Unique Paths II;Finished;Medium,arrays,dynamic-programming
 64;Minimum Path Sum;Finished;Medium,arrays,dynamic-programming
@@ -62,6 +64,8 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 88;Merge Sorted Array;Finished;Easy,arrays,two-pointers
 89;Gray Code;Finished;Medium
 94;Binary Tree Inorder Traversal;Finished;Medium,hash-table,trees
+96;Unique Binary Search Trees;Finished;Medium,trees,dynamic-programming
+97;Interleaving String;Finished;Hard,string,dynamic-programming
 98;Validate Binary Search Tree;Finished;Medium,trees
 100;Same Tree;Finished;Easy,trees
 101;Symmetric Tree;Finished;Easy,trees
@@ -85,8 +89,11 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 124;Binary Tree Maximum Path Sum;Finished;Hard,trees
 125;Valid Palindrome;Finished;Easy,string,two-pointers
 129;Sum Root to Leaf Numbers;Finished;Medium,trees
+130;Surrounded Regions;Finished;Medium
 134;Gas Station;Finished;Medium
 136;Single Number;Finished;Easy,bit-manipulation,hash-table
+137;Single Number II;Finished;Medium,bit-manipulation
+139;Word Break;Finished;Medium,dynamic-programming
 141;Linked List Cycle;Finished;Easy,two-pointers,linked-list
 144;Binary Tree Preorder Traversal;Finished;Medium,trees
 145;Binary Tree Postorder Traversal;Finished;Hard,trees
@@ -98,6 +105,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 154;Find Minimum in Rotated Sorted Array II;Finished;Hard,binary-search,arrays
 155;Min Stack;Finished;Easy
 162;Find Peak Element;Finished;Medium,binary-search,arrays
+164;Maximum Gap;Finished;Hard,sort
 165;Compare Version Numbers;Finished;Medium,string
 167;Two Sum II Input array is sorted;Finished;Easy,binary-search,arrays,two-pointers
 168;Excel Sheet Column Title;Finished;Easy,math
@@ -105,6 +113,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 171;Excel Sheet Column Number;Finished;Easy,math
 172;Factorial Trailing Zeroes;Finished;Easy,math
 173;Binary Search Tree Iterator;Finished;Medium,trees
+174;Dungeon Game;Finished;Hard,binary-search,dynamic-programming
 189;Rotate Array;Finished;Easy,arrays
 190;Reverse Bits;Finished;Easy,bit-manipulation
 191;Number of 1 Bits;Finished;Easy,bit-manipulation
@@ -118,6 +127,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 207;Course Schedule;Finished;Medium
 208;Implement Trie (Prefix Tree);Finished;Medium
 211;Add and Search Word Data structure design;Finished;Medium
+212;Word Search II;Finished;Hard
 215;Kth Largest Element in an Array;Finished;Medium,divide-and-conquer
 217;Contains Duplicate;Finished;Easy,arrays,hash-table
 219;Contains Duplicate II;Finished;Easy,arrays,hash-table
@@ -137,8 +147,10 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 242;Valid Anagram;Finished;Easy,hash-table,sort
 258;Add Digits;Finished;Easy,math
 263;Ugly Number;Finished;Easy,math
+264;Ugly Number II;Finished;Medium,dynamic-programming,math
 268;Missing Number;Finished;Easy,bit-manipulation,arrays,math
 273;Integer to English Words;Finished;Hard,string,math
+275;H Index II;Finished;Medium,binary-search
 278;First Bad Version;Finished;Easy,binary-search
 279;Perfect Squares;Finished;Medium,dynamic-programming,math
 283;Move Zeroes;Finished;Easy,arrays,two-pointers
@@ -154,6 +166,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 322;Coin Change;Finished;Medium,dynamic-programming
 326;Power of Three;Finished;Easy,math
 328;Odd Even Linked List;Finished;Medium,linked-list
+332;Reconstruct Itinerary;Finished;Medium
 338;Counting Bits;Finished;Medium,bit-manipulation,dynamic-programming
 342;Power of Four;Finished;Easy,bit-manipulation
 344;Reverse String;Finished;Easy,string,two-pointers
@@ -169,7 +182,10 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 374;Guess Number Higher or Lower;Finished;Easy,binary-search
 376;Wiggle Subsequence;Finished;Medium,dynamic-programming
 377;Combination Sum IV;Finished;Medium,dynamic-programming
+380;Insert Delete GetRandom O(1);Finished;Medium,arrays,hash-table
+381;Insert Delete GetRandom O(1) Duplicates allowed;Finished;Hard,arrays,hash-table
 383;Ransom Note;Finished;Easy,string
+386;Lexicographical Numbers;Finished;Medium
 387;First Unique Character in a String;Finished;Easy,string,hash-table
 389;Find the Difference;Finished;Easy,bit-manipulation,hash-table
 392;Is Subsequence;Finished;Easy,binary-search,dynamic-programming
@@ -182,6 +198,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 413;Arithmetic Slices;Finished;Medium,dynamic-programming,math
 414;Third Maximum Number;Finished;Easy,arrays
 415;Add Strings;Finished;Easy,string
+416;Partition Equal Subset Sum;Finished;Medium,dynamic-programming
 423;Reconstruct Original Digits from English;Finished;Medium,math
 429;N ary Tree Level Order Traversal;Finished;Medium,trees
 434;Number of Segments in a String;Finished;Easy,string
@@ -197,7 +214,9 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 459;Repeated Substring Pattern;Finished;Easy,string
 461;Hamming Distance;Finished;Easy,bit-manipulation
 462;Minimum Moves to Equal Array Elements II;Finished;Medium,math
+463;Island Perimeter;Finished;Easy,hash-table
 468;Validate IP Address;Finished;Medium,string
+474;Ones and Zeroes;Finished;Medium,dynamic-programming
 476;Number Complement;Finished;Easy,bit-manipulation
 477;Total Hamming Distance;Finished;Medium,bit-manipulation
 478;Generate Random Point in a Circle;Finished;Medium,math
@@ -218,6 +237,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 525;Contiguous Array;Finished;Medium,hash-table
 528;Random Pick with Weight;Finished;Medium,binary-search
 530;Minimum Absolute Difference in BST;Finished;Easy,trees
+532;K diff Pairs in an Array;Finished;Easy,arrays,two-pointers
 535;Encode and Decode TinyURL;Finished;Medium,hash-table,math
 537;Complex Number Multiplication;Finished;Medium,string,math
 538;Convert BST to Greater Tree;Finished;Easy,trees
@@ -229,6 +249,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 557;Reverse Words in a String III;Finished;Easy,string
 559;Maximum Depth of N ary Tree;Finished;Easy,trees
 560;Subarray Sum Equals K;Finished;Medium,arrays,hash-table
+563;Binary Tree Tilt;Finished;Easy,trees
 565;Array Nesting;Finished;Medium,arrays
 567;Permutation in String;Finished;Medium,two-pointers
 575;Distribute Candies;Finished;Easy,hash-table
@@ -242,6 +263,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 605;Can Place Flowers;Finished;Easy,arrays
 609;Find Duplicate File in System;Finished;Medium,string,hash-table
 617;Merge Two Binary Trees;Finished;Easy,trees
+623;Add One Row to Tree;Finished;Medium,trees
 628;Maximum Product of Three Numbers;Finished;Easy,arrays,math
 633;Sum of Square Numbers;Finished;Easy,math
 637;Average of Levels in Binary Tree;Finished;Easy,trees
@@ -254,6 +276,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 657;Robot Return to Origin;Finished;Easy,string
 658;Find K Closest Elements;Finished;Medium,binary-search
 661;Image Smoother;Finished;Easy,arrays
+668;Kth Smallest Number in Multiplication Table;Finished;Hard,binary-search
 670;Maximum Swap;Finished;Medium,arrays,math
 674;Longest Continuous Increasing Subsequence;Finished;Easy,arrays
 676;Implement Magic Dictionary;Finished;Medium,hash-table
@@ -262,8 +285,10 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 679;24 Game;Finished;Hard
 684;Redundant Connection;Finished;Medium,trees
 686;Repeated String Match;Finished;Easy,string
+688;Knight Probability in Chessboard;Finished;Medium,dynamic-programming
 692;Top K Frequent Words;Finished;Medium,hash-table
 693;Binary Number with Alternating Bits;Finished;Easy,bit-manipulation
+697;Degree of an Array;Finished;Easy,arrays
 700;Search in a Binary Search Tree;Finished;Easy,trees
 701;Insert into a Binary Search Tree;Finished;Medium,trees
 703;Kth Largest Element in a Stream;Finished;Easy
@@ -287,7 +312,9 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 780;Reaching Points;Finished;Hard,math
 783;Minimum Distance Between BST Nodes;Finished;Easy,trees
 785;Is Graph Bipartite?;Finished;Medium
+787;Cheapest Flights Within K Stops;Finished;Medium,dynamic-programming
 791;Custom Sort String;Finished;Medium,string
+792;Number of Matching Subsequences;Finished;Medium,arrays
 796;Rotate String;Finished;Easy
 804;Unique Morse Code Words;Finished;Easy,string
 807;Max Increase to Keep City Skyline;Finished;Medium
@@ -308,12 +335,15 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 865;Smallest Subtree with all the Deepest Nodes;Finished;Medium,trees
 866;Prime Palindrome;Finished;Medium,math
 867;Transpose Matrix;Finished;Easy,arrays
+869;Reordered Power of 2;Finished;Medium,math
 875;Koko Eating Bananas;Finished;Medium,binary-search
 876;Middle of the Linked List;Finished;Easy,linked-list
 878;Nth Magical Number;Finished;Hard,binary-search,math
+884;Uncommon Words from Two Sentences;Finished;Easy,hash-table
 886;Possible Bipartition;Finished;Medium
 889;Construct Binary Tree from Preorder and Postorder Traversal;Finished;Medium,trees
 890;Find and Replace Pattern;Finished;Medium,string
+891;Sum of Subsequence Widths;Finished;Hard,arrays,math
 892;Surface Area of 3D Shapes;Finished;Easy,math
 893;Groups of Special Equivalent Strings;Finished;Easy,string
 897;Increasing Order Search Tree;Finished;Easy,trees
@@ -327,15 +357,19 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 918;Maximum Sum Circular Subarray;Finished;Medium,arrays
 921;Minimum Add to Make Parentheses Valid;Finished;Medium
 922;Sort Array By Parity II;Finished;Easy,arrays,sort
+926;Flip String to Monotone Increasing;Finished;Medium,arrays
 929;Unique Email Addresses;Finished;Easy,string
+931;Minimum Falling Path Sum;Finished;Medium,dynamic-programming
 935;Knight Dialer;Finished;Medium,dynamic-programming
 938;Range Sum of BST;Finished;Easy,trees
 941;Valid Mountain Array;Finished;Easy,arrays
 942;DI String Match;Finished;Easy,math
 946;Validate Stack Sequences;Finished;Medium
 950;Reveal Cards In Increasing Order;Finished;Medium,arrays
+957;Prison Cells After N Days;Finished;Medium,hash-table
 961;N Repeated Element in Size 2N Array;Finished;Easy,hash-table
 965;Univalued Binary Tree;Finished;Easy,trees
+967;Numbers With Same Consecutive Differences;Finished;Medium,dynamic-programming
 971;Flip Binary Tree To Match Preorder Traversal;Finished;Medium,trees
 972;Equal Rational Numbers;Finished;Hard,math
 973;K Closest Points to Origin;Finished;Medium,divide-and-conquer,sort
@@ -369,9 +403,11 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1026;Maximum Difference Between Node and Ancestor;Finished;Medium,trees
 1029;Two City Scheduling;Finished;Easy
 1030;Matrix Cells in Distance Order;Finished;Easy,sort
+1032;Stream of Characters;Finished;Hard
 1035;Uncrossed Lines;Finished;Medium,arrays
 1038;Binary Search Tree to Greater Sum Tree;Finished;Medium
 1041;Robot Bounded In Circle;Finished;Medium,math
+1044;Longest Duplicate Substring;Finished;Hard,binary-search,hash-table
 1046;Last Stone Weight;Finished;Easy
 1051;Height Checker;Finished;Easy,arrays
 1052;Grumpy Bookstore Owner;Finished;Medium,arrays
@@ -385,6 +421,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1104;Path In Zigzag Labelled Binary Tree;Finished;Medium,trees,math
 1106;Parsing A Boolean Expression;Finished;Hard,string
 1108;Defanging an IP Address;Finished;Easy,string
+1109;Corporate Flight Bookings;Finished;Medium,arrays,math
 1122;Relative Sort Array;Finished;Easy,arrays,sort
 1123;Lowest Common Ancestor of Deepest Leaves;Finished;Medium,trees
 1128;Number of Equivalent Domino Pairs;Finished;Easy,arrays
@@ -393,9 +430,11 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1138;Alphabet Board Path;Finished;Medium,string,hash-table
 1143;Longest Common Subsequence;Finished;Medium,dynamic-programming
 1144;Decrease Elements To Make Array Zigzag;Finished;Medium,arrays
+1160;Find Words That Can Be Formed by Characters;Finished;Easy,arrays,hash-table
 1161;Maximum Level Sum of a Binary Tree;Finished;Medium
 1170;Compare Strings by Frequency of the Smallest Character;Finished;Easy,string,arrays
 1175;Prime Arrangements;Finished;Easy,math
+1184;Distance Between Bus Stops;Finished;Easy,arrays
 1186;Maximum Subarray Sum with One Deletion;Finished;Medium,dynamic-programming
 1189;Maximum Number of Balloons;Finished;Easy,string,hash-table
 1190;Reverse Substrings Between Each Pair of Parentheses;Finished;Medium
@@ -414,6 +453,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1248;Count Number of Nice Subarrays;Finished;Medium,two-pointers
 1249;Minimum Remove to Make Valid Parentheses;Finished;Medium,string
 1252;Cells with Odd Values in a Matrix;Finished;Easy,arrays
+1253;Reconstruct a 2 Row Binary Matrix;Finished;Medium,math
 1260;Shift 2D Grid;Finished;Easy,arrays
 1261;Find Elements in a Contaminated Binary Tree;Finished;Medium,hash-table,trees
 1266;Minimum Time Visiting All Points;Finished;Easy,arrays
@@ -441,6 +481,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1317;Convert Integer to the Sum of Two No Zero Integers;Finished;Easy,math
 1318;Minimum Flips to Make a OR b Equal to c;Finished;Medium,bit-manipulation
 1319;Number of Operations to Make Network Connected;Finished;Medium
+1320;Minimum Distance to Type a Word Using Two Fingers;Finished;Hard,dynamic-programming
 1323;Maximum 69 Number;Finished;Easy,math
 1324;Print Words Vertically;Finished;Medium,string
 1325;Delete Leaves With a Given Value;Finished;Medium,trees
@@ -455,6 +496,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1342;Number of Steps to Reduce a Number to Zero;Finished;Easy
 1343;Number of Sub arrays of Size K and Average Greater than or Equal to Threshold;Finished;Medium,trees,dynamic-programming
 1344;Angle Between Hands of a Clock;Finished;Medium,dynamic-programming
+1345;Jump Game IV;Finished;Hard
 1346;Check If N and Its Double Exist;Finished;Easy
 1347;Minimum Number of Steps to Make Two Strings Anagram;Finished;Medium
 1351;Count Negative Numbers in a Sorted Matrix;Finished;Easy,binary-search
@@ -468,9 +510,11 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1362;Closest Divisors;Finished;Medium
 1363;Largest Multiple of Three;Finished;Hard
 1365;How Many  Numbers Are Smaller Than the Current Number;Finished;Easy
+1366;Rank Teams by Votes;Finished;Medium
 1367;Linked List in Binary Tree;Finished;Medium
 1370;Increasing Decreasing String;Finished;Easy
 1372;Longest ZigZag Path in a Binary Tree;Finished;Medium
+1373;Maximum Sum BST in Binary Tree;Finished;Hard
 1374;Generate a String With Characters That Have Odd Counts;Finished;Easy
 1375;Bulb Switcher III;Finished;Medium
 1376;Time Needed to Inform All Employees;Finished;Medium
@@ -541,3 +585,29 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1470;Shuffle the Array;Finished;Easy
 1471;The k Strongest Values in an Array;Finished;Medium
 1472;Design Browser History;Finished;Medium
+1475;Final Prices With a Special Discount in a Shop;Finished;Easy
+1476;Subrectangle Queries;Finished;Medium
+1480;Running Sum of 1d Array;Finished;Easy
+1481;Least Number of Unique Integers after K Removals;Finished;Medium
+1482;Minimum Number of Days to Make m Bouquets;Finished;Medium
+1483;Kth Ancestor of a Tree Node;Finished;Hard
+1486;XOR Operation in an Array;Finished;Easy
+1487;Making File Names Unique;Finished;Medium
+1488;Avoid Flood in The City;Finished;Medium
+1491;Average Salary Excluding the Minimum and Maximum Salary;Finished;Easy
+1492;The kth Factor of n;Finished;Medium
+1493;Longest Subarray of 1's After Deleting One Element;Finished;Medium
+1496;Path Crossing;Finished;Easy
+1497;Check If Array Pairs Are Divisible by k;Finished;Medium
+1498;Number of Subsequences That Satisfy the Given Sum Condition;Finished;Medium
+1502;Can Make Arithmetic Progression From Sequence;Finished;Easy
+1503;Last Moment Before All Ants Fall Out of a Plank;Finished;Medium
+1504;Count Submatrices With All Ones;Finished;Medium
+1507;Reformat Date;Finished;Easy
+1508;Range Sum of Sorted Subarray Sums;Finished;Medium
+1509;Minimum Difference Between Largest and Smallest Value in Three Moves;Finished;Medium
+1510;Stone Game IV;Finished;Hard
+1512;Number of Good Pairs;Finished;Easy
+1513;Number of Substrings With Only 1s;Finished;Medium
+1514;Path with Maximum Probability;Finished;Medium
+1515;Best Position for a Service Centre;Finished;Hard
