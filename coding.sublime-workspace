@@ -4,12 +4,20 @@
 		"selected_items":
 		[
 			[
-				"le",
-				"lengths"
+				"new",
+				"newDiff1"
+			],
+			[
+				"se",
+				"sessions"
 			],
 			[
 				"max",
-				"maxVal"
+				"maxProbability"
+			],
+			[
+				"le",
+				"lengths"
 			],
 			[
 				"ra",
@@ -404,72 +412,48 @@
 	"buffers":
 	[
 		{
-			"file": "hackerrank/placement-test/pt-test-2/Help-the-Nincompoops.py",
+			"contents": " bert\n  0.056205550540787304\n test_t2v_metrics_R1: 0.715258855585831\n test_t2v_metrics_R5: 2.963215258855586\n test_t2v_metrics_R10: 5.415531335149864\n test_t2v_metrics_R50: 17.302452316076295\n test_t2v_metrics_MedR: 292.5\n test_t2v_metrics_MeanR: 536.7164509536784\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.255740685036362\n test_v2t_metrics_R1: 0.20435967302452315\n test_v2t_metrics_R5: 1.9073569482288828\n test_v2t_metrics_R10: 3.337874659400545\n test_v2t_metrics_R50: 15.020435967302452\n test_v2t_metrics_MedR: 320.0\n test_v2t_metrics_MeanR: 555.3457084468665\n test_v2t_metrics_geometric_mean_R1-R5-R10: 1.09168933213533\n\nglove\n0.05941437216576679\ntest_t2v_metrics_R1: 1.055858310626703\n test_t2v_metrics_R5: 3.474114441416894\n test_t2v_metrics_R10: 6.164850136239782\n test_t2v_metrics_R50: 19.07356948228883\n test_t2v_metrics_MedR: 296.0\n test_t2v_metrics_MeanR: 544.966961852861\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.8278569008754917\n test_v2t_metrics_R1: 0.6130790190735694\n test_v2t_metrics_R5: 2.5544959128065394\n test_v2t_metrics_R10: 4.802452316076295\n test_v2t_metrics_R50: 17.23433242506812\n test_v2t_metrics_MedR: 310.0\n test_v2t_metrics_MeanR: 551.1072888283379\n test_v2t_metrics_geometric_mean_R1-R5-R10: 1.9592727990884244\n\n10 epoch bert feature partial order\n\ntest_t2v_metrics_R1: 0.9877384196185286\n test_t2v_metrics_R5: 3.474114441416894\n test_t2v_metrics_R10: 6.198910081743869\n test_t2v_metrics_R50: 19.20980926430518\n test_t2v_metrics_MedR: 319.5\n test_t2v_metrics_MeanR: 605.783719346049\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.7707699440112954\n test_v2t_metrics_R1: 0.4768392370572207\n test_v2t_metrics_R5: 2.5204359673024523\n test_v2t_metrics_R10: 4.73433242506812\n test_v2t_metrics_R50: 18.11989100817439\n test_v2t_metrics_MedR: 330.0\n test_v2t_metrics_MeanR: 612.1106948228883\n test_v2t_metrics_geometric_mean_R1-R5-R10: 1.7852627112453912\n\n10 epoch openaigpt feature partial order\n\ntest_t2v_metrics_R1: 0.9877384196185286\n test_t2v_metrics_R5: 3.576294277929155\n test_t2v_metrics_R10: 5.926430517711172\n test_t2v_metrics_R50: 18.52861035422343\n test_t2v_metrics_MedR: 328.0\n test_t2v_metrics_MeanR: 602.5044277929155\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.7560650503282487\n test_v2t_metrics_R1: 0.5449591280653951\n test_v2t_metrics_R5: 2.4863760217983653\n test_v2t_metrics_R10: 4.73433242506812\n test_v2t_metrics_R50: 16.178474114441418\n test_v2t_metrics_MedR: 344.0\n test_v2t_metrics_MeanR: 621.9015667574932\n test_v2t_metrics_geometric_mean_R1-R5-R10: 1.8580746708694449\n\n10 epoch glove feature partial order\n\n\ntest_t2v_metrics_R1: 1.1580381471389645\n test_t2v_metrics_R5: 3.474114441416894\n test_t2v_metrics_R10: 6.164850136239782\n test_t2v_metrics_R50: 18.392370572207085\n test_t2v_metrics_MedR: 293.5\n test_t2v_metrics_MeanR: 574.4679836512262\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.916284144497494\n test_v2t_metrics_R1: 0.6811989100817438\n test_v2t_metrics_R5: 2.622615803814714\n test_v2t_metrics_R10: 4.768392370572207\n test_v2t_metrics_R50: 16.689373297002724\n test_v2t_metrics_MedR: 337.5\n test_v2t_metrics_MeanR: 602.1025204359673\n test_v2t_metrics_geometric_mean_R1-R5-R10: 2.042334471288978\n\n10 epoch glove feature MaxMarginRankingLoss with resnet\n\n test_t2v_metrics_R1: 0.9196185286103542\n test_t2v_metrics_R5: 2.963215258855586\n test_t2v_metrics_R10: 5.483651226158038\n test_t2v_metrics_R50: 18.767029972752045\n test_t2v_metrics_MedR: 297.0\n test_t2v_metrics_MeanR: 563.0364441416893\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.4630898034292783\n test_v2t_metrics_R1: 0.5449591280653951\n test_v2t_metrics_R5: 2.997275204359673\n test_v2t_metrics_R10: 5.108991825613079\n test_v2t_metrics_R50: 17.847411444141688\n test_v2t_metrics_MedR: 323.25\n test_v2t_metrics_MeanR: 584.5269073569482\n test_v2t_metrics_geometric_mean_R1-R5-R10: 2.0283454399915906\n\n10 epoch glove feature Partial with resnet\n\n\nTop 7 retreived videos at epoch: 0\nadded 6 videos\n test_t2v_metrics_R1: 0.8174386920980926\n test_t2v_metrics_R5: 3.0994550408719346\n test_t2v_metrics_R10: 6.130790190735695\n test_t2v_metrics_R50: 19.754768392370572\n test_t2v_metrics_MedR: 306.0\n test_t2v_metrics_MeanR: 597.4746253405995\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.4950868182836388\n test_v2t_metrics_R1: 0.5790190735694822\n test_v2t_metrics_R5: 2.3501362397820165\n test_v2t_metrics_R10: 4.359673024523161\n test_v2t_metrics_R50: 17.677111716621255\n test_v2t_metrics_MedR: 317.5\n test_v2t_metrics_MeanR: 598.9977861035422\n test_v2t_metrics_geometric_mean_R1-R5-R10: 1.8102835680628582\n",
 			"settings":
 			{
-				"buffer_size": 1167,
-				"encoding": "UTF-8",
+				"buffer_size": 4519,
 				"line_ending": "Unix",
-				"name": "import collections"
+				"name": "bert"
 			}
 		},
 		{
-			"file": "hackerrank/placement-test/pt-test-2/Aneesh's-Fortune.py",
+			"file": "kickstart/2020/Round A/workout.py",
 			"settings":
 			{
-				"buffer_size": 1060,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "import collections"
-			}
-		},
-		{
-			"file": "hackerrank/placement-test/pt-test-2/Maximum-Element.py",
-			"settings":
-			{
-				"buffer_size": 529,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "def main():"
-			}
-		},
-		{
-			"file": "hackerrank/placement-test/pt-test-2/I-\"Really\"-Wanna-Be-the-Guy.py",
-			"settings":
-			{
-				"buffer_size": 265,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "def main():"
-			}
-		},
-		{
-			"file": "hackerrank/placement-test/pt-test-2/Kangaroo.py",
-			"settings":
-			{
-				"buffer_size": 550,
+				"buffer_size": 952,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "hackerrank/placement-test/pt-test-2/Exact-Payment.py",
+			"contents": "$ ./fasttext print-word-vectors model.bin < queries.txt\n",
 			"settings":
 			{
-				"buffer_size": 376,
-				"encoding": "UTF-8",
+				"buffer_size": 56,
 				"line_ending": "Unix",
-				"name": "def getAns(a, b, n, S):"
+				"name": "$ ./fasttext print-word-vectors model.bin < querie"
 			}
 		},
 		{
-			"file": "leetcode/30-day-challenge/July_2020/11-Subsets.py",
+			"file": "kickstart/2020/Round A/workout.txt",
 			"settings":
 			{
-				"buffer_size": 394,
+				"buffer_size": 113,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "class Solution:"
+				"name": "workout"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -529,15 +513,57 @@
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/algorithms",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac1",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt1",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-1",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/scripts",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Test"
+		"/home/jayaprakash/Documents/coding-prepation/kickstart",
+		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020",
+		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020/Round A"
 	],
 	"file_history":
 	[
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/16-Pow(x,n).py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/987--Vertical-Order-Traversal-of-a-Binary-Tree-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020/Round A/plates.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/data/TFT_v2/txt_file_for_human_automated/video_retrieval_val.txt",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/443--String-Compression-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020/Round D/Record-Breaker.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/394--Decode-String-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/433--Minimum-Genetic-Mutation-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/15-Reverse-Words-in-a-String.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/14-Angle-Between-Hands-of-a-Clock.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac1/Triple-sum.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac1/Pairs.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac1/Maximum-Subarray-Sum.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac1/Minimum-Time-Required.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac1/Swap-Nodes-[Algo].py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/888--Fair-Candy-Swap-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt1/Bob-and-crazy-XORs.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/13-Same-Tree.py",
+		"/home/jayaprakash/Documents/Interview-Preparation/max_subarray_sum.cpp",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt1/Alice-and-crazy-XORs.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt1/Efficient-Search.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt1/Smallest-common-multiple.py",
+		"/home/jayaprakash/Desktop/Dropped Text.txt",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/12-Reverse-Bits.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1514--Path-with-Maximum-Probability-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1515--Best-Position-for-a-Service-Centre-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1513--Number-of-Substrings-With-Only-1s-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1512--Number-of-Good-Pairs-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1507--Reformat-Date-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1508--Range-Sum-of-Sorted-Subarray-Sums-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1509--Minimum-Difference-Between-Largest-and-Smallest-Value-in-Three-Moves-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1510--Stone-Game-IV-Hard.py",
+		"/home/jayaprakash/Documents/t.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master-duplicate/loss_out/timestamp_new_hueristics_1_MaxMarginRankingLoss.txt",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2/Help-the-Nincompoops.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2/Aneesh's-Fortune.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2/Maximum-Element.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2/Kangaroo.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2/I-\"Really\"-Wanna-Be-the-Guy.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2/Exact-Payment.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/11-Subsets.py",
 		"/home/jayaprakash/a.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/data/charades/a.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/data/saved/log/charades-train-full-ce-only-audio-i3d/2020-07-07_12-46-43/info.log",
@@ -550,7 +576,6 @@
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/10-Flatten-a-Multilevel-Doubly-Linked-List.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/386--Lexicographical-Numbers-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/algorithms/Absolute-Permutation.py",
-		"/home/jayaprakash/Desktop/Dropped Text.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/new_changes.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/output_dump.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/errors.txt",
@@ -580,7 +605,6 @@
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/4-Ugly-Number-II.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/3-Prison-Cells-After-N-Days.py",
 		"/home/jayaprakash/Documents/t.c",
-		"/home/jayaprakash/Documents/t.py",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/balanced-brackets.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1184--Distance-Between-Bus-Stops-Easy.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/2-Binary-Tree-Level-Order-Traversal-II.py",
@@ -626,46 +650,7 @@
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/ps_out.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/train_small.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/train_out_new.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/save/20-Jun-20-11:56:32-Sat_7452518/command.txt",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/20-Permutation-Sequence.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/60--Permutation-Sequence-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/926--Flip-String-to-Monotone-Increasing-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/18-H-Index-II.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/130--Surrounded-Regions-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/275--H-Index-II-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/19-Longest-Duplicate-Substring.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1044--Longest-Duplicate-Substring-Hard.py",
-		"/home/jayaprakash/Downloads/Softwares/tth_linux/INSTALL",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/16-Validate-IP-Address.py",
-		"/home/jayaprakash/Documents/leetcodesolved/medium.txt",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/17-Surrounded-Regions.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/668--Kth-Smallest-Number-in-Multiplication-Table-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/563--Binary-Tree-Tilt-Easy.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/532--K-diff-Pairs-in-an-Array-Easy.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/931--Minimum-Falling-Path-Sum-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/623--Add-One-Row-to-Tree-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1109--Corporate-Flight-Bookings-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/211--Add-and-Search-Word-Data-structure-design-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/34--Find-First-and-Last-Position-of-Element-in-Sorted-Array-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1483--Kth-Ancestor-of-a-Tree-Node-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/trie-dict.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/416--Partition-Equal-Subset-Sum-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/15-Search-in-a-Binary-Search-Tree.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1476--Subrectangle-Queries-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1475--Final-Prices-With-a-Special-Discount-in-a-Shop-Easy.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/787--Cheapest-Flights-Within-K-Stops-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/884--Uncommon-Words-from-Two-Sentences-Easy.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/891--Sum-of-Subsequence-Widths-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1480--Running-Sum-of-1d-Array-Easy.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1481--Least-Number-of-Unique-Integers-after-K-Removals-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1482--Minimum-Number-of-Days-to-Make-m-Bouquets-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/14-Cheapest-Flights-Within-K-Stops.py",
-		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/radix-sort.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/41--First-Missing-Positive-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/13-Largest-Divisible-Subset.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/139--Word-Break-Medium.py",
-		"/home/jayaprakash/Documents/test.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/164--Maximum-Gap-Hard.py"
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/save/20-Jun-20-11:56:32-Sat_7452518/command.txt"
 	],
 	"find":
 	{
@@ -683,6 +668,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"eps",
 			"}",
 			"{",
 			"to_sum",
@@ -775,122 +761,56 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "hackerrank/placement-test/pt-test-2/Help-the-Nincompoops.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1167,
+						"buffer_size": 4519,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1167,
-								1167
+								3901,
+								3901
 							]
 						],
 						"settings":
 						{
-							"auto_name": "import collections",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "bert",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 15.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "hackerrank/placement-test/pt-test-2/Aneesh's-Fortune.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1060,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1060,
-								1060
-							]
-						],
-						"settings":
-						{
-							"auto_name": "import collections",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "hackerrank/placement-test/pt-test-2/Maximum-Element.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 529,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								529,
-								529
-							]
-						],
-						"settings":
-						{
-							"auto_name": "def main():",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 681.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "hackerrank/placement-test/pt-test-2/I-\"Really\"-Wanna-Be-the-Guy.py",
+					"buffer": 1,
+					"file": "kickstart/2020/Round A/workout.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 265,
+						"buffer_size": 952,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								265,
-								265
+								952,
+								952
 							]
 						],
 						"settings":
 						{
-							"auto_name": "def main():",
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -901,27 +821,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "hackerrank/placement-test/pt-test-2/Kangaroo.py",
+					"buffer": 2,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 550,
+						"buffer_size": 56,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								550,
-								550
+								56,
+								56
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "$ ./fasttext print-word-vectors model.bin < querie",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -931,28 +849,26 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "hackerrank/placement-test/pt-test-2/Exact-Payment.py",
+					"buffer": 3,
+					"file": "kickstart/2020/Round A/workout.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 376,
+						"buffer_size": 113,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								376,
-								376
+								110,
+								110
 							]
 						],
 						"settings":
 						{
-							"auto_name": "def getAns(a, b, n, S):",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "workout",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -962,31 +878,30 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "leetcode/30-day-challenge/July_2020/11-Subsets.py",
+					"buffer": 4,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 394,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								394,
-								394
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1072,7 +987,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 240.0,
+	"side_bar_width": 283.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
