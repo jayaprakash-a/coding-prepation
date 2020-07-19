@@ -421,35 +421,6 @@
 			}
 		},
 		{
-			"file": "kickstart/2020/Round A/workout.py",
-			"settings":
-			{
-				"buffer_size": 952,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "$ ./fasttext print-word-vectors model.bin < queries.txt\n",
-			"settings":
-			{
-				"buffer_size": 56,
-				"line_ending": "Unix",
-				"name": "$ ./fasttext print-word-vectors model.bin < querie"
-			}
-		},
-		{
-			"file": "kickstart/2020/Round A/workout.txt",
-			"settings":
-			{
-				"buffer_size": 113,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "workout"
-			}
-		},
-		{
-			"contents": "",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -513,16 +484,30 @@
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/algorithms",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac1",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt1",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-1",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-3",
 		"/home/jayaprakash/Documents/coding-prepation/kickstart",
 		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020",
-		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020/Round A"
+		"/home/jayaprakash/Documents/coding-prepation/leetcode",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge"
 	],
 	"file_history":
 	[
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/138--Copy-List-with-Random-Pointer-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-3/Larry's-Array.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-3/Ordering-the-Team.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-3/Closest-Numbers.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-3/Birthday-Chocolate.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-3/Dynamic-Array.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-3/Play-with-the-Nincompoops.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/18-Course-Schedule-II.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/17-Top-K-Frequent-Elements.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/scripts/leetcode-output-bunny.json",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/802--Find-Eventual-Safe-States-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/662--Maximum-Width-of-Binary-Tree-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/430--Flatten-a-Multilevel-Doubly-Linked-List-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/210--Course-Schedule-II-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020/Round A/workout.py",
+		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020/Round A/workout.txt",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/16-Pow(x,n).py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/987--Vertical-Order-Traversal-of-a-Binary-Tree-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020/Round A/plates.py",
@@ -598,7 +583,6 @@
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/greedy-florist.py",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/mark-and-toys.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/5-Hamming-Distance.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/scripts/leetcode-output-bunny.json",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/game-of-two-stacks.py",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/coin-change.py",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/taras-beautiful-permutations.py",
@@ -635,22 +619,7 @@
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1492--The-kth-Factor-of-n-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1493--Longest-Subarray-of-1's-After-Deleting-One-Element-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1496--Path-Crossing-Easy.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1497--Check-If-Array-Pairs-Are-Divisible-by-k-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1498--Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition-Medium.py",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades/ref_info/charades_movie_length_info.txt",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/22-Single-Number-II.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/697--Degree-of-an-Array-Easy.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/474--Ones-and-Zeroes-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/26-Sum-Root-to-Leaf-Numbers.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/23-Count-Complete-Tree-Nodes.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/24-Unique-Binary-Search-Trees.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/25-Find-the-Duplicate-Number.py",
-		"/home/jayaprakash/Desktop/IITB/Sem2/Seminar--Self_supervised_learning_multi_modal_representation/result.csv",
-		"/home/jayaprakash/.cache/.fr-2JSfu1/Ashes_Cricket/How to install/How to run setup.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/ps_out.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/train_small.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/train_out_new.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/RnD/Vilbert/vilbert_pase/save/20-Jun-20-11:56:32-Sat_7452518/command.txt"
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1497--Check-If-Array-Pairs-Are-Divisible-by-k-Medium.py"
 	],
 	"find":
 	{
@@ -761,7 +730,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -786,91 +755,6 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 681.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "kickstart/2020/Round A/workout.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 952,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								952,
-								952
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 56,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								56,
-								56
-							]
-						],
-						"settings":
-						{
-							"auto_name": "$ ./fasttext print-word-vectors model.bin < querie",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "kickstart/2020/Round A/workout.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 113,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								110,
-								110
-							]
-						],
-						"settings":
-						{
-							"auto_name": "workout",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -878,7 +762,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 1,
 					"semi_transient": false,
 					"settings":
 					{
@@ -897,11 +781,10 @@
 						{
 							"auto_name": "",
 							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

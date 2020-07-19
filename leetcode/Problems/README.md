@@ -624,3 +624,6 @@
 | 620              | 1513              | Number of Substrings With Only 1s      | Finished   | Medium   |
 | 621              | 1514              | Path with Maximum Probability      | Finished   | Medium   |
 | 622              | 1515              | Best Position for a Service Centre      | Finished   | Hard   |
+| 623              | 1518              | Water Bottles      | Finished   | Easy   |
+| 624              | 1519              | Number of Nodes in the Sub Tree With the Same Label      | Finished   | Medium   |
+| 625              | 1521              | Find a Value of a Mysterious Function Closest to Target      | Finished   | Hard   |
