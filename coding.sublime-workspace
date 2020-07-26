@@ -4,6 +4,74 @@
 		"selected_items":
 		[
 			[
+				"edg",
+				"edgeWeight"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"edge",
+				"edgeWeight"
+			],
+			[
+				"top",
+				"topOfQ"
+			],
+			[
+				"int",
+				"int64_t"
+			],
+			[
+				"ed",
+				"edge"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"I",
+				"isPresent"
+			],
+			[
+				"hea",
+				"heapify"
+			],
+			[
+				"he",
+				"heapq"
+			],
+			[
+				"min",
+				"minNode"
+			],
+			[
+				"de",
+				"dest"
+			],
+			[
+				"c",
+				"coins"
+			],
+			[
+				"f",
+				"fifth"
+			],
+			[
+				"p",
+				"prevSum"
+			],
+			[
+				"get",
+				"getVal"
+			],
+			[
 				"re",
 				"reward"
 			],
@@ -84,10 +152,6 @@
 				"filePtr"
 			],
 			[
-				"min",
-				"minJumps"
-			],
-			[
 				"fil",
 				"filename"
 			],
@@ -120,10 +184,6 @@
 				"manager_object"
 			],
 			[
-				"ma",
-				"manager_object"
-			],
-			[
 				"man",
 				"ManagerPurse"
 			],
@@ -148,14 +208,6 @@
 				"player_details"
 			],
 			[
-				"c",
-				"create"
-			],
-			[
-				"s",
-				"sports_list"
-			],
-			[
 				"inse",
 				"insert_purse"
 			],
@@ -176,16 +228,8 @@
 				"update_timer"
 			],
 			[
-				"de",
-				"details"
-			],
-			[
 				"fun",
 				"fun\tFunction"
-			],
-			[
-				"p",
-				"player_name"
 			],
 			[
 				"my",
@@ -372,10 +416,6 @@
 				"CHAR_LIST"
 			],
 			[
-				"get",
-				"get_char_count"
-			],
-			[
 				"li",
 				"lines_argument"
 			],
@@ -406,69 +446,88 @@
 			[
 				"FIl",
 				"FileWithTimeStamp"
-			],
-			[
-				"for",
-				"forward"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"contents": " bert\n  0.056205550540787304\n test_t2v_metrics_R1: 0.715258855585831\n test_t2v_metrics_R5: 2.963215258855586\n test_t2v_metrics_R10: 5.415531335149864\n test_t2v_metrics_R50: 17.302452316076295\n test_t2v_metrics_MedR: 292.5\n test_t2v_metrics_MeanR: 536.7164509536784\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.255740685036362\n test_v2t_metrics_R1: 0.20435967302452315\n test_v2t_metrics_R5: 1.9073569482288828\n test_v2t_metrics_R10: 3.337874659400545\n test_v2t_metrics_R50: 15.020435967302452\n test_v2t_metrics_MedR: 320.0\n test_v2t_metrics_MeanR: 555.3457084468665\n test_v2t_metrics_geometric_mean_R1-R5-R10: 1.09168933213533\n\nglove\n0.05941437216576679\ntest_t2v_metrics_R1: 1.055858310626703\n test_t2v_metrics_R5: 3.474114441416894\n test_t2v_metrics_R10: 6.164850136239782\n test_t2v_metrics_R50: 19.07356948228883\n test_t2v_metrics_MedR: 296.0\n test_t2v_metrics_MeanR: 544.966961852861\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.8278569008754917\n test_v2t_metrics_R1: 0.6130790190735694\n test_v2t_metrics_R5: 2.5544959128065394\n test_v2t_metrics_R10: 4.802452316076295\n test_v2t_metrics_R50: 17.23433242506812\n test_v2t_metrics_MedR: 310.0\n test_v2t_metrics_MeanR: 551.1072888283379\n test_v2t_metrics_geometric_mean_R1-R5-R10: 1.9592727990884244\n\n10 epoch bert feature partial order\n\ntest_t2v_metrics_R1: 0.9877384196185286\n test_t2v_metrics_R5: 3.474114441416894\n test_t2v_metrics_R10: 6.198910081743869\n test_t2v_metrics_R50: 19.20980926430518\n test_t2v_metrics_MedR: 319.5\n test_t2v_metrics_MeanR: 605.783719346049\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.7707699440112954\n test_v2t_metrics_R1: 0.4768392370572207\n test_v2t_metrics_R5: 2.5204359673024523\n test_v2t_metrics_R10: 4.73433242506812\n test_v2t_metrics_R50: 18.11989100817439\n test_v2t_metrics_MedR: 330.0\n test_v2t_metrics_MeanR: 612.1106948228883\n test_v2t_metrics_geometric_mean_R1-R5-R10: 1.7852627112453912\n\n10 epoch openaigpt feature partial order\n\ntest_t2v_metrics_R1: 0.9877384196185286\n test_t2v_metrics_R5: 3.576294277929155\n test_t2v_metrics_R10: 5.926430517711172\n test_t2v_metrics_R50: 18.52861035422343\n test_t2v_metrics_MedR: 328.0\n test_t2v_metrics_MeanR: 602.5044277929155\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.7560650503282487\n test_v2t_metrics_R1: 0.5449591280653951\n test_v2t_metrics_R5: 2.4863760217983653\n test_v2t_metrics_R10: 4.73433242506812\n test_v2t_metrics_R50: 16.178474114441418\n test_v2t_metrics_MedR: 344.0\n test_v2t_metrics_MeanR: 621.9015667574932\n test_v2t_metrics_geometric_mean_R1-R5-R10: 1.8580746708694449\n\n10 epoch glove feature partial order\n\n\ntest_t2v_metrics_R1: 1.1580381471389645\n test_t2v_metrics_R5: 3.474114441416894\n test_t2v_metrics_R10: 6.164850136239782\n test_t2v_metrics_R50: 18.392370572207085\n test_t2v_metrics_MedR: 293.5\n test_t2v_metrics_MeanR: 574.4679836512262\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.916284144497494\n test_v2t_metrics_R1: 0.6811989100817438\n test_v2t_metrics_R5: 2.622615803814714\n test_v2t_metrics_R10: 4.768392370572207\n test_v2t_metrics_R50: 16.689373297002724\n test_v2t_metrics_MedR: 337.5\n test_v2t_metrics_MeanR: 602.1025204359673\n test_v2t_metrics_geometric_mean_R1-R5-R10: 2.042334471288978\n\n10 epoch glove feature MaxMarginRankingLoss with resnet\n\n test_t2v_metrics_R1: 0.9196185286103542\n test_t2v_metrics_R5: 2.963215258855586\n test_t2v_metrics_R10: 5.483651226158038\n test_t2v_metrics_R50: 18.767029972752045\n test_t2v_metrics_MedR: 297.0\n test_t2v_metrics_MeanR: 563.0364441416893\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.4630898034292783\n test_v2t_metrics_R1: 0.5449591280653951\n test_v2t_metrics_R5: 2.997275204359673\n test_v2t_metrics_R10: 5.108991825613079\n test_v2t_metrics_R50: 17.847411444141688\n test_v2t_metrics_MedR: 323.25\n test_v2t_metrics_MeanR: 584.5269073569482\n test_v2t_metrics_geometric_mean_R1-R5-R10: 2.0283454399915906\n\n10 epoch glove feature Partial with resnet\n\n\nTop 7 retreived videos at epoch: 0\nadded 6 videos\n test_t2v_metrics_R1: 0.8174386920980926\n test_t2v_metrics_R5: 3.0994550408719346\n test_t2v_metrics_R10: 6.130790190735695\n test_t2v_metrics_R50: 19.754768392370572\n test_t2v_metrics_MedR: 306.0\n test_t2v_metrics_MeanR: 597.4746253405995\n test_t2v_metrics_geometric_mean_R1-R5-R10: 2.4950868182836388\n test_v2t_metrics_R1: 0.5790190735694822\n test_v2t_metrics_R5: 2.3501362397820165\n test_v2t_metrics_R10: 4.359673024523161\n test_v2t_metrics_R50: 17.677111716621255\n test_v2t_metrics_MedR: 317.5\n test_v2t_metrics_MeanR: 598.9977861035422\n test_v2t_metrics_geometric_mean_R1-R5-R10: 1.8102835680628582\n",
+			"file": "cses/1671.py",
 			"settings":
 			{
-				"buffer_size": 4519,
-				"line_ending": "Unix",
-				"name": "bert"
-			}
-		},
-		{
-			"file": "cses/1630.py",
-			"settings":
-			{
-				"buffer_size": 353,
+				"buffer_size": 1250,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "cses/1642.py",
+			"file": "hackerrank/algorithms/input.txt",
 			"settings":
 			{
-				"buffer_size": 832,
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "1"
+			}
+		},
+		{
+			"file": "hackerrank/algorithms/wget-log.1",
+			"settings":
+			{
+				"buffer_size": 461,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hackerrank/algorithms/Dijkstra-Shortest-Reach-2.py",
+			"settings":
+			{
+				"buffer_size": 3672,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "hackerrank/placement-test/pcpt2/New-Pandemic-in-Nibieru.py",
+			"file": "cses/1671.cpp",
 			"settings":
 			{
-				"buffer_size": 789,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "import math"
-			}
-		},
-		{
-			"file": "hackerrank/placement-test/pcpt2/War-of-numbers.py",
-			"settings":
-			{
-				"buffer_size": 1222,
+				"buffer_size": 967,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "hackerrank/placement-test/pcpt2/Hours-Minutes-Seconds.py",
+			"contents": "MAX MARGIN NOUN-VERB 20\n test_t2v_metrics_R1: 2.935222672064777\n test_t2v_metrics_R5: 10.425101214574898\n test_t2v_metrics_R10: 16.59919028340081\n test_t2v_metrics_R50: 42.91497975708502\n test_t2v_metrics_MedR: 75.0\n test_t2v_metrics_MeanR: 164.72368421052633\n test_t2v_metrics_geometric_mean_R1-R5-R10: 7.978772441586653\n test_v2t_metrics_R1: 2.0242914979757085\n test_v2t_metrics_R5: 7.793522267206478\n test_v2t_metrics_R10: 13.461538461538462\n test_v2t_metrics_R50: 40.48582995951417\n test_v2t_metrics_MedR: 84.0\n test_v2t_metrics_MeanR: 171.34919028340082\n test_v2t_metrics_geometric_mean_R1-R5-R10: 5.966237113582516\n\nPARTIAL NOUN-VERB 7\n\n test_t2v_metrics_R1: 2.42914979757085\n test_t2v_metrics_R5: 9.008097165991902\n test_t2v_metrics_R10: 17.611336032388664\n test_t2v_metrics_R50: 40.991902834008094\n test_t2v_metrics_MedR: 81.0\n test_t2v_metrics_MeanR: 165.53947368421052\n test_t2v_metrics_geometric_mean_R1-R5-R10: 7.277125883293142\n test_v2t_metrics_R1: 2.0242914979757085\n test_v2t_metrics_R5: 9.412955465587045\n test_v2t_metrics_R10: 14.676113360323887\n test_v2t_metrics_R50: 40.688259109311744\n test_v2t_metrics_MedR: 80.0\n test_v2t_metrics_MeanR: 167.835020242915\n test_v2t_metrics_geometric_mean_R1-R5-R10: 6.539381950027397\n\n\n",
 			"settings":
 			{
-				"buffer_size": 490,
+				"buffer_size": 1241,
+				"line_ending": "Unix",
+				"name": "MAX MARGIN NOUN-VERB 20"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cses/test_output1.txt",
+			"settings":
+			{
+				"buffer_size": 588873,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cses/1671.txt",
+			"settings":
+			{
+				"buffer_size": 2066615,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "# Enter your code here. Read input from STDIN. Pri"
+				"name": "1671.txt"
 			}
 		}
 	],
@@ -528,13 +587,64 @@
 		"/home/jayaprakash/Documents/coding-prepation/cses",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/algorithms",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-3",
-		"/home/jayaprakash/Documents/coding-prepation/kickstart",
-		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020"
+		"/home/jayaprakash/Documents/coding-prepation/leetcode",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge"
 	],
 	"file_history":
 	[
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/data/leaderboards/exp.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/data/charades/missing_files.txt",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-4/Migratory-Birds.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-4/Anagram.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-4/Construct-the-Array.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-4/Love-Triangle-1.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-4/Shovels-and-Swords.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-4/Utopian-Tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/25-Find-Minimum-in-Rotated-Sorted-Array-II.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/loss_full/wmd_new_2_PartialOrderLoss_openaigpt_charades_10.txt",
+		"/home/jayaprakash/a.txt",
+		"/home/jayaprakash/sample_text.txt",
+		"/home/jayaprakash/q1.cpp",
+		"/home/jayaprakash/octave-workspace",
+		"/home/jayaprakash/CLionProjects/untitled/main.cpp",
+		"/home/jayaprakash/Documents/coding-prepation/a1.txt",
+		"/home/jayaprakash/Documents/coding-prepation/a2.txt",
+		"/home/jayaprakash/Documents/coding-prepation/a2.py",
+		"/home/jayaprakash/Documents/coding-prepation/a1.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/ig65m-pytorch/Makefile",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/24-All-Paths-From-Source-to-Target.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/23-Single-Number-III.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/data/TFT_v2/noun_verb_heuristic/malta.csv",
+		"/home/jayaprakash/Documents/coding-prepation/cses/1633.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1291--Sequential-Digits-Medium.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/loss_full/a.txt",
+		"/home/jayaprakash/Documents/coding-prepation/cses/1634.py",
+		"/home/jayaprakash/Documents/coding-prepation/cses/1634.cpp",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/22-Binary-Tree-Zigzag-Level-Order-Traversal.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/953--Verifying-an-Alien-Dictionary-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/872--Leaf-Similar-Trees-Easy.py",
+		"/home/jayaprakash/Desktop/Dropped Text.txt",
+		"/home/jayaprakash/Documents/coding-prepation/cses/1633.cpp",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/data/TFT_v2/marathi_caption/a.txt",
+		"/home/jayaprakash/Documents/coding-prepation/cses/1146.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/21-Word-Search.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac2/Fraudulent-Activity-Notifications.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac2/Sherlock-and-Array.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac2/Quicksort-1-Partition.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac2/The-Full-Counting-Sort.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac2/Minimum-Absolute-Difference-in-an-Array.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac2/Merge-List.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac2/Luck-Balance.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt2/Beautiful-chains.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/20-Remove-Linked-List-Elements.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/data/TFT_v2/marathi_caption/Annotation_video_mar_train_parsed.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/data/TFT_v2/marathi_caption/Annotation_video_mar_train_path.txt",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/data/TFT_v2/marathi_caption/missing_caption.txt",
+		"/home/jayaprakash/Documents/coding-prepation/cses/1630.py",
+		"/home/jayaprakash/Documents/coding-prepation/cses/1642.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt2/New-Pandemic-in-Nibieru.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt2/War-of-numbers.py",
+		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt2/Hours-Minutes-Seconds.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/19-Add-Binary.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1518--Water-Bottles-Easy.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1519--Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label-Medium.py",
@@ -577,7 +687,6 @@
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt1/Alice-and-crazy-XORs.py",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt1/Efficient-Search.py",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt1/Smallest-common-multiple.py",
-		"/home/jayaprakash/Desktop/Dropped Text.txt",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/12-Reverse-Bits.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1514--Path-with-Maximum-Probability-Medium.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1515--Best-Position-for-a-Service-Centre-Hard.py",
@@ -596,7 +705,6 @@
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2/I-\"Really\"-Wanna-Be-the-Guy.py",
 		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pt-test-2/Exact-Payment.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/11-Subsets.py",
-		"/home/jayaprakash/a.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/data/charades/a.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/data/saved/log/charades-train-full-ce-only-audio-i3d/2020-07-07_12-46-43/info.log",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/7-Island-Perimeter.py",
@@ -611,58 +719,7 @@
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/new_changes.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/output_dump.txt",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/errors.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/changes.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/requirements/pip-requirements.txt",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/688--Knight-Probability-in-Chessboard-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/96--Unique-Binary-Search-Trees-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/212--Word-Search-II-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/264--Ugly-Number-II-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/332--Reconstruct-Itinerary-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/792--Number-of-Matching-Subsequences-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/957--Prison-Cells-After-N-Days-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1253--Reconstruct-a-2-Row-Binary-Matrix-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1366--Rank-Teams-by-Votes-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/6-Plus-One.py",
-		"/home/jayaprakash/Documents/charades_process.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1503--Last-Moment-Before-All-Ants-Fall-Out-of-a-Plank-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1504--Count-Submatrices-With-All-Ones-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1502--Can-Make-Arithmetic-Progression-From-Sequence-Easy.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/greedy-florist.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/mark-and-toys.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/5-Hamming-Distance.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/game-of-two-stacks.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/coin-change.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/taras-beautiful-permutations.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/4-Ugly-Number-II.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/3-Prison-Cells-After-N-Days.py",
-		"/home/jayaprakash/Documents/t.c",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/1593697197/balanced-brackets.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1184--Distance-Between-Bus-Stops-Easy.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/2-Binary-Tree-Level-Order-Traversal-II.py",
-		"/home/jayaprakash/Videos/PixDt0JlrxY.txt",
-		"/home/jayaprakash/.cache/.fr-qYjFwc/formatting-instructions-latex-2020.synctex",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/27-Perfect-Squares.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/97--Interleaving-String-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/29-Unique-Paths.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/28-Reconstruct-Itinerary.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/1-Arranging-Coins.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/June_2020/30-Word-Search-II.py",
-		"/home/jayaprakash/Videos/Sherlock - season 1.en/Sherlock - 1x03 - The Great Game.480p.HDTV.en.srt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_feat_gen/i3d/pytorch-i3d/tft_short_video_length.txt",
-		"/run/user/1000/gvfs/sftp",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/Extract_CE_features_MALTA/Extract_Audio_Features/environment.yml",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_feat_gen/i3d/pytorch-i3d/LICENSE.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_feat_gen/i3d/pytorch-i3d/charades_video_length.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_feat_gen/i3d/pytorch-i3d/charades_video_length1.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/.conda/environments.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_segmented/README.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_segmented/test_mod.csv",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/filesowned.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_out/charades_sta_train.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_out/charades_sta_test.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_out/charades_movie_length_info.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/data/charades_segmented/train_data.csv",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1491--Average-Salary-Excluding-the-Minimum-and-Maximum-Salary-Easy.py"
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master/changes.txt"
 	],
 	"find":
 	{
@@ -680,6 +737,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"npy",
+			"vgg",
+			"node[0]",
+			"edgeList",
+			"Running evaluation with configuration",
+			"        ",
+			"CRAZY_MAGNETS___MARATHI___28_MBwmv",
+			"CRAZY_MAGNETS___MARATHI___28_MBwmv_",
+			"CRAZY_MAGNETS___MARATHI___28_MBwmv",
+			"CRAZY_MAGNETS___MARATHI___28_MBwmv_4.1_9.5",
+			"True",
+			"CRAZY_MAGNETS___MARATHI___28_MBwmv",
+			"CRAZY_MAGNETS___MARATHI___28_MBwmv_4.1_9.5",
+			"CRAZY_MAGNETS___MARATHI___28_MBwmv",
+			"True",
+			"DYNAMIC_WAVE_MODEL___MARATHI___24MB",
 			"    ",
 			"\n\n",
 			"     ",
@@ -740,6 +813,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"mp4",
+			"action",
+			"node[1]",
 			" ",
 			"]",
 			"[",
@@ -780,28 +856,57 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "cses/1671.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4519,
+						"buffer_size": 1250,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3901,
-								3901
+								1057,
+								1057
 							]
 						],
 						"settings":
 						{
-							"auto_name": "bert",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hackerrank/algorithms/input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -812,26 +917,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "cses/1630.py",
-					"semi_transient": false,
+					"buffer": 2,
+					"file": "hackerrank/algorithms/wget-log.1",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 353,
+						"buffer_size": 461,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								353,
-								353
+								460,
+								460
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -841,20 +945,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "cses/1642.py",
+					"buffer": 3,
+					"file": "hackerrank/algorithms/Dijkstra-Shortest-Reach-2.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 832,
+						"buffer_size": 3672,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								441,
-								441
+								193,
+								193
 							]
 						],
 						"settings":
@@ -871,28 +975,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "hackerrank/placement-test/pcpt2/New-Pandemic-in-Nibieru.py",
+					"buffer": 4,
+					"file": "cses/1671.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 789,
+						"buffer_size": 967,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								789,
-								789
+								893,
+								893
 							]
 						],
 						"settings":
 						{
-							"auto_name": "import math",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -902,64 +1003,118 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "hackerrank/placement-test/pcpt2/War-of-numbers.py",
+					"buffer": 5,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1222,
+						"buffer_size": 1241,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1222,
-								1222
+								641,
+								641
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "MAX MARGIN NOUN-VERB 20",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 411.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "hackerrank/placement-test/pcpt2/Hours-Minutes-Seconds.py",
+					"buffer": 6,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 490,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								490,
-								490
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "# Enter your code here. Read input from STDIN. Pri",
-							"syntax": "Packages/Python/Python.sublime-syntax",
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "cses/test_output1.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 588873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1259055.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "cses/1671.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2066615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1599995,
+								1599995
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1671.txt",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2099693.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
 					"type": "text"
 				}
 			]

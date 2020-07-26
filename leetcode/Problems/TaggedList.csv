@@ -59,6 +59,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 74;Search a 2D Matrix;Finished;Medium,binary-search,arrays
 75;Sort Colors;Finished;Medium,arrays,two-pointers,sort
 78;Subsets;Finished;Medium,bit-manipulation,arrays
+79;Word Search;Finished;Medium,arrays
 80;Remove Duplicates from Sorted Array II;Finished;Medium,arrays,two-pointers
 83;Remove Duplicates from Sorted List;Finished;Easy,linked-list
 88;Merge Sorted Array;Finished;Easy,arrays,two-pointers
@@ -122,6 +123,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 200;Number of Islands;Finished;Medium
 201;Bitwise AND of Numbers Range;Finished;Medium,bit-manipulation
 202;Happy Number;Finished;Easy,hash-table,math
+203;Remove Linked List Elements;Finished;Easy,linked-list
 204;Count Primes;Finished;Easy,hash-table,math
 205;Isomorphic Strings;Finished;Easy,hash-table
 206;Reverse Linked List;Finished;Easy,linked-list
@@ -148,6 +150,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 238;Product of Array Except Self;Finished;Medium,arrays
 242;Valid Anagram;Finished;Easy,hash-table,sort
 258;Add Digits;Finished;Easy,math
+260;Single Number III;Finished;Medium,bit-manipulation
 263;Ugly Number;Finished;Easy,math
 264;Ugly Number II;Finished;Medium,dynamic-programming,math
 268;Missing Number;Finished;Easy,bit-manipulation,arrays,math
@@ -184,6 +187,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 374;Guess Number Higher or Lower;Finished;Easy,binary-search
 376;Wiggle Subsequence;Finished;Medium,dynamic-programming
 377;Combination Sum IV;Finished;Medium,dynamic-programming
+378;Kth Smallest Element in a Sorted Matrix;Finished;Medium,binary-search
 380;Insert Delete GetRandom O(1);Finished;Medium,arrays,hash-table
 381;Insert Delete GetRandom O(1) Duplicates allowed;Finished;Hard,arrays,hash-table
 383;Ransom Note;Finished;Easy,string
@@ -192,6 +196,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 389;Find the Difference;Finished;Easy,bit-manipulation,hash-table
 392;Is Subsequence;Finished;Easy,binary-search,dynamic-programming
 394;Decode String;Finished;Medium
+396;Rotate Function;Finished;Medium,math
 397;Integer Replacement;Finished;Medium,bit-manipulation,math
 402;Remove K Digits;Finished;Medium
 404;Sum of Left Leaves;Finished;Easy,trees
@@ -323,6 +328,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 791;Custom Sort String;Finished;Medium,string
 792;Number of Matching Subsequences;Finished;Medium,arrays
 796;Rotate String;Finished;Easy
+797;All Paths From Source to Target;Finished;Medium
 802;Find Eventual Safe States;Finished;Medium
 804;Unique Morse Code Words;Finished;Easy,string
 807;Max Increase to Keep City Skyline;Finished;Medium
@@ -344,6 +350,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 866;Prime Palindrome;Finished;Medium,math
 867;Transpose Matrix;Finished;Easy,arrays
 869;Reordered Power of 2;Finished;Medium,math
+872;Leaf Similar Trees;Finished;Easy,trees
 875;Koko Eating Bananas;Finished;Medium,binary-search
 876;Middle of the Linked List;Finished;Easy,linked-list
 878;Nth Magical Number;Finished;Hard,binary-search,math
@@ -375,6 +382,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 942;DI String Match;Finished;Easy,math
 946;Validate Stack Sequences;Finished;Medium
 950;Reveal Cards In Increasing Order;Finished;Medium,arrays
+953;Verifying an Alien Dictionary;Finished;Easy,hash-table
 957;Prison Cells After N Days;Finished;Medium,hash-table
 961;N Repeated Element in Size 2N Array;Finished;Easy,hash-table
 965;Univalued Binary Tree;Finished;Easy,trees
@@ -477,6 +485,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1283;Find the Smallest Divisor Given a Threshold;Finished;Medium,binary-search
 1287;Element Appearing More Than 25% In Sorted Array;Finished;Easy,arrays
 1290;Convert Binary Number in a Linked List to Integer;Finished;Easy,bit-manipulation,linked-list
+1291;Sequential Digits;Finished;Medium
 1295;Find Numbers with Even Number of Digits;Finished;Easy,arrays
 1299;Replace Elements with Greatest Element on Right Side;Finished;Easy,arrays
 1300;Sum of Mutated Array Closest to Target;Finished;Medium,binary-search,arrays
@@ -624,3 +633,9 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1518;Water Bottles;Finished;Easy
 1519;Number of Nodes in the Sub Tree With the Same Label;Finished;Medium
 1521;Find a Value of a Mysterious Function Closest to Target;Finished;Hard
+1523;Count Odd Numbers in an Interval Range;Finished;Easy
+1524;Number of Sub arrays With Odd Sum;Finished;Medium
+1525;Number of Good Ways to Split a String;Finished;Medium
+1528;Shuffle String;Finished;Easy
+1529;Bulb Switcher IV;Finished;Medium
+1530;Number of Good Leaf Nodes Pairs;Finished;Medium
