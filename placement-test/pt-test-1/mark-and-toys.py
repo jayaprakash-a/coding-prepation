@@ -1,0 +1,31 @@
+#!/bin/python
+
+import math
+import os
+import random
+import re
+import sys
+import bisect
+# Complete the maximumToys function below.
+def maximumToys(prices, k):
+    prices = sorted(prices)
+    for i in range(1, len(prices)):
+        prices[i] += prices[i-1]
+    val = bisect.bisect_left(prices, k)
+    return val
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    nk = raw_input().split()
+
+    n = int(nk[0])
+
+    k = int(nk[1])
+
+    prices = map(int, raw_input().rstrip().split())
+
+    result = maximumToys(prices, k)
+
+    fptr.write(str(result) + '\n')
+
+    fptr.close()
