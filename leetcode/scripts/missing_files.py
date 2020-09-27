@@ -4,7 +4,7 @@ import json
 from functools import cmp_to_key
 from typing import List
 from datetime import date
-
+import codecs
 levels = ['Easy', 'Medium', 'Hard']
 
 
@@ -25,20 +25,20 @@ class LeetCodeProblem:
 
 
 def readProblems(filename: str):
-	problems = []
-	with open(filename) as json_file:
-		data = json.load(json_file)
-		# print(data['stat_status_pairs'])
-		for item in data['stat_status_pairs']:
-			problem = LeetCodeProblem()
-			problem.problem_id = int(item['stat']['frontend_question_id'])
-			problem.title = item['stat']['question__title']
-			problem.slug = item['stat']['question__title_slug']
-			problem.solution = item['stat']['question__article__slug']
-			problem.difficulty = int(item['difficulty']['level'])
-			problem.status = 'na' if item['status'] is None else item['status']
-			problem.is_premium = item['paid_only']
-			problems.append(problem)
+	problems = []	
+
+	data = json.load(codecs.open(filename, 'r', 'utf-8-sig'))
+	# print(data['stat_status_pairs'])
+	for item in data['stat_status_pairs']:
+		problem = LeetCodeProblem()
+		problem.problem_id = int(item['stat']['frontend_question_id'])
+		problem.title = item['stat']['question__title']
+		problem.slug = item['stat']['question__title_slug']
+		problem.solution = item['stat']['question__article__slug']
+		problem.difficulty = int(item['difficulty']['level'])
+		problem.status = 'na' if item['status'] is None else item['status']
+		problem.is_premium = item['paid_only']
+		problems.append(problem)
 	return problems
 
 

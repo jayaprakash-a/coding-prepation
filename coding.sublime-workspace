@@ -452,426 +452,10 @@
 	"buffers":
 	[
 		{
-			"file": "leetcode/Problems/1560--Most-Visited-Sector-in-a-Circular-Track-Easy.py",
+			"file": "leetcode/30-day-challenge/September_2020/24-Find-the-Difference.py",
 			"settings":
 			{
-				"buffer_size": 1026,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1563--Stone-Game-V-Hard.py",
-			"settings":
-			{
-				"buffer_size": 698,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "placement-test/ict2/Flipping-the-Matrix.py",
-			"settings":
-			{
-				"buffer_size": 763,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "leetcode/30-day-challenge/August_2020/29-Pancake-Sorting.py",
-			"settings":
-			{
-				"buffer_size": 356,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/30-day-challenge/August_2020/30-Largest-Component-Size-by-Common-Factor.py",
-			"settings":
-			{
-				"buffer_size": 935,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class DSU:"
-			}
-		},
-		{
-			"file": "leetcode/30-day-challenge/August_2020/31-Delete-Node-in-a-BST.py",
-			"settings":
-			{
-				"buffer_size": 1130,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "# Definition for a binary tree node."
-			}
-		},
-		{
-			"file": "leetcode/30-day-challenge/September_2020/1-Largest-Time-for-Given-Digits.py",
-			"settings":
-			{
-				"buffer_size": 185,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/30-day-challenge/September_2020/2-Contains-Duplicate-III.py",
-			"settings":
-			{
-				"buffer_size": 502,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1566--Detect-Pattern-of-Length-M-Repeated-K-or-More-Times-Easy.py",
-			"settings":
-			{
-				"buffer_size": 353,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1569--Number-of-Ways-to-Reorder-Array-to-Get-Same-BST-Hard.py",
-			"settings":
-			{
-				"buffer_size": 1254,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class TreeNode:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1567--Maximum-Length-of-Subarray-With-Positive-Product-Medium.py",
-			"settings":
-			{
-				"buffer_size": 1071,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "placement-test/ict3/The-Coin-Change-Problem.py",
-			"settings":
-			{
-				"buffer_size": 1082,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/ict3/Breadth-First-Search-Shortest-Reach.py",
-			"settings":
-			{
-				"buffer_size": 1357,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/ict3/Find-the-Running-Median.py",
-			"settings":
-			{
-				"buffer_size": 2177,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/ict3/String-Transmission.py",
-			"settings":
-			{
-				"buffer_size": 1157,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "class Solution:\n    def repeatedSubstringPattern(self, s: str) -> bool:\n        if len(s) == 1:\n            return False\n        \n        for i in range(1, len(s)//2+1):\n            new = s[:i]\n            if new*(len(s)//len(new)) == s:\n                return True\n        return False",
-			"file": "leetcode/30-day-challenge/September_2020/3-Repeated-Substring-Pattern.py",
-			"file_size": 286,
-			"file_write_time": 132435929275233249,
-			"settings":
-			{
-				"buffer_size": 286,
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"contents": "{('structured-symlinks', 'OTPartialOrderLoss', 't2v'): {'test_t2v_metrics_R1': 14.9402390438247, 'test_t2v_metrics_R5': 37.45019920318725, 'test_t2v_metrics_R10': 51.19521912350598, 'test_t2v_metrics_R50': 79.9800796812749, 'test_t2v_metrics_MedR': 10.0, 'test_t2v_metrics_MeanR': 43.56274900398407, 't2v_time': 1430.0, 't2v_best_epoch': 21.0, 't2v_comp': 168.62549800796813}, ('structured-symlinks', 'OTPartialOrderLoss', 'v2t'): {'test_v2t_metrics_R1': 14.442231075697212, 'test_v2t_metrics_R5': 36.254980079681275, 'test_v2t_metrics_R10': 51.49402390438247, 'test_v2t_metrics_R50': 80.97609561752988, 'test_v2t_metrics_MedR': 10.0, 'test_v2t_metrics_MeanR': 41.853585657370516, 'v2t_time': 1819.0, 'v2t_best_epoch': 28.0, 'v2t_comp': 168.72509960159363}, ('structured-symlinks', 'OptimalTransportLoss', 't2v'): {'test_t2v_metrics_R1': 15.0398406374502, 'test_t2v_metrics_R5': 41.733067729083665, 'test_t2v_metrics_R10': 54.9800796812749, 'test_t2v_metrics_R50': 82.66932270916335, 'test_t2v_metrics_MedR': 9.0, 'test_t2v_metrics_MeanR': 41.2300796812749, 't2v_time': 2201.0, 't2v_best_epoch': 7.0, 't2v_comp': 179.38247011952194}, ('structured-symlinks', 'OptimalTransportLoss', 'v2t'): {'test_v2t_metrics_R1': 14.143426294820717, 'test_v2t_metrics_R5': 38.844621513944226, 'test_v2t_metrics_R10': 53.48605577689243, 'test_v2t_metrics_R50': 82.47011952191235, 'test_v2t_metrics_MedR': 9.0, 'test_v2t_metrics_MeanR': 38.31474103585657, 'v2t_time': 2201.0, 'v2t_best_epoch': 7.0, 'v2t_comp': 174.800796812749}}\n\n\n{('structured-symlinks', 'OTPartialOrderLoss', 't2v'): {'test_t2v_metrics_R1': 13.44621513944223, 'test_t2v_metrics_R5': 35.45816733067729, 'test_t2v_metrics_R10': 49.50199203187251, 'test_t2v_metrics_R50': 80.2788844621514, 'test_t2v_metrics_MedR': 11.0, 'test_t2v_metrics_MeanR': 44.537848605577686, 't2v_time': 2025.0, 't2v_best_epoch': 19.0, 't2v_comp': 165.23904382470118}, ('structured-symlinks', 'OTPartialOrderLoss', 'v2t'): {'test_v2t_metrics_R1': 13.047808764940239, 'test_v2t_metrics_R5': 35.756972111553786, 'test_v2t_metrics_R10': 48.30677290836653, 'test_v2t_metrics_R50': 79.9800796812749, 'test_v2t_metrics_MedR': 11.0, 'test_v2t_metrics_MeanR': 42.06125498007968, 'v2t_time': 2025.0, 'v2t_best_epoch': 19.0, 'v2t_comp': 164.0438247011952}}\n\n\n\n0.800_0.150_0.160_0.240 OT\n0.800_0.070_0.080_0.160 OTPO\n",
-			"settings":
-			{
-				"buffer_size": 2330,
-				"line_ending": "Unix",
-				"name": "{('structured-symlinks', 'OTPartialOrderLoss', 't2"
-			}
-		},
-		{
-			"contents": "1.200,0.070,0.090,0.270 Partial\n0.800,0.040,0.060,0.240 OTPartial\n1.400,0.180,0.240,1.380 Max margin\n0.800,0.300,0.330,0.350 Optimal Transport",
-			"settings":
-			{
-				"buffer_size": 142,
-				"line_ending": "Unix",
-				"name": "1.200,0.070,0.090,0.270 Partial"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1577--Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers-Medium.py",
-			"settings":
-			{
-				"buffer_size": 557,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1576--Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters-Easy.py",
-			"settings":
-			{
-				"buffer_size": 726,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1574--Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted-Medium.py",
-			"settings":
-			{
-				"buffer_size": 1149,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1573--Number-of-Ways-to-Split-a-String-Medium.py",
-			"settings":
-			{
-				"buffer_size": 693,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1572--Matrix-Diagonal-Sum-Easy.py",
-			"settings":
-			{
-				"buffer_size": 268,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Solution:"
-			}
-		},
-		{
-			"contents": "person throwing his bag down.\n\nperson throwing a pillow on the shelf.\nperson throws some clothes on the floor.\nthe person throws the blanket on a chair.\n\na person throws a book onto the shelf.\nthe person takes a book from a table.\nperson take a book.\n\na person puts a pair of shoes into a bag.\n\nManually curated example\n\nAnchor: person throws the bag up the stairs.\nPositive: person throwing his bag down.\nPositive: person throws the bag as well.\nPartial: person throws some clothes on the floor.\nPartial: a person opens a bag which sits on the table.\nPartial: person opens bag.\nPartial: a person puts down a bag.\nNegative: person closing a door.\nNegative: another person runs out the room\n\nHeuristically obtained example\n\nAnchor: a person is seen watching television.\nIdentity: a person is watching television on the sofa.\nIdentity: a person is watching television on the sofa.\nPartial: a person is seen watching videos on their laptop.\nPartial: person eating in front of a television.\nPartial: person smiling at the television.\nPartial: person start watching the picture.\nNegative: person closing a door.\nNegative: another person runs out the room\n\n\n\n\n\n\na person is seen watching television.;Identity;GG4UR_00:00:00.0_00:00:03.6;a person is watching television on the sofa.\t\na person is seen watching television.;Identity;GG4UR_00:00:00.0_00:00:03.6;person is sitting on couch watching television.\na person is seen watching television.;Description;CXF35_00:00:02.5_00:00:16.4;a person is seen watching videos on their laptop.\na person is seen watching television.;Identity;U3VOM_00:00:25.1_00:00:32.0;a person is laying in their bed watching television.\na person is seen watching television.;Identity;8WJIR_00:00:00.6_00:00:11.2;a person sits on the bed watching television.\na person is seen watching television.;Description;MLDGN_00:00:06.1_00:00:11.5;person start watching the picture.\na person is seen watching television.;Identity;B17UQ_00:00:01.0_00:00:11.8;a person is sitting on a sofa watching television.\na person is seen watching television.;Description;G1A2O_00:00:03.9_00:00:09.7;person eating in front of a television.\na person is seen watching television.;Description;LJS9V_00:00:00.0_00:00:05.8;person smiling at the television.\n\n\n\n{('structured-symlinks', 'OTPartialOrderLoss', 't2v'): {'test_t2v_metrics_R1': 14.143426294820717, 'test_t2v_metrics_R5': 37.798804780876495, 'test_t2v_metrics_R10': 52.39043824701196, 'test_t2v_metrics_R50': 81.52390438247012, 'test_t2v_metrics_MedR': 9.5, 'test_t2v_metrics_MeanR': 43.69048804780876, 't2v_time': 2655.0, 't2v_best_epoch': 29.0, 't2v_comp': 171.71314741035857}, ('structured-symlinks', 'OTPartialOrderLoss', 'v2t'): {'test_v2t_metrics_R1': 15.388446215139442, 'test_v2t_metrics_R5': 38.99402390438247, 'test_v2t_metrics_R10': 52.3406374501992, 'test_v2t_metrics_R50': 81.82270916334662, 'test_v2t_metrics_MedR': 9.5, 'test_v2t_metrics_MeanR': 40.5199203187251, 'v2t_time': 2655.0, 'v2t_best_epoch': 29.0, 'v2t_comp': 173.15737051792829}}\n",
-			"settings":
-			{
-				"buffer_size": 3005,
-				"line_ending": "Unix",
-				"name": "person throwing his bag down."
-			}
-		},
-		{
-			"file": "placement-test/pcpt7/Ancient-Arrays.py",
-			"settings":
-			{
-				"buffer_size": 749,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "def getAns(num, maxNum):"
-			}
-		},
-		{
-			"file": "placement-test/pcpt7/The-Longest-Common-Subsequence.py",
-			"settings":
-			{
-				"buffer_size": 1294,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/ict4/The-Longest-Common-Subsequence.py",
-			"settings":
-			{
-				"buffer_size": 1294,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/ict4/Simple-Text-Editor.py",
-			"settings":
-			{
-				"buffer_size": 409,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "n = int(input())"
-			}
-		},
-		{
-			"file": "placement-test/ict4/Nikita-and-the-Game.py",
-			"settings":
-			{
-				"buffer_size": 816,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/ict4/Kruskal-(MST)-Really-Special-Subtree.py",
-			"settings":
-			{
-				"buffer_size": 2051,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/ict2/Snakes-and-Ladders:-The-Quickest-Way-Up.py",
-			"settings":
-			{
-				"buffer_size": 1405,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "33\n3 9\n3 10\n3 11\n3 12\n3 13\n3 14\n3 15\n3 16\n2 16\n1 16\n1 17\n1 18\n2 18\n3 18\n4 18\n5 18\n5 17\n5 16\n5 15\n5 14\n5 13\n5 12\n5 11\n5 10\n5 9\n5 8\n5 7\n5 6\n5 5\n5 4\n5 3\n5 2\n5 1\n32\n3 9\n3 10\n3 11\n3 12\n3 13\n3 14\n3 15\n3 16\n2 16\n1 16\n1 17\n1 18\n2 18\n3 18\n4 18\n5 18\n5 17\n5 16\n5 15\n5 14\n5 13\n5 12\n5 11\n5 10\n5 9\n5 8\n5 7\n5 6\n5 5\n5 4\n5 3\n5 2\n5 1\n",
-			"settings":
-			{
-				"buffer_size": 316,
-				"line_ending": "Unix",
-				"name": "33"
-			}
-		},
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/mtechprac5/Balanced-Brackets.py",
-			"settings":
-			{
-				"buffer_size": 797,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/mtechprac5/Equal-Stacks.py",
-			"settings":
-			{
-				"buffer_size": 1140,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/mtechprac5/Jesse-and-Cookies.py",
-			"settings":
-			{
-				"buffer_size": 704,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/mtechprac5/Simple-Text-Editor.py",
-			"settings":
-			{
-				"buffer_size": 552,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "def main():"
-			}
-		},
-		{
-			"file": "placement-test/mtechprac5/Game-of-Two-Stacks.py",
-			"settings":
-			{
-				"buffer_size": 956,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "placement-test/mtechprac5/Largest-Rectangle.py",
-			"settings":
-			{
-				"buffer_size": 1015,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "(experts) mayur@dhvani:~/vighnesh/collaborative-experts-master-duplicate$ python3 train.py --config configs/data_loader_charades.json --device 2\nconfigs/data_loader_charades.json\nconfigs/base_config.json\n/home/mayur/vighnesh/collaborative-experts-master-duplicate\nlog config: logger/logger_config.json exists: True\nlogger/logger_config.json\nLaunching experiment with config:\n{'_args': Namespace(config='configs/data_loader_charades.json', custom_args=None, dbg='ipdb.set_trace', device='2', disable_workers=False, group_id=None, group_seed=None, leaderboard='data/leaderboards/exp.txt', mini_train=False, purge_exp_dir=False, refresh_lru_cache=False, resume=None, seeds='0', train_single_epoch=False),\n '_config': OrderedDict([('arch',\n                          OrderedDict([('args',\n                                        OrderedDict([('ghost_clusters',\n                                                      OrderedDict([('text', 1),\n                                                                   ('audio', 1),\n                                                                   ('speech',\n                                                                    1)])),\n                                                     ('include_self', 1),\n                                                     ('keep_missing_modalities',\n                                                      False),\n                                                     ('l2renorm', False),\n                                                     ('mimic_ce_dims', 0),\n                                                     ('num_g_layers', 3),\n                                                     ('num_h_layers', 0),\n                                                     ('randomise_feats', ''),\n                                                     ('use_bn_reason', 1),\n                                                     ('use_ce', 'pairwise'),\n                                                     ('use_mish', 1),\n                                                     ('vlad_clusters',\n                                                      OrderedDict([('audio', 8),\n                                                                   ('detection-sem',\n                                                                    50),\n                                                                   ('ocr', 43),\n                                                                   ('speech',\n                                                                    19),\n                                                                   ('text',\n                                                                    28)])),\n                                                     ('test_caption_mode',\n                                                      'indep')])),\n                                       ('type', 'CENet')])),\n                         ('data_loader',\n                          OrderedDict([('args',\n                                        OrderedDict([('batch_size', 64),\n                                                     ('feat_aggregation',\n                                                      OrderedDict([('antoine-rgb',\n                                                                    OrderedDict([('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2048)])),\n                                                                                 ('model',\n                                                                                  'antoine'),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('audio',\n                                                                    OrderedDict([('binarise',\n                                                                                  False),\n                                                                                 ('model',\n                                                                                  'vggish'),\n                                                                                 ('temporal',\n                                                                                  'vlad'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('detection-sem',\n                                                                    OrderedDict([('feat_type',\n                                                                                  'sem'),\n                                                                                 ('fps',\n                                                                                  1),\n                                                                                 ('model',\n                                                                                  'detection'),\n                                                                                 ('stride',\n                                                                                  3),\n                                                                                 ('temporal',\n                                                                                  'vlad'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('face',\n                                                                    OrderedDict([('binarise',\n                                                                                  False),\n                                                                                 ('flaky',\n                                                                                  True),\n                                                                                 ('model',\n                                                                                  'antoine'),\n                                                                                 ('temporal',\n                                                                                  'avg')])),\n                                                                   ('flow',\n                                                                    OrderedDict([('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                1024)])),\n                                                                                 ('model',\n                                                                                  'antoine'),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('i3d.i3d.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                1024),\n                                                                                               ('logits',\n                                                                                                400)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('inner_stride',\n                                                                                  1),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  25),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('imagenet.resnext101_32x48d.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2048),\n                                                                                               ('logits',\n                                                                                                1000)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  1),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('imagenet.senet154.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2048),\n                                                                                               ('logits',\n                                                                                                1000)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  1),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('moments-static.moments-resnet50.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2048),\n                                                                                               ('logits',\n                                                                                                1000)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('offset',\n                                                                                  3),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  1),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('moments_3d.moments-resnet3d50.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2048),\n                                                                                               ('logits',\n                                                                                                3339)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('inner_stride',\n                                                                                  5),\n                                                                                 ('offset',\n                                                                                  1),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  8),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('ocr',\n                                                                    OrderedDict([('binarise',\n                                                                                  False),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                300)])),\n                                                                                 ('flaky',\n                                                                                  True),\n                                                                                 ('model',\n                                                                                  'yang'),\n                                                                                 ('temporal',\n                                                                                  'vlad'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('r2p1d.r2p1d-ig65m-kinetics.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                512),\n                                                                                               ('logits',\n                                                                                                400)])),\n                                                                                 ('fps',\n                                                                                  30),\n                                                                                 ('inner_stride',\n                                                                                  1),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  32),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('r2p1d.r2p1d-ig65m.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                512),\n                                                                                               ('logits',\n                                                                                                359)])),\n                                                                                 ('fps',\n                                                                                  30),\n                                                                                 ('inner_stride',\n                                                                                  1),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  32),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('s3dg.s3dg.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                1024),\n                                                                                               ('logits',\n                                                                                                512)])),\n                                                                                 ('fps',\n                                                                                  10),\n                                                                                 ('inner_stride',\n                                                                                  1),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  16),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('scene.densenet161.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2208),\n                                                                                               ('logits',\n                                                                                                1000)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  1),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('speech',\n                                                                    OrderedDict([('binarise',\n                                                                                  False),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                300)])),\n                                                                                 ('flaky',\n                                                                                  True),\n                                                                                 ('model',\n                                                                                  'w2v'),\n                                                                                 ('temporal',\n                                                                                  'vlad'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('trn.moments-trn.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                1792),\n                                                                                               ('logits',\n                                                                                                339)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('inner_stride',\n                                                                                  5),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  8),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')]))])),\n                                                     ('num_workers', 4),\n                                                     ('root_feat_folder',\n                                                      'noun_verb'),\n                                                     ('text_dropout', 0),\n                                                     ('trn_cat', False),\n                                                     ('dataset_name',\n                                                      'Charades'),\n                                                     ('data_dir',\n                                                      '../data/charades'),\n                                                     ('split_name', 'full-val'),\n                                                     ('fuse_captions', False),\n                                                     ('num_test_captions', 1),\n                                                     ('max_tokens',\n                                                      OrderedDict([('ocr', 49),\n                                                                   ('text', 37),\n                                                                   ('audio',\n                                                                    29),\n                                                                   ('speech',\n                                                                    32),\n                                                                   ('openpose',\n                                                                    50),\n                                                                   ('detection',\n                                                                    12),\n                                                                   ('detection-sem',\n                                                                    100)])),\n                                                     ('refresh_lru_cache',\n                                                      False)])),\n                                       ('root_feat_folder', 'noun_verb'),\n                                       ('type', 'ExpertDataLoader')])),\n                         ('disable_nan_checks', False),\n                         ('experts',\n                          OrderedDict([('ce_shared_dim', 300),\n                                       ('drop_feats', ''),\n                                       ('modalities',\n                                        ['imagenet.resnext101_32x48d.0',\n                                         'i3d.i3d.0',\n                                         'audio']),\n                                       ('text_agg', 'vlad'),\n                                       ('text_feat', 'w2v'),\n                                       ('text_dim', 300),\n                                       ('face_dim', 512)])),\n                         ('log_name', 'info.json'),\n                         ('loss',\n                          OrderedDict([('args',\n                                        OrderedDict([('fix_norm', True),\n                                                     ('caption_count', 30),\n                                                     ('gamma', 0.05),\n                                                     ('margin', 0.142),\n                                                     ('margin2', 0.213),\n                                                     ('p', 0.071)])),\n                                       ('type', 'OptimalTransportLoss')])),\n                         ('lr_scheduler',\n                          OrderedDict([('args',\n                                        OrderedDict([('gamma', 0.95),\n                                                     ('step_size', 1)])),\n                                       ('type', 'StepLR')])),\n                         ('metrics', ['t2v_metrics', 'v2t_metrics']),\n                         ('n_gpu', 1),\n                         ('optimizer',\n                          OrderedDict([('args',\n                                        OrderedDict([('lr', 0.1),\n                                                     ('weight_decay', 0.001)])),\n                                       ('type', 'Ranger')])),\n                         ('seed', 0),\n                         ('trainer',\n                          OrderedDict([('monitor',\n                                        'max '\n                                        'val_t2v_metrics_geometric_mean_R5-R10-R50'),\n                                       ('save_dir', 'data/saved/'),\n                                       ('save_only_best', True),\n                                       ('save_period', 10),\n                                       ('tensorboard', True),\n                                       ('val_freq', 1),\n                                       ('verbosity', 2),\n                                       ('epochs', 20)])),\n                         ('visualizer',\n                          OrderedDict([('args',\n                                        OrderedDict([('num_samples', 100),\n                                                     ('src_video_dir',\n                                                      '/home/data/charades_segmented/train_split_segmented/'),\n                                                     ('vis_vid_freq', 1000)])),\n                                       ('type', 'Visualizer')])),\n                         ('inherit_from', 'configs/base_config.json'),\n                         ('eval_mode', 'train_run'),\n                         ('eval_settings',\n                          OrderedDict([('data_loader',\n                                        OrderedDict([('args',\n                                                      OrderedDict([('split_name',\n                                                                    'full-test'),\n                                                                   ('num_test_captions',\n                                                                    1)]))])),\n                                       ('tester',\n                                        OrderedDict([('save_dir', 'data/saved'),\n                                                     ('verbosity', 2)])),\n                                       ('disable_gpu', False)]))]),\n '_exper_name': 'configs-data_loader_charades',\n '_log_dir': PosixPath('data/saved/log/configs-data_loader_charades/2020-09-09_22-01-52'),\n '_save_dir': PosixPath('data/saved/models/configs-data_loader_charades/2020-09-09_22-01-52'),\n '_web_log_dir': PosixPath('data/saved/web/configs-data_loader_charades/2020-09-09_22-01-52'),\n 'cfg_fname': PosixPath('configs/data_loader_charades.json'),\n 'log_levels': {0: 30, 1: 20, 2: 10},\n 'log_path': 'data/saved/log/configs-data_loader_charades/2020-09-09_22-01-52/info.log',\n 'resume': None}\n1/1 Setting experiment random seed to 0\ntrn_config is {}\nPerforming Conventional TRN (sum) segments\nCENet(\n  (pooling): ModuleDict(\n    (audio): NetVLAD(\n      (batch_norm): BatchNorm1d(8, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n    )\n  )\n  (text_pooling): NetVLAD(\n    (batch_norm): BatchNorm1d(29, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n  )\n  (ce): CEModule(\n    (non_lin): Mish()\n    (moe_fc): Linear(in_features=8400, out_features=3, bias=True)\n    (trn_list): ModuleList()\n    (video_dim_reduce): ModuleList(\n      (0): ReduceDim(\n        (fc): Linear(in_features=1024, out_features=300, bias=True)\n      )\n      (1): ReduceDim(\n        (fc): Linear(in_features=1024, out_features=300, bias=True)\n      )\n      (2): ReduceDim(\n        (fc): Linear(in_features=2048, out_features=300, bias=True)\n      )\n    )\n    (g_reason_1): Linear(in_features=600, out_features=300, bias=True)\n    (g_reason_shared): Sequential(\n      (0): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n      (1): Mish()\n      (2): Linear(in_features=300, out_features=300, bias=True)\n      (3): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n      (4): Mish()\n      (5): Linear(in_features=300, out_features=300, bias=True)\n    )\n    (h_reason): Sequential()\n    (video_GU): ModuleList(\n      (0): GatedEmbeddingUnitReasoning(\n        (cg): ContextGatingReasoning(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n          (batch_norm2): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n      (1): GatedEmbeddingUnitReasoning(\n        (cg): ContextGatingReasoning(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n          (batch_norm2): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n      (2): GatedEmbeddingUnitReasoning(\n        (cg): ContextGatingReasoning(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n          (batch_norm2): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n    )\n    (text_GU): ModuleList(\n      (0): GatedEmbeddingUnit(\n        (fc): Linear(in_features=8400, out_features=300, bias=True)\n        (cg): ContextGating(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n      (1): GatedEmbeddingUnit(\n        (fc): Linear(in_features=8400, out_features=300, bias=True)\n        (cg): ContextGating(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n      (2): GatedEmbeddingUnit(\n        (fc): Linear(in_features=8400, out_features=300, bias=True)\n        (cg): ContextGating(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n    )\n  )\n)\nTrainable parameters: 9744325\nrefreshing cache for Charades data loader [full-val]\nloading training/val splits....\nConfigure train test split file path ../data/charades/noun_verb/train_list_full.txt\nConfigure train test split file path ../data/charades/noun_verb/val_list_full.txt\ndone in 0.010s\nThe current task is retrieval\nSkipping load for imagenet.senet154.0 (feature not requested)\nSkipping load for scene.densenet161.0 (feature not requested)\nSkipping load for s3dg.s3dg.0 (feature not requested)\nSkipping load for trn.moments-trn.0 (feature not requested)\nSkipping load for r2p1d.r2p1d-ig65m.0 (feature not requested)\nSkipping load for r2p1d.r2p1d-ig65m-kinetics.0 (feature not requested)\nSkipping load for moments_3d.moments-resnet3d50.0 (feature not requested)\nSkipping load for moments-static.moments-resnet50.0 (feature not requested)\nloading data from ../data/charades/noun_verb/aggregated_i3d_25fps_256px_stride25_offset0_inner_stride1/i3d-avg.pickle (dhvani) [I/O: 0.0s] [deserialisation: 0.1s] [Total: 0.2s]\nloading data from ../data/charades/noun_verb/aggregated_imagenet_25fps_256px_stride1_offset0/resnext101_32x48d-avg.pickle (dhvani) [I/O: 0.2s] [deserialisation: 1.0s] [Total: 1.3s]\nloading data from ../data/charades/noun_verb/aggregated_audio_feats/Audio_charades.pickle (dhvani) [I/O: 0.0s] [deserialisation: 0.0s] [Total: 0.1s]\nloading data from ../data/charades/noun_verb/raw-captions.pkl (dhvani) [I/O: 0.0s] [deserialisation: 0.3s] [Total: 0.3s]\nloading data from ../data/charades/noun_verb/aggregated_text_feats/glove_charades.pickle (dhvani) [I/O: 1.3s] [deserialisation: 1.7s] [Total: 3.2s]\nComputing feature stats...\nSummary for train\ntrain: missing:    0, min:    2, max:   35, mean: 7.9 audio\ntrain: missing:    0, min: 1024, max: 1024, mean: 1024.0 i3d.i3d.0\ntrain: missing:    0, min: 2048, max: 2048, mean: 2048.0 imagenet.resnext101_32x48d.0\ntrain: missing:    0, min:   31, max:   31, mean: 31.0 text\nSummary for val\nval: missing:    0, min:    3, max:   25, mean: 8.8 audio\nval: missing:    0, min: 1024, max: 1024, mean: 1024.0 i3d.i3d.0\nval: missing:    0, min: 2048, max: 2048, mean: 2048.0 imagenet.resnext101_32x48d.0\nval: missing:    0, min:   31, max:   31, mean: 31.0 text\n0/209 will evaluate sentence 0 out of 31 (has 8 words) Q3HZI_00:00:00.0_00:00:03.7\ncache info CacheInfo(hits=0, misses=1, maxsize=64, currsize=1)\nLoading data loaders with 4 workers\ncreate web directory data/saved/web/configs-data_loader_charades/2020-09-09_22-01-52...\n/home/data/charades_segmented/segmented_video\nsymlinking videos from /home/data/charades_segmented/segmented_video...\nSymlinking /home/mayur/vighnesh/collaborative-experts-master-duplicate/data/saved/web/configs-data_loader_charades/2020-09-09_22-01-52/videos to /home/data/charades_segmented/segmented_video\nWarning: visualization (Tensorboard) is configured to use, but currently not installed on this machine. Please install either TensorboardX with 'pip install tensorboardx',  upgrade PyTorch to version >= 1.1 for using 'torch.utils.tensorboard' or turn off the option in the 'config.json' file.\n>>> Currently using 4.7% of system memory 11.7 GB/257.6 GB\nTrain Epoch: 1 [0/45 (0%)] Loss: 18.124189\nTrain Epoch: 1 [8/45 (18%)] Loss: 15.508440\nTrain Epoch: 1 [16/45 (36%)] Loss: 14.687660\nTrain Epoch: 1 [24/45 (53%)] Loss: 11.769648\nTrain Epoch: 1 [32/45 (71%)] Loss: 11.696632\nTrain Epoch: 1 [40/45 (89%)] Loss: 10.335183\n[t2v_metrics]Charades epoch 1, R@1: 3.3, R@5: 12.0, R@10 19.6, R@50 55.5MedR: 39, MeanR: 58.2\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 1, R@1: 3.8, R@5: 17.2, R@10 25.4, R@50 54.1MedR: 45, MeanR: 59.8\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.09025]\n    epoch          : 1\n    loss           : 12.767981741163466\n    val_t2v_metrics_R1: 3.349282296650718\n    val_t2v_metrics_R5: 11.961722488038278\n    val_t2v_metrics_R10: 19.617224880382775\n    val_t2v_metrics_R50: 55.50239234449761\n    val_t2v_metrics_MedR: 39.0\n    val_t2v_metrics_MeanR: 58.22488038277512\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 23.527782610077036\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 47.652600505410284\n    val_v2t_metrics_R1: 3.827751196172249\n    val_v2t_metrics_R5: 17.22488038277512\n    val_v2t_metrics_R10: 25.358851674641148\n    val_v2t_metrics_R50: 54.066985645933016\n    val_v2t_metrics_MedR: 45.0\n    val_v2t_metrics_MeanR: 59.79904306220096\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 28.690579379462037\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 51.87443433714765\n>>> Currently using 4.7% of system memory 11.8 GB/257.6 GB\nTrain Epoch: 2 [0/45 (0%)] Loss: 9.957235\nTrain Epoch: 2 [8/45 (18%)] Loss: 8.202613\nTrain Epoch: 2 [16/45 (36%)] Loss: 10.862221\nTrain Epoch: 2 [24/45 (53%)] Loss: 7.894192\nTrain Epoch: 2 [32/45 (71%)] Loss: 7.439210\nTrain Epoch: 2 [40/45 (89%)] Loss: 5.762678\n[t2v_metrics]Charades epoch 2, R@1: 3.8, R@5: 15.8, R@10 26.3, R@50 65.1MedR: 28, MeanR: 48.3\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 2, R@1: 2.4, R@5: 12.9, R@10 27.3, R@50 63.2MedR: 29, MeanR: 48.9\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.0857375]\n    epoch          : 2\n    loss           : 7.375561788347032\n    val_t2v_metrics_R1: 3.827751196172249\n    val_t2v_metrics_R5: 15.789473684210526\n    val_t2v_metrics_R10: 26.31578947368421\n    val_t2v_metrics_R50: 65.07177033492823\n    val_t2v_metrics_MedR: 28.0\n    val_t2v_metrics_MeanR: 48.26315789473684\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 30.014116215267887\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 36.760963276995774\n    val_v2t_metrics_R1: 2.3923444976076556\n    val_v2t_metrics_R5: 12.91866028708134\n    val_v2t_metrics_R10: 27.272727272727273\n    val_v2t_metrics_R50: 63.1578947368421\n    val_v2t_metrics_MedR: 29.0\n    val_v2t_metrics_MeanR: 48.880382775119614\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 28.127074547644863\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 37.650114216008284\n>>> Currently using 4.7% of system memory 11.8 GB/257.5 GB\nTrain Epoch: 3 [0/45 (0%)] Loss: 4.111861\nTrain Epoch: 3 [8/45 (18%)] Loss: 4.104038\nTrain Epoch: 3 [16/45 (36%)] Loss: 5.145877\nTrain Epoch: 3 [24/45 (53%)] Loss: 4.548621\nTrain Epoch: 3 [32/45 (71%)] Loss: 4.790735\nTrain Epoch: 3 [40/45 (89%)] Loss: 5.073107\n[t2v_metrics]Charades epoch 3, R@1: 5.3, R@5: 15.3, R@10 25.8, R@50 61.7MedR: 32, MeanR: 49.8\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 3, R@1: 2.9, R@5: 15.8, R@10 24.4, R@50 62.2MedR: 35, MeanR: 51.9\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.08145062499999998]\n    epoch          : 3\n    loss           : 4.66742663913303\n    val_t2v_metrics_R1: 5.2631578947368425\n    val_t2v_metrics_R5: 15.311004784688995\n    val_t2v_metrics_R10: 25.83732057416268\n    val_t2v_metrics_R50: 61.72248803827751\n    val_t2v_metrics_MedR: 32.0\n    val_t2v_metrics_MeanR: 49.83732057416268\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 29.011144577274045\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 39.93487521419348\n    val_v2t_metrics_R1: 2.8708133971291865\n    val_v2t_metrics_R5: 15.789473684210526\n    val_v2t_metrics_R10: 24.401913875598087\n    val_v2t_metrics_R50: 62.20095693779904\n    val_v2t_metrics_MedR: 35.0\n    val_v2t_metrics_MeanR: 51.899521531100476\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 28.83121003745733\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 42.62022118183476\n>>> Currently using 4.8% of system memory 11.8 GB/257.5 GB\nTrain Epoch: 4 [0/45 (0%)] Loss: 3.207462\nTrain Epoch: 4 [8/45 (18%)] Loss: 2.919559\nTrain Epoch: 4 [16/45 (36%)] Loss: 1.845521\nTrain Epoch: 4 [24/45 (53%)] Loss: 2.531821\nTrain Epoch: 4 [32/45 (71%)] Loss: 3.217736\nTrain Epoch: 4 [40/45 (89%)] Loss: 2.035568\n[t2v_metrics]Charades epoch 4, R@1: 3.8, R@5: 16.3, R@10 28.7, R@50 67.5MedR: 26, MeanR: 44.5\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 4, R@1: 7.2, R@5: 16.7, R@10 30.6, R@50 66.5MedR: 27, MeanR: 46.4\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.07737809374999999]\n    epoch          : 4\n    loss           : 2.553641104698181\n    val_t2v_metrics_R1: 3.827751196172249\n    val_t2v_metrics_R5: 16.267942583732058\n    val_t2v_metrics_R10: 28.708133971291865\n    val_t2v_metrics_R50: 67.46411483253588\n    val_t2v_metrics_MedR: 26.0\n    val_t2v_metrics_MeanR: 44.51196172248804\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 31.584218872962413\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 34.01927401907174\n    val_v2t_metrics_R1: 7.177033492822966\n    val_v2t_metrics_R5: 16.74641148325359\n    val_v2t_metrics_R10: 30.62200956937799\n    val_v2t_metrics_R50: 66.50717703349282\n    val_v2t_metrics_MedR: 27.0\n    val_v2t_metrics_MeanR: 46.377990430622006\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 32.42957970010746\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 35.38651920755691\n>>> Currently using 4.8% of system memory 11.8 GB/257.5 GB\nTrain Epoch: 5 [0/45 (0%)] Loss: 1.269166\nTrain Epoch: 5 [8/45 (18%)] Loss: 1.403148\nTrain Epoch: 5 [16/45 (36%)] Loss: 1.094298\nTrain Epoch: 5 [24/45 (53%)] Loss: 0.956190\nTrain Epoch: 5 [32/45 (71%)] Loss: 1.226501\nTrain Epoch: 5 [40/45 (89%)] Loss: 1.410323\n[t2v_metrics]Charades epoch 5, R@1: 5.3, R@5: 19.6, R@10 26.8, R@50 64.6MedR: 30, MeanR: 48.7\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 5, R@1: 5.3, R@5: 15.3, R@10 23.9, R@50 62.7MedR: 34, MeanR: 48.4\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.07350918906249998]\n    epoch          : 5\n    loss           : 1.3150108046001858\n    val_t2v_metrics_R1: 5.2631578947368425\n    val_t2v_metrics_R5: 19.617224880382775\n    val_t2v_metrics_R10: 26.794258373205743\n    val_t2v_metrics_R50: 64.5933014354067\n    val_t2v_metrics_MedR: 30.0\n    val_t2v_metrics_MeanR: 48.66028708133971\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 32.380901182471064\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 38.20744184632349\n    val_v2t_metrics_R1: 5.2631578947368425\n    val_v2t_metrics_R5: 15.311004784688995\n    val_v2t_metrics_R10: 23.923444976076556\n    val_v2t_metrics_R50: 62.67942583732057\n    val_v2t_metrics_MedR: 34.0\n    val_v2t_metrics_MeanR: 48.354066985645936\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 28.42174945160424\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 40.54674188528546\n>>> Currently using 4.8% of system memory 11.8 GB/257.5 GB\nTrain Epoch: 6 [0/45 (0%)] Loss: 0.874754\nTrain Epoch: 6 [8/45 (18%)] Loss: 0.818316\nTrain Epoch: 6 [16/45 (36%)] Loss: 0.662172\nTrain Epoch: 6 [24/45 (53%)] Loss: 0.905379\nTrain Epoch: 6 [32/45 (71%)] Loss: 0.586975\nTrain Epoch: 6 [40/45 (89%)] Loss: 0.640753\n[t2v_metrics]Charades epoch 6, R@1: 6.2, R@5: 18.2, R@10 29.7, R@50 68.4MedR: 24, MeanR: 45.4\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 6, R@1: 4.8, R@5: 16.7, R@10 30.1, R@50 68.9MedR: 30, MeanR: 47.2\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.06983372960937498]\n    epoch          : 6\n    loss           : 0.6594228174951341\n    val_t2v_metrics_R1: 6.220095693779904\n    val_t2v_metrics_R5: 18.181818181818183\n    val_t2v_metrics_R10: 29.66507177033493\n    val_t2v_metrics_R50: 68.42105263157895\n    val_t2v_metrics_MedR: 24.0\n    val_t2v_metrics_MeanR: 45.41626794258373\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 33.29334939038823\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 33.01500311406936\n    val_v2t_metrics_R1: 4.784688995215311\n    val_v2t_metrics_R5: 16.74641148325359\n    val_v2t_metrics_R10: 30.14354066985646\n    val_v2t_metrics_R50: 68.89952153110048\n    val_v2t_metrics_MedR: 30.0\n    val_v2t_metrics_MeanR: 47.17224880382775\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 32.64204876001705\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 37.6187116222078\n>>> Currently using 4.8% of system memory 11.8 GB/257.5 GB\nTrain Epoch: 7 [0/45 (0%)] Loss: 0.379526\nTrain Epoch: 7 [8/45 (18%)] Loss: 0.347715\nTrain Epoch: 7 [16/45 (36%)] Loss: 0.279697\nTrain Epoch: 7 [24/45 (53%)] Loss: 0.251262\nTrain Epoch: 7 [32/45 (71%)] Loss: 0.257622\nTrain Epoch: 7 [40/45 (89%)] Loss: 0.287878\n[t2v_metrics]Charades epoch 7, R@1: 5.3, R@5: 14.8, R@10 27.8, R@50 67.9MedR: 28, MeanR: 46.4\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 7, R@1: 4.3, R@5: 12.9, R@10 24.4, R@50 66.0MedR: 28, MeanR: 47.3\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.06634204312890622]\n    epoch          : 7\n    loss           : 0.3149664004643758\n    val_t2v_metrics_R1: 5.2631578947368425\n    val_t2v_metrics_R5: 14.832535885167465\n    val_t2v_metrics_R10: 27.751196172248804\n    val_t2v_metrics_R50: 67.94258373205741\n    val_t2v_metrics_MedR: 28.0\n    val_t2v_metrics_MeanR: 46.42583732057416\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 30.353799270563268\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 36.05445111184022\n    val_v2t_metrics_R1: 4.30622009569378\n    val_v2t_metrics_R5: 12.91866028708134\n    val_v2t_metrics_R10: 24.401913875598087\n    val_v2t_metrics_R50: 66.02870813397129\n    val_v2t_metrics_MedR: 28.0\n    val_v2t_metrics_MeanR: 47.34928229665072\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 27.50793922190157\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 36.41126067999048\n>>> Currently using 4.8% of system memory 11.8 GB/257.5 GB\nTrain Epoch: 8 [0/45 (0%)] Loss: 0.203000\nTrain Epoch: 8 [8/45 (18%)] Loss: 0.226423\nTrain Epoch: 8 [16/45 (36%)] Loss: 0.162506\nTrain Epoch: 8 [24/45 (53%)] Loss: 0.121828\nTrain Epoch: 8 [32/45 (71%)] Loss: 0.128557\nTrain Epoch: 8 [40/45 (89%)] Loss: 0.177852\n[t2v_metrics]Charades epoch 8, R@1: 4.8, R@5: 12.9, R@10 25.4, R@50 65.6MedR: 29, MeanR: 48.4\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 8, R@1: 3.8, R@5: 14.4, R@10 24.9, R@50 66.0MedR: 27, MeanR: 48.7\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.0630249409724609]\n    epoch          : 8\n    loss           : 0.17607768442895677\n    val_t2v_metrics_R1: 4.784688995215311\n    val_t2v_metrics_R5: 12.91866028708134\n    val_t2v_metrics_R10: 25.358851674641148\n    val_t2v_metrics_R50: 65.55023923444976\n    val_t2v_metrics_MedR: 29.0\n    val_t2v_metrics_MeanR: 48.44019138755981\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 27.79545456535315\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 37.480202110437375\n    val_v2t_metrics_R1: 3.827751196172249\n    val_v2t_metrics_R5: 14.354066985645932\n    val_v2t_metrics_R10: 24.880382775119617\n    val_v2t_metrics_R50: 66.02870813397129\n    val_v2t_metrics_MedR: 27.0\n    val_v2t_metrics_MeanR: 48.71291866028708\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 28.676200536736584\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 36.266359120095736\n>>> Currently using 4.8% of system memory 11.9 GB/257.5 GB\nTrain Epoch: 9 [0/45 (0%)] Loss: 0.114475\nTrain Epoch: 9 [8/45 (18%)] Loss: 0.084859\nTrain Epoch: 9 [16/45 (36%)] Loss: 0.180837\nTrain Epoch: 9 [24/45 (53%)] Loss: 0.091888\nTrain Epoch: 9 [32/45 (71%)] Loss: 0.144940\nTrain Epoch: 9 [40/45 (89%)] Loss: 0.109824\n[t2v_metrics]Charades epoch 9, R@1: 5.7, R@5: 11.5, R@10 25.4, R@50 67.0MedR: 27, MeanR: 47.7\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 9, R@1: 3.8, R@5: 12.9, R@10 23.4, R@50 66.0MedR: 28, MeanR: 48.5\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.05987369392383786]\n    epoch          : 9\n    loss           : 0.11814531899160809\n    val_t2v_metrics_R1: 5.741626794258373\n    val_t2v_metrics_R5: 11.483253588516746\n    val_t2v_metrics_R10: 25.358851674641148\n    val_t2v_metrics_R50: 66.98564593301435\n    val_t2v_metrics_MedR: 27.0\n    val_t2v_metrics_MeanR: 47.717703349282296\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 26.91899010840997\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 35.89398264933305\n    val_v2t_metrics_R1: 3.827751196172249\n    val_v2t_metrics_R5: 12.91866028708134\n    val_v2t_metrics_R10: 23.444976076555022\n    val_v2t_metrics_R50: 66.02870813397129\n    val_v2t_metrics_MedR: 28.0\n    val_v2t_metrics_MeanR: 48.52153110047847\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 27.14355275105762\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 36.85923046963131\n>>> Currently using 4.8% of system memory 11.9 GB/257.5 GB\nTrain Epoch: 10 [0/45 (0%)] Loss: 0.067919\nTrain Epoch: 10 [8/45 (18%)] Loss: 0.098788\nTrain Epoch: 10 [16/45 (36%)] Loss: 0.069437\nTrain Epoch: 10 [24/45 (53%)] Loss: 0.077073\nTrain Epoch: 10 [32/45 (71%)] Loss: 0.111044\nTrain Epoch: 10 [40/45 (89%)] Loss: 0.123615\n[t2v_metrics]Charades epoch 10, R@1: 5.7, R@5: 12.0, R@10 25.4, R@50 67.9MedR: 30, MeanR: 48.8\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 10, R@1: 3.8, R@5: 14.8, R@10 25.8, R@50 64.6MedR: 28, MeanR: 49.2\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.05688000922764597]\n    epoch          : 10\n    loss           : 0.09154548653297954\n    val_t2v_metrics_R1: 5.741626794258373\n    val_t2v_metrics_R5: 11.961722488038278\n    val_t2v_metrics_R10: 25.358851674641148\n    val_t2v_metrics_R50: 67.94258373205741\n    val_t2v_metrics_MedR: 30.0\n    val_t2v_metrics_MeanR: 48.770334928229666\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 27.41711717335164\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 38.25062153543247\n    val_v2t_metrics_R1: 3.827751196172249\n    val_v2t_metrics_R5: 14.832535885167465\n    val_v2t_metrics_R10: 25.83732057416268\n    val_v2t_metrics_R50: 64.5933014354067\n    val_v2t_metrics_MedR: 28.0\n    val_v2t_metrics_MeanR: 49.239234449760765\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 29.144064626298125\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 37.13083037845101\n>>> Currently using 4.8% of system memory 11.9 GB/257.5 GB\nTrain Epoch: 11 [0/45 (0%)] Loss: 0.073303\nTrain Epoch: 11 [8/45 (18%)] Loss: 0.057498\nTrain Epoch: 11 [16/45 (36%)] Loss: 0.050426\nTrain Epoch: 11 [24/45 (53%)] Loss: 0.059392\nTrain Epoch: 11 [32/45 (71%)] Loss: 0.048082\nTrain Epoch: 11 [40/45 (89%)] Loss: 0.089876\n[t2v_metrics]Charades epoch 11, R@1: 5.7, R@5: 15.8, R@10 23.9, R@50 64.1MedR: 28, MeanR: 49.3\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 11, R@1: 3.8, R@5: 13.4, R@10 22.0, R@50 64.1MedR: 27, MeanR: 50.1\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.05403600876626367]\n    epoch          : 11\n    loss           : 0.06523937955498696\n    val_t2v_metrics_R1: 5.741626794258373\n    val_t2v_metrics_R5: 15.789473684210526\n    val_t2v_metrics_R10: 23.923444976076556\n    val_t2v_metrics_R50: 64.11483253588517\n    val_t2v_metrics_MedR: 28.0\n    val_t2v_metrics_MeanR: 49.282296650717704\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 28.932322323122477\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 37.14706322470318\n    val_v2t_metrics_R1: 3.827751196172249\n    val_v2t_metrics_R5: 13.397129186602871\n    val_v2t_metrics_R10: 22.00956937799043\n    val_v2t_metrics_R50: 64.11483253588517\n    val_v2t_metrics_MedR: 27.0\n    val_v2t_metrics_MeanR: 50.0622009569378\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 26.63957351183009\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 36.76519312933526\n>>> Currently using 4.8% of system memory 11.8 GB/257.5 GB\nTrain Epoch: 12 [0/45 (0%)] Loss: 0.036085\nTrain Epoch: 12 [8/45 (18%)] Loss: 0.051423\nTrain Epoch: 12 [16/45 (36%)] Loss: 0.051007\nTrain Epoch: 12 [24/45 (53%)] Loss: 0.067965\nTrain Epoch: 12 [32/45 (71%)] Loss: 0.062750\nTrain Epoch: 12 [40/45 (89%)] Loss: 0.038822\n[t2v_metrics]Charades epoch 12, R@1: 5.3, R@5: 13.9, R@10 22.5, R@50 64.6MedR: 27, MeanR: 50.8\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 12, R@1: 3.8, R@5: 14.4, R@10 23.9, R@50 61.7MedR: 32, MeanR: 51.7\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.05133420832795048]\n    epoch          : 12\n    loss           : 0.057894257290495764\n    val_t2v_metrics_R1: 5.2631578947368425\n    val_t2v_metrics_R5: 13.875598086124402\n    val_t2v_metrics_R10: 22.48803827751196\n    val_t2v_metrics_R50: 64.5933014354067\n    val_t2v_metrics_MedR: 27.0\n    val_t2v_metrics_MeanR: 50.803827751196174\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 27.21428458643934\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 37.036513730132555\n    val_v2t_metrics_R1: 3.827751196172249\n    val_v2t_metrics_R5: 14.354066985645932\n    val_v2t_metrics_R10: 23.923444976076556\n    val_v2t_metrics_R50: 61.72248803827751\n    val_v2t_metrics_MedR: 32.0\n    val_v2t_metrics_MeanR: 51.71291866028708\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 27.674558658649538\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 40.67939769870231\n>>> Currently using 4.8% of system memory 11.8 GB/257.5 GB\nTrain Epoch: 13 [0/45 (0%)] Loss: 0.038160\nTrain Epoch: 13 [8/45 (18%)] Loss: 0.036829\nTrain Epoch: 13 [16/45 (36%)] Loss: 0.056081\nTrain Epoch: 13 [24/45 (53%)] Loss: 0.067184\nTrain Epoch: 13 [32/45 (71%)] Loss: 0.047338\nTrain Epoch: 13 [40/45 (89%)] Loss: 0.030929\n[t2v_metrics]Charades epoch 13, R@1: 4.8, R@5: 15.3, R@10 23.9, R@50 65.1MedR: 31, MeanR: 51.4\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 13, R@1: 4.3, R@5: 13.4, R@10 23.4, R@50 64.1MedR: 29, MeanR: 52.1\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.04876749791155295]\n    epoch          : 13\n    loss           : 0.04641143911414676\n    val_t2v_metrics_R1: 4.784688995215311\n    val_t2v_metrics_R5: 15.311004784688995\n    val_t2v_metrics_R10: 23.923444976076556\n    val_t2v_metrics_R50: 65.07177033492823\n    val_t2v_metrics_MedR: 31.0\n    val_t2v_metrics_MeanR: 51.377990430622006\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 28.778843946506694\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 39.90886747765818\n    val_v2t_metrics_R1: 4.30622009569378\n    val_v2t_metrics_R5: 13.397129186602871\n    val_v2t_metrics_R10: 23.444976076555022\n    val_v2t_metrics_R50: 64.11483253588517\n    val_v2t_metrics_MedR: 29.0\n    val_v2t_metrics_MeanR: 52.07655502392345\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 27.206542299636123\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 38.861550351134746\n>>> Currently using 4.8% of system memory 11.9 GB/257.5 GB\nTrain Epoch: 14 [0/45 (0%)] Loss: 0.034843\nTrain Epoch: 14 [8/45 (18%)] Loss: 0.030177\nTrain Epoch: 14 [16/45 (36%)] Loss: 0.050157\nTrain Epoch: 14 [24/45 (53%)] Loss: 0.032370\nTrain Epoch: 14 [32/45 (71%)] Loss: 0.024843\nTrain Epoch: 14 [40/45 (89%)] Loss: 0.046367\n[t2v_metrics]Charades epoch 14, R@1: 3.8, R@5: 12.9, R@10 21.1, R@50 65.1MedR: 28, MeanR: 49.7\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 14, R@1: 3.3, R@5: 12.4, R@10 23.0, R@50 64.6MedR: 30, MeanR: 51.6\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.046329123015975304]\n    epoch          : 14\n    loss           : 0.03837097049173382\n    val_t2v_metrics_R1: 3.827751196172249\n    val_t2v_metrics_R5: 12.91866028708134\n    val_t2v_metrics_R10: 21.05263157894737\n    val_t2v_metrics_R50: 65.07177033492823\n    val_t2v_metrics_MedR: 28.0\n    val_t2v_metrics_MeanR: 49.69377990430622\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 26.059865119334496\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 37.301820831168214\n    val_v2t_metrics_R1: 3.349282296650718\n    val_v2t_metrics_R5: 12.440191387559809\n    val_v2t_metrics_R10: 22.966507177033492\n    val_v2t_metrics_R50: 64.5933014354067\n    val_v2t_metrics_MedR: 30.0\n    val_v2t_metrics_MeanR: 51.56459330143541\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 26.42630837085901\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 39.33113015212076\n>>> Currently using 4.8% of system memory 11.9 GB/257.5 GB\nTrain Epoch: 15 [0/45 (0%)] Loss: 0.035780\nTrain Epoch: 15 [8/45 (18%)] Loss: 0.015221\nTrain Epoch: 15 [16/45 (36%)] Loss: 0.021562\nTrain Epoch: 15 [24/45 (53%)] Loss: 0.036668\nTrain Epoch: 15 [32/45 (71%)] Loss: 0.015293\nTrain Epoch: 15 [40/45 (89%)] Loss: 0.024295\n[t2v_metrics]Charades epoch 15, R@1: 5.3, R@5: 12.9, R@10 21.1, R@50 64.1MedR: 27, MeanR: 50.5\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 15, R@1: 4.8, R@5: 12.0, R@10 23.0, R@50 63.6MedR: 30, MeanR: 51.1\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.04401266686517654]\n    epoch          : 15\n    loss           : 0.034618871348599596\n    val_t2v_metrics_R1: 5.2631578947368425\n    val_t2v_metrics_R5: 12.91866028708134\n    val_t2v_metrics_R10: 21.05263157894737\n    val_t2v_metrics_R50: 64.11483253588517\n    val_t2v_metrics_MedR: 27.0\n    val_t2v_metrics_MeanR: 50.5311004784689\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 25.93148931755257\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 36.936969460401855\n    val_v2t_metrics_R1: 4.784688995215311\n    val_v2t_metrics_R5: 11.961722488038278\n    val_v2t_metrics_R10: 22.966507177033492\n    val_v2t_metrics_R50: 63.63636363636363\n    val_v2t_metrics_MedR: 30.0\n    val_v2t_metrics_MeanR: 51.08612440191388\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 25.953624060093134\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 39.14822770008134\n>>> Currently using 4.8% of system memory 11.9 GB/257.5 GB\nTrain Epoch: 16 [0/45 (0%)] Loss: 0.026384\nTrain Epoch: 16 [8/45 (18%)] Loss: 0.022841\nTrain Epoch: 16 [16/45 (36%)] Loss: 0.011748\nTrain Epoch: 16 [24/45 (53%)] Loss: 0.031709\nTrain Epoch: 16 [32/45 (71%)] Loss: 0.034640\nTrain Epoch: 16 [40/45 (89%)] Loss: 0.036848\n[t2v_metrics]Charades epoch 16, R@1: 5.3, R@5: 12.4, R@10 23.0, R@50 65.1MedR: 31, MeanR: 51.8\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 16, R@1: 5.3, R@5: 13.9, R@10 22.0, R@50 63.6MedR: 31, MeanR: 52.1\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.04181203352191771]\n    epoch          : 16\n    loss           : 0.03088424654884471\n    val_t2v_metrics_R1: 5.2631578947368425\n    val_t2v_metrics_R5: 12.440191387559809\n    val_t2v_metrics_R10: 22.966507177033492\n    val_t2v_metrics_R50: 65.07177033492823\n    val_t2v_metrics_MedR: 31.0\n    val_t2v_metrics_MeanR: 51.79425837320574\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 26.49139806327133\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 40.07021349543047\n    val_v2t_metrics_R1: 5.2631578947368425\n    val_v2t_metrics_R5: 13.875598086124402\n    val_v2t_metrics_R10: 22.00956937799043\n    val_v2t_metrics_R50: 63.63636363636363\n    val_v2t_metrics_MedR: 31.0\n    val_v2t_metrics_MeanR: 52.14832535885167\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 26.8857942482426\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 40.2069407705237\n>>> Currently using 4.8% of system memory 11.9 GB/257.5 GB\nTrain Epoch: 17 [0/45 (0%)] Loss: 0.017396\nTrain Epoch: 17 [8/45 (18%)] Loss: 0.014883\nTrain Epoch: 17 [16/45 (36%)] Loss: 0.029481\nTrain Epoch: 17 [24/45 (53%)] Loss: 0.015868\nTrain Epoch: 17 [32/45 (71%)] Loss: 0.011644\nTrain Epoch: 17 [40/45 (89%)] Loss: 0.034927\n[t2v_metrics]Charades epoch 17, R@1: 5.3, R@5: 12.4, R@10 22.5, R@50 63.6MedR: 32, MeanR: 53.3\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 17, R@1: 4.3, R@5: 12.9, R@10 21.5, R@50 64.1MedR: 31, MeanR: 53.1\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.039721431845821824]\n    epoch          : 17\n    loss           : 0.024828990528153048\n    val_t2v_metrics_R1: 5.2631578947368425\n    val_t2v_metrics_R5: 12.440191387559809\n    val_t2v_metrics_R10: 22.48803827751196\n    val_t2v_metrics_R50: 63.63636363636363\n    val_t2v_metrics_MedR: 32.0\n    val_t2v_metrics_MeanR: 53.26315789473684\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 26.11127003773695\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 41.28463458275462\n    val_v2t_metrics_R1: 4.30622009569378\n    val_v2t_metrics_R5: 12.91866028708134\n    val_v2t_metrics_R10: 21.5311004784689\n    val_v2t_metrics_R50: 64.11483253588517\n    val_v2t_metrics_MedR: 31.0\n    val_v2t_metrics_MeanR: 53.11483253588517\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 26.126470242642352\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 40.57782409903765\n>>> Currently using 4.8% of system memory 11.9 GB/257.5 GB\nTrain Epoch: 18 [0/45 (0%)] Loss: 0.011670\nTrain Epoch: 18 [8/45 (18%)] Loss: 0.024427\nTrain Epoch: 18 [16/45 (36%)] Loss: 0.021306\nTrain Epoch: 18 [24/45 (53%)] Loss: 0.008860\nTrain Epoch: 18 [32/45 (71%)] Loss: 0.025372\nTrain Epoch: 18 [40/45 (89%)] Loss: 0.018255\n[t2v_metrics]Charades epoch 18, R@1: 4.3, R@5: 14.8, R@10 21.1, R@50 62.7MedR: 29, MeanR: 51.9\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 18, R@1: 4.8, R@5: 14.8, R@10 21.5, R@50 61.2MedR: 30, MeanR: 52.3\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.037735360253530734]\n    epoch          : 18\n    loss           : 0.02263496352566613\n    val_t2v_metrics_R1: 4.30622009569378\n    val_t2v_metrics_R5: 14.832535885167465\n    val_t2v_metrics_R10: 21.05263157894737\n    val_t2v_metrics_R50: 62.67942583732057\n    val_t2v_metrics_MedR: 29.0\n    val_t2v_metrics_MeanR: 51.92822966507177\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 26.949389783532816\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 38.806167812437764\n    val_v2t_metrics_R1: 4.784688995215311\n    val_v2t_metrics_R5: 14.832535885167465\n    val_v2t_metrics_R10: 21.5311004784689\n    val_v2t_metrics_R50: 61.24401913875598\n    val_v2t_metrics_MedR: 30.0\n    val_v2t_metrics_MeanR: 52.34928229665072\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 26.943154385396422\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 39.629262785213676\n>>> Currently using 4.8% of system memory 11.9 GB/257.5 GB\nTrain Epoch: 19 [0/45 (0%)] Loss: 0.023830\nTrain Epoch: 19 [8/45 (18%)] Loss: 0.018497\nTrain Epoch: 19 [16/45 (36%)] Loss: 0.022931\nTrain Epoch: 19 [24/45 (53%)] Loss: 0.026776\nTrain Epoch: 19 [32/45 (71%)] Loss: 0.021735\nTrain Epoch: 19 [40/45 (89%)] Loss: 0.009677\n[t2v_metrics]Charades epoch 19, R@1: 4.8, R@5: 13.4, R@10 23.0, R@50 62.2MedR: 30, MeanR: 53.5\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 19, R@1: 4.8, R@5: 12.0, R@10 20.1, R@50 58.9MedR: 33, MeanR: 54.6\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.035848592240854196]\n    epoch          : 19\n    loss           : 0.02044711092280017\n    val_t2v_metrics_R1: 4.784688995215311\n    val_t2v_metrics_R5: 13.397129186602871\n    val_t2v_metrics_R10: 22.966507177033492\n    val_t2v_metrics_R50: 62.20095693779904\n    val_t2v_metrics_MedR: 30.0\n    val_t2v_metrics_MeanR: 53.54545454545455\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 26.748612188778658\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 40.079466517952014\n    val_v2t_metrics_R1: 4.784688995215311\n    val_v2t_metrics_R5: 11.961722488038278\n    val_v2t_metrics_R10: 20.095693779904305\n    val_v2t_metrics_R50: 58.85167464114833\n    val_v2t_metrics_MedR: 33.0\n    val_v2t_metrics_MeanR: 54.56459330143541\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 24.185320709487385\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 42.43384944766818\n>>> Currently using 4.8% of system memory 11.9 GB/257.5 GB\nTrain Epoch: 20 [0/45 (0%)] Loss: 0.012061\nTrain Epoch: 20 [8/45 (18%)] Loss: 0.024524\nTrain Epoch: 20 [16/45 (36%)] Loss: 0.011133\nTrain Epoch: 20 [24/45 (53%)] Loss: 0.016819\nTrain Epoch: 20 [32/45 (71%)] Loss: 0.023242\nTrain Epoch: 20 [40/45 (89%)] Loss: 0.026065\n[t2v_metrics]Charades epoch 20, R@1: 4.3, R@5: 14.8, R@10 22.0, R@50 62.2MedR: 33, MeanR: 53.6\nlogging metrics: t2v_metrics\n[v2t_metrics]Charades epoch 20, R@1: 4.8, R@5: 12.4, R@10 21.5, R@50 60.8MedR: 33, MeanR: 54.3\nlogging metrics: v2t_metrics\n<utils.visualizer.Visualizer object at 0x7fe334c8eb70>\nLR [0.03405616262881148]\n    epoch          : 20\n    loss           : 0.019126734054750866\n    val_t2v_metrics_R1: 4.30622009569378\n    val_t2v_metrics_R5: 14.832535885167465\n    val_t2v_metrics_R10: 22.00956937799043\n    val_t2v_metrics_R50: 62.20095693779904\n    val_t2v_metrics_MedR: 33.0\n    val_t2v_metrics_MeanR: 53.58373205741627\n    val_t2v_metrics_geometric_mean_R5-R10-R50: 27.28190379735251\n    val_t2v_metrics_geometric_mean_MedR-MeanR: 42.05072125296707\n    val_v2t_metrics_R1: 4.784688995215311\n    val_v2t_metrics_R5: 12.440191387559809\n    val_v2t_metrics_R10: 21.5311004784689\n    val_v2t_metrics_R50: 60.76555023923445\n    val_v2t_metrics_MedR: 33.0\n    val_v2t_metrics_MeanR: 54.30622009569378\n    val_v2t_metrics_geometric_mean_R5-R10-R50: 25.342545882612296\n    val_v2t_metrics_geometric_mean_MedR-MeanR: 42.33326426296341\nsaving the best ckpt to disk (epoch 20)\nSaving checkpoint: data/saved/models/configs-data_loader_charades/2020-09-09_22-01-52/checkpoint-epoch6.pth ...\nDone in 2.508s\nUpdating 'best' checkpoint: data/saved/models/configs-data_loader_charades/2020-09-09_22-01-52/checkpoint-epoch6.pth ...\nDone in 4.629s\nTraining took 00h02m47s\nRunning evaluation with configuration:\n{'_args': Namespace(config='configs/data_loader_charades.json', custom_args=None, dbg='ipdb.set_trace', device='2', disable_workers=False, group_id=None, group_seed=None, leaderboard='data/leaderboards/exp.txt', mini_train=False, purge_exp_dir=False, refresh_lru_cache=False, resume=PosixPath('data/saved/models/configs-data_loader_charades/2020-09-09_22-01-52/trained_model.pth'), seeds='0', train_single_epoch=False),\n '_config': OrderedDict([('arch',\n                          OrderedDict([('args',\n                                        OrderedDict([('ghost_clusters',\n                                                      OrderedDict([('text', 1),\n                                                                   ('audio', 1),\n                                                                   ('speech',\n                                                                    1)])),\n                                                     ('include_self', 1),\n                                                     ('keep_missing_modalities',\n                                                      False),\n                                                     ('l2renorm', False),\n                                                     ('mimic_ce_dims', 0),\n                                                     ('num_g_layers', 3),\n                                                     ('num_h_layers', 0),\n                                                     ('randomise_feats', ''),\n                                                     ('use_bn_reason', 1),\n                                                     ('use_ce', 'pairwise'),\n                                                     ('use_mish', 1),\n                                                     ('vlad_clusters',\n                                                      OrderedDict([('audio', 8),\n                                                                   ('detection-sem',\n                                                                    50),\n                                                                   ('ocr', 43),\n                                                                   ('speech',\n                                                                    19),\n                                                                   ('text',\n                                                                    28)])),\n                                                     ('test_caption_mode',\n                                                      'indep')])),\n                                       ('type', 'CENet')])),\n                         ('data_loader',\n                          OrderedDict([('args',\n                                        OrderedDict([('batch_size', 64),\n                                                     ('feat_aggregation',\n                                                      OrderedDict([('antoine-rgb',\n                                                                    OrderedDict([('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2048)])),\n                                                                                 ('model',\n                                                                                  'antoine'),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('audio',\n                                                                    OrderedDict([('binarise',\n                                                                                  False),\n                                                                                 ('model',\n                                                                                  'vggish'),\n                                                                                 ('temporal',\n                                                                                  'vlad'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('detection-sem',\n                                                                    OrderedDict([('feat_type',\n                                                                                  'sem'),\n                                                                                 ('fps',\n                                                                                  1),\n                                                                                 ('model',\n                                                                                  'detection'),\n                                                                                 ('stride',\n                                                                                  3),\n                                                                                 ('temporal',\n                                                                                  'vlad'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('face',\n                                                                    OrderedDict([('binarise',\n                                                                                  False),\n                                                                                 ('flaky',\n                                                                                  True),\n                                                                                 ('model',\n                                                                                  'antoine'),\n                                                                                 ('temporal',\n                                                                                  'avg')])),\n                                                                   ('flow',\n                                                                    OrderedDict([('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                1024)])),\n                                                                                 ('model',\n                                                                                  'antoine'),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('i3d.i3d.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                1024),\n                                                                                               ('logits',\n                                                                                                400)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('inner_stride',\n                                                                                  1),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  25),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('imagenet.resnext101_32x48d.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2048),\n                                                                                               ('logits',\n                                                                                                1000)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  1),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('imagenet.senet154.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2048),\n                                                                                               ('logits',\n                                                                                                1000)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  1),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('moments-static.moments-resnet50.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2048),\n                                                                                               ('logits',\n                                                                                                1000)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('offset',\n                                                                                  3),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  1),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('moments_3d.moments-resnet3d50.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2048),\n                                                                                               ('logits',\n                                                                                                3339)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('inner_stride',\n                                                                                  5),\n                                                                                 ('offset',\n                                                                                  1),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  8),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('ocr',\n                                                                    OrderedDict([('binarise',\n                                                                                  False),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                300)])),\n                                                                                 ('flaky',\n                                                                                  True),\n                                                                                 ('model',\n                                                                                  'yang'),\n                                                                                 ('temporal',\n                                                                                  'vlad'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('r2p1d.r2p1d-ig65m-kinetics.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                512),\n                                                                                               ('logits',\n                                                                                                400)])),\n                                                                                 ('fps',\n                                                                                  30),\n                                                                                 ('inner_stride',\n                                                                                  1),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  32),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('r2p1d.r2p1d-ig65m.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                512),\n                                                                                               ('logits',\n                                                                                                359)])),\n                                                                                 ('fps',\n                                                                                  30),\n                                                                                 ('inner_stride',\n                                                                                  1),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  32),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('s3dg.s3dg.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                1024),\n                                                                                               ('logits',\n                                                                                                512)])),\n                                                                                 ('fps',\n                                                                                  10),\n                                                                                 ('inner_stride',\n                                                                                  1),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  16),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('scene.densenet161.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                2208),\n                                                                                               ('logits',\n                                                                                                1000)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  1),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('speech',\n                                                                    OrderedDict([('binarise',\n                                                                                  False),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                300)])),\n                                                                                 ('flaky',\n                                                                                  True),\n                                                                                 ('model',\n                                                                                  'w2v'),\n                                                                                 ('temporal',\n                                                                                  'vlad'),\n                                                                                 ('type',\n                                                                                  'embed')])),\n                                                                   ('trn.moments-trn.0',\n                                                                    OrderedDict([('aggregate',\n                                                                                  'concat'),\n                                                                                 ('aggregate-axis',\n                                                                                  1),\n                                                                                 ('feat_dims',\n                                                                                  OrderedDict([('embed',\n                                                                                                1792),\n                                                                                               ('logits',\n                                                                                                339)])),\n                                                                                 ('fps',\n                                                                                  25),\n                                                                                 ('inner_stride',\n                                                                                  5),\n                                                                                 ('offset',\n                                                                                  0),\n                                                                                 ('pixel_dim',\n                                                                                  256),\n                                                                                 ('stride',\n                                                                                  8),\n                                                                                 ('temporal',\n                                                                                  'avg'),\n                                                                                 ('type',\n                                                                                  'embed')]))])),\n                                                     ('num_workers', 4),\n                                                     ('root_feat_folder',\n                                                      'noun_verb'),\n                                                     ('text_dropout', 0),\n                                                     ('trn_cat', False),\n                                                     ('dataset_name',\n                                                      'Charades'),\n                                                     ('data_dir',\n                                                      '../data/charades'),\n                                                     ('split_name',\n                                                      'full-test'),\n                                                     ('fuse_captions', False),\n                                                     ('num_test_captions', 1),\n                                                     ('max_tokens',\n                                                      OrderedDict([('ocr', 49),\n                                                                   ('text', 37),\n                                                                   ('audio',\n                                                                    29),\n                                                                   ('speech',\n                                                                    32),\n                                                                   ('openpose',\n                                                                    50),\n                                                                   ('detection',\n                                                                    12),\n                                                                   ('detection-sem',\n                                                                    100)])),\n                                                     ('refresh_lru_cache',\n                                                      False)])),\n                                       ('root_feat_folder', 'noun_verb'),\n                                       ('type', 'ExpertDataLoader')])),\n                         ('disable_nan_checks', False),\n                         ('experts',\n                          OrderedDict([('ce_shared_dim', 300),\n                                       ('drop_feats', ''),\n                                       ('modalities',\n                                        ['imagenet.resnext101_32x48d.0',\n                                         'i3d.i3d.0',\n                                         'audio']),\n                                       ('text_agg', 'vlad'),\n                                       ('text_feat', 'w2v'),\n                                       ('text_dim', 300),\n                                       ('face_dim', 512)])),\n                         ('log_name', 'info.json'),\n                         ('loss',\n                          OrderedDict([('args',\n                                        OrderedDict([('fix_norm', True),\n                                                     ('caption_count', 30),\n                                                     ('gamma', 0.05),\n                                                     ('margin', 0.142),\n                                                     ('margin2', 0.213),\n                                                     ('p', 0.071)])),\n                                       ('type', 'OptimalTransportLoss')])),\n                         ('lr_scheduler',\n                          OrderedDict([('args',\n                                        OrderedDict([('gamma', 0.95),\n                                                     ('step_size', 1)])),\n                                       ('type', 'StepLR')])),\n                         ('metrics', ['t2v_metrics', 'v2t_metrics']),\n                         ('n_gpu', 1),\n                         ('optimizer',\n                          OrderedDict([('args',\n                                        OrderedDict([('lr', 0.1),\n                                                     ('weight_decay', 0.001)])),\n                                       ('type', 'Ranger')])),\n                         ('seed', 0),\n                         ('trainer',\n                          OrderedDict([('monitor',\n                                        'max '\n                                        'val_t2v_metrics_geometric_mean_R5-R10-R50'),\n                                       ('save_dir', 'data/saved/'),\n                                       ('save_only_best', True),\n                                       ('save_period', 10),\n                                       ('tensorboard', True),\n                                       ('val_freq', 1),\n                                       ('verbosity', 2),\n                                       ('epochs', 20)])),\n                         ('visualizer',\n                          OrderedDict([('args',\n                                        OrderedDict([('num_samples', 100),\n                                                     ('src_video_dir',\n                                                      PosixPath('/Charades/videos')),\n                                                     ('vis_vid_freq', 1000)])),\n                                       ('type', 'Visualizer')])),\n                         ('inherit_from', 'configs/base_config.json'),\n                         ('eval_mode', 'train_run'),\n                         ('eval_settings',\n                          OrderedDict([('data_loader',\n                                        OrderedDict([('args',\n                                                      OrderedDict([('split_name',\n                                                                    'full-test'),\n                                                                   ('num_test_captions',\n                                                                    1)]))])),\n                                       ('tester',\n                                        OrderedDict([('save_dir', 'data/saved'),\n                                                     ('verbosity', 2)])),\n                                       ('disable_gpu', False)])),\n                         ('tester',\n                          OrderedDict([('save_dir', 'data/saved'),\n                                       ('verbosity', 2)])),\n                         ('disable_gpu', False)]),\n '_exper_name': 'configs-data_loader_charades',\n '_log_dir': PosixPath('data/saved/log/configs-data_loader_charades/2020-09-09_22-01-52'),\n '_save_dir': PosixPath('data/saved/models/configs-data_loader_charades/2020-09-09_22-01-52'),\n '_web_log_dir': PosixPath('data/saved/web/configs-data_loader_charades/2020-09-09_22-01-52'),\n 'cfg_fname': PosixPath('configs/data_loader_charades.json'),\n 'log_levels': {0: 30, 1: 20, 2: 10},\n 'log_path': 'data/saved/log/configs-data_loader_charades/2020-09-09_22-01-52/info.log',\n 'resume': None}\nSetting experiment random seed to 0\nrefreshing cache for Charades data loader [full-test]\nloading training/val splits....\nConfigure train test split file path ../data/charades/noun_verb/test_list_full.txt\ndone in 0.007s\nThe current task is retrieval\nSkipping load for imagenet.senet154.0 (feature not requested)\nSkipping load for scene.densenet161.0 (feature not requested)\nSkipping load for s3dg.s3dg.0 (feature not requested)\nSkipping load for trn.moments-trn.0 (feature not requested)\nSkipping load for r2p1d.r2p1d-ig65m.0 (feature not requested)\nSkipping load for r2p1d.r2p1d-ig65m-kinetics.0 (feature not requested)\nSkipping load for moments_3d.moments-resnet3d50.0 (feature not requested)\nSkipping load for moments-static.moments-resnet50.0 (feature not requested)\nComputing feature stats...\nSummary for train\nSummary for val\nval: missing:    0, min:    2, max:   30, mean: 7.9 audio\nval: missing:    0, min: 1024, max: 1024, mean: 1024.0 i3d.i3d.0\nval: missing:    0, min: 2048, max: 2048, mean: 2048.0 imagenet.resnext101_32x48d.0\nval: missing:    0, min:   31, max:   31, mean: 31.0 text\n0/988 will evaluate sentence 0 out of 31 (has 8 words) RTEO8_00:00:03.7_00:00:09.1\n500/988 will evaluate sentence 0 out of 31 (has 10 words) VXM6A_00:00:07.2_00:00:12.0\ncache info CacheInfo(hits=0, misses=2, maxsize=64, currsize=2)\nLoading data loaders with 4 workers\ntrn_config is {}\nPerforming Conventional TRN (sum) segments\nLoading checkpoint: data/saved/models/configs-data_loader_charades/2020-09-09_22-01-52/trained_model.pth ...\nCENet(\n  (pooling): ModuleDict(\n    (audio): NetVLAD(\n      (batch_norm): BatchNorm1d(8, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n    )\n  )\n  (text_pooling): NetVLAD(\n    (batch_norm): BatchNorm1d(29, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n  )\n  (ce): CEModule(\n    (non_lin): Mish()\n    (moe_fc): Linear(in_features=8400, out_features=3, bias=True)\n    (trn_list): ModuleList()\n    (video_dim_reduce): ModuleList(\n      (0): ReduceDim(\n        (fc): Linear(in_features=1024, out_features=300, bias=True)\n      )\n      (1): ReduceDim(\n        (fc): Linear(in_features=1024, out_features=300, bias=True)\n      )\n      (2): ReduceDim(\n        (fc): Linear(in_features=2048, out_features=300, bias=True)\n      )\n    )\n    (g_reason_1): Linear(in_features=600, out_features=300, bias=True)\n    (g_reason_shared): Sequential(\n      (0): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n      (1): Mish()\n      (2): Linear(in_features=300, out_features=300, bias=True)\n      (3): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n      (4): Mish()\n      (5): Linear(in_features=300, out_features=300, bias=True)\n    )\n    (h_reason): Sequential()\n    (video_GU): ModuleList(\n      (0): GatedEmbeddingUnitReasoning(\n        (cg): ContextGatingReasoning(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n          (batch_norm2): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n      (1): GatedEmbeddingUnitReasoning(\n        (cg): ContextGatingReasoning(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n          (batch_norm2): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n      (2): GatedEmbeddingUnitReasoning(\n        (cg): ContextGatingReasoning(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n          (batch_norm2): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n    )\n    (text_GU): ModuleList(\n      (0): GatedEmbeddingUnit(\n        (fc): Linear(in_features=8400, out_features=300, bias=True)\n        (cg): ContextGating(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n      (1): GatedEmbeddingUnit(\n        (fc): Linear(in_features=8400, out_features=300, bias=True)\n        (cg): ContextGating(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n      (2): GatedEmbeddingUnit(\n        (fc): Linear(in_features=8400, out_features=300, bias=True)\n        (cg): ContextGating(\n          (fc): Linear(in_features=300, out_features=300, bias=True)\n          (batch_norm): BatchNorm1d(300, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)\n        )\n      )\n    )\n  )\n)\nTrainable parameters: 9744325\ncreate web directory data/saved/web/configs-data_loader_charades/2020-09-09_22-01-52...\n/home/data/charades_segmented/segmented_video\nsymlinking videos from /home/data/charades_segmented/segmented_video...\nSymlinking /home/mayur/vighnesh/collaborative-experts-master-duplicate/data/saved/web/configs-data_loader_charades/2020-09-09_22-01-52/videos to /home/data/charades_segmented/segmented_video\nRunning evaluation on cuda\n[t2v_metrics]Charades epoch 0, R@1: 2.1, R@5: 6.7, R@10 11.3, R@50 29.7MedR: 132.5, MeanR: 225.0\nlogging metrics: test_t2v_metrics\n[v2t_metrics]Charades epoch 0, R@1: 1.5, R@5: 5.8, R@10 10.9, R@50 28.4MedR: 136.25, MeanR: 229.9\nlogging metrics: test_v2t_metrics\nupdating webpage at data/saved/web/configs-data_loader_charades/2020-09-09_22-01-52\nTop 8 retreived videos at epoch: 0\nadded 6 videos\n test_t2v_metrics_R1: 2.125506072874494\n test_t2v_metrics_R5: 6.680161943319838\n test_t2v_metrics_R10: 11.336032388663968\n test_t2v_metrics_R50: 29.655870445344128\n test_t2v_metrics_MedR: 132.5\n test_t2v_metrics_MeanR: 224.96153846153845\n test_t2v_metrics_geometric_mean_R5-R10-R50: 13.095424517012617\n test_t2v_metrics_geometric_mean_MedR-MeanR: 172.6482083490988\n test_v2t_metrics_R1: 1.5182186234817814\n test_v2t_metrics_R5: 5.769230769230769\n test_v2t_metrics_R10: 10.931174089068826\n test_v2t_metrics_R50: 28.441295546558706\n test_v2t_metrics_MedR: 136.25\n test_v2t_metrics_MeanR: 229.8765182186235\n test_v2t_metrics_geometric_mean_R5-R10-R50: 12.15004908469588\n test_v2t_metrics_geometric_mean_MedR-MeanR: 176.97648320408973\nLog file stored at data/saved/log/configs-data_loader_charades/2020-09-09_22-01-52/info.log\nThe best performing ckpt can be found at data/saved/models/configs-data_loader_charades/2020-09-09_22-01-52/trained_model.pth\n(experts) mayur@dhvani:~/vighnesh/collaborative-experts-master-duplicate$ \n",
-			"settings":
-			{
-				"buffer_size": 121088,
-				"line_ending": "Unix",
-				"name": "(experts) mayur@dhvani:~/vighnesh/collaborative-ex"
-			}
-		},
-		{
-			"contents": "24 object SENet\n60 object (ResNext)\n56 motion/action (r(2+1)d)\n48 text OpenAI-GPT \n27 scene\n\n6 i3d\n23 vggish\n\n",
-			"settings":
-			{
-				"buffer_size": 110,
-				"line_ending": "Unix",
-				"name": "24 object SENet"
-			}
-		},
-		{
-			"contents": "Their task is similar. Even we do paragraph retrieval. As DiDeMo has varying number of captions, the sentences are concatenated to form a single paragraph. \n\nBoth HSE and CE do the same thing. In HSE they take the entire the paragraph. But in CE and our setting we only take first 50 words of the paragraph. ",
-			"settings":
-			{
-				"buffer_size": 308,
-				"line_ending": "Unix",
-				"name": "Their task is similar. Even we do paragraph retrie"
-			}
-		},
-		{
-			"file": "placement-test/pcpt7/Bags-and-balls.py",
-			"settings":
-			{
-				"buffer_size": 1027,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "import sys"
-			}
-		},
-		{
-			"contents": "('simpleheur', 'OTPartialOrderLoss', 't2v')\n\ttest_t2v_metrics_R1\n\t\t3.744403744403744\n\ttest_t2v_metrics_R5\n\t\t12.25071225071225\n\ttest_t2v_metrics_R10\n\t\t17.94871794871795\n\ttest_t2v_metrics_R50\n\t\t40.53724053724054\n\ttest_t2v_metrics_MedR\n\t\t82.0\n\ttest_t2v_metrics_MeanR\n\t\t167.04700854700855\n\tt2v_time\n\t\t383.6666666666667\n\tt2v_best_epoch\n\t\t27.666666666666668\n\tt2v_comp\n\t\t70.73667073667073\n('simpleheur', 'OTPartialOrderLoss', 'v2t')\n\ttest_v2t_metrics_R1\n\t\t2.726902726902727\n\ttest_v2t_metrics_R5\n\t\t11.518111518111517\n\ttest_v2t_metrics_R10\n\t\t17.134717134717132\n\ttest_v2t_metrics_R50\n\t\t38.86853886853887\n\ttest_v2t_metrics_MedR\n\t\t89.66666666666667\n\ttest_v2t_metrics_MeanR\n\t\t168.4904354904355\n\tv2t_time\n\t\t297.0\n\tv2t_best_epoch\n\t\t21.333333333333332\n\tv2t_comp\n\t\t67.52136752136752\n('simpleheur', 'PartialOrderLoss', 't2v')\n\ttest_t2v_metrics_R1\n\t\t3.866503866503867\n\ttest_t2v_metrics_R5\n\t\t12.942612942612941\n\ttest_t2v_metrics_R10\n\t\t19.12901912901913\n\ttest_t2v_metrics_R50\n\t\t42.124542124542124\n\ttest_t2v_metrics_MedR\n\t\t75.33333333333333\n\ttest_t2v_metrics_MeanR\n\t\t158.06919006919006\n\tt2v_time\n\t\t444.3333333333333\n\tt2v_best_epoch\n\t\t17.666666666666668\n\tt2v_comp\n\t\t74.1961741961742\n('simpleheur', 'PartialOrderLoss', 'v2t')\n\ttest_v2t_metrics_R1\n\t\t3.296703296703297\n\ttest_v2t_metrics_R5\n\t\t11.273911273911274\n\ttest_v2t_metrics_R10\n\t\t18.07081807081807\n\ttest_v2t_metrics_R50\n\t\t41.18844118844118\n\ttest_v2t_metrics_MedR\n\t\t80.0\n\ttest_v2t_metrics_MeanR\n\t\t156.4936914936915\n\tv2t_time\n\t\t408.3333333333333\n\tv2t_best_epoch\n\t\t13.666666666666666\n\tv2t_comp\n\t\t70.53317053317053",
-			"settings":
-			{
-				"buffer_size": 1539,
-				"line_ending": "Unix",
-				"name": "('simpleheur', 'OTPartialOrderLoss', 't2v')"
-			}
-		},
-		{
-			"file": "leetcode/Problems/1578--Minimum-Deletion-Cost-to-Avoid-Repeating-Letters-Medium.py",
-			"settings":
-			{
-				"buffer_size": 346,
+				"buffer_size": 225,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "class Solution:"
@@ -930,15 +514,96 @@
 	},
 	"expanded_folders":
 	[
-		"/home/jayaprakash/Documents/coding-prepation",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict2",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict3",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict4",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/pt-test-4"
 	],
 	"file_history":
 	[
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt8/Tree-Top-View.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict2/Flipping-the-Matrix.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1563--Stone-Game-V-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict5/Tree-Huffman-Decoding.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict5/Absolute-Permutation.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict5/Queen's-Attack-II.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac8/Jack-goes-to-Rapture.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac9/Journey-to-the-Moon.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac9/Dijkstra-Shortest-Reach-2.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/4-Partition-Labels.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/5-All-Elements-in-Two-Binary-Search-Trees.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/6-Image-Overlap.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/7-Word-Pattern.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/18-Best-Time-to-Buy-and-Sell-Stock.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/17-Robot-Bounded-In-Circle.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/16-Maximum-XOR-of-Two-Numbers-in-an-Array.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/15-Length-of-Last-Word.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/14-House-Robber.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/13-Insert-Interval.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/12-Combination-Sum-III.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/11-Maximum-Product-Subarray.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/9-Bulls-and-Cows.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/10-Compare-Version-Numbers.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac9/Clique.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac8/Jesse-and-Cookies.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac8/PacMan-DFS.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac8/Kruskal-(MST)-Really-Special-Subtree.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac8/Breadth-First-Search-Shortest-Reach.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac9/Rust-&-Murderer.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1588--Sum-of-All-Odd-Length-Subarrays-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1589--Maximum-Sum-Obtained-of-Any-Permutation-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1592--Rearrange-Spaces-Between-Words-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1593--Split-a-String-Into-the-Max-Number-of-Unique-Substrings-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1594--Maximum-Non-Negative-Product-in-a-Matrix-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/20-Unique-Paths-III.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/19-Sequential-Digits.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/scripts/leetcode-output-bunny.json",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/scripts/missing_files.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt9/Recursive-Digit-Sum.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt9/Friend-Circle-Queries.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1590--Make-Sum-Divisible-by-P-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/21-Car-Pooling.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/131--Palindrome-Partitioning-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/23-Gas-Station.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/22-Majority-Element-II.py",
+		"/home/jayaprakash/Desktop/IITB/Sem3/a.csv",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac8/Tree-Height-of-a-Binary-Tree.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac5/Balanced-Brackets.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac5/Equal-Stacks.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac5/Jesse-and-Cookies.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac5/Simple-Text-Editor.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac5/Game-of-Two-Stacks.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac5/Largest-Rectangle.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt7/Bags-and-balls.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1578--Minimum-Deletion-Cost-to-Avoid-Repeating-Letters-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/mtechprac8/Tree-Huffman-Decoding.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1583--Count-Unhappy-Friends-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/data-structures-algorithms/inversion-count.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1584--Min-Cost-to-Connect-All-Points-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/3-Repeated-Substring-Pattern.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict4/Nikita-and-the-Game.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1582--Special-Positions-in-a-Binary-Matrix-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict4/Simple-Text-Editor.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict4/The-Longest-Common-Subsequence.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt7/The-Longest-Common-Subsequence.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt7/Ancient-Arrays.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1572--Matrix-Diagonal-Sum-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1573--Number-of-Ways-to-Split-a-String-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1574--Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1576--Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1577--Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict3/String-Transmission.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict3/Find-the-Running-Median.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1560--Most-Visited-Sector-in-a-Circular-Track-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict3/Breadth-First-Search-Shortest-Reach.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/ict3/The-Coin-Change-Problem.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1567--Maximum-Length-of-Subarray-With-Positive-Product-Medium.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1569--Number-of-Ways-to-Reorder-Array-to-Get-Same-BST-Hard.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1566--Detect-Pattern-of-Length-M-Repeated-K-or-More-Times-Easy.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/2-Contains-Duplicate-III.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/September_2020/1-Largest-Time-for-Given-Digits.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt8/Nobita's-adventure.py",
+		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt8/Find-Maximum-Index-Product.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/31-Delete-Node-in-a-BST.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/30-Largest-Component-Size-by-Common-Factor.py",
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/29-Pancake-Sorting.py",
+		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master-originl/data/saved/web/configs-data_loader_tft/2020-09-17_12-56-18/index.html",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master-duplicate/data/saved/web/configs-data_loader_charades/2020-09-08_13-15-44/index.html",
 		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_vighnesh/collaborative-experts-master-duplicate/data/saved/web/configs-data_loader_charades/2020-09-09_12-18-39/index.html",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/25-Minimum-Cost-For-Tickets.py",
@@ -979,98 +644,11 @@
 		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt6/Rajesh-in-grid-world-(Easy-version).py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1550--Three-Consecutive-Odds-Easy.py",
 		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1551--Minimum-Operations-to-Make-Array-Equal-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1552--Magnetic-Force-Between-Two-Balls-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1553--Minimum-Number-of-Days-to-Eat-N-Oranges-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/13-Iterator-for-Combination.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/12-Pascal's-Triangle-II.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/10-Excel-Sheet-Column-Number.py",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_v1/data/TFT_v2/marathi_caption/2.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_v1/collaborative-experts-master/MSRVTT_results/5/max_t2v/noun_verb3_0_OTPartialOrderLoss_w2v_MSRVTT_100.txt",
-		"/home/jayaprakash/Desktop/IITB/MTP/Checklist.txt",
-		"/home/jayaprakash/Dropbox/Apps/ShareLaTeX/AAAI 2021/AAAI21/aaai2021.bib",
-		"/home/jayaprakash/Documents/sports.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_v1/data/MSRVTT/addtestval.txt",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt5/SUBSEQ.py",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt5/ARRMX.py",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt5/test.py",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt5/2.txt",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt5/1.txt",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt5/4.txt",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt5/3.txt",
-		"/home/jayaprakash/Documents/coding-prepation/placement-test/pcpt5/CHGIFT.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1536--Minimum-Swaps-to-Arrange-a-Binary-Grid-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/4-Power-of-Four.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/6-Find-All-Duplicates-in-an-Array.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/7-Vertical-Order-Traversal-of-a-Binary-Tree.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/8-Path-Sum-III.py",
-		"/home/jayaprakash/Desktop/IITB/MTP/ASR/commands",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/5-Add-and-Search-Word-Data-structure-design.py",
-		"/home/jayaprakash/Documents/asr-kaldi-output.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/MALTA/TFT/TRAIN.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/MALTA/TFT/PAPER_BOX/MAR.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/MALTA/TFT/BALLOON_HELICOPTER/ENG.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/MALTA/TFT/20_TWENTY_SET_SQUARE/MAR.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/MALTA/ATMA/MITRA_KIDICHI/MAR.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/segment_localization_videos/agnoistic_audio_video_ABLR_code/data/ToysFromTrash/Annotation_video_mar_test_path.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/segment_localization_videos/agnoistic_audio_video_ABLR_code/data/ToysFromTrash/Annotation_video_eng_train_path.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/segment_localization_videos/agnoistic_audio_video_ABLR_code/data/ToysFromTrash/Annotation_video_mar_train_path.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/segment_localization_videos/parsed_files/Annotation_video_mar_test_parsed.txt",
-		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020/Round D/Alien-Piano.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1534--Count-Good-Triplets-Easy.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/3-Valid-Palindrome.py",
-		"/home/jayaprakash/Downloads/Documents/kaldi-logs.txt",
-		"/home/jayaprakash/Downloads/Documents/pankaj_asrbnf_logs.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/pankaj_workspace/ASR/assgmt2/recipe/exp/mono_ali/log/align.2.log",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/pankaj_workspace/ASR/assgmt2/recipe/exp_bkp/mono_ali/phones.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/pankaj_workspace/ASR/assgmt2/recipe/data/lang/phones.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/pankaj_workspace/ASR/assgmt2/recipe/atma/log/make_mfcc_atma.3.log",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/2-Design-HashSet.py",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/loss_all/loss_100/noun_verb_0_OTPartialOrderLoss_glove_charades_100.txt",
-		"/run/user/1000/gvfs/sftp:host=dristi.cse.iitb.ac.in,user=audio-visual/home/audio-visual/Jayaprakash/collab/malta_data/BIRD-OF-PEACE/BIRD-OF-PEACE-ENG.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/ASR/kaldi/INSTALL",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=mayur/home/mayur/pankaj_workspace/ASR/assgmt2/recipe/ToysFromTrash/video_list.txt",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt4/Minimum-Absolute-Difference-in-an-Array.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1535--Find-the-Winner-of-an-Array-Game-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1537--Get-the-Maximum-Score-Hard.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt4/SpaceX-Mars-Colonisation.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt4/Three-way-split.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt4/Subarray-Sum-Redefined.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt4/Lines-on-square.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt4/Twins-and-Permutations.py",
-		"/home/jayaprakash/Documents/coding-prepation/kickstart/2020/Round D/Alien-Piano.txt",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt3/Build-Fast.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt3/Alice-in-fun-world.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt3/Principal-and-Scholarship.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/pcpt3/Defective-Gold-coin.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/26-Add-Digits.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/823--Binary-Trees-With-Factors-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/28-Task-Scheduler.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/27-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/29-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/209--Minimum-Size-Subarray-Sum-Medium.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/August_2020/1-Detect-Capital.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/30-Word-Break-II.py",
-		"/home/jayaprakash/Documents/coding-prepation/leetcode/30-day-challenge/July_2020/31-Climbing-Stairs.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac3/Team-Formation.py",
-		"/home/jayaprakash/Documents/coding-prepation/hackerrank/placement-test/mtechprac3/tf.txt",
-		"/home/jayaprakash/Desktop/IITB/MTP/InterSpeech2020/review_1.txt",
-		"/home/jayaprakash/Desktop/IITB/MTP/InterSpeech2020/review_2.txt",
-		"/home/jayaprakash/Desktop/IITB/Sem3/Placement Personal.txt",
-		"/home/jayaprakash/Desktop/IITB/MTP/InterSpeech2020/review_3.txt",
-		"/home/jayaprakash/Desktop/IITB/MTP/InterSpeech2020/resubmission.txt",
-		"/home/jayaprakash/Dropbox/Apps/ShareLaTeX/InterSpeech_2020-Revised/LaTeX/template.aux",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/loss_all/loss_action_scene/noun_verb_2_OTPartialOrderLoss_openaigpt_charades_10.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/requirements/pip-requirements.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/loss_all/noun_verb_1_OptimalTransportLoss_openaigpt_charades_15.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/val-test-change.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/environment.yml",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/environment.yml",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/loss_all/timestamp_0_OTPartialOrderLoss_glove_charades_7.txt",
-		"/run/user/1000/gvfs/sftp:host=swara.cse.iitb.ac.in,user=jayaprakash/home/jayaprakash/mount_points/mount_vighnesh/collaborative-experts-master-duplicate/loss_all/noun_verb_0_MaxMarginRankingLoss_glove_charades_7.txt"
+		"/home/jayaprakash/Documents/coding-prepation/leetcode/Problems/1552--Magnetic-Force-Between-Two-Balls-Medium.py"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -1084,6 +662,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"nums",
+			"font ",
+			"font",
+			" ",
+			"temp_arr",
+			"_mergeSort",
 			"video width=\"40\" height=\"40\"",
 			"<video",
 			"width:200px;height:200px",
@@ -1205,13 +789,7 @@
 			"NOVEMBER",
 			"OCTOBER",
 			"SEPTEMBER",
-			"AUGUST",
-			"JULY",
-			"JUNE",
-			"APRIL",
-			"MARCH",
-			"FEBRUARY",
-			"JANUARY"
+			"AUGUST"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1219,6 +797,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"arr",
+			"temp",
+			"sort_helper",
 			"video width=\"200\" height=\"200\"",
 			"<video width=\"40\" height=\"40\"",
 			"width:40px;height:40px",
@@ -1292,215 +873,30 @@
 	"folders":
 	[
 		{
-			"path": "/home/jayaprakash/Documents/coding-prepation"
+			"path": "h:ome\\jayaprakash\\Documents\\coding-prepation"
 		}
 	],
 	"groups":
 	[
 		{
-			"selected": 29,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "leetcode/Problems/1560--Most-Visited-Sector-in-a-Circular-Track-Easy.py",
+					"file": "leetcode/30-day-challenge/September_2020/24-Find-the-Difference.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1026,
+						"buffer_size": 225,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1026,
-								1026
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 44,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "leetcode/Problems/1563--Stone-Game-V-Hard.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 698,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								698,
-								698
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 32,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "placement-test/ict2/Flipping-the-Matrix.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 763,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								763,
-								763
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 31.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 31,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "leetcode/30-day-challenge/August_2020/29-Pancake-Sorting.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 356,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								356,
-								356
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 30,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "leetcode/30-day-challenge/August_2020/30-Largest-Component-Size-by-Common-Factor.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 935,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								935,
-								935
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class DSU:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 43,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "leetcode/30-day-challenge/August_2020/31-Delete-Node-in-a-BST.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1130,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1130,
-								1130
-							]
-						],
-						"settings":
-						{
-							"auto_name": "# Definition for a binary tree node.",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 42,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "leetcode/30-day-challenge/September_2020/1-Largest-Time-for-Given-Digits.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 185,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								185,
-								185
+								225,
+								225
 							]
 						],
 						"settings":
@@ -1510,1139 +906,9 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 41,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "leetcode/30-day-challenge/September_2020/2-Contains-Duplicate-III.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 502,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								502,
-								502
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 40,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "leetcode/Problems/1566--Detect-Pattern-of-Length-M-Repeated-K-or-More-Times-Easy.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 353,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								353,
-								353
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 39,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "leetcode/Problems/1569--Number-of-Ways-to-Reorder-Array-to-Get-Same-BST-Hard.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1254,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1254,
-								1254
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class TreeNode:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 69.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 38,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "leetcode/Problems/1567--Maximum-Length-of-Subarray-With-Positive-Product-Medium.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1071,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								133,
-								133
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 37,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "placement-test/ict3/The-Coin-Change-Problem.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1082,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1082,
-								1082
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 267.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 36,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "placement-test/ict3/Breadth-First-Search-Shortest-Reach.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1357,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1357,
-								1357
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 33.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "placement-test/ict3/Find-the-Running-Median.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2177,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2177,
-								2177
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 753.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 35,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "placement-test/ict3/String-Transmission.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1157,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								435,
-								435
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 34,
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "leetcode/30-day-challenge/September_2020/3-Repeated-Substring-Pattern.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 286,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								169,
-								169
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 33,
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2330,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2274,
-								2274
-							]
-						],
-						"settings":
-						{
-							"auto_name": "{('structured-symlinks', 'OTPartialOrderLoss', 't2",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 29,
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 142,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								124,
-								124
-							]
-						],
-						"settings":
-						{
-							"auto_name": "1.200,0.070,0.090,0.270 Partial",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 26,
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "leetcode/Problems/1577--Number-of-Ways-Where-Square-of-Number-Is-Equal-to-Product-of-Two-Numbers-Medium.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 557,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								557,
-								557
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 25,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "leetcode/Problems/1576--Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters-Easy.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 726,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								726,
-								726
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 24,
-					"type": "text"
-				},
-				{
-					"buffer": 20,
-					"file": "leetcode/Problems/1574--Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted-Medium.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1149,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1149,
-								1149
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 360.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 23,
-					"type": "text"
-				},
-				{
-					"buffer": 21,
-					"file": "leetcode/Problems/1573--Number-of-Ways-to-Split-a-String-Medium.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 693,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								693,
-								693
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 22,
-					"type": "text"
-				},
-				{
-					"buffer": 22,
-					"file": "leetcode/Problems/1572--Matrix-Diagonal-Sum-Easy.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 268,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								268,
-								268
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 23,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3005,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1276,
-								1276
-							]
-						],
-						"settings":
-						{
-							"auto_name": "person throwing his bag down.",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 51.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 19,
-					"type": "text"
-				},
-				{
-					"buffer": 24,
-					"file": "placement-test/pcpt7/Ancient-Arrays.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 749,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								749,
-								749
-							]
-						],
-						"settings":
-						{
-							"auto_name": "def getAns(num, maxNum):",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 18,
-					"type": "text"
-				},
-				{
-					"buffer": 25,
-					"file": "placement-test/pcpt7/The-Longest-Common-Subsequence.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1294,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1294,
-								1294
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 16,
-					"type": "text"
-				},
-				{
-					"buffer": 26,
-					"file": "placement-test/ict4/The-Longest-Common-Subsequence.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1294,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1294,
-								1294
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 27,
-					"file": "placement-test/ict4/Simple-Text-Editor.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 409,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								409,
-								409
-							]
-						],
-						"settings":
-						{
-							"auto_name": "n = int(input())",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 28,
-					"file": "placement-test/ict4/Nikita-and-the-Game.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 816,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								816,
-								816
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 70.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 29,
-					"file": "placement-test/ict4/Kruskal-(MST)-Really-Special-Subtree.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2051,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1096,
-								1096
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 625.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 30,
-					"file": "placement-test/ict2/Snakes-and-Ladders:-The-Quickest-Way-Up.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1405,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								209,
-								209
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 54.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 31,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 316,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								157,
-								157
-							]
-						],
-						"settings":
-						{
-							"auto_name": "33",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 32,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 33,
-					"file": "placement-test/mtechprac5/Balanced-Brackets.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 797,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								797,
-								797
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 87.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 34,
-					"file": "placement-test/mtechprac5/Equal-Stacks.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1140,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1140,
-								1140
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 213.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 35,
-					"file": "placement-test/mtechprac5/Jesse-and-Cookies.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 704,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								704,
-								704
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 105.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 36,
-					"file": "placement-test/mtechprac5/Simple-Text-Editor.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 552,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								552,
-								552
-							]
-						],
-						"settings":
-						{
-							"auto_name": "def main():",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 37,
-					"file": "placement-test/mtechprac5/Game-of-Two-Stacks.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 956,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								956,
-								956
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 285.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 38,
-					"file": "placement-test/mtechprac5/Largest-Rectangle.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1015,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1015,
-								1015
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 231.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 39,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 121088,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "(experts) mayur@dhvani:~/vighnesh/collaborative-ex",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 40,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 110,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								108,
-								108
-							]
-						],
-						"settings":
-						{
-							"auto_name": "24 object SENet",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 41,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 308,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								308,
-								308
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Their task is similar. Even we do paragraph retrie",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 42,
-					"file": "placement-test/pcpt7/Bags-and-balls.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1027,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1027,
-								1027
-							]
-						],
-						"settings":
-						{
-							"auto_name": "import sys",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 20,
-					"type": "text"
-				},
-				{
-					"buffer": 43,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1539,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								680,
-								680
-							]
-						],
-						"settings":
-						{
-							"auto_name": "('simpleheur', 'OTPartialOrderLoss', 't2v')",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 28,
-					"type": "text"
-				},
-				{
-					"buffer": 44,
-					"file": "leetcode/Problems/1578--Minimum-Deletion-Cost-to-Avoid-Repeating-Letters-Medium.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 346,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								346,
-								346
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Solution:",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 27,
 					"type": "text"
 				}
 			]
@@ -2687,7 +953,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 70.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -2725,7 +991,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 335.0,
+	"side_bar_width": 259.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

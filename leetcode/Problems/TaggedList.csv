@@ -129,6 +129,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 206;Reverse Linked List;Finished;Easy,linked-list
 207;Course Schedule;Finished;Medium
 208;Implement Trie (Prefix Tree);Finished;Medium
+209;Minimum Size Subarray Sum;Finished;Medium,binary-search,arrays,two-pointers
 210;Course Schedule II;Finished;Medium
 211;Add and Search Word Data structure design;Finished;Medium
 212;Word Search II;Finished;Hard
@@ -335,6 +336,7 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 814;Binary Tree Pruning;Finished;Medium,trees
 817;Linked List Components;Finished;Medium,linked-list
 819;Most Common Word;Finished;Easy,string
+823;Binary Trees With Factors;Finished;Medium
 824;Goat Latin;Finished;Easy,string
 826;Most Profit Assigning Work;Finished;Medium,two-pointers
 832;Flipping an Image;Finished;Easy,arrays
@@ -639,3 +641,35 @@ Problem Number;Problem Name;Status;Difficulty;Tags
 1528;Shuffle String;Finished;Easy
 1529;Bulb Switcher IV;Finished;Medium
 1530;Number of Good Leaf Nodes Pairs;Finished;Medium
+1534;Count Good Triplets;Finished;Easy
+1535;Find the Winner of an Array Game;Finished;Medium
+1536;Minimum Swaps to Arrange a Binary Grid;Finished;Medium
+1537;Get the Maximum Score;Finished;Hard
+1550;Three Consecutive Odds;Finished;Easy
+1551;Minimum Operations to Make Array Equal;Finished;Medium
+1552;Magnetic Force Between Two Balls;Finished;Medium
+1553;Minimum Number of Days to Eat N Oranges;Finished;Hard
+1556;Thousand Separator;Finished;Easy
+1557;Minimum Number of Vertices to Reach All Nodes;Finished;Medium
+1558;Minimum Numbers of Function Calls to Make Target Array;Finished;Medium
+1559;Detect Cycles in 2D Grid;Finished;Hard
+1560;Most Visited Sector in a Circular Track;Finished;Easy
+1561;Maximum Number of Coins You Can Get;Finished;Medium
+1563;Stone Game V;Finished;Hard
+1566;Detect Pattern of Length M Repeated K or More Times;Finished;Easy
+1567;Maximum Length of Subarray With Positive Product;Finished;Medium
+1569;Number of Ways to Reorder Array to Get Same BST;Finished;Hard
+1572;Matrix Diagonal Sum;Finished;Easy
+1573;Number of Ways to Split a String;Finished;Medium
+1574;Shortest Subarray to be Removed to Make Array Sorted;Finished;Medium
+1576;Replace All ?'s to Avoid Consecutive Repeating Characters;Finished;Easy
+1577;Number of Ways Where Square of Number Is Equal to Product of Two Numbers;Finished;Medium
+1578;Minimum Deletion Cost to Avoid Repeating Letters;Finished;Medium
+1582;Special Positions in a Binary Matrix;Finished;Easy
+1583;Count Unhappy Friends;Finished;Medium
+1584;Min Cost to Connect All Points;Finished;Medium
+1588;Sum of All Odd Length Subarrays;Finished;Easy
+1589;Maximum Sum Obtained of Any Permutation;Finished;Medium
+1592;Rearrange Spaces Between Words;Finished;Easy
+1593;Split a String Into the Max Number of Unique Substrings;Finished;Medium
+1594;Maximum Non Negative Product in a Matrix;Finished;Medium
