@@ -1,11 +1,11 @@
 class Solution:
     def twoOutOfThree(self, nums1: List[int], nums2: List[int], nums3: List[int]) -> List[int]:
         freq = [0] * 101
-        for i in nums1:
+        for i in set(nums1):
             freq[i] += 1
-        for i in nums2:
+        for i in set(nums2):
             freq[i] += 1
-        for i in nums3:
+        for i in set(nums3):
             freq[i] += 1
         answer = []
         for i in range(1, 101):
